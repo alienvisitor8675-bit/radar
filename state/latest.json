@@ -1,6 +1,114 @@
 {
- "generated_at": "2026-10-10T21:06:46Z",
+ "generated_at": "2026-10-11T00:19:31Z",
  "events": [
+  {
+   "id": "https://github.com/IncredibleSpacecow/bounty-agent-dryrun/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "IncredibleSpacecow/bounty-agent-dryrun: Fix string reversal helper and add test",
+   "url": "https://github.com/IncredibleSpacecow/bounty-agent-dryrun/issues/1",
+   "at": "2026-10-10T23:36:11Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "IncredibleSpacecow",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/sovereign-codex/Codex-interface-/issues/18",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "sovereign-codex/Codex-interface-: [LAUNCH-001][P1][Collaborators] Prepare independent mobile cold-read bounty candidate (UNFUNDED)",
+   "url": "https://github.com/sovereign-codex/Codex-interface-/issues/18",
+   "at": "2026-10-10T23:12:41Z",
+   "extra": {
+    "comments": 17,
+    "amount_usd": null,
+    "author": "sovereign-codex",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/NobuData/ouroboros/issues/1407",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "NobuData/ouroboros: ouroboros: [DT.7] Independent assessment & bounty decision",
+   "url": "https://github.com/NobuData/ouroboros/issues/1407",
+   "at": "2026-10-10T22:45:34Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "KenSuenobu",
+    "labels": [
+     "documentation",
+     "v2",
+     "security"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "at": "2026-10-10T22:01:31Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "morhimanshu",
+    "assignees": [
+     "morhimanshu"
+    ],
+    "created": "2026-07-07T21:46:56Z"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#59732 [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "at": "2026-10-10T22:01:26Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "samiyadev786"
+    ],
+    "created": "2026-10-07T21:34:17Z"
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/103",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-10: 0 new, 0 resumed, 1 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/103",
+   "at": "2026-10-10T21:49:32Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60216",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60216 deepseek_prefill combine: reader_untilize waits on c_1 after writer_untilize may have popped it",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60216",
+   "at": "2026-10-10T21:39:08Z",
+   "extra": {
+    "author": "sgholamiTT",
+    "labels": []
+   }
+  },
   {
    "id": "https://github.com/chatmcp/mcpso/issues/5093",
    "source": "github_search",
@@ -116,7 +224,7 @@
    "url": "https://github.com/Presago-Labs/presago/issues/158",
    "at": "2026-10-10T18:20:10Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 535,
     "author": "penielgold-hub",
     "labels": []
@@ -165,24 +273,6 @@
    }
   },
   {
-   "id": "https://github.com/rikardoricz/DamPac/issues/54",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "rikardoricz/DamPac: Integracja web B6: escrow bounty on-chain (wp\u0142ata, blokada, wyp\u0142ata, zwrot)",
-   "url": "https://github.com/rikardoricz/DamPac/issues/54",
-   "at": "2026-10-10T13:49:42Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "adrianskrzypnik",
-    "labels": [
-     "area:web",
-     "area:solana",
-     "P0"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/abdulsalam-create/bounty-watch/issues/101",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -212,22 +302,6 @@
     "labels": [
      "bounty-watch"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#59732 [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
-   "at": "2026-10-10T12:08:06Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "jberkowitzTT",
-    "assignees": [
-     "samiyadev786"
-    ],
-    "created": "2026-10-07T21:34:17Z"
    }
   },
   {
@@ -403,22 +477,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "at": "2026-10-10T05:27:05Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "morhimanshu",
-    "assignees": [
-     "morhimanshu"
-    ],
-    "created": "2026-07-07T21:46:56Z"
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/commit/27cad27903e683669543cda20980a76696c2fceb",
    "source": "tenstorrent",
    "kind": "tt_kernel_commit",
@@ -458,82 +516,6 @@
    }
   },
   {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/98",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-09: 1 new, 0 resumed, 4 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/98",
-   "at": "2026-10-09T22:45:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60193",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60193 [GPT-OSS-120B] Cold load holds the full bf16 model (~234 GB) in host RAM; at the limit of BH QuietBox 2 and gets OOM-killed",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60193",
-   "at": "2026-10-09T22:26:42Z",
-   "extra": {
-    "author": "jashansinghTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/multipilled/skyrim-alife/issues/6",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "multipilled/skyrim-alife: Bounty squads that hunt the player",
-   "url": "https://github.com/multipilled/skyrim-alife/issues/6",
-   "at": "2026-10-09T19:37:39Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "multipilled",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/verdikta/verdikta-applications/issues/71",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "verdikta/verdikta-applications: Jury models flag post-cutoff peer-reviewed literature as \"fabricated\" (bounty #151)",
-   "url": "https://github.com/verdikta/verdikta-applications/issues/71",
-   "at": "2026-10-09T18:48:24Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "drdz23",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/faizal97/realm-of-loner/issues/184",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "faizal97/realm-of-loner: Level-60 rewards from old content and bounties should fit level 60",
-   "url": "https://github.com/faizal97/realm-of-loner/issues/184",
-   "at": "2026-10-09T18:13:22Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "faizal97",
-    "labels": [
-     "balance",
-     "status: ready",
-     "needs: developer"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/55105",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -547,726 +529,6 @@
      "singhharsh1708"
     ],
     "created": "2026-09-01T20:58:07Z"
-   }
-  },
-  {
-   "id": "https://github.com/SecOpsNews/news/issues/74931",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SecOpsNews/news: [GrahamCluley] $10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack",
-   "url": "https://github.com/SecOpsNews/news/issues/74931",
-   "at": "2026-10-09T15:17:34Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 10,
-    "author": "github-actions[bot]",
-    "labels": [
-     "Stale",
-     "GrahamCluley"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ChengshuLi/WorldAtlas/issues/1610",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ChengshuLi/WorldAtlas: Authenticate Nukunonu\u2013Bounty #1474 consumed assessments and captured reports",
-   "url": "https://github.com/ChengshuLi/WorldAtlas/issues/1610",
-   "at": "2026-10-09T14:23:34Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "ChengshuLi",
-    "labels": [
-     "bug",
-     "type:engineering",
-     "kind:work-item",
-     "status:ready",
-     "urgent",
-     "follow-up"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1292",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1259",
-   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1292",
-   "at": "2026-10-09T14:07:48Z",
-   "extra": {
-    "comments": 10,
-    "amount_usd": null,
-    "author": "SPLURT-Station-Bot",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1291",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1268",
-   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1291",
-   "at": "2026-10-09T14:07:34Z",
-   "extra": {
-    "comments": 10,
-    "amount_usd": null,
-    "author": "SPLURT-Station-Bot",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/97",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-09: 0 new, 1 resumed, 4 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/97",
-   "at": "2026-10-09T13:20:43Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/chatmcp/mcpso/issues/5032",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chatmcp/mcpso: BountyRadar MCP \u2014 ranked, agent-solvable bounty feed (Opire / Algora / BountyHub / ClawHunt, pay-per-event)",
-   "url": "https://github.com/chatmcp/mcpso/issues/5032",
-   "at": "2026-10-09T13:04:18Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "MistifyTea",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/44",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $80] Test that a re-entrant token cannot double-pay across two rounds",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/44",
-   "at": "2026-10-09T09:06:07Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 80,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/41",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $70] Return a length matching member_count from get_payout_order, or error",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/41",
-   "at": "2026-10-09T09:05:54Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/40",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $40] Include the previous value in FeeUpdated and TreasuryUpdated events",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/40",
-   "at": "2026-10-09T09:05:51Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 40,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/39",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $50] Make get_round report no recipient for a round that has not started",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/39",
-   "at": "2026-10-09T09:05:47Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/38",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $50] Emit a configuration event from the Factory constructor",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/38",
-   "at": "2026-10-09T09:05:44Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/36",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $50] Validate member_capacity before multiplying it in the Group constructor",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/36",
-   "at": "2026-10-09T09:05:35Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/35",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $50] Validate member_capacity before multiplying it in the Factory contribution check",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/35",
-   "at": "2026-10-09T09:05:17Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/34",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $80] Extend the persistent TTL in Factory get_group so the registry entry cannot archive",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/34",
-   "at": "2026-10-09T09:05:13Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 80,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-contracts/issues/33",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-contracts: [Bounty: $110] Extend persistent TTL on the Group read paths so idle groups keep their membership",
-   "url": "https://github.com/SUSU-LABS/susu-contracts/issues/33",
-   "at": "2026-10-09T09:05:06Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 110,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/53",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $50] Bound the response body read in the API client",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/53",
-   "at": "2026-10-09T09:05:02Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/52",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $50] Guard WalletProvider.connect against concurrent invocations",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/52",
-   "at": "2026-10-09T09:04:58Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/51",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $50] Validate the extra body fields returned by apiRequestPageBody",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/51",
-   "at": "2026-10-09T09:04:49Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/48",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $50] Harden assertRpcMatchesNetwork against custom mainnet RPC endpoints",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/48",
-   "at": "2026-10-09T09:04:38Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 50,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/46",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $70] Clean up orphaned avatar objects when the profile write fails or changes",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/46",
-   "at": "2026-10-09T09:04:27Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/44",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $40] Remove the duplicated accessible name in AddressChip",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/44",
-   "at": "2026-10-09T09:04:21Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 40,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/43",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $40] Clear the AddressChip copy-feedback timer on unmount and restart",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/43",
-   "at": "2026-10-09T09:04:17Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 40,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/42",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $70] Add a request timeout to the API client",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/42",
-   "at": "2026-10-09T09:04:14Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/41",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $40] Handle a rejected session refresh in AuthProvider",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/41",
-   "at": "2026-10-09T09:04:11Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 40,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-web/issues/40",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-web: [Bounty: $70] Enforce HTTPS for frontend environment URLs in production",
-   "url": "https://github.com/SUSU-LABS/susu-web/issues/40",
-   "at": "2026-10-09T09:04:08Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/49",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $70] Add endpoint-level failure-injection tests for the retry path",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/49",
-   "at": "2026-10-09T09:04:03Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/48",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $70] Add Testnet fixtures and tests for fee_updated, treasury_updated and pause_updated",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/48",
-   "at": "2026-10-09T09:04:01Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/47",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $60] Surface a chain-tip regression instead of reporting skipped",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/47",
-   "at": "2026-10-09T09:03:58Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 60,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/46",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $40] Use/validate STELLAR_NETWORK_PASSPHRASE or remove it",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/46",
-   "at": "2026-10-09T09:03:55Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 40,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/45",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $70] Stop silently skipping ledgers when INDEXER_START_LEDGER is raised",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/45",
-   "at": "2026-10-09T09:03:49Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/43",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $70] Mark alerts notified only after the webhook actually succeeds",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/43",
-   "at": "2026-10-09T09:03:41Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/42",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $60] Do not treat in-flight pg_cron runs as failures",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/42",
-   "at": "2026-10-09T09:03:36Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 60,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/40",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $70] Replace the per-group N+1 updates in upsertGroupState",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/40",
-   "at": "2026-10-09T09:03:31Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/38",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $70] Batch event and plan writes instead of one unbounded upsert",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/38",
-   "at": "2026-10-09T09:03:24Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/37",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $80] Add a stable ORDER BY to #selectIn before paging",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/37",
-   "at": "2026-10-09T09:03:22Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 80,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-indexer/issues/36",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-indexer: [Bounty: $70] Stop retrying deterministic non-transient RPC and DB errors",
-   "url": "https://github.com/SUSU-LABS/susu-indexer/issues/36",
-   "at": "2026-10-09T09:03:18Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/63",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $80] Bound Soroban RPC simulation with a timeout and surface upstream failures as 502/503",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/63",
-   "at": "2026-10-09T09:03:04Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 80,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/62",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $70] Replace per-round correlated subqueries in getGroup with a grouped aggregate",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/62",
-   "at": "2026-10-09T09:02:48Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/61",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $60] Add per-account rate limiting to invite creation",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/61",
-   "at": "2026-10-09T09:02:44Z",
-   "extra": {
-    "comments": 7,
-    "amount_usd": 60,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/59",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $70] Make getGroup's payout, recipient and fee lookups robust to more than one row per round",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/59",
-   "at": "2026-10-09T09:00:23Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/58",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $60] Use one clock for group-registration expiry",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/58",
-   "at": "2026-10-09T09:00:15Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 60,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/57",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $70] Actually run the notification sweeper when pg_cron is unavailable",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/57",
-   "at": "2026-10-09T09:00:06Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/52",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $60] Tie the nonce-reaper timer to the server lifecycle",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/52",
-   "at": "2026-10-09T08:59:48Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 60,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/51",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $60] Close the PostgreSQL pool during shutdown",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/51",
-   "at": "2026-10-09T08:59:39Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 60,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SUSU-LABS/susu-api/issues/49",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "SUSU-LABS/susu-api: [Bounty: $70] Do not spend an invite use when the join code targets a different group",
-   "url": "https://github.com/SUSU-LABS/susu-api/issues/49",
-   "at": "2026-10-09T08:59:24Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 70,
-    "author": "GEEKYFOCUS",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/95",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-09: 10 changes across 7 bounty programs",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/95",
-   "at": "2026-10-09T06:12:59Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/94",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-09: 6 new, 1 resumed, 2 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/94",
-   "at": "2026-10-09T06:12:58Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/liren001/eth-legion-nexus/issues/6",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "liren001/eth-legion-nexus: [SERVICE] Verdict-as-a-Service \u2014 mechanical bounty judging, \u00a5599/report",
-   "url": "https://github.com/liren001/eth-legion-nexus/issues/6",
-   "at": "2026-10-09T05:30:06Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "liren001",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Movalabs-crew/mova-store/issues/967",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "Movalabs-crew/mova-store: Resolve the $1,190 advertised-bounty claim for 15 merged contributions",
-   "url": "https://github.com/Movalabs-crew/mova-store/issues/967",
-   "at": "2026-10-09T04:50:20Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 1190,
-    "author": "woahwhattheheck",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Lilly-Protocol/agentlily-runtime/issues/394",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "Lilly-Protocol/agentlily-runtime: Pay the promised $90 bounty for merged PR #384",
-   "url": "https://github.com/Lilly-Protocol/agentlily-runtime/issues/394",
-   "at": "2026-10-09T04:16:41Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "woahwhattheheck",
-    "labels": []
    }
   }
  ],
