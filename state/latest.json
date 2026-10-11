@@ -1,6 +1,164 @@
 {
- "generated_at": "2026-10-11T06:09:02Z",
+ "generated_at": "2026-10-11T13:15:24Z",
  "events": [
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/104",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-11: 2 changes across 1 bounty programs",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/104",
+   "at": "2026-10-11T12:56:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21190",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: Bounty Proposal: Updates Router Appcast Generation Exception Sanitization ($50 - $75 USD)",
+   "url": "https://github.com/BasedHardware/omi/issues/21190",
+   "at": "2026-10-11T12:29:05Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 75,
+    "author": "o10forex-bot",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21190",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21190 Bounty Proposal: Updates Router Appcast Generation Exception Sanitization ($50 - $75 USD)",
+   "url": "https://github.com/BasedHardware/omi/issues/21190",
+   "at": "2026-10-11T12:29:05Z",
+   "extra": {
+    "state": "open",
+    "author": "o10forex-bot"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21189",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: Bounty Proposal: Multi-Router Exception Sanitization & Information Disclosure Hardening ($75 - $100 USD)",
+   "url": "https://github.com/BasedHardware/omi/issues/21189",
+   "at": "2026-10-11T12:28:31Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 100,
+    "author": "o10forex-bot",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21189",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21189 Bounty Proposal: Multi-Router Exception Sanitization & Information Disclosure Hardening ($75 - $100 USD)",
+   "url": "https://github.com/BasedHardware/omi/issues/21189",
+   "at": "2026-10-11T12:28:31Z",
+   "extra": {
+    "state": "open",
+    "author": "o10forex-bot"
+   }
+  },
+  {
+   "id": "https://github.com/nick-transition/fitapp/issues/97",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "nick-transition/fitapp: [Bounty Proposal] Source-backed roadmap status sync for #6\u2013#9 \u2014 USD 100",
+   "url": "https://github.com/nick-transition/fitapp/issues/97",
+   "at": "2026-10-11T11:42:43Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 100,
+    "author": "aims1425-lab",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/RyRy79261/baumy-olympics/issues/193",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "RyRy79261/baumy-olympics: feat(kiosk): home icons open bounties, shopping and messages; drop new bounties",
+   "url": "https://github.com/RyRy79261/baumy-olympics/issues/193",
+   "at": "2026-10-11T11:15:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "RyRy79261",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60224",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60224 ttnn.gelu accurate BF16 and Quasar still map negative NaN to 0 (follow-up to #59247)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60224",
+   "at": "2026-10-11T11:01:09Z",
+   "extra": {
+    "author": "jrymarskiTT",
+    "labels": [
+     "bug",
+     "op_cat: eltwise"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60223",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60223 blackhole ttnn where: a bfloat16 predicate with float32 values returns wrong values on almost every lane",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60223",
+   "at": "2026-10-11T10:57:01Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "bug",
+     "op_cat: eltwise"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/ZecHub/zec-bounties/issues/350",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ZecHub/zec-bounties: Ready patches for 3 suggested bounties - can these be reassigned/approved?",
+   "url": "https://github.com/ZecHub/zec-bounties/issues/350",
+   "at": "2026-10-11T08:55:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "AGITookMyJob",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/momoponwork1415-lgtm/wordpress-bounty-harness/issues/143",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "momoponwork1415-lgtm/wordpress-bounty-harness: wp2shell-bounty-v3: \u51fa\u529b\u5951\u7d04\u3092 Harness \u751f\u6210\u306e\u7bc0\u3078\u79fb\u3057\u3001\u672c\u6587\u306f\u76ee\u7684\u3068\u65b9\u6cd5\u3060\u3051\u306b\u3059\u308b",
+   "url": "https://github.com/momoponwork1415-lgtm/wordpress-bounty-harness/issues/143",
+   "at": "2026-10-11T07:49:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "momoponwork1415-lgtm",
+    "labels": [
+     "ready-for-agent"
+    ]
+   }
+  },
   {
    "id": "https://github.com/gHashTag/trinity-fpga/issues/915",
    "source": "github_search",
@@ -13,22 +171,6 @@
     "amount_usd": null,
     "author": "gHashTag",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Icesus-mud/issues/issues/1918",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Icesus-mud/issues: [Bug] prayer to Albila - the help file about Albila's Bounty says \"Albila is the goddess of water\"... b...",
-   "url": "https://github.com/Icesus-mud/issues/issues/1918",
-   "at": "2026-10-11T04:40:25Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "icesus-bot[bot]",
-    "labels": [
-     "bug"
-    ]
    }
   },
   {
@@ -374,22 +516,6 @@
     "amount_usd": null,
     "author": "Hirokimm",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/6024ed40f335712f97da761397c2edaeb3c2a167",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[repo-assist] fix(ttnn): derive prod_nc input dataflow buffer from input.dtype(), not output.dtype() (#57581)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/6024ed40f335712f97da761397c2edaeb3c2a167",
-   "at": "2026-10-10T08:11:33Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/reduction/prod/device/prod_nc_device_operation.cpp",
-     "ttnn/cpp/ttnn/operations/reduction/prod/device/prod_nc_program_factory.cpp"
-    ],
-    "added": [],
-    "author": "github-actions[bot]"
    }
   },
   {
