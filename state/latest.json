@@ -1,6 +1,494 @@
 {
- "generated_at": "2026-10-11T13:15:24Z",
+ "generated_at": "2026-10-11T18:16:35Z",
  "events": [
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/16",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [GitHub \u5ba2\u6237\u7aef/\u56de\u8bc4][P1] \u7528\u6237\u8f7d\u8377\u539f\u6837\u56de\u663e\uff1a\u534a\u622a bounty:v1 \u4e32\u5403\u6389\u673a\u5668\u4eba\u8bc4\u8bba\u91cc\u7684\u771f\u6807\u8bb0\uff0c\u8fc1\u79fb\u53ea\u6539\u4e86\u6807\u7b7e\u3001\u8bb0\u4e86\u4e8b\u4ef6\uff0c\u72b6\u6001\u5374\u4e0d\u524d\u8fdb",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/16",
+   "at": "2026-10-11T17:13:22Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LarryE135",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/NeutrinoGroup/koliance/issues/27",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "NeutrinoGroup/koliance: [Bounty] \u63a5\u5165 Nansen Profiler API \u8d4b\u80fd Agent \u4fe1\u7528\u8bc4\u4f30\u4e0e\u989d\u5ea6\u52a0\u6743 (Best Use of Nansen)",
+   "url": "https://github.com/NeutrinoGroup/koliance/issues/27",
+   "at": "2026-10-11T17:10:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "moonhotline",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/NeutrinoGroup/koliance/issues/26",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "NeutrinoGroup/koliance: [Bounty] \u63a5\u5165 Dynamic SDK \u5d4c\u5165\u5f0f\u94b1\u5305\u4e0e EIP-712 \u4f1a\u8bdd\u59d4\u6258\u7b7e\u540d (Best Use of Dynamic)",
+   "url": "https://github.com/NeutrinoGroup/koliance/issues/26",
+   "at": "2026-10-11T17:10:10Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "moonhotline",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/NeutrinoGroup/koliance/issues/25",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "NeutrinoGroup/koliance: [Bounty] \u63a5\u5165 Mera \u667a\u80fd\u8d26\u6237\u62bd\u8c61\u5c42\u5b9e\u73b0 Monad \u96f6\u5f39\u7a97\u65e0\u611f\u6267\u884c (Best Mera-Powered UX)",
+   "url": "https://github.com/NeutrinoGroup/koliance/issues/25",
+   "at": "2026-10-11T17:09:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "moonhotline",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/12",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [\u72b6\u6001\u673a/\u6743\u5a01\u8bb0\u5f55][P0] \u4efb\u4f55\u4eba\u5728\u8bc4\u8bba\u91cc\u624b\u5199\u4e00\u884c bounty:v1 \u6807\u8bb0\u5373\u53ef\u6539\u5199\u6743\u5a01\u72b6\u6001\uff1a\u62a2\u6301\u6709\u8005\u3001\u8df3\u8fc7\u4eba\u5ba1\u7ed3\u7b97\u3001\u91cd\u590d\u7ed3\u7b97\u3001\u5ac1\u7978\u6263\u5206",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/12",
+   "at": "2026-10-11T17:05:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LarryE135",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1306",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1277",
+   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1306",
+   "at": "2026-10-11T16:19:57Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "SPLURT-Station-Bot",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1278",
+   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305",
+   "at": "2026-10-11T16:18:04Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "SPLURT-Station-Bot",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/RyRy79261/baumy-olympics/issues/200",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "RyRy79261/baumy-olympics: feat(kiosk): show the bounty list on the kitchen screen before anyone is picked",
+   "url": "https://github.com/RyRy79261/baumy-olympics/issues/200",
+   "at": "2026-10-11T16:06:23Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "RyRy79261",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/kivaloo/issues/364",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/kivaloo#364 [bug bounty] HTTP retry queues leak response bodies on 500/503 and can exhaust memory",
+   "url": "https://github.com/Tarsnap/kivaloo/issues/364",
+   "at": "2026-10-11T15:35:58Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "lazzyms"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "at": "2026-10-11T15:29:20Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "morhimanshu",
+    "assignees": [
+     "morhimanshu"
+    ],
+    "created": "2026-07-07T21:46:56Z"
+   }
+  },
+  {
+   "id": "https://github.com/Trauma-Station/Trauma-Station/issues/4998",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Trauma-Station/Trauma-Station: Traitor bounty board won't open when you crash with it open",
+   "url": "https://github.com/Trauma-Station/Trauma-Station/issues/4998",
+   "at": "2026-10-11T15:24:57Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "WitchyCorgi6256",
+    "labels": [
+     "S: Untriaged"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Hirokimm/ai-tool-lab/issues/26",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Hirokimm/ai-tool-lab: Buyer bounty \u2014 bring one qualified \u00a549,000 automation pilot opportunity",
+   "url": "https://github.com/Hirokimm/ai-tool-lab/issues/26",
+   "at": "2026-10-11T15:06:38Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Hirokimm",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21223",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(cli): omi chat is unreachable after omi auth login --browser, the login it asks for ($75 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21223",
+   "at": "2026-10-11T15:06:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21223",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21223 [Bounty proposal] fix(cli): omi chat is unreachable after omi auth login --browser, the login it asks for ($75 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21223",
+   "at": "2026-10-11T15:06:25Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21220",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(notifications): timezone validators accept zones the daily-summary scheduler never selects ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21220",
+   "at": "2026-10-11T14:51:33Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21220",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21220 [Bounty proposal] fix(notifications): timezone validators accept zones the daily-summary scheduler never selects ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21220",
+   "at": "2026-10-11T14:51:33Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21218",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(action-items): completing an already-completed task rewrites its completed_at ($40 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21218",
+   "at": "2026-10-11T14:41:46Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 40,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21218",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21218 [Bounty proposal] fix(action-items): completing an already-completed task rewrites its completed_at ($40 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21218",
+   "at": "2026-10-11T14:41:46Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21214",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(action-items): Apple Reminders exports never clear sync_requested, so pending-sync starves after 50 exported tasks ($75 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21214",
+   "at": "2026-10-11T14:27:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21214",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21214 [Bounty proposal] fix(action-items): Apple Reminders exports never clear sync_requested, so pending-sync starves after 50 exported tasks ($75 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21214",
+   "at": "2026-10-11T14:27:07Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21212",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(audio-timeline): int() truncates decimal provider timestamps one sample early ($25 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21212",
+   "at": "2026-10-11T14:20:14Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 25,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21212",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21212 [Bounty proposal] fix(audio-timeline): int() truncates decimal provider timestamps one sample early ($25 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21212",
+   "at": "2026-10-11T14:20:14Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21210",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(imports): CR CR LF line endings make a valid SRT import as \"not a transcript\" ($25 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21210",
+   "at": "2026-10-11T14:15:29Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 25,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21210",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21210 [Bounty proposal] fix(imports): CR CR LF line endings make a valid SRT import as \"not a transcript\" ($25 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21210",
+   "at": "2026-10-11T14:15:29Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21208",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(merge): a source without started_at is always sorted first, mis-ordering the merged transcript and its created_at ($40 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21208",
+   "at": "2026-10-11T14:09:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 40,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21208",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21208 [Bounty proposal] fix(merge): a source without started_at is always sorted first, mis-ordering the merged transcript and its created_at ($40 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21208",
+   "at": "2026-10-11T14:09:56Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21205",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(imports): SRT cues without blank-line separators collapse into one cue with timings in its text ($40 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21205",
+   "at": "2026-10-11T14:04:49Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 40,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21205",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21205 [Bounty proposal] fix(imports): SRT cues without blank-line separators collapse into one cue with timings in its text ($40 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21205",
+   "at": "2026-10-11T14:04:49Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21203",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(imports): a title line above a single \"Name:\" line is imported as part of the speaker name ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21203",
+   "at": "2026-10-11T14:00:08Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21203",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21203 [Bounty proposal] fix(imports): a title line above a single \"Name:\" line is imported as part of the speaker name ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21203",
+   "at": "2026-10-11T14:00:08Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21201",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(merge): one manually tagged source disables speaker-id renumbering for every source, so voices collide after a manual merge ($75 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21201",
+   "at": "2026-10-11T13:55:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21201",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21201 [Bounty proposal] fix(merge): one manually tagged source disables speaker-id renumbering for every source, so voices collide after a manual merge ($75 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21201",
+   "at": "2026-10-11T13:55:15Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21199",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(audio-timeline): segment starting exactly on the first sample after a VAD gap is persisted unplaced ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21199",
+   "at": "2026-10-11T13:48:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21199",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21199 [Bounty proposal] fix(audio-timeline): segment starting exactly on the first sample after a VAD gap is persisted unplaced ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21199",
+   "at": "2026-10-11T13:48:46Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21197",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(goals): alias patch contradicting the stored metric 500s PATCH /v1/goals/{goal_id} ($25 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21197",
+   "at": "2026-10-11T13:43:22Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 25,
+    "author": "Kris1225-hash",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21197",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21197 [Bounty proposal] fix(goals): alias patch contradicting the stored metric 500s PATCH /v1/goals/{goal_id} ($25 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21197",
+   "at": "2026-10-11T13:43:22Z",
+   "extra": {
+    "state": "open",
+    "author": "Kris1225-hash"
+   }
+  },
   {
    "id": "https://github.com/abdulsalam-create/bounty-watch/issues/104",
    "source": "github_search",
@@ -81,22 +569,6 @@
     "amount_usd": 100,
     "author": "aims1425-lab",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/RyRy79261/baumy-olympics/issues/193",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "RyRy79261/baumy-olympics: feat(kiosk): home icons open bounties, shopping and messages; drop new bounties",
-   "url": "https://github.com/RyRy79261/baumy-olympics/issues/193",
-   "at": "2026-10-11T11:15:42Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "RyRy79261",
-    "labels": [
-     "enhancement"
-    ]
    }
   },
   {
@@ -250,22 +722,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "at": "2026-10-10T22:01:31Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "morhimanshu",
-    "assignees": [
-     "morhimanshu"
-    ],
-    "created": "2026-07-07T21:46:56Z"
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -363,7 +819,9 @@
     "amount_usd": null,
     "author": "skamansam",
     "labels": [
-     "type:bug"
+     "type:bug",
+     "area:desktop",
+     "bot:triaged"
     ]
    }
   },
@@ -427,20 +885,6 @@
     "comments": 21,
     "amount_usd": 535,
     "author": "penielgold-hub",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Hirokimm/ai-tool-lab/issues/15",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Hirokimm/ai-tool-lab: Automation Pilot \u2014 Buyer Referral Bounty (success-only)",
-   "url": "https://github.com/Hirokimm/ai-tool-lab/issues/15",
-   "at": "2026-10-10T16:05:34Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Hirokimm",
     "labels": []
    }
   },
@@ -674,22 +1118,6 @@
     "labels": [
      "enhancement"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/55105",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#55105 [Bounty $1,500] ttnn.polygamma returns exactly 0 for n >= 7 over a wide band of ordinary positive x, where the true value is a normal fp32 (n! scale applied after accumulation)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/55105",
-   "at": "2026-10-09T15:40:28Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "singhharsh1708",
-    "assignees": [
-     "singhharsh1708"
-    ],
-    "created": "2026-09-01T20:58:07Z"
    }
   }
  ],
