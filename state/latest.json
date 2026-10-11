@@ -1,20 +1,78 @@
 {
- "generated_at": "2026-10-11T00:19:31Z",
+ "generated_at": "2026-10-11T06:09:02Z",
  "events": [
   {
-   "id": "https://github.com/IncredibleSpacecow/bounty-agent-dryrun/issues/1",
+   "id": "https://github.com/gHashTag/trinity-fpga/issues/915",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "IncredibleSpacecow/bounty-agent-dryrun: Fix string reversal helper and add test",
-   "url": "https://github.com/IncredibleSpacecow/bounty-agent-dryrun/issues/1",
-   "at": "2026-10-10T23:36:11Z",
+   "title": "gHashTag/trinity-fpga: TON minter (tri_minter.fc) and src/trinet/mint_authority.zig must enforce t27 mint_authority.t27: only account 6774813 mints, for verified work or a posted bounty, inside the schedule",
+   "url": "https://github.com/gHashTag/trinity-fpga/issues/915",
+   "at": "2026-10-11T05:24:02Z",
    "extra": {
-    "comments": 1,
+    "comments": 0,
     "amount_usd": null,
-    "author": "IncredibleSpacecow",
+    "author": "gHashTag",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Icesus-mud/issues/issues/1918",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Icesus-mud/issues: [Bug] prayer to Albila - the help file about Albila's Bounty says \"Albila is the goddess of water\"... b...",
+   "url": "https://github.com/Icesus-mud/issues/issues/1918",
+   "at": "2026-10-11T04:40:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "icesus-bot[bot]",
     "labels": [
-     "bounty"
+     "bug"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/troopdegen/budi-bounty/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "troopdegen/budi-bounty: Spec: Budi Bounty v1 (Monad Metropolis, structure A)",
+   "url": "https://github.com/troopdegen/budi-bounty/issues/1",
+   "at": "2026-10-11T03:12:13Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "troopdegen",
+    "labels": [
+     "ready-for-agent"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DaTime-io/bugs/issues/16",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DaTime-io/bugs: [BUG BOUNTY] Vulnerability Found \u2013 Responsible Disclosure",
+   "url": "https://github.com/DaTime-io/bugs/issues/16",
+   "at": "2026-10-11T02:58:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "AlexisEidelman",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/hashgraph/guardian/issues/7120",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "hashgraph/guardian: [BOUNTY PROPOSAL] BCarbon Soil Protocol v3.0 Guardian policy (DLT Earth)",
+   "url": "https://github.com/hashgraph/guardian/issues/7120",
+   "at": "2026-10-11T02:24:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "muhammadsqlan",
+    "labels": []
    }
   },
   {
@@ -25,7 +83,7 @@
    "url": "https://github.com/sovereign-codex/Codex-interface-/issues/18",
    "at": "2026-10-10T23:12:41Z",
    "extra": {
-    "comments": 17,
+    "comments": 91,
     "amount_usd": null,
     "author": "sovereign-codex",
     "labels": []
@@ -39,7 +97,7 @@
    "url": "https://github.com/NobuData/ouroboros/issues/1407",
    "at": "2026-10-10T22:45:34Z",
    "extra": {
-    "comments": 1,
+    "comments": 62,
     "amount_usd": null,
     "author": "KenSuenobu",
     "labels": [
@@ -224,7 +282,7 @@
    "url": "https://github.com/Presago-Labs/presago/issues/158",
    "at": "2026-10-10T18:20:10Z",
    "extra": {
-    "comments": 1,
+    "comments": 21,
     "amount_usd": 535,
     "author": "penielgold-hub",
     "labels": []
@@ -474,29 +532,6 @@
     "amount_usd": null,
     "author": "yeheskieltame",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/27cad27903e683669543cda20980a76696c2fceb",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Cleanup] Drop bare tt_metal from the JIT include path list (#60172)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/27cad27903e683669543cda20980a76696c2fceb",
-   "at": "2026-10-10T01:51:42Z",
-   "extra": {
-    "files": [
-     "tt_metal/hw/ckernels/blackhole/metal/llk_io/llk_io_pack.h",
-     "tt_metal/hw/ckernels/blackhole/metal/llk_io/llk_io_unpack.h",
-     "tt_metal/hw/ckernels/quasar/metal/llk_io/llk_io_pack.h",
-     "tt_metal/hw/ckernels/quasar/metal/llk_io/llk_io_unpack.h",
-     "tt_metal/hw/ckernels/wormhole_b0/metal/llk_io/llk_io_pack.h",
-     "tt_metal/hw/ckernels/wormhole_b0/metal/llk_io/llk_io_unpack.h",
-     "tt_metal/hw/inc/api/compute/experimental/semaphore.h",
-     "tt_metal/tt-llk/docs/performance_counters/hardware_reference.md",
-     "tt_metal/tt-llk/tools/include/perf_counters/README.md"
-    ],
-    "added": [],
-    "author": "blozano-tt"
    }
   },
   {
