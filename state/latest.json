@@ -1,6 +1,149 @@
 {
- "generated_at": "2026-10-11T18:16:35Z",
+ "generated_at": "2026-10-11T22:14:47Z",
  "events": [
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/105",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-11: 0 new, 0 resumed, 1 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/105",
+   "at": "2026-10-11T22:06:12Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Mary1270/bountyanchor/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Mary1270/bountyanchor: Test bounty issue",
+   "url": "https://github.com/Mary1270/bountyanchor/issues/1",
+   "at": "2026-10-11T22:00:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Mary1270",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Katiczek/Grodowladcy/issues/12",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Katiczek/Grodowladcy: S-03: Pin a coin bounty on the tavern door and wait",
+   "url": "https://github.com/Katiczek/Grodowladcy/issues/12",
+   "at": "2026-10-11T20:41:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Katiczek",
+    "labels": [
+     "roadmap:slice",
+     "stream:turn-loop",
+     "status:blocked"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/xpepermint/erc721/issues/301",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "xpepermint/erc721: Bug Bounty Report: remaining typos in natspec at 2.6.1 (wich/whitch/intefraces/suported/overriden)",
+   "url": "https://github.com/xpepermint/erc721/issues/301",
+   "at": "2026-10-11T19:09:34Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "awley-del",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/xpepermint/erc721/issues/300",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "xpepermint/erc721: Bug Bounty Report: phantom token IDs revert with authorization codes (003003/003004) instead of NOT_VALID_NFT (003002) on transferFrom/approve/safeTransferFrom",
+   "url": "https://github.com/xpepermint/erc721/issues/300",
+   "at": "2026-10-11T19:09:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "awley-del",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/xpepermint/erc721/issues/299",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "xpepermint/erc721: Bug Bounty Report: natspec documents wrong onERC721Received magic value (0xf0b9e5ba vs implemented 0x150b7a02)",
+   "url": "https://github.com/xpepermint/erc721/issues/299",
+   "at": "2026-10-11T19:07:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "awley-del",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/3ba039aee20b946489dd863e5f04f808d072f8a9",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][BH] Restore the default Src zero flag in the experimental custom_mm init (#59741)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/3ba039aee20b946489dd863e5f04f808d072f8a9",
+   "at": "2026-10-11T18:03:21Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/test_custom_mm.py",
+     "tt_metal/tt-llk/tests/sources/custom_mm_test.cpp",
+     "tt_metal/tt-llk/tt_llk_blackhole/llk_lib/experimental/llk_math_custom_mm.h"
+    ],
+    "added": [],
+    "author": "amahmudTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/1ee889d465cf1476a9679b9c26afbaaca11e61a9",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][BH] Restore the default Src zero flag in the experimental sdpa_custom_mm init (#59770)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/1ee889d465cf1476a9679b9c26afbaaca11e61a9",
+   "at": "2026-10-11T17:46:50Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/helpers/test_variant_parameters.py",
+     "tt_metal/tt-llk/tests/python_tests/test_sdpa_custom_mm.py",
+     "tt_metal/tt-llk/tests/sources/sdpa_custom_mm_test.cpp",
+     "tt_metal/tt-llk/tt_llk_blackhole/llk_lib/experimental/llk_math_sdpa_custom_mm.h"
+    ],
+    "added": [],
+    "author": "amahmudTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/59dc0f11fc29502d0ccb09b5a6698e909ce9bb50",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][BH+WH] Order UInt32 SFPU reduce MAX/MIN as unsigned (#59772)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/59dc0f11fc29502d0ccb09b5a6698e909ce9bb50",
+   "at": "2026-10-11T17:37:55Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/blackhole/metal/llk_api/llk_sfpu/ckernel_sfpu_reduce.h",
+     "tt_metal/hw/ckernels/wormhole_b0/metal/llk_api/llk_sfpu/ckernel_sfpu_reduce.h",
+     "tt_metal/tt-llk/tests/python_tests/test_sfpu_reduce.py",
+     "tt_metal/tt-llk/tests/python_tests/test_sfpu_reduce_multidim.py"
+    ],
+    "added": [],
+    "author": "amahmudTT"
+   }
+  },
   {
    "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/16",
    "source": "github_search",
@@ -95,27 +238,11 @@
    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305",
    "at": "2026-10-11T16:18:04Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "SPLURT-Station-Bot",
     "labels": [
      "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/RyRy79261/baumy-olympics/issues/200",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "RyRy79261/baumy-olympics: feat(kiosk): show the bounty list on the kitchen screen before anyone is picked",
-   "url": "https://github.com/RyRy79261/baumy-olympics/issues/200",
-   "at": "2026-10-11T16:06:23Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "RyRy79261",
-    "labels": [
-     "enhancement"
     ]
    }
   },
@@ -155,7 +282,7 @@
    "url": "https://github.com/Trauma-Station/Trauma-Station/issues/4998",
    "at": "2026-10-11T15:24:57Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "WitchyCorgi6256",
     "labels": [
@@ -367,7 +494,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21205",
    "at": "2026-10-11T14:04:49Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 40,
     "author": "Kris1225-hash",
     "labels": []
@@ -393,7 +520,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21203",
    "at": "2026-10-11T14:00:08Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "Kris1225-hash",
     "labels": []
@@ -751,18 +878,6 @@
     "labels": [
      "bounty-watch"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60216",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60216 deepseek_prefill combine: reader_untilize waits on c_1 after writer_untilize may have popped it",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60216",
-   "at": "2026-10-10T21:39:08Z",
-   "extra": {
-    "author": "sgholamiTT",
-    "labels": []
    }
   },
   {
