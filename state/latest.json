@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-11T22:14:47Z",
+ "generated_at": "2026-10-12T01:31:02Z",
  "events": [
+  {
+   "id": "https://github.com/LoneWonderer1976/argo/issues/5",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "LoneWonderer1976/argo: Argo bounty: 19\u201325 Oct 2026, proposed",
+   "url": "https://github.com/LoneWonderer1976/argo/issues/5",
+   "at": "2026-10-12T00:01:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/fulldecent/erc721/issues/303",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "fulldecent/erc721: Bug Bounty Report: superuser burn() still in four shipped mocks (incomplete fix of #216/#217/#218; regression shipped in 2.5.0)",
+   "url": "https://github.com/fulldecent/erc721/issues/303",
+   "at": "2026-10-11T23:35:43Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Fullbuster0",
+    "labels": []
+   }
+  },
   {
    "id": "https://github.com/abdulsalam-create/bounty-watch/issues/105",
    "source": "github_search",
@@ -50,11 +78,11 @@
    }
   },
   {
-   "id": "https://github.com/xpepermint/erc721/issues/301",
+   "id": "https://github.com/fulldecent/erc721/issues/301",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "xpepermint/erc721: Bug Bounty Report: remaining typos in natspec at 2.6.1 (wich/whitch/intefraces/suported/overriden)",
-   "url": "https://github.com/xpepermint/erc721/issues/301",
+   "title": "fulldecent/erc721: Bug Bounty Report: remaining typos in natspec at 2.6.1 (wich/whitch/intefraces/suported/overriden)",
+   "url": "https://github.com/fulldecent/erc721/issues/301",
    "at": "2026-10-11T19:09:34Z",
    "extra": {
     "comments": 1,
@@ -64,11 +92,11 @@
    }
   },
   {
-   "id": "https://github.com/xpepermint/erc721/issues/300",
+   "id": "https://github.com/fulldecent/erc721/issues/300",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "xpepermint/erc721: Bug Bounty Report: phantom token IDs revert with authorization codes (003003/003004) instead of NOT_VALID_NFT (003002) on transferFrom/approve/safeTransferFrom",
-   "url": "https://github.com/xpepermint/erc721/issues/300",
+   "title": "fulldecent/erc721: Bug Bounty Report: phantom token IDs revert with authorization codes (003003/003004) instead of NOT_VALID_NFT (003002) on transferFrom/approve/safeTransferFrom",
+   "url": "https://github.com/fulldecent/erc721/issues/300",
    "at": "2026-10-11T19:09:15Z",
    "extra": {
     "comments": 0,
@@ -78,11 +106,11 @@
    }
   },
   {
-   "id": "https://github.com/xpepermint/erc721/issues/299",
+   "id": "https://github.com/fulldecent/erc721/issues/299",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "xpepermint/erc721: Bug Bounty Report: natspec documents wrong onERC721Received magic value (0xf0b9e5ba vs implemented 0x150b7a02)",
-   "url": "https://github.com/xpepermint/erc721/issues/299",
+   "title": "fulldecent/erc721: Bug Bounty Report: natspec documents wrong onERC721Received magic value (0xf0b9e5ba vs implemented 0x150b7a02)",
+   "url": "https://github.com/fulldecent/erc721/issues/299",
    "at": "2026-10-11T19:07:07Z",
    "extra": {
     "comments": 0,
@@ -817,38 +845,6 @@
    }
   },
   {
-   "id": "https://github.com/sovereign-codex/Codex-interface-/issues/18",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "sovereign-codex/Codex-interface-: [LAUNCH-001][P1][Collaborators] Prepare independent mobile cold-read bounty candidate (UNFUNDED)",
-   "url": "https://github.com/sovereign-codex/Codex-interface-/issues/18",
-   "at": "2026-10-10T23:12:41Z",
-   "extra": {
-    "comments": 91,
-    "amount_usd": null,
-    "author": "sovereign-codex",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/NobuData/ouroboros/issues/1407",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "NobuData/ouroboros: ouroboros: [DT.7] Independent assessment & bounty decision",
-   "url": "https://github.com/NobuData/ouroboros/issues/1407",
-   "at": "2026-10-10T22:45:34Z",
-   "extra": {
-    "comments": 62,
-    "amount_usd": null,
-    "author": "KenSuenobu",
-    "labels": [
-     "documentation",
-     "v2",
-     "security"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -862,377 +858,6 @@
      "samiyadev786"
     ],
     "created": "2026-10-07T21:34:17Z"
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/103",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-10: 0 new, 0 resumed, 1 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/103",
-   "at": "2026-10-10T21:49:32Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/chatmcp/mcpso/issues/5093",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chatmcp/mcpso: Submit MCP Server: DataBazaar \u2014 dataset discovery, retrieval, listings and bounties",
-   "url": "https://github.com/chatmcp/mcpso/issues/5093",
-   "at": "2026-10-10T20:39:13Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "shagarwal",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/11",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_OWNER_ISSUE_POSTWRITE_CONTROL_1010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/11",
-   "at": "2026-10-10T20:31:40Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "09sd",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/10",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_REST_CREATE_FIELD_POC_1010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/10",
-   "at": "2026-10-10T20:30:45Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "miknutty2",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/CodebuffAI/freebuff/issues/1500",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "CodebuffAI/freebuff: the Devin subreddit is for peope named Devin, not for the Devin agent. (This is on the bounty page for freebuff.)",
-   "url": "https://github.com/CodebuffAI/freebuff/issues/1500",
-   "at": "2026-10-10T20:30:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "skamansam",
-    "labels": [
-     "type:bug",
-     "area:desktop",
-     "bot:triaged"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/9",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_ACTOR_POLICY_FIELD_CREATE_20261010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/9",
-   "at": "2026-10-10T20:26:29Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "miknutty2",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/accensa/accensa-contracts/issues/612",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "accensa/accensa-contracts: test: assert watchtower bounty events and bounty key lifecycle",
-   "url": "https://github.com/accensa/accensa-contracts/issues/612",
-   "at": "2026-10-10T19:54:44Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "mallison031",
-    "labels": [
-     "area: contracts",
-     "testing",
-     "observability",
-     "rust"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/wanteddeadordead/wanted-dead-or-dead/issues/152",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "wanteddeadordead/wanted-dead-or-dead: add bounty to player profile on website and shortcut to open settings",
-   "url": "https://github.com/wanteddeadordead/wanted-dead-or-dead/issues/152",
-   "at": "2026-10-10T18:44:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "grand-lotus-iroh",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Presago-Labs/presago/issues/158",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "Presago-Labs/presago: Bounty Payment Status Request \u2014 7 Merged PRs ($535) \u2014 @penielgold-hub",
-   "url": "https://github.com/Presago-Labs/presago/issues/158",
-   "at": "2026-10-10T18:20:10Z",
-   "extra": {
-    "comments": 21,
-    "amount_usd": 535,
-    "author": "penielgold-hub",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/ilbotscomodo/superteam-earn-agent/issues/2",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ilbotscomodo/superteam-earn-agent: SolProof: convert prototype into first paid client / eligible bounty",
-   "url": "https://github.com/ilbotscomodo/superteam-earn-agent/issues/2",
-   "at": "2026-10-10T16:00:28Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "ilbotscomodo",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/36035",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ValveSoftware/Dota2-Gameplay: [Bounty Hunter] Ability effect \"Verminator - Weapon\"/\"Tines of Tybara\".",
-   "url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/36035",
-   "at": "2026-10-10T14:18:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Astiberon",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/101",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-10: 6 changes across 5 bounty programs",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/101",
-   "at": "2026-10-10T12:37:06Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/100",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-10: 0 new, 1 resumed, 3 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/100",
-   "at": "2026-10-10T12:37:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Hirokimm/ai-tool-lab/issues/6",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Hirokimm/ai-tool-lab: Open bounty: build one reusable AI/automation micro-tool \u2014 revenue-share proposals welcome",
-   "url": "https://github.com/Hirokimm/ai-tool-lab/issues/6",
-   "at": "2026-10-10T11:01:37Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Hirokimm",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/8",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_FIELD_EVENT_CREATE_20261010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/8",
-   "at": "2026-10-10T06:19:34Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "miknutty2",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/7",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_FLIP_FIELD_CREATE_20261010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/7",
-   "at": "2026-10-10T06:16:33Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "miknutty2",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/99",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-10: 0 new, 0 resumed, 2 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/99",
-   "at": "2026-10-10T05:57:46Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/6",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_OUTSIDER_CREATE_FIELD_TEST_20261010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/6",
-   "at": "2026-10-10T05:53:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "miknutty2",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/5",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_OWNER_CREATE_FIELD_CONTROL_20261010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/5",
-   "at": "2026-10-10T05:53:28Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "09sd",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/4",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_CREATE_FIELD_SCHEMA_20261010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/4",
-   "at": "2026-10-10T05:52:02Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "miknutty2",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/3",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "09sd-org/gh-bounty-org-issue-field-lab-20261008: GH_BOUNTY_CREATE_FIELD_BASELINE_20261010",
-   "url": "https://github.com/09sd-org/gh-bounty-org-issue-field-lab-20261008/issues/3",
-   "at": "2026-10-10T05:51:08Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "miknutty2",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Movalabs-crew/mova-store/issues/970",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "Movalabs-crew/mova-store: Resolve the $1,295 advertised-bounty claim for 16 merged contributions",
-   "url": "https://github.com/Movalabs-crew/mova-store/issues/970",
-   "at": "2026-10-10T05:42:32Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 1295,
-    "author": "iprasen",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/matocard/matocard/issues/104",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "matocard/matocard: app: passkey onboarding with Mera (required for the Agora bounty)",
-   "url": "https://github.com/matocard/matocard/issues/104",
-   "at": "2026-10-10T05:40:51Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "yeheskieltame",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/matocard/matocard/issues/103",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "matocard/matocard: envio bounty: demo video (\u2264 2 min) and the description",
-   "url": "https://github.com/matocard/matocard/issues/103",
-   "at": "2026-10-10T05:40:17Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "yeheskieltame",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Veyal/interseptor/issues/110",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Veyal/interseptor: feat(reporting): Add white-label PDF export, Bug bounty & Jira templates, and 1-click PoC retesting",
-   "url": "https://github.com/Veyal/interseptor/issues/110",
-   "at": "2026-10-10T01:10:08Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Veyal",
-    "labels": [
-     "enhancement"
-    ]
    }
   }
  ],
