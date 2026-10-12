@@ -1,17 +1,388 @@
 {
- "generated_at": "2026-10-12T01:31:02Z",
+ "generated_at": "2026-10-12T08:33:00Z",
  "events": [
   {
-   "id": "https://github.com/LoneWonderer1976/argo/issues/5",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60262",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60262 [ops] ttnn.sort: Single Row Single Core sort returns padding indices when the input contains the padding value",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60262",
+   "at": "2026-10-12T07:18:07Z",
+   "extra": {
+    "author": "ign-sudha",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60259",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60259 Reduce validation skips output shard-grid checks for legacy sharded memory configs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60259",
+   "at": "2026-10-12T06:54:04Z",
+   "extra": {
+    "author": "mcw-anasuya",
+    "labels": [
+     "MCW"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/ariahendrawan-sudo/project-a/issues/12",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "LoneWonderer1976/argo: Argo bounty: 19\u201325 Oct 2026, proposed",
-   "url": "https://github.com/LoneWonderer1976/argo/issues/5",
-   "at": "2026-10-12T00:01:05Z",
+   "title": "ariahendrawan-sudo/project-a: Bounty Scout \u2014 2026-10-12",
+   "url": "https://github.com/ariahendrawan-sudo/project-a/issues/12",
+   "at": "2026-10-12T06:33:31Z",
    "extra": {
     "comments": 0,
     "amount_usd": null,
     "author": "github-actions[bot]",
+    "labels": [
+     "bounty-scout"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/106",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-12: 0 new, 0 resumed, 6 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/106",
+   "at": "2026-10-12T06:02:14Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60256",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60256 [squad-plan] Migrate round_up_to_mul32 callers to tt::round_up \u2014 ttnn/operations + tests/ttnn (part 4/5 of #59394)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60256",
+   "at": "2026-10-12T05:56:54Z",
+   "extra": {
+    "author": "app/github-actions",
+    "labels": [
+     "automation",
+     "copilot-ready"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60255",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60255 [squad-plan] Deprecate tilize_utils rounding helpers in favor of tt::round_up \u2014 tt-metalium/tilize_utils.hpp (part 5/5 of #59394)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60255",
+   "at": "2026-10-12T05:56:52Z",
+   "extra": {
+    "author": "app/github-actions",
+    "labels": [
+     "automation",
+     "copilot-ready"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60254",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60254 [squad-plan] Add integral-type constraints to div_up/round_up/round_down \u2014 tt-metalium/math.hpp (part 2/5 of #59394)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60254",
+   "at": "2026-10-12T05:56:50Z",
+   "extra": {
+    "author": "app/github-actions",
+    "labels": [
+     "automation",
+     "copilot-ready"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60253",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60253 [squad-plan] Document and assert tt::align power-of-two precondition, add tests, use round_up in sockets \u2014 tt_align.hpp + tt_metal/distribute",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60253",
+   "at": "2026-10-12T05:56:48Z",
+   "extra": {
+    "author": "app/github-actions",
+    "labels": [
+     "automation",
+     "copilot-ready"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60252",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60252 [squad-plan] Fix round_up/round_down semantics, zero-divisor and noexcept consistency \u2014 tt-metalium/math.hpp (part 1/5 of #59394)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60252",
+   "at": "2026-10-12T05:56:47Z",
+   "extra": {
+    "author": "app/github-actions",
+    "labels": [
+     "automation",
+     "copilot-ready"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60249",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60249 matmul: 1D mcast sharded in0 validated against device grid, not factory core set",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60249",
+   "at": "2026-10-12T04:13:59Z",
+   "extra": {
+    "author": "mouliraj-mcw",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60248",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60248 matmul in1 readers: NCRISC_RD_CMD_BUF NOC_CTRL VC leak across kernel launches",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60248",
+   "at": "2026-10-12T04:13:58Z",
+   "extra": {
+    "author": "mouliraj-mcw",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60247",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60247 matmul: validate_matmul_bias_shape never checks logical bias h, so h in (1, M) silently reads padding",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60247",
+   "at": "2026-10-12T04:11:35Z",
+   "extra": {
+    "author": "mouliraj-mcw",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/33",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [\u7f51\u7ad9\u9762\u00b7\u60ac\u8d4f\u677f][P1] \u9ed8\u8ba4\uff08\u8d26\u672c\u63a8\u6f14\uff09\u6a21\u5f0f\u4e0b\uff0c\u65b0\u53d1\u5e03\u7684\u60ac\u8d4f\u6c38\u8fdc\u4e0a\u4e0d\u4e86\u60ac\u8d4f\u677f\uff1b\u62db\u6807\u4e2d\u7684\u4efb\u52a1\u4e5f\u4e0d\u4e0a\u677f\u3002\u7a7a\u677f\u6587\u6848\u5374\u627f\u8bfa\u300c\u6253 `bounty` \u6807\u7b7e\u5e76\u53d1\u5e03\u540e\u6b64\u5904\u81ea\u52a8\u51fa\u73b0\u300d",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/33",
+   "at": "2026-10-12T03:38:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LarryE135",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/32",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [.github/workflows/bounty.yml concurrency][P1] \u540c\u4e00 issue \u7684\u5e76\u53d1\u7ec4\u6ca1\u6709\u8bbe `queue: max`\uff1a\u4e00\u4e2a run \u5728\u8dd1\u65f6\u8fde\u6765\u4e24\u6761\u8bc4\u8bba\uff0c\u524d\u4e00\u6761\u88ab GitHub \u9759\u9ed8\u53d6\u6d88\uff1b\u666e\u901a\u8ba8\u8bba\u8bc4\u8bba\u4e5f\u4f1a\u6324\u6389\u6392\u961f\u4e2d\u7684\u547d\u4ee4",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/32",
+   "at": "2026-10-12T03:38:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LarryE135",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/19",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "VARUN3WARE/textkit-bounty: Bounty close 2026-10",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/19",
+   "at": "2026-10-12T03:02:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "VARUN3WARE",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60246",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60246 equal_within_n_sig_figs reports false matches (0.5 vs 5.5) and is asymmetric",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60246",
+   "at": "2026-10-12T03:02:19Z",
+   "extra": {
+    "author": "CloneOfAlex",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/5",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "VARUN3WARE/textkit-bounty: truncate() output is longer than the limit",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/5",
+   "at": "2026-10-12T03:00:57Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "VARUN3WARE",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "VARUN3WARE/textkit-bounty: word_count() miscounts extra whitespace",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
+   "at": "2026-10-12T03:00:56Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "VARUN3WARE",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "VARUN3WARE/textkit-bounty: parse_duration() ignores seconds",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
+   "at": "2026-10-12T03:00:56Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "VARUN3WARE",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "VARUN3WARE/textkit-bounty: chunk() drops the last partial chunk",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/1",
+   "at": "2026-10-12T03:00:55Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "VARUN3WARE",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/2",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "VARUN3WARE/textkit-bounty: slugify() leaves repeated and trailing dashes",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/2",
+   "at": "2026-10-12T03:00:55Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "VARUN3WARE",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60245",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60245 convert_u32_to_bfp with is_exp_a=true encodes values below 2^-15 as \u00b12^-15 instead of 0",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60245",
+   "at": "2026-10-12T03:00:32Z",
+   "extra": {
+    "author": "CloneOfAlex",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60244",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60244 Tilize/untilize heap overflow and corrupted data for transposed tiles with non-square faces (e.g. Tile({16,32},{8,16},true))",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60244",
+   "at": "2026-10-12T03:00:00Z",
+   "extra": {
+    "author": "CloneOfAlex",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60243",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60243 FreeListOpt::allocate leaks the block when the address-limit OOM is thrown; clear() leaves a stale lowest_occupied_address",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60243",
+   "at": "2026-10-12T02:59:27Z",
+   "extra": {
+    "author": "CloneOfAlex",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60241",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60241 [Quasar] LLK drives hardware conditions it must avoid: packer config stalls, MAX reduce NaN, zero-length MOP, strided SrcA + MOVD2A, format and descriptor bans",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60241",
+   "at": "2026-10-12T02:32:25Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/fulldecent/erc721/issues/304",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "fulldecent/erc721: Bug Bounty Report: npm @nibbstack/erc721@2.6.1 ships coverage-instrumented build artifacts \u2014 three shipped mocks exceed the 24,576-byte EIP-170 limit and cannot be deployed; all 18 deployed-contract artifacts carry phantom functions that do not exist in the shipped sources (a failed deploy burns the entire supplied gas limit)",
+   "url": "https://github.com/fulldecent/erc721/issues/304",
+   "at": "2026-10-12T02:26:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Fullbuster0",
     "labels": []
    }
   },
@@ -180,7 +551,7 @@
    "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/16",
    "at": "2026-10-11T17:13:22Z",
    "extra": {
-    "comments": 0,
+    "comments": 2,
     "amount_usd": null,
     "author": "LarryE135",
     "labels": []
@@ -548,7 +919,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21203",
    "at": "2026-10-11T14:00:08Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": 50,
     "author": "Kris1225-hash",
     "labels": []
