@@ -1,6 +1,802 @@
 {
- "generated_at": "2026-10-12T18:32:59Z",
+ "generated_at": "2026-10-13T01:05:22Z",
  "events": [
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/110",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-13: 0 new, 0 resumed, 5 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/110",
+   "at": "2026-10-13T00:44:34Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3014",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: BOUNTY-MCP-TOOLS.md says bounty_post costs 10 credits, but no posting fee is charged",
+   "url": "https://github.com/Uuriko/project-room/issues/3014",
+   "at": "2026-10-13T00:12:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "question"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3008",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: bounty_claim lets the poster claim their own bounty, dead-ending acceptance",
+   "url": "https://github.com/Uuriko/project-room/issues/3008",
+   "at": "2026-10-12T23:57:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/IHUI-INF-AI/IHUI-AI/issues/78",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "IHUI-INF-AI/IHUI-AI: [Outreach] nautilus-prime-001 \u2014 \u540c\u7269\u79cd\u5408\u4f5c\u63d0\u8bae: cross-platform A2A bounty bridge",
+   "url": "https://github.com/IHUI-INF-AI/IHUI-AI/issues/78",
+   "at": "2026-10-12T22:55:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chunxiaoxx",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60350",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60350 LLK perf: the counters off build runs the counter routine, so KERNEL grew by 4.6k to 12.8k cycles with #56322",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60350",
+   "at": "2026-10-12T22:46:34Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60351",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60351 Wormhole LLK perf: one pinned start phase is not the average production sees for start sensitive kernels",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60351",
+   "at": "2026-10-12T22:46:34Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60349",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60349 Wormhole LLK perf: code before a measured loop's callees moves them, and the loop's timing with them",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60349",
+   "at": "2026-10-12T22:46:33Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/32",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Audit] Vitalik Buterin Sublinear Staking Security Audit & Formal Fix (2 ETH - @vitalik.eth)",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/32",
+   "at": "2026-10-12T22:41:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/31",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Proof] Empirical Proof of Fake / Phantom Hubs in Farcaster P2P Network (1 ETH - @v)",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/31",
+   "at": "2026-10-12T22:38:12Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/30",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Deliverable] Farcaster OG NFT Bridge from Zora to Base ( USDC - @cojo.eth)",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/30",
+   "at": "2026-10-12T22:37:24Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/PurelyK2/K2-s-Among-Us-Mod-1/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "PurelyK2/K2-s-Among-Us-Mod-1: If medusa claims bounty, person is stoned and leaves a corpse.",
+   "url": "https://github.com/PurelyK2/K2-s-Among-Us-Mod-1/issues/3",
+   "at": "2026-10-12T22:33:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "kiwibelike",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/28",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Deliverable] Balaji Srinivasan: Cloud Cartography Dynamic Network Visualizer (,000 USDC)",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/28",
+   "at": "2026-10-12T22:29:22Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/27",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Deliverable] Balaji Srinivasan: Visualizing Network State Formation (,000 Bounty)",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/27",
+   "at": "2026-10-12T22:26:12Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/26",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] Mantitup-Org/vista#62: Bug: vista deploy still breaks static hosts and platform adapters",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/26",
+   "at": "2026-10-12T22:23:37Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jeseert[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/25",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] getdozer/dozer#1653: WASM UDF support",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/25",
+   "at": "2026-10-12T22:11:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cksime[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Trauma-Station/Trauma-Station/issues/5021",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Trauma-Station/Trauma-Station: bounty bounty bounty bounty bounty bounty bounty bounty bounty ",
+   "url": "https://github.com/Trauma-Station/Trauma-Station/issues/5021",
+   "at": "2026-10-12T22:09:59Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "deltanedas",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/24",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] ZcashCommunityGrants/zcashcommunitygrants#150: Zcash Nigeria 2026",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/24",
+   "at": "2026-10-12T21:54:45Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "haydets[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/23",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] auscaster/frantic-board#277: Frantic bounty #97: Your first bounty is on the house ($10 back when it clears, first five)",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/23",
+   "at": "2026-10-12T21:49:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 10,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/22",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] chatmcp/mcpso#1: Submit Your MCP Servers here",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/22",
+   "at": "2026-10-12T21:48:06Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jasoetts[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60347",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60347 [CI] TT-DiT Mochi unit tests (wh_llmbox) time out at 60 min on every scheduled run since 2026-10-07",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60347",
+   "at": "2026-10-12T21:43:43Z",
+   "extra": {
+    "author": "jamesleeTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/21",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] gyroflow/gyroflow#150: Support lensfun database",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/21",
+   "at": "2026-10-12T21:32:44Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dessdms[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Bryant-21/bacup/issues/302",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Bryant-21/bacup: [Event] Bounty Hunting: Head Hunt",
+   "url": "https://github.com/Bryant-21/bacup/issues/302",
+   "at": "2026-10-12T21:30:45Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Bryant-21",
+    "labels": [
+     "game: fo76",
+     "quest",
+     "status: untested",
+     "type: event"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Bryant-21/bacup/issues/295",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Bryant-21/bacup: [Quest] Bounty Hunting: Grunt Hunt",
+   "url": "https://github.com/Bryant-21/bacup/issues/295",
+   "at": "2026-10-12T21:30:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Bryant-21",
+    "labels": [
+     "game: fo76",
+     "quest",
+     "questline: Burning Springs",
+     "status: untested",
+     "type: side"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/20",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] gyroflow/gyroflow#45: Optical only stabilization",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/20",
+   "at": "2026-10-12T21:29:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "haydets[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/19",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] ankidroid/Anki-Android#15034: Support for choosing a custom backup location",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/19",
+   "at": "2026-10-12T21:26:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jeseert[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/18",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] microg/GmsCore#2843: [BOUNTY] WearOS Support [$2340]",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/18",
+   "at": "2026-10-12T21:23:13Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 2340,
+    "author": "cksime[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/17",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] gyroflow/gyroflow#742: Refactor lens profile handling",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/17",
+   "at": "2026-10-12T21:21:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "haydets[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/16",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#286: BOUNTY: Convert the endpoints to a smart router like litellm does in python",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/16",
+   "at": "2026-10-12T21:18:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jeseert[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/15",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#2389: [Feature]: Backup Manger in the UI",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/15",
+   "at": "2026-10-12T21:16:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cksime[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/14",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] organicmaps/organicmaps#475: Open Google Maps, OSM and geo url links in Organic Maps",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/14",
+   "at": "2026-10-12T21:11:33Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/13",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] Kludex/uvicorn#1151: support @asynccontextmanager app_factory functions",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/13",
+   "at": "2026-10-12T21:09:12Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "conemaus[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/2920",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [Medium] Keeper timeout-default dispute settlement never emits bounty.decided, so its reputation signals are never ap...",
+   "url": "https://github.com/Uuriko/project-room/issues/2920",
+   "at": "2026-10-12T20:59:32Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/12",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] HDInnovations/UNIT3D#3761: [Request] allow users to to gift rewards/medals to other members",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/12",
+   "at": "2026-10-12T20:58:10Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jeseert[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/11",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] revertinc/revert#551: [REVER-51] Workable Integration",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/11",
+   "at": "2026-10-12T20:56:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dessdms[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/998",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#998 Two CLI diagnostics that omit the actionable cause",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/998",
+   "at": "2026-10-12T20:54:21Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/10",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] highlight/highlight#8032: document sveltekit backend instrumentation",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/10",
+   "at": "2026-10-12T20:51:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "assdkias[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/9",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] onyx-dot-app/onyx#2281: Jira Service Management Connector",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/9",
+   "at": "2026-10-12T20:49:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jasoetts[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60346",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60346 Compiler support to program AddrGen",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60346",
+   "at": "2026-10-12T20:49:07Z",
+   "extra": {
+    "author": "abhullar-tt",
+    "labels": [
+     "sfpi"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/8",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#4972: [Enhancement]: Deploy from Github on release",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/8",
+   "at": "2026-10-12T20:47:38Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dessdms[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/999",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#999 HPFS filesystem type entry disabled by a misspelled guard",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/999",
+   "at": "2026-10-12T20:46:41Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/997",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#997 CLI help omits maintenance modes and supported options",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/997",
+   "at": "2026-10-12T20:45:00Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/995",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#995 Two tarsnap.conf(5) documentation corrections",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/995",
+   "at": "2026-10-12T20:44:46Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/7",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] zio/zio-schema#511: Unable to convert to TypedValue ",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/7",
+   "at": "2026-10-12T20:42:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dessdms[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/994",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#994 Three protocol-specification mismatches in packets.txt",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/994",
+   "at": "2026-10-12T20:42:09Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/6",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] permitio/opal#661: Add OpenFGA as a Policy Store",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/6",
+   "at": "2026-10-12T20:40:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "assdkias[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/993",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#993 Chunkification-cache update can race after the cachedir lock is released",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/993",
+   "at": "2026-10-12T20:40:07Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/5",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#290: BOUNTY: integrate AWS Comprehend as a utility to redact data",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/5",
+   "at": "2026-10-12T20:38:10Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cksime[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/991",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#991 Relative XDG_CONFIG_HOME reads configuration from the working directory",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/991",
+   "at": "2026-10-12T20:36:10Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/990",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#990 --verify-config accepts empty file: and env: passphrase arguments",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/990",
+   "at": "2026-10-12T20:35:03Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/989",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#989 --cachedir changes permissions of a regular file or symlink target",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/989",
+   "at": "2026-10-12T20:35:00Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/4",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#290: BOUNTY: integrate AWS Comprehend as a utility to redact data",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/4",
+   "at": "2026-10-12T20:33:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cksime[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] getdozer/dozer#1659: Support for `IN` clause in streaming SQL",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/3",
+   "at": "2026-10-12T20:30:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cksime[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Tarsnap/tarsnap/issues/988",
+   "source": "tarsnap",
+   "kind": "tarsnap_issue",
+   "title": "Tarsnap/tarsnap#988 tarsnap -r can report success before buffered stdout data is written",
+   "url": "https://github.com/Tarsnap/tarsnap/issues/988",
+   "at": "2026-10-12T20:30:41Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "mySebbe"
+   }
+  },
+  {
+   "id": "https://github.com/contendaClara/test/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "contendaClara/test: bounty test",
+   "url": "https://github.com/contendaClara/test/issues/1",
+   "at": "2026-10-12T19:56:57Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "barmo",
+    "labels": [
+     "project-clear-poc"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/56277",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#56277 [Bounty $7500] Remove legacy sqrt/rsqrt/reciprocal compatibility paths",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/56277",
+   "at": "2026-10-12T19:52:11Z",
+   "extra": {
+    "state": "CLOSED",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "jasondavies"
+    ],
+    "created": "2026-09-11T17:26:07Z"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/56290",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#56290 [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/56290",
+   "at": "2026-10-12T19:52:08Z",
+   "extra": {
+    "state": "CLOSED",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "singhharsh1708"
+    ],
+    "created": "2026-09-11T18:45:31Z"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60342",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60342 [tt_transformers]: Phi-3-mini-128k-instruct loads random weights and generates garbage",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60342",
+   "at": "2026-10-12T18:33:38Z",
+   "extra": {
+    "author": "k1shna",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
   {
    "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884",
    "source": "github_search",
@@ -26,7 +822,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883",
    "at": "2026-10-12T18:14:49Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -43,7 +839,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880",
    "at": "2026-10-12T18:14:48Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -60,7 +856,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1881",
    "at": "2026-10-12T18:14:48Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -77,7 +873,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1882",
    "at": "2026-10-12T18:14:48Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -94,7 +890,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1879",
    "at": "2026-10-12T18:14:47Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -111,7 +907,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1877",
    "at": "2026-10-12T18:14:46Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -128,7 +924,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1878",
    "at": "2026-10-12T18:14:46Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -281,7 +1077,7 @@
    "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/35",
    "at": "2026-10-12T17:04:58Z",
    "extra": {
-    "comments": 0,
+    "comments": 2,
     "amount_usd": 8500,
     "author": "osmesirius-ship-it",
     "labels": [
@@ -902,38 +1698,6 @@
    }
   },
   {
-   "id": "https://github.com/steingui/redteam-ops/issues/98",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "steingui/redteam-ops: [roadmap-bounty][Fatia 5][P1] Registro de validadores API/frontend e browser com egress restrito",
-   "url": "https://github.com/steingui/redteam-ops/issues/98",
-   "at": "2026-10-12T14:49:20Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "steingui",
-    "labels": [
-     "red-team:aborted"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/steingui/redteam-ops/issues/97",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "steingui/redteam-ops: [roadmap-bounty][Fatia 4][P1] Collector audit\u00e1vel de superf\u00edcies e importa\u00e7\u00e3o offline de artefatos",
-   "url": "https://github.com/steingui/redteam-ops/issues/97",
-   "at": "2026-10-12T14:48:39Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "steingui",
-    "labels": [
-     "red-team:aborted"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/71",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -952,22 +1716,6 @@
    }
   },
   {
-   "id": "https://github.com/steingui/redteam-ops/issues/96",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "steingui/redteam-ops: [roadmap-bounty][Fatia 2][P0] Estado dur\u00e1vel, change detection de escopo e revoga\u00e7\u00e3o de tarefas",
-   "url": "https://github.com/steingui/redteam-ops/issues/96",
-   "at": "2026-10-12T14:48:02Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "steingui",
-    "labels": [
-     "red-team:aborted"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/70",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -975,12 +1723,12 @@
    "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/70",
    "at": "2026-10-12T14:47:58Z",
    "extra": {
-    "comments": 5,
+    "comments": 7,
     "amount_usd": null,
     "author": "FuRongJun-1999",
     "labels": [
      "bounty",
-     "bounty:claimed",
+     "bounty:delivered",
      "difficulty:hard"
     ]
    }
@@ -1018,38 +1766,6 @@
      "bounty",
      "bounty:delivered",
      "difficulty:expert"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/steingui/redteam-ops/issues/95",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "steingui/redteam-ops: [roadmap-bounty][Fatia 1][P0] Adapters de plataformas e refresh de autoriza\u00e7\u00e3o fail-closed",
-   "url": "https://github.com/steingui/redteam-ops/issues/95",
-   "at": "2026-10-12T14:47:29Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "steingui",
-    "labels": [
-     "red-team:aborted"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/steingui/redteam-ops/issues/94",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "steingui/redteam-ops: [roadmap-bounty][Fatia 3][P0] Contrato can\u00f4nico de assets, ROI determin\u00edstico e roteamento",
-   "url": "https://github.com/steingui/redteam-ops/issues/94",
-   "at": "2026-10-12T14:46:57Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "steingui",
-    "labels": [
-     "red-team:aborted"
     ]
    }
   },
@@ -1206,20 +1922,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/57",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u8d21\u732e\u9a8c\u6536\u7533\u8bf7] LarryE135\uff1adsh-bounty \u672c\u4ed3\u7f3a\u9677\u62a5\u544a 15 \u6761\uff08#12\u3001#14\u2013#17\u3001#24\u2013#33\uff09\uff0c\u8bf7\u7eb3\u5165\u7ed3\u7b97\u8868 v0.2",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/57",
-   "at": "2026-10-12T13:55:57Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60312",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -1241,7 +1943,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/223",
    "at": "2026-10-12T13:07:34Z",
    "extra": {
-    "comments": 2,
+    "comments": 1,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -1260,7 +1962,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/222",
    "at": "2026-10-12T13:07:31Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -1334,7 +2036,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/218",
    "at": "2026-10-12T13:07:23Z",
    "extra": {
-    "comments": 3,
+    "comments": 2,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -1353,7 +2055,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/217",
    "at": "2026-10-12T13:07:21Z",
    "extra": {
-    "comments": 2,
+    "comments": 1,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -1373,7 +2075,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/216",
    "at": "2026-10-12T13:07:17Z",
    "extra": {
-    "comments": 2,
+    "comments": 1,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -1517,24 +2219,6 @@
    }
   },
   {
-   "id": "https://github.com/Let-s-Do-Collection/Let-s-Do-Collection/issues/1139",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Let-s-Do-Collection/Let-s-Do-Collection: [WilderNature] Bounty board becomes unusable after 3-day refresh",
-   "url": "https://github.com/Let-s-Do-Collection/Let-s-Do-Collection/issues/1139",
-   "at": "2026-10-12T08:59:31Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "TheNoGamer",
-    "labels": [
-     "bug",
-     "wildernature",
-     "fabric"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60277",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -1548,20 +2232,6 @@
      "op_cat: TM",
      "MCW"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/51",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u8d21\u732e\u9a8c\u6536\u7533\u8bf7] LarryE135\uff1a\u8de8\u4ed3\u7f3a\u9677\u62a5\u544a\u6c47\u603b\uff08lingshu / dsh-memory / dsh-bounty\uff09\uff0c\u8bf7\u7eb3\u5165\u7ed3\u7b97\u8868 v0.2",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/51",
-   "at": "2026-10-12T08:46:58Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
    }
   },
   {
@@ -1616,7 +2286,7 @@
    "id": "https://github.com/tenstorrent/tt-metal/issues/60272",
    "source": "tenstorrent",
    "kind": "tt_issue",
-   "title": "tt-metal#60272 ttnn.softmax on Blackhole after #53643: correctly rounded bfloat16 outputs, long-row sums fixed, at least 10% less time",
+   "title": "tt-metal#60272 ttnn.softmax on Blackhole after #53643: correctly rounded bfloat16 outputs, long-row sums fixed, at least 25% less time on long rows ",
    "url": "https://github.com/tenstorrent/tt-metal/issues/60272",
    "at": "2026-10-12T08:38:56Z",
    "extra": {
@@ -1625,34 +2295,6 @@
      "op_cat: reduces",
      "community"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/50",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [Bug][P2][\u6587\u6863] rules \u9875\u4e0e docs/bounty/README \u65b0\u589e\u7684\u300c\u4ef7\u503c\u8bba\u8bc1\u300d\u8282\u81ea\u76f8\u77db\u76fe\uff1a\u81ea\u79f0\u300c\u6bcf\u6761\u6570\u636e\u9644\u6765\u6e90 URL\u300d\u4f46 0 \u4e2a URL\uff1bMem0 \u6765\u6e90\u4e0e\u300a\u4ef7\u503c\u8bba\u8bc1\u300b\u4e0d\u4e00\u81f4\uff1b\u9875\u9762\u4e0a\u7684\u91d1\u989d\u8ba9\u300a\u4ef7\u503c\u8bc4\u4ef7\u89c4\u683c\u300bV2\u300c\u5168\u7ad9 grep \u91d1\u989d \u2192 \u96f6\u547d\u4e2d\u300d\u76f4\u63a5\u53d8\u7ea2",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/50",
-   "at": "2026-10-12T08:36:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/48",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [Bug][P2] `/dispute` \u6ca1\u6709\u4efb\u4f55\u72b6\u6001\u6216 `bounty` \u6807\u7b7e\u524d\u7f6e\uff1a\u5df2\u7ed3\u7b97\u7684\u4efb\u52a1\u53ef\u88ab\u62c9\u56de disputed\uff0c\u5e76\u5728\u8363\u8a89\u699c\u4e0a\u7ed9\u6301\u6709\u8005\u8bb0\u4e00\u6b21\u300c\u4e89\u8bae\u300d\uff1b\u666e\u901a issue \u4e5f\u4f1a\u88ab\u673a\u5668\u4eba\u6253\u4e0a `bounty:disputed`\uff08\u771f\u673a\u786e\u8ba4\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/48",
-   "at": "2026-10-12T08:35:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
    }
   },
   {
@@ -1682,38 +2324,6 @@
     "author": "mcw-anasuya",
     "labels": [
      "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ariahendrawan-sudo/project-a/issues/12",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ariahendrawan-sudo/project-a: Bounty Scout \u2014 2026-10-12",
-   "url": "https://github.com/ariahendrawan-sudo/project-a/issues/12",
-   "at": "2026-10-12T06:33:31Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-scout"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/106",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-12: 0 new, 0 resumed, 6 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/106",
-   "at": "2026-10-12T06:02:14Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
     ]
    }
   },
@@ -1829,48 +2439,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/33",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u7f51\u7ad9\u9762\u00b7\u60ac\u8d4f\u677f][P1] \u9ed8\u8ba4\uff08\u8d26\u672c\u63a8\u6f14\uff09\u6a21\u5f0f\u4e0b\uff0c\u65b0\u53d1\u5e03\u7684\u60ac\u8d4f\u6c38\u8fdc\u4e0a\u4e0d\u4e86\u60ac\u8d4f\u677f\uff1b\u62db\u6807\u4e2d\u7684\u4efb\u52a1\u4e5f\u4e0d\u4e0a\u677f\u3002\u7a7a\u677f\u6587\u6848\u5374\u627f\u8bfa\u300c\u6253 `bounty` \u6807\u7b7e\u5e76\u53d1\u5e03\u540e\u6b64\u5904\u81ea\u52a8\u51fa\u73b0\u300d",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/33",
-   "at": "2026-10-12T03:38:30Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/32",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [.github/workflows/bounty.yml concurrency][P1] \u540c\u4e00 issue \u7684\u5e76\u53d1\u7ec4\u6ca1\u6709\u8bbe `queue: max`\uff1a\u4e00\u4e2a run \u5728\u8dd1\u65f6\u8fde\u6765\u4e24\u6761\u8bc4\u8bba\uff0c\u524d\u4e00\u6761\u88ab GitHub \u9759\u9ed8\u53d6\u6d88\uff1b\u666e\u901a\u8ba8\u8bba\u8bc4\u8bba\u4e5f\u4f1a\u6324\u6389\u6392\u961f\u4e2d\u7684\u547d\u4ee4",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/32",
-   "at": "2026-10-12T03:38:27Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/19",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: Bounty close 2026-10",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/19",
-   "at": "2026-10-12T03:02:40Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "VARUN3WARE",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60246",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -1903,11 +2471,11 @@
    }
   },
   {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: parse_duration() ignores seconds",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
+   "title": "VARUN3WARE/textkit-bounty: word_count() miscounts extra whitespace",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
    "at": "2026-10-12T03:00:56Z",
    "extra": {
     "comments": 2,
@@ -1920,11 +2488,11 @@
    }
   },
   {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
+   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: word_count() miscounts extra whitespace",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
+   "title": "VARUN3WARE/textkit-bounty: parse_duration() ignores seconds",
+   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
    "at": "2026-10-12T03:00:56Z",
    "extra": {
     "comments": 2,
@@ -2028,156 +2596,6 @@
    }
   },
   {
-   "id": "https://github.com/fulldecent/erc721/issues/304",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "fulldecent/erc721: Bug Bounty Report: npm @nibbstack/erc721@2.6.1 ships coverage-instrumented build artifacts \u2014 three shipped mocks exceed the 24,576-byte EIP-170 limit and cannot be deployed; all 18 deployed-contract artifacts carry phantom functions that do not exist in the shipped sources (a failed deploy burns the entire supplied gas limit)",
-   "url": "https://github.com/fulldecent/erc721/issues/304",
-   "at": "2026-10-12T02:26:35Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Fullbuster0",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/fulldecent/erc721/issues/303",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "fulldecent/erc721: Bug Bounty Report: superuser burn() still in four shipped mocks (incomplete fix of #216/#217/#218; regression shipped in 2.5.0)",
-   "url": "https://github.com/fulldecent/erc721/issues/303",
-   "at": "2026-10-11T23:35:43Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Fullbuster0",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/105",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-11: 0 new, 0 resumed, 1 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/105",
-   "at": "2026-10-11T22:06:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Katiczek/Grodowladcy/issues/12",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Katiczek/Grodowladcy: S-03: Pin a coin bounty on the tavern door and wait",
-   "url": "https://github.com/Katiczek/Grodowladcy/issues/12",
-   "at": "2026-10-11T20:41:17Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Katiczek",
-    "labels": [
-     "roadmap:slice",
-     "stream:turn-loop",
-     "status:blocked"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/fulldecent/erc721/issues/301",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "fulldecent/erc721: Bug Bounty Report: remaining typos in natspec at 2.6.1 (wich/whitch/intefraces/suported/overriden)",
-   "url": "https://github.com/fulldecent/erc721/issues/301",
-   "at": "2026-10-11T19:09:34Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "awley-del",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/fulldecent/erc721/issues/300",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "fulldecent/erc721: Bug Bounty Report: phantom token IDs revert with authorization codes (003003/003004) instead of NOT_VALID_NFT (003002) on transferFrom/approve/safeTransferFrom",
-   "url": "https://github.com/fulldecent/erc721/issues/300",
-   "at": "2026-10-11T19:09:15Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "awley-del",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/fulldecent/erc721/issues/299",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "fulldecent/erc721: Bug Bounty Report: natspec documents wrong onERC721Received magic value (0xf0b9e5ba vs implemented 0x150b7a02)",
-   "url": "https://github.com/fulldecent/erc721/issues/299",
-   "at": "2026-10-11T19:07:07Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "awley-del",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/16",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [GitHub \u5ba2\u6237\u7aef/\u56de\u8bc4][P1] \u7528\u6237\u8f7d\u8377\u539f\u6837\u56de\u663e\uff1a\u534a\u622a bounty:v1 \u4e32\u5403\u6389\u673a\u5668\u4eba\u8bc4\u8bba\u91cc\u7684\u771f\u6807\u8bb0\uff0c\u8fc1\u79fb\u53ea\u6539\u4e86\u6807\u7b7e\u3001\u8bb0\u4e86\u4e8b\u4ef6\uff0c\u72b6\u6001\u5374\u4e0d\u524d\u8fdb",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/16",
-   "at": "2026-10-11T17:13:22Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1306",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1277",
-   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1306",
-   "at": "2026-10-11T16:19:57Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "SPLURT-Station-Bot",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1278",
-   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305",
-   "at": "2026-10-11T16:18:04Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "SPLURT-Station-Bot",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/Tarsnap/kivaloo/issues/364",
    "source": "tarsnap",
    "kind": "tarsnap_issue",
@@ -2203,190 +2621,6 @@
      "morhimanshu"
     ],
     "created": "2026-07-07T21:46:56Z"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21223",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21223 [Bounty proposal] fix(cli): omi chat is unreachable after omi auth login --browser, the login it asks for ($75 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21223",
-   "at": "2026-10-11T15:06:25Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21220",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21220 [Bounty proposal] fix(notifications): timezone validators accept zones the daily-summary scheduler never selects ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21220",
-   "at": "2026-10-11T14:51:33Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21218",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21218 [Bounty proposal] fix(action-items): completing an already-completed task rewrites its completed_at ($40 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21218",
-   "at": "2026-10-11T14:41:46Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21214",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21214 [Bounty proposal] fix(action-items): Apple Reminders exports never clear sync_requested, so pending-sync starves after 50 exported tasks ($75 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21214",
-   "at": "2026-10-11T14:27:07Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21212",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21212 [Bounty proposal] fix(audio-timeline): int() truncates decimal provider timestamps one sample early ($25 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21212",
-   "at": "2026-10-11T14:20:14Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21210",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21210 [Bounty proposal] fix(imports): CR CR LF line endings make a valid SRT import as \"not a transcript\" ($25 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21210",
-   "at": "2026-10-11T14:15:29Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21208",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21208 [Bounty proposal] fix(merge): a source without started_at is always sorted first, mis-ordering the merged transcript and its created_at ($40 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21208",
-   "at": "2026-10-11T14:09:56Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21205",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21205 [Bounty proposal] fix(imports): SRT cues without blank-line separators collapse into one cue with timings in its text ($40 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21205",
-   "at": "2026-10-11T14:04:49Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21203",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21203 [Bounty proposal] fix(imports): a title line above a single \"Name:\" line is imported as part of the speaker name ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21203",
-   "at": "2026-10-11T14:00:08Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21201",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21201 [Bounty proposal] fix(merge): one manually tagged source disables speaker-id renumbering for every source, so voices collide after a manual merge ($75 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21201",
-   "at": "2026-10-11T13:55:15Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21199",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21199 [Bounty proposal] fix(audio-timeline): segment starting exactly on the first sample after a VAD gap is persisted unplaced ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21199",
-   "at": "2026-10-11T13:48:46Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21197",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21197 [Bounty proposal] fix(goals): alias patch contradicting the stored metric 500s PATCH /v1/goals/{goal_id} ($25 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21197",
-   "at": "2026-10-11T13:43:22Z",
-   "extra": {
-    "state": "open",
-    "author": "Kris1225-hash"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21190",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21190 Bounty Proposal: Updates Router Appcast Generation Exception Sanitization ($50 - $75 USD)",
-   "url": "https://github.com/BasedHardware/omi/issues/21190",
-   "at": "2026-10-11T12:29:05Z",
-   "extra": {
-    "state": "open",
-    "author": "o10forex-bot"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21189",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21189 Bounty Proposal: Multi-Router Exception Sanitization & Information Disclosure Hardening ($75 - $100 USD)",
-   "url": "https://github.com/BasedHardware/omi/issues/21189",
-   "at": "2026-10-11T12:28:31Z",
-   "extra": {
-    "state": "open",
-    "author": "o10forex-bot"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#59732 [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
-   "at": "2026-10-10T22:01:26Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "jberkowitzTT",
-    "assignees": [
-     "samiyadev786"
-    ],
-    "created": "2026-10-07T21:34:17Z"
    }
   }
  ],
