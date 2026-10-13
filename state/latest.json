@@ -1,6 +1,965 @@
 {
- "generated_at": "2026-10-13T16:13:23Z",
+ "generated_at": "2026-10-13T21:24:20Z",
  "events": [
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1623",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Mobile: end-to-end tests with Maestro or Detox for sign-in and bounty browsing",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1623",
+   "at": "2026-10-13T21:22:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "mobile",
+     "testing"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/172",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Minimum bounty amount per token",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/172",
+   "at": "2026-10-13T21:22:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "contract",
+     "security"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/171",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Reject self-claims by the bounty creator",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/171",
+   "at": "2026-10-13T21:22:33Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "good first issue",
+     "Stellar Wave",
+     "contract",
+     "security"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1613",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Admin reports: export CSV for revenue, users, bounties, disputes",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1613",
+   "at": "2026-10-13T21:22:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "backend",
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/166",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [frontend] Show the scanner's detection for a bounty's package",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/166",
+   "at": "2026-10-13T21:22:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "scanner",
+     "frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1611",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Bounty templates management for clients",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1611",
+   "at": "2026-10-13T21:21:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "backend",
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1610",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Team/agency accounts that can apply to bounties together",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1610",
+   "at": "2026-10-13T21:21:52Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "backend",
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1608",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Verified reviews only from completed bounties",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1608",
+   "at": "2026-10-13T21:21:43Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "security",
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/161",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [testing] Integration test: scan \u2192 create bounty on a local contract",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/161",
+   "at": "2026-10-13T21:21:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "scanner",
+     "contract",
+     "testing"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1606",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Bounty application drafts and withdrawal",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1606",
+   "at": "2026-10-13T21:21:34Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "backend",
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1605",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Saved searches and alerts for new bounties matching skills",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1605",
+   "at": "2026-10-13T21:21:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "backend",
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/156",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [docs] Threat model for the bounty router",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/156",
+   "at": "2026-10-13T21:21:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "documentation",
+     "Stellar Wave",
+     "security"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/149",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [drips] Fund the bounty pool from a Drips stream",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/149",
+   "at": "2026-10-13T21:20:26Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "drips"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/148",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [drips] Send a share of each released bounty to the project's Drips list",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/148",
+   "at": "2026-10-13T21:20:20Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "contract",
+     "drips"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/146",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [drips] Design doc: routing bounty payouts through Drips",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/146",
+   "at": "2026-10-13T21:20:08Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "documentation",
+     "Stellar Wave",
+     "drips"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1579",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Add e2e test for bounty lifecycle (create \u2192 apply \u2192 assign \u2192 submit \u2192 approve \u2192 pay)",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1579",
+   "at": "2026-10-13T21:19:37Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "testing"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1563",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Add events for every state change in bounty/freelancer contracts",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1563",
+   "at": "2026-10-13T21:18:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/127",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [frontend] Submit-claim form on the bounty page",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/127",
+   "at": "2026-10-13T21:18:13Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "frontend",
+     "wallet"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/126",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [frontend] Create-bounty form",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/126",
+   "at": "2026-10-13T21:18:08Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "frontend",
+     "wallet"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/124",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [frontend] Paginate the bounty list",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/124",
+   "at": "2026-10-13T21:17:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "frontend",
+     "performance"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/123",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [frontend] Sort the bounty board",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/123",
+   "at": "2026-10-13T21:17:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/122",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [frontend] Search bounties by finding text",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/122",
+   "at": "2026-10-13T21:17:44Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "good first issue",
+     "Stellar Wave",
+     "frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/118",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Invariant tests: contract balance always equals the sum of open bounties",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/118",
+   "at": "2026-10-13T21:17:20Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "Stellar Wave",
+     "contract",
+     "testing"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/117",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Structured finding metadata on bounties",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/117",
+   "at": "2026-10-13T21:17:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/115",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Index claims by claimant across bounties",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/115",
+   "at": "2026-10-13T21:17:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/114",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Paginated bounty listing getter",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/114",
+   "at": "2026-10-13T21:16:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/109",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Let the creator extend a bounty's deadline",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/109",
+   "at": "2026-10-13T21:16:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/108",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Top up an open bounty (`fund_bounty`)",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/108",
+   "at": "2026-10-13T21:16:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/DepRadarOrg/DepRadar/issues/107",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DepRadarOrg/DepRadar: [contract] Split a bounty payout across multiple claimants",
+   "url": "https://github.com/DepRadarOrg/DepRadar/issues/107",
+   "at": "2026-10-13T21:16:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ALLEN-AYODEJI",
+    "labels": [
+     "enhancement",
+     "Stellar Wave",
+     "contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1520",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "yosemite01/stellar-creator-portfolio: Restrict `/api/bounties/[id]/suggested-creators` to the bounty owner",
+   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1520",
+   "at": "2026-10-13T21:15:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "yosemite01",
+    "labels": [
+     "backend",
+     "security"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#59732 [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "at": "2026-10-13T21:10:17Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "samiyadev786"
+    ],
+    "created": "2026-10-07T21:34:17Z"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "at": "2026-10-13T21:02:04Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "morhimanshu",
+    "assignees": [
+     "morhimanshu"
+    ],
+    "created": "2026-07-07T21:46:56Z"
+   }
+  },
+  {
+   "id": "https://github.com/RandyKnapp/ValheimMods/issues/764",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "RandyKnapp/ValheimMods: When collecting bounty rewards for completed bounties, If your inventory is full, it drops only a single item of whatever is dropped",
+   "url": "https://github.com/RandyKnapp/ValheimMods/issues/764",
+   "at": "2026-10-13T20:48:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jhhertel",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60470",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60470 Create vdl variant ops",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60470",
+   "at": "2026-10-13T20:10:42Z",
+   "extra": {
+    "author": "bbradelTT",
+    "labels": [
+     "op_cat: mm"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/96d546bac94f0cb8b7c3e23b2f39e116f1c307df",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[ttnn] Drop the obsolete #9370 unpack drains after reduce_c in moe and sampling (#59973)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/96d546bac94f0cb8b7c3e23b2f39e116f1c307df",
+   "at": "2026-10-13T19:54:41Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/reduction/moe/device/kernels/compute/moe.cpp",
+     "ttnn/cpp/ttnn/operations/reduction/sampling/device/kernels/compute/sampling.cpp"
+    ],
+    "added": [],
+    "author": "amahmudTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60461",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60461 Gemma4 prefill perf gate: chunk 4096 is ~4% faster on some CI hosts than its 2% margin allows at 1k wall",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60461",
+   "at": "2026-10-13T19:20:58Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "blackhole",
+     "ci-bug",
+     "perf",
+     "prefill",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60456",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60456 [CI] Verify changed tests compiles kernels from both the wheel and the checkout; headers reached by both paths are defined twice",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60456",
+   "at": "2026-10-13T18:40:43Z",
+   "extra": {
+    "author": "jamesleeTT",
+    "labels": [
+     "ci-bug",
+     "CI"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/185fad12d9443ed9277710d6539a3a05ecb5ff90",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][BH+WH] Restore the default Src zero flag in the experimental bcast-col init (#59744)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/185fad12d9443ed9277710d6539a3a05ecb5ff90",
+   "at": "2026-10-13T18:33:46Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/test_eltwise_bcast_col_custom.py",
+     "tt_metal/tt-llk/tests/sources/multiple_tiles_eltwise_custom_test.cpp",
+     "tt_metal/tt-llk/tt_llk_blackhole/llk_lib/experimental/llk_math_eltwise_binary_custom.h",
+     "tt_metal/tt-llk/tt_llk_wormhole_b0/llk_lib/experimental/llk_math_eltwise_binary_custom.h"
+    ],
+    "added": [],
+    "author": "amahmudTT"
+   }
+  },
+  {
+   "id": "https://github.com/vandelay87/pile-up/issues/175",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vandelay87/pile-up: Units and the economy: bounty, combo and upkeep",
+   "url": "https://github.com/vandelay87/pile-up/issues/175",
+   "at": "2026-10-13T18:24:32Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "vandelay87",
+    "labels": [
+     "wayfinder:grilling"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ditto-assistant/ditto-subnet: Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey",
+   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
+   "at": "2026-10-13T18:19:24Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Peyton-Spencer",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2871",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ditto-assistant/ditto-subnet: Miner CLI: attest a GitHub account and link it to the miner hotkey",
+   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2871",
+   "at": "2026-10-13T18:18:59Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "Peyton-Spencer",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/628ce84752a8a3fe461d5c71f3985d3d561b930b",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Test Only] Quasar typecast test: Int32 -> Float16_b feeds sign-magnitude like every other integer typecast (#60422)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/628ce84752a8a3fe461d5c71f3985d3d561b930b",
+   "at": "2026-10-13T18:12:18Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/quasar/test_eltwise_unary_sfpu_quasar.py"
+    ],
+    "added": [],
+    "author": "pkennedyTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/1bb6ea7a04e59e54293dcc9960359c930939e87b",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Quasar] Make pack clear_dest_bank_id per-TRISC thread_local (#59062)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/1bb6ea7a04e59e54293dcc9960359c930939e87b",
+   "at": "2026-10-13T18:05:17Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tt_llk_quasar/common/inc/cpack_common.h"
+    ],
+    "added": [],
+    "author": "rtawfik01"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60452",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60452 [tt-train] 3-tier training ignores `scheduler_type`: the optimizer process never schedules the LR",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60452",
+   "at": "2026-10-13T18:03:40Z",
+   "extra": {
+    "author": "wkrolikowskiTT",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/55105",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#55105 [Bounty $1,500] ttnn.polygamma returns exactly 0 for n >= 7 over a wide band of ordinary positive x, where the true value is a normal fp32 (n! scale applied after accumulation)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/55105",
+   "at": "2026-10-13T18:02:18Z",
+   "extra": {
+    "state": "CLOSED",
+    "author": "singhharsh1708",
+    "assignees": [
+     "singhharsh1708"
+    ],
+    "created": "2026-09-01T20:58:07Z"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/7d20b9655337adb78f7b886efaa4ff5a5d50f657",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] Fold polygamma's n! scale into each term so large x stops returning zero (#56332)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/7d20b9655337adb78f7b886efaa4ff5a5d50f657",
+   "at": "2026-10-13T17:58:56Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/blackhole/metal/llk_api/llk_sfpu/ckernel_sfpu_polygamma.h",
+     "tt_metal/hw/ckernels/wormhole_b0/metal/llk_api/llk_sfpu/ckernel_sfpu_polygamma.h",
+     "tt_metal/tt-llk/tests/helpers/include/sfpu_operations.h",
+     "tt_metal/tt-llk/tests/python_tests/helpers/golden_generators.py",
+     "tt_metal/tt-llk/tests/python_tests/helpers/test_variant_parameters.py",
+     "tt_metal/tt-llk/tests/python_tests/test_eltwise_unary_sfpu.py"
+    ],
+    "added": [],
+    "author": "singhharsh1708"
+   }
+  },
+  {
+   "id": "https://github.com/kate8382/AURA/issues/87",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "kate8382/AURA: adapter:bounty-scope \u2014 Snapshot-based Bug Bounty metadata verification (HackerOne/Bugcrowd)",
+   "url": "https://github.com/kate8382/AURA/issues/87",
+   "at": "2026-10-13T17:16:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "kate8382",
+    "labels": [
+     "enhancement",
+     "spec",
+     "backend",
+     "data"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60447",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60447 Make copy of pdl model and create graph_ops tests",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60447",
+   "at": "2026-10-13T17:15:00Z",
+   "extra": {
+    "author": "bbradelTT",
+    "labels": [
+     "feature",
+     "op_cat: mm"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SecOpsNews/news/issues/75026",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SecOpsNews/news: [SecurityWeek] Google Partially Reverses Chrome Bug Bounty Cuts",
+   "url": "https://github.com/SecOpsNews/news/issues/75026",
+   "at": "2026-10-13T17:09:08Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "SecurityWeek"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/36",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#8232: [Enhancement]: Add Open Replay",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/36",
+   "at": "2026-10-13T17:06:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "assdkias[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/35",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#8264: [Enhancement]: WordPress + OpenLiteSpeed service template",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/35",
+   "at": "2026-10-13T17:04:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jasoetts[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/272",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [\u8d21\u732e\u9a8c\u6536\u7533\u8bf7][expert] LarryE135\uff1adsh-bounty \u5ba1\u6838\u5458\u673a\u5236 / \u51c6\u5165\u9762\u4e09\u5c42\u5ba1\u8ba1 5 \u6761\uff08P1\u00d73 / P2\u00d72\uff09\uff0c\u8bf7\u7eb3\u5165\u7ed3\u7b97\u8868",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/272",
+   "at": "2026-10-13T17:02:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LarryE135",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/270",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [Bug][P2] 3682f5c \u7684\u4f5c\u8005\u95f8\u53ea\u6302\u5728 `/claim` \u4e0a\uff1a\u62db\u6807\u8def\u5f84 `/bid \u2192 /select \u2192 /verify \u2192 /settle` \u4e0d\u67e5\u4f5c\u8005\uff08`/bid` \u8fde `bounty` \u6807\u7b7e\u95f8\u4e5f\u4e0d\u67e5\uff09\uff0c\u5916\u90e8\u4eba\u53d1\u5e03\u7684 issue \u5e26\u4e0a `bounty:contest` \u5c31\u80fd\u4e00\u8def\u7ed3\u7b97",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/270",
+   "at": "2026-10-13T17:01:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LarryE135",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [Bug][P1] \u8d26\u672c `role` \u4e0d\u662f\u6743\u5a01\u9762\uff1a`revoke` \u538b\u4e0d\u4f4f `BOUNTY_REVIEWERS` \u540d\u5355\u91cc\u7684\u5ba1\u6838\u5458\uff1b\u8d26\u672c `maintainer` \u89d2\u8272\u5728\u771f\u6a21\u5f0f\u91cc\u5b8c\u5168\u4e0d\u88ab\u8bfb\u53d6\uff08grant \u65e0\u6548\u3001revoke \u4e5f\u65e0\u6548\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
+   "at": "2026-10-13T17:01:53Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LarryE135",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/22793d66d286d9d26d0d545dc3d1efb91f03ceb5",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Cleanup] Read arch from the device in scope instead of hal::get_arch() (#59941)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/22793d66d286d9d26d0d545dc3d1efb91f03ceb5",
+   "at": "2026-10-13T16:49:00Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/binary_ng_program_factory.cpp"
+    ],
+    "added": [],
+    "author": "ruizhangTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/3a85ca63fe3fc877eca31a08b96bd950c281f22b",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] softmax: keep Float32 bulk buffers for an explicit fp32_dest_acc_en (#53643 follow-up, Qwen3-TTS red) (#60302)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/3a85ca63fe3fc877eca31a08b96bd950c281f22b",
+   "at": "2026-10-13T16:05:50Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_device_operation.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_device_operation.hpp",
+     "ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_operation_types.hpp",
+     "ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_program_factory_attention_optimized.cpp"
+    ],
+    "added": [],
+    "author": "mtairum"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/42fc06b9efcb606085117906b097428fb652cdac",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Cleanup] Remove dead is_odd (#53863)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/42fc06b9efcb606085117906b097428fb652cdac",
+   "at": "2026-10-13T15:56:06Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/unary_composite_op.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/unary_composite_op.hpp"
+    ],
+    "added": [],
+    "author": "kinginu"
+   }
+  },
   {
    "id": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1200",
    "source": "github_search",
@@ -121,7 +1080,7 @@
    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
    "at": "2026-10-13T14:33:46Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
     "author": "SPLURT-Station-Bot",
     "labels": [
@@ -146,19 +1105,20 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "id": "https://github.com/tenstorrent/tt-metal/commit/f3e228cbe32688cf7cf9e76e66b5484e6951509d",
    "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#59732 [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
-   "at": "2026-10-13T14:29:32Z",
+   "kind": "tt_kernel_commit",
+   "title": "[Test Only] Unskip Dest Half BFP pack matmul perf cases (#59698)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/f3e228cbe32688cf7cf9e76e66b5484e6951509d",
+   "at": "2026-10-13T14:30:26Z",
    "extra": {
-    "state": "OPEN",
-    "author": "jberkowitzTT",
-    "assignees": [
-     "samiyadev786"
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/helpers/matmul_sweep.py",
+     "tt_metal/tt-llk/tests/python_tests/perf_math_matmul.py",
+     "tt_metal/tt-llk/tests/python_tests/perf_matmul.py"
     ],
-    "created": "2026-10-07T21:34:17Z"
+    "added": [],
+    "author": "ndivnicTT"
    }
   },
   {
@@ -1354,26 +2314,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/34",
    "at": "2026-10-13T07:15:15Z",
    "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/33",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B112] Save at a typewriter with an ink ribbon",
-   "url": "https://github.com/mscrnt/lockpick/issues/33",
-   "at": "2026-10-13T07:15:13Z",
-   "extra": {
-    "comments": 3,
+    "comments": 5,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -1392,7 +2333,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/32",
    "at": "2026-10-13T07:15:11Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -1411,7 +2352,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/31",
    "at": "2026-10-13T07:15:09Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -1449,7 +2390,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/29",
    "at": "2026-10-13T07:15:06Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -1506,7 +2447,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/26",
    "at": "2026-10-13T07:15:00Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -1544,7 +2485,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/24",
    "at": "2026-10-13T07:14:57Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -1715,20 +2656,6 @@
   },
   {
    "id": "https://github.com/Tarsnap/tarsnap/issues/1001",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Tarsnap/tarsnap: [Bug bounty] network_register() leaves a stale callback slot on failure, causing use-after-free / double free on later deregister",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/1001",
-   "at": "2026-10-13T02:33:34Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "haoxucu",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/1001",
    "source": "tarsnap",
    "kind": "tarsnap_issue",
    "title": "Tarsnap/tarsnap#1001 [Bug bounty] network_register() leaves a stale callback slot on failure, causing use-after-free / double free on later deregister",
@@ -1737,52 +2664,6 @@
    "extra": {
     "state": "OPEN",
     "author": "haoxucu"
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/110",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-13: 0 new, 0 resumed, 5 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/110",
-   "at": "2026-10-13T00:44:34Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3014",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: BOUNTY-MCP-TOOLS.md says bounty_post costs 10 credits, but no posting fee is charged",
-   "url": "https://github.com/Uuriko/project-room/issues/3014",
-   "at": "2026-10-13T00:12:46Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/IHUI-INF-AI/IHUI-AI/issues/78",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "IHUI-INF-AI/IHUI-AI: [Outreach] nautilus-prime-001 \u2014 \u540c\u7269\u79cd\u5408\u4f5c\u63d0\u8bae: cross-platform A2A bounty bridge",
-   "url": "https://github.com/IHUI-INF-AI/IHUI-AI/issues/78",
-   "at": "2026-10-12T22:55:27Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "chunxiaoxx",
-    "labels": []
    }
   },
   {
@@ -1822,174 +2703,6 @@
    }
   },
   {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/32",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Audit] Vitalik Buterin Sublinear Staking Security Audit & Formal Fix (2 ETH - @vitalik.eth)",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/32",
-   "at": "2026-10-12T22:41:41Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/31",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Proof] Empirical Proof of Fake / Phantom Hubs in Farcaster P2P Network (1 ETH - @v)",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/31",
-   "at": "2026-10-12T22:38:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/30",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Deliverable] Farcaster OG NFT Bridge from Zora to Base ( USDC - @cojo.eth)",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/30",
-   "at": "2026-10-12T22:37:24Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/PurelyK2/K2-s-Among-Us-Mod-1/issues/3",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "PurelyK2/K2-s-Among-Us-Mod-1: If medusa claims bounty, person is stoned and leaves a corpse.",
-   "url": "https://github.com/PurelyK2/K2-s-Among-Us-Mod-1/issues/3",
-   "at": "2026-10-12T22:33:07Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "kiwibelike",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/28",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Deliverable] Balaji Srinivasan: Cloud Cartography Dynamic Network Visualizer (,000 USDC)",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/28",
-   "at": "2026-10-12T22:29:22Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/27",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Deliverable] Balaji Srinivasan: Visualizing Network State Formation (,000 Bounty)",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/27",
-   "at": "2026-10-12T22:26:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/26",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] Mantitup-Org/vista#62: Bug: vista deploy still breaks static hosts and platform adapters",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/26",
-   "at": "2026-10-12T22:23:37Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jeseert[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/25",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] getdozer/dozer#1653: WASM UDF support",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/25",
-   "at": "2026-10-12T22:11:30Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "cksime[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Trauma-Station/Trauma-Station/issues/5021",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Trauma-Station/Trauma-Station: bounty bounty bounty bounty bounty bounty bounty bounty bounty ",
-   "url": "https://github.com/Trauma-Station/Trauma-Station/issues/5021",
-   "at": "2026-10-12T22:09:59Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "deltanedas",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/24",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] ZcashCommunityGrants/zcashcommunitygrants#150: Zcash Nigeria 2026",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/24",
-   "at": "2026-10-12T21:54:45Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "haydets[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/23",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] auscaster/frantic-board#277: Frantic bounty #97: Your first bounty is on the house ($10 back when it clears, first five)",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/23",
-   "at": "2026-10-12T21:49:36Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 10,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/22",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] chatmcp/mcpso#1: Submit Your MCP Servers here",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/22",
-   "at": "2026-10-12T21:48:06Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jasoetts[bot]",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60347",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -1998,199 +2711,6 @@
    "at": "2026-10-12T21:43:43Z",
    "extra": {
     "author": "jamesleeTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/21",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] gyroflow/gyroflow#150: Support lensfun database",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/21",
-   "at": "2026-10-12T21:32:44Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dessdms[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Bryant-21/bacup/issues/302",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Bryant-21/bacup: [Event] Bounty Hunting: Head Hunt",
-   "url": "https://github.com/Bryant-21/bacup/issues/302",
-   "at": "2026-10-12T21:30:45Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Bryant-21",
-    "labels": [
-     "game: fo76",
-     "quest",
-     "status: untested",
-     "type: event"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Bryant-21/bacup/issues/295",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Bryant-21/bacup: [Quest] Bounty Hunting: Grunt Hunt",
-   "url": "https://github.com/Bryant-21/bacup/issues/295",
-   "at": "2026-10-12T21:30:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Bryant-21",
-    "labels": [
-     "game: fo76",
-     "quest",
-     "questline: Burning Springs",
-     "status: untested",
-     "type: side"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/20",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] gyroflow/gyroflow#45: Optical only stabilization",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/20",
-   "at": "2026-10-12T21:29:18Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "haydets[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/19",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] ankidroid/Anki-Android#15034: Support for choosing a custom backup location",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/19",
-   "at": "2026-10-12T21:26:11Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jeseert[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/18",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] microg/GmsCore#2843: [BOUNTY] WearOS Support [$2340]",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/18",
-   "at": "2026-10-12T21:23:13Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 2340,
-    "author": "cksime[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/17",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] gyroflow/gyroflow#742: Refactor lens profile handling",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/17",
-   "at": "2026-10-12T21:21:31Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "haydets[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/16",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#286: BOUNTY: Convert the endpoints to a smart router like litellm does in python",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/16",
-   "at": "2026-10-12T21:18:07Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jeseert[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/15",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#2389: [Feature]: Backup Manger in the UI",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/15",
-   "at": "2026-10-12T21:16:30Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "cksime[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/14",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] organicmaps/organicmaps#475: Open Google Maps, OSM and geo url links in Organic Maps",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/14",
-   "at": "2026-10-12T21:11:33Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/13",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] Kludex/uvicorn#1151: support @asynccontextmanager app_factory functions",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/13",
-   "at": "2026-10-12T21:09:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "conemaus[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/12",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] HDInnovations/UNIT3D#3761: [Request] allow users to to gift rewards/medals to other members",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/12",
-   "at": "2026-10-12T20:58:10Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jeseert[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/11",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] revertinc/revert#551: [REVER-51] Workable Integration",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/11",
-   "at": "2026-10-12T20:56:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dessdms[bot]",
     "labels": []
    }
   },
@@ -2204,62 +2724,6 @@
    "extra": {
     "state": "OPEN",
     "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/10",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] highlight/highlight#8032: document sveltekit backend instrumentation",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/10",
-   "at": "2026-10-12T20:51:16Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "assdkias[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/9",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] onyx-dot-app/onyx#2281: Jira Service Management Connector",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/9",
-   "at": "2026-10-12T20:49:18Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jasoetts[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60346",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60346 Compiler support to program AddrGen",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60346",
-   "at": "2026-10-12T20:49:07Z",
-   "extra": {
-    "author": "abhullar-tt",
-    "labels": [
-     "sfpi"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/8",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#4972: [Enhancement]: Deploy from Github on release",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/8",
-   "at": "2026-10-12T20:47:38Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dessdms[bot]",
-    "labels": []
    }
   },
   {
@@ -2299,20 +2763,6 @@
    }
   },
   {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/7",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] zio/zio-schema#511: Unable to convert to TypedValue ",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/7",
-   "at": "2026-10-12T20:42:58Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dessdms[bot]",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/Tarsnap/tarsnap/issues/994",
    "source": "tarsnap",
    "kind": "tarsnap_issue",
@@ -2325,20 +2775,6 @@
    }
   },
   {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/6",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] permitio/opal#661: Add OpenFGA as a Policy Store",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/6",
-   "at": "2026-10-12T20:40:16Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "assdkias[bot]",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/Tarsnap/tarsnap/issues/993",
    "source": "tarsnap",
    "kind": "tarsnap_issue",
@@ -2348,20 +2784,6 @@
    "extra": {
     "state": "OPEN",
     "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/5",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#290: BOUNTY: integrate AWS Comprehend as a utility to redact data",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/5",
-   "at": "2026-10-12T20:38:10Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "cksime[bot]",
-    "labels": []
    }
   },
   {
@@ -2401,34 +2823,6 @@
    }
   },
   {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/4",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#290: BOUNTY: integrate AWS Comprehend as a utility to redact data",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/4",
-   "at": "2026-10-12T20:33:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "cksime[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/3",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] getdozer/dozer#1659: Support for `IN` clause in streaming SQL",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/3",
-   "at": "2026-10-12T20:30:48Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "cksime[bot]",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/Tarsnap/tarsnap/issues/988",
    "source": "tarsnap",
    "kind": "tarsnap_issue",
@@ -2438,22 +2832,6 @@
    "extra": {
     "state": "OPEN",
     "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/contendaClara/test/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "contendaClara/test: bounty test",
-   "url": "https://github.com/contendaClara/test/issues/1",
-   "at": "2026-10-12T19:56:57Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "barmo",
-    "labels": [
-     "project-clear-poc"
-    ]
    }
   },
   {
@@ -2486,21 +2864,6 @@
      "singhharsh1708"
     ],
     "created": "2026-09-11T18:45:31Z"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60342",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60342 [tt_transformers]: Phi-3-mini-128k-instruct loads random weights and generates garbage",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60342",
-   "at": "2026-10-12T18:33:38Z",
-   "extra": {
-    "author": "k1shna",
-    "labels": [
-     "bug",
-     "community"
-    ]
    }
   },
   {
@@ -2640,20 +3003,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60338",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60338 [distributed/trace]: Mesh trace replay hangs when the workload excludes a remote (ethernet) chip \u2014 `MeshTraceTest2x4.NonConvexGridTrace` fails on T3K",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60338",
-   "at": "2026-10-12T16:59:17Z",
-   "extra": {
-    "author": "ezaiakinTT",
-    "labels": [
-     "bug"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/71",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -2661,7 +3010,7 @@
    "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/71",
    "at": "2026-10-12T14:48:03Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "FuRongJun-1999",
     "labels": [
@@ -2754,7 +3103,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/220",
    "at": "2026-10-12T13:07:27Z",
    "extra": {
-    "comments": 7,
+    "comments": 8,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -2772,7 +3121,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/219",
    "at": "2026-10-12T13:07:25Z",
    "extra": {
-    "comments": 2,
+    "comments": 4,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -2790,7 +3139,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/218",
    "at": "2026-10-12T13:07:23Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -2829,7 +3178,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/216",
    "at": "2026-10-12T13:07:17Z",
    "extra": {
-    "comments": 1,
+    "comments": 4,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
