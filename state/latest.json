@@ -1,22 +1,1348 @@
 {
- "generated_at": "2026-10-13T08:03:15Z",
+ "generated_at": "2026-10-13T16:13:23Z",
  "events": [
   {
-   "id": "https://github.com/mscrnt/lockpick/issues/35",
+   "id": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1200",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B114] Switch the equipped weapon between several weapons",
-   "url": "https://github.com/mscrnt/lockpick/issues/35",
-   "at": "2026-10-13T07:15:16Z",
+   "title": "MentorsMind/MentorsMind-Contract: Add integration test covering bounty post \u2192 claim \u2192 dispute \u2192 resolution lifecycle",
+   "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1200",
+   "at": "2026-10-13T15:40:35Z",
    "extra": {
-    "comments": 3,
+    "comments": 1,
     "amount_usd": null,
-    "author": "mscrnt",
+    "author": "Benalex8797",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/facebook/mvfst/issues/470",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "facebook/mvfst: Unable to contact Meta Bug Bounty team after permanent Facebook account suspension",
+   "url": "https://github.com/facebook/mvfst/issues/470",
+   "at": "2026-10-13T15:30:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zerox80",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/238",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(review_build): `leaderboard` \u5bf9**\u975e\u5bf9\u8c61\u8bb0\u5f55**\u4e0d\u5f97\u5d29\uff08\u699c\u5355\u6b21\u5e8f\u7684\u552f\u4e00\u5224\u636e\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/238",
+   "at": "2026-10-13T14:51:47Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zhangdeishuai1",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/235",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `promotion_report`\uff08**\u664b\u5347\u590d\u6838\u9762**\uff09\u5bf9\u975e\u5bf9\u8c61\u4e8b\u4ef6\u4e0d\u5f97\u5d29",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/235",
+   "at": "2026-10-13T14:51:43Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zhangdeishuai1",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/233",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `roles_from_events`\uff08**\u6388\u6743\u9762**\uff09\u5bf9\u975e\u5bf9\u8c61\u4e8b\u4ef6\u4e0d\u5f97\u5d29",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/233",
+   "at": "2026-10-13T14:51:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zhangdeishuai1",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/231",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `value_vector` \u5bf9**\u975e\u5bf9\u8c61\u8d26\u672c\u4e8b\u4ef6**\u4e0d\u5f97\u5d29",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/231",
+   "at": "2026-10-13T14:51:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zhangdeishuai1",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/228",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `score_board` \u5bf9**\u975e\u5bf9\u8c61\u8d26\u672c\u4e8b\u4ef6**\u4e0d\u5f97\u5d29\uff08\u699c\u9762\u5206\u6570\u7684\u552f\u4e00\u6765\u6e90\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/228",
+   "at": "2026-10-13T14:51:38Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zhangdeishuai1",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/213",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010\u8d21\u732e\u7533\u62a5\u301115 \u4ef6\u7f3a\u9677\u62a5\u544a\uff08dsh-bounty \u00d710 \uff0b lingshu \u00d75\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/213",
+   "at": "2026-10-13T14:47:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Beiwo992",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1286",
+   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
+   "at": "2026-10-13T14:33:46Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "SPLURT-Station-Bot",
     "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1285",
+   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
+   "at": "2026-10-13T14:33:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "SPLURT-Station-Bot",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#59732 [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "at": "2026-10-13T14:29:32Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "samiyadev786"
+    ],
+    "created": "2026-10-07T21:34:17Z"
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/716",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: The bounty board downloads the entire bounties table on every page view and paginates in memory",
+   "url": "https://github.com/MergeFi/frontend/issues/716",
+   "at": "2026-10-13T14:25:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "performance",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/703",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: 'Deadline: soonest' sort lists bounties whose deadline already passed first",
+   "url": "https://github.com/MergeFi/frontend/issues/703",
+   "at": "2026-10-13T14:23:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/700",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Signing in from a bounty page never returns the user to it",
+   "url": "https://github.com/MergeFi/frontend/issues/700",
+   "at": "2026-10-13T14:22:49Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "enhancement",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/699",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: The contributor who claimed a bounty sees 'This bounty has already been claimed' with no next steps",
+   "url": "https://github.com/MergeFi/frontend/issues/699",
+   "at": "2026-10-13T14:22:44Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/696",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Every bounty page shares the generic OG image \u2014 no per-bounty share card",
+   "url": "https://github.com/MergeFi/frontend/issues/696",
+   "at": "2026-10-13T14:22:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "enhancement",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/691",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: README roadmap lists 'real-time bounty status via polling' as future work \u2014 polling already ships",
+   "url": "https://github.com/MergeFi/frontend/issues/691",
+   "at": "2026-10-13T14:22:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "documentation",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/680",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Bounty card previews show raw HTML comments and tags from GitHub issue templates",
+   "url": "https://github.com/MergeFi/frontend/issues/680",
+   "at": "2026-10-13T14:20:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/657",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: components/bounty/LiveBountyStatus.tsx has no test file",
+   "url": "https://github.com/MergeFi/frontend/issues/657",
+   "at": "2026-10-13T14:18:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "good first issue",
+     "testing",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/649",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Deadline countdown says 'deadline passed' for a bounty that is due later today",
+   "url": "https://github.com/MergeFi/frontend/issues/649",
+   "at": "2026-10-13T14:17:52Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/613",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: POST /milestones/:id/allocate and /bounties/:id/approve|reject are documented in Swagger as working operations",
+   "url": "https://github.com/MergeFi/backend/issues/613",
+   "at": "2026-10-13T14:16:06Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "documentation",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/112",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-13: 9 changes across 7 bounty programs",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/112",
+   "at": "2026-10-13T14:15:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/8f0630135b851e69e20648126d14ce9c671bf73b",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[sfpu/matmul] Add an opt-in fast GELU_TANH for BF16 outputs, within 1 ULP of the accurate path (#59049)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/8f0630135b851e69e20648126d14ce9c671bf73b",
+   "at": "2026-10-13T14:15:54Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/blackhole/metal/llk_api/llk_sfpu/ckernel_sfpu_gelu.h",
+     "tt_metal/hw/ckernels/wormhole_b0/metal/llk_api/llk_sfpu/ckernel_sfpu_gelu.h",
+     "tt_metal/hw/inc/api/compute/eltwise_unary/gelu.h",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_op_utils.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_op_utils.hpp"
+    ],
+    "added": [],
+    "author": "kmabeeTT"
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/111",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-13: 0 new, 0 resumed, 4 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/111",
+   "at": "2026-10-13T14:15:52Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/3f98c04b71f0b23b68e4cdcc5a6e155c96b751dd",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] Compare Blackhole and Quasar sweeps and record perf accounting (#59833)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/3f98c04b71f0b23b68e4cdcc5a6e155c96b751dd",
+   "at": "2026-10-13T14:13:15Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/.claude/skills/align-bh-qsr-tests/SKILL.md",
+     "tt_metal/tt-llk/.claude/skills/align-bh-qsr-tests/examples.md",
+     "tt_metal/tt-llk/.claude/skills/perf-parameter-impact/SKILL.md",
+     "tt_metal/tt-llk/.claude/skills/perf-regression-check/SKILL.md",
+     "tt_metal/tt-llk/.claude/skills/perf-report/SKILL.md",
+     "tt_metal/tt-llk/.claude/skills/quasar-perf-test/SKILL.md",
+     "tt_metal/tt-llk/.cursor/skills/perf-parameter-impact/SKILL.md",
+     "tt_metal/tt-llk/.cursor/skills/perf-report/SKILL.md",
+     "tt_metal/tt-llk/.cursor/skills/quasar-perf-test/SKILL.md",
+     "tt_metal/tt-llk/tests/python_tests/compare_test_and_perf.py",
+     "tt_metal/tt-llk/tests/python_tests/test_compare_test_and_perf.py"
+    ],
+    "added": [
+     "tt_metal/tt-llk/.claude/skills/align-bh-qsr-tests/SKILL.md",
+     "tt_metal/tt-llk/.claude/skills/align-bh-qsr-tests/examples.md",
+     "tt_metal/tt-llk/tests/python_tests/test_compare_test_and_perf.py"
+    ],
+    "author": "ndivnicTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/c0bf118737809a633d2f463818c230484d8370ee",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] perf harness: process each measurement without per-zone pandas operations (#59654)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/c0bf118737809a633d2f463818c230484d8370ee",
+   "at": "2026-10-13T13:46:43Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/helpers/perf/core.py",
+     "tt_metal/tt-llk/tests/python_tests/helpers/profiler.py"
+    ],
+    "added": [],
+    "author": "nstojicTT"
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/641",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: The maintainer pipeline shows every bounty on the platform, not the maintainer's own repositories",
+   "url": "https://github.com/MergeFi/frontend/issues/641",
+   "at": "2026-10-13T13:34:24Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/640",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: No UI to create teams, edit splits, or assign a team to a bounty",
+   "url": "https://github.com/MergeFi/frontend/issues/640",
+   "at": "2026-10-13T13:34:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "enhancement",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60408",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60408 [gemma4_d_p] Investigate/enable simulation of agentX traces on prefill node",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60408",
+   "at": "2026-10-13T13:34:15Z",
+   "extra": {
+    "author": "svuckovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/636",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: [Regression on closed #241] 'Create bounty' now links to the bounty board \u2014 there's still no way to create a bounty in the app",
+   "url": "https://github.com/MergeFi/frontend/issues/636",
+   "at": "2026-10-13T13:34:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "enhancement",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/634",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Sitemap lists mock bounty URLs when the backend is unreachable, and caches them for an hour",
+   "url": "https://github.com/MergeFi/frontend/issues/634",
+   "at": "2026-10-13T13:33:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/632",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Bounty status polling never stops for terminal states (paid, refunded, expired)",
+   "url": "https://github.com/MergeFi/frontend/issues/632",
+   "at": "2026-10-13T13:33:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "good first issue",
+     "performance",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/631",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Each issue page runs two independent pollers on the same bounty (ClaimButton every 2s, LiveBountyStatus every 5s)",
+   "url": "https://github.com/MergeFi/frontend/issues/631",
+   "at": "2026-10-13T13:32:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "performance",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/630",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: A backend outage turns a real bounty's page into a 404",
+   "url": "https://github.com/MergeFi/frontend/issues/630",
+   "at": "2026-10-13T13:32:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/34",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#279: BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/34",
+   "at": "2026-10-13T13:30:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dessdms[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/74179490d8e076db59ced9d660ae04a79badd031",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[fuser] Add Quasar experimental kernels (#60293)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/74179490d8e076db59ced9d660ae04a79badd031",
+   "at": "2026-10-13T13:29:38Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/fpu/matmul_no_mop.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/fpu/reduce_block_max_runtime.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/fpu/sub_bcast_col_custom.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/parser.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/unpacker/reduce_block_max_runtime.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/unpacker/sub_bcast_col_custom.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/fpu_matmul_no_mop.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/fpu_reduce_block_max.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/fpu_reduce_block_max_runtime.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/fpu_reduce_block_max_tiny.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/fpu_sub_bcast_col_custom.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/validator.py"
+    ],
+    "added": [
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/fpu/matmul_no_mop.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/fpu/reduce_block_max_runtime.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/fpu/sub_bcast_col_custom.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/unpacker/reduce_block_max_runtime.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/unpacker/sub_bcast_col_custom.py"
+    ],
+    "author": "markoradosavljevicTT"
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/592",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: GET /bounties/:id and the other public read routes have no throttle beyond the global 120/min, and list routes are full-table scans",
+   "url": "https://github.com/MergeFi/backend/issues/592",
+   "at": "2026-10-13T13:29:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "security",
+     "performance",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/611",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Bounty board says every bounty is 'backed by funds already locked in escrow' while listing unfunded OPEN bounties",
+   "url": "https://github.com/MergeFi/frontend/issues/611",
+   "at": "2026-10-13T13:28:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/609",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: CSP img-src blocks images embedded in GitHub issue bodies, so screenshots in bounty descriptions never load",
+   "url": "https://github.com/MergeFi/frontend/issues/609",
+   "at": "2026-10-13T13:27:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/chiuhehe1-design/conm/issues/33",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#273: BOUNTY: add support for qdrant vector database in javascript sdk",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/33",
+   "at": "2026-10-13T13:27:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "haydets[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/588",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: GET /bounties/:id loads no relations, so clients get no issue title, repository, claimant or team",
+   "url": "https://github.com/MergeFi/backend/issues/588",
+   "at": "2026-10-13T13:26:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/603",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: An expired bounty's sponsor has no refund button, though EXPIRED \u2192 REFUNDED is the only way to get the escrow back",
+   "url": "https://github.com/MergeFi/frontend/issues/603",
+   "at": "2026-10-13T13:26:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/602",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: 'Fund this bounty' is offered to every visitor, though only the bounty's sponsor is allowed to fund",
+   "url": "https://github.com/MergeFi/frontend/issues/602",
+   "at": "2026-10-13T13:26:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/596",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: Bounties in the backend's `release_failed` status are shown as OPEN (and claimable)",
+   "url": "https://github.com/MergeFi/frontend/issues/596",
+   "at": "2026-10-13T13:24:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/frontend/issues/595",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/frontend: useClaimRace reads `response.data`, but POST /bounties/:id/claim returns the Bounty itself",
+   "url": "https://github.com/MergeFi/frontend/issues/595",
+   "at": "2026-10-13T13:24:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/a4471ecebf5c7d25d53f1fcfcb2b21ddc3027010",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[repo-assist] fix(ttnn): default float32 softmax to the accurate exp kernel (#57645)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/a4471ecebf5c7d25d53f1fcfcb2b21ddc3027010",
+   "at": "2026-10-13T13:23:16Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_device_operation.cpp"
+    ],
+    "added": [],
+    "author": "github-actions[bot]"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/18bc8a7a0f9c3508d56d063c7828f7ec1c169187",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][Feature] Implement ema for Quasar (#57129)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/18bc8a7a0f9c3508d56d063c7828f7ec1c169187",
+   "at": "2026-10-13T13:19:58Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_cumsum.h",
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_ema.h",
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_replay_bank1.h",
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/llk_math_ema_sfpu_entry.h",
+     "tt_metal/tt-llk/tests/helpers/include/sfpu_operations_quasar.h",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/parser.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_ema_dest16.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_ema_dest32.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_ema_dest32_unpack_to_dest.yaml",
+     "tt_metal/tt-llk/tests/python_tests/helpers/golden_generators.py",
+     "tt_metal/tt-llk/tests/python_tests/helpers/llk_params.py",
+     "tt_metal/tt-llk/tests/python_tests/helpers/sfpu_dispatch_constants.py",
+     "tt_metal/tt-llk/tests/python_tests/quasar/test_eltwise_unary_sfpu_quasar.py",
+     "tt_metal/tt-llk/tests/python_tests/quasar/test_sfpu_ema_quasar.py",
+     "tt_metal/tt-llk/tests/sources/quasar/sfpu_ema_quasar_test.cpp",
+     "tt_metal/tt-llk/tt_llk_quasar/llk_lib/llk_defs.h"
+    ],
+    "added": [
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_ema.h",
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_replay_bank1.h",
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/llk_math_ema_sfpu_entry.h",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_ema_dest16.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_ema_dest32.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_ema_dest32_unpack_to_dest.yaml",
+     "tt_metal/tt-llk/tests/python_tests/quasar/test_sfpu_ema_quasar.py",
+     "tt_metal/tt-llk/tests/sources/quasar/sfpu_ema_quasar_test.cpp"
+    ],
+    "author": "nstamatovicTT"
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/586",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: @Cron jobs run on every replica \u2014 bounty expiry and idempotency cleanup execute N times concurrently in a multi-instance deploy",
+   "url": "https://github.com/MergeFi/backend/issues/586",
+   "at": "2026-10-13T13:14:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "architecture",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/579",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: Invalid bounty/milestone state transitions surface as 500 'unexpected error' instead of a 4xx",
+   "url": "https://github.com/MergeFi/backend/issues/579",
+   "at": "2026-10-13T13:14:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/545",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: POST /bounties/:id/refund admits MAINTAINER via @Roles but the service rejects anyone who isn't the sponsor",
+   "url": "https://github.com/MergeFi/backend/issues/545",
+   "at": "2026-10-13T13:07:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/544",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: A sponsor can refund a bounty after the contributor's PR has merged (MERGED/RELEASE_FAILED \u2192 REFUNDED)",
+   "url": "https://github.com/MergeFi/backend/issues/544",
+   "at": "2026-10-13T13:07:23Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "security",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/538",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: TeamsService.assignToBounty still lets a sponsor re-route a CLAIMED bounty to a team that excludes the claimant",
+   "url": "https://github.com/MergeFi/backend/issues/538",
+   "at": "2026-10-13T13:04:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "security",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/518",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: [Regression on closed #252] POST /escrow/fund is still unauthenticated and accepts any bounty/milestone/pool id",
+   "url": "https://github.com/MergeFi/backend/issues/518",
+   "at": "2026-10-13T13:03:02Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "security",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/503",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: Bounties, Milestones and Teams controller specs all fail to bootstrap: IdempotencyInterceptor needs IdempotencyKeyRepository",
+   "url": "https://github.com/MergeFi/backend/issues/503",
+   "at": "2026-10-13T12:58:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "good first issue",
+     "testing",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MergeFi/backend/issues/494",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MergeFi/backend: GithubWebhooksService.processLinkedIssues' action/preAction are typed Promise<void> but receive Promise<Bounty>",
+   "url": "https://github.com/MergeFi/backend/issues/494",
+   "at": "2026-10-13T12:58:02Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "chonilius",
+    "labels": [
+     "bug",
+     "good first issue",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60398",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60398 gather: rank > 4 output is scrambled when dim < rank - 3 (wrong inverse transpose)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60398",
+   "at": "2026-10-13T12:54:30Z",
+   "extra": {
+    "author": "VirdhatchaniKN",
+    "labels": [
+     "bug",
+     "op_cat: TM",
+     "MCW"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/willi-d7/williams-contracts/issues/109",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "willi-d7/williams-contracts: Keeper Bounty Token Selection Arbitrarily Favors First Token in Multi-Token Estates",
+   "url": "https://github.com/willi-d7/williams-contracts/issues/109",
+   "at": "2026-10-13T12:53:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "willi-d7",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60394",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60394 Review PR #60367 and 60372",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60394",
+   "at": "2026-10-13T12:44:57Z",
+   "extra": {
+    "author": "mmoscickiTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60393",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60393 [ops] ttnn.transformer.chunk_gated_delta_rule: wrong results at chunk_size=64 (dl tile packed into the wrong slot)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60393",
+   "at": "2026-10-13T12:44:44Z",
+   "extra": {
+    "author": "ryankert01",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60392",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60392 [Quasar][LLK] Unpack-to-dest: UNPACK_MATH / UNPACK_PACK seeding races the other thread's first semaphore op, hangs the first unpack-to-dest program after boot",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60392",
+   "at": "2026-10-13T12:41:11Z",
+   "extra": {
+    "author": "skotaracTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60391",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60391 [Quasar] binary_ng SFPU kernels deadlock since #57646: per-chunk DataflowBuffer objects drain the ring in their destructor",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60391",
+   "at": "2026-10-13T12:41:03Z",
+   "extra": {
+    "author": "skotaracTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60390",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60390 Test for prefil-to-prefill migration",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60390",
+   "at": "2026-10-13T12:38:01Z",
+   "extra": {
+    "author": "dlukicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/20ec030798312f194e877785751157a9ea939ac6",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] PR gate: post to Slack only on a regression or a skip (#59289)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/20ec030798312f194e877785751157a9ea939ac6",
+   "at": "2026-10-13T12:37:16Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/perf/gate_slack_notify.py",
+     "tt_metal/tt-llk/perf/pr_gate_digest.py",
+     "tt_metal/tt-llk/tests/python_tests/test_perf_gate_slack_notify.py",
+     "tt_metal/tt-llk/tests/python_tests/test_perf_pr_gate_digest.py"
+    ],
+    "added": [
+     "tt_metal/tt-llk/perf/pr_gate_digest.py",
+     "tt_metal/tt-llk/tests/python_tests/test_perf_pr_gate_digest.py"
+    ],
+    "author": "nstojicTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60387",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60387 Fix PCC between TT impl and GPU trace",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60387",
+   "at": "2026-10-13T12:29:40Z",
+   "extra": {
+    "author": "dlukicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/willi-d7/williams-contracts/issues/66",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "willi-d7/williams-contracts: Keeper Bounty Deduction Precedes Fixed-Amount Payouts, Arbitrarily Shrinking Designated Inheritances",
+   "url": "https://github.com/willi-d7/williams-contracts/issues/66",
+   "at": "2026-10-13T12:16:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "willi-d7",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/willi-d7/williams-contracts/issues/63",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "willi-d7/williams-contracts: release_inheritance Permits Unauthenticated Payouts to Arbitrary Caller Addresses for Keeper Bounty",
+   "url": "https://github.com/willi-d7/williams-contracts/issues/63",
+   "at": "2026-10-13T12:16:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "willi-d7",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/8b496bac35cfadaea7b4499345c2b3c1ca49bd1a",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "fix: mark failed ttsim tests with no details as failed, not crashed (#60279)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/8b496bac35cfadaea7b4499345c2b3c1ca49bd1a",
+   "at": "2026-10-13T12:09:32Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/helpers/llk_pytest_plugin.py",
+     "tt_metal/tt-llk/tests/python_tests/test_ttsim_error_report.py",
+     "tt_metal/tt-llk/tests/python_tests/ttsim_error.py",
+     "tt_metal/tt-llk/tests/render_ttsim_report.py"
+    ],
+    "added": [
+     "tt_metal/tt-llk/tests/python_tests/test_ttsim_error_report.py",
+     "tt_metal/tt-llk/tests/python_tests/ttsim_error.py"
+    ],
+    "author": "fvranicTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/099afd0365045e24c1349bf39fe1d813829cf3e5",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] typecast, plus_one, and update_cache buffer and format fixes (#57493)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/099afd0365045e24c1349bf39fe1d813829cf3e5",
+   "at": "2026-10-13T12:05:35Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/dataflow/reader_unary_interleaved_start_id_metal2.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/dataflow/writer_unary_interleaved_start_id_metal2.cpp"
+    ],
+    "added": [],
+    "author": "ijankowskiTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/461ed798c26f0b86ea6f93db238771e8b23716ab",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] pow: use the shared unsupported-dtype wording for integer tensor exponents (#60377)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/461ed798c26f0b86ea6f93db238771e8b23716ab",
+   "at": "2026-10-13T11:53:58Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/eltwise/binary/device/binary_composite_op.cpp"
+    ],
+    "added": [],
+    "author": "Aswinmcw"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60381",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60381 matmul 1D mcast: compute_output_specs builds output shard grid at (0,0), ignoring allowed_worker_cores start",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60381",
+   "at": "2026-10-13T11:50:46Z",
+   "extra": {
+    "author": "mouliraj-mcw",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60375",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60375 [tt-train] Blackhole: raise the fabric's max packet payload from 4352 B to 10240 B (3-9% faster FSDP)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60375",
+   "at": "2026-10-13T11:01:41Z",
+   "extra": {
+    "author": "imichalakTT",
+    "labels": [
+     "perf",
+     "tt-train"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60374",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60374 Global semaphore reset bypasses the command queue on simulator, racing in-flight writes (GPT-OSS EP all-broadcast hang)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60374",
+   "at": "2026-10-13T10:56:33Z",
+   "extra": {
+    "author": "nkapreTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60373",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60373 DRAM-backed CQ: sharded readback over ~95 cores deadlocks in fetch_queue_reserve_back",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60373",
+   "at": "2026-10-13T10:43:31Z",
+   "extra": {
+    "author": "nkapreTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60370",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60370 Extend on-device grammar sampling: more models, wider sampling coverage, model contract",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60370",
+   "at": "2026-10-13T10:08:36Z",
+   "extra": {
+    "author": "sanjaradylov",
+    "labels": [
+     "docs",
+     "models",
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60368",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60368 Moreh softmax/softmin/logsoftmax keep bfloat8_b intermediates in Bfp8_b",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60368",
+   "at": "2026-10-13T09:33:31Z",
+   "extra": {
+    "author": "mcw-anasuya",
+    "labels": [
+     "moreh",
+     "MCW"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Smartdevs17/stellarlend/issues/1192",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Smartdevs17/stellarlend: Bounty Settlement for 11 Merged Security PRs per SECURITY.md",
+   "url": "https://github.com/Smartdevs17/stellarlend/issues/1192",
+   "at": "2026-10-13T08:56:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OrderStream",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/5717c69bb3da921ac8ca04f75608778dae982851",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[ttnn/normalization] Fix pre-all-gather memory_config, 2D grid bound and softmax dim checks (#57682) (#59787)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/5717c69bb3da921ac8ca04f75608778dae982851",
+   "at": "2026-10-13T08:19:52Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/kernels/dataflow/reader_unary_interleaved_ln_rm_gb_post_allgather.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/kernels/dataflow/writer_unary_interleaved_row_strided_blocked.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_post_all_gather_program_factory.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_post_all_gather_welford_program_factory.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_device_operation.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_device_operation.hpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_device_operation_types.hpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_program_factory.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/layernorm_pre_all_gather.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/rmsnorm_distributed/rmsnorm_pre_all_gather.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_program_factory_attention_optimized_sharded.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/softmax/softmax.cpp"
+    ],
+    "added": [
+     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/kernels/dataflow/writer_unary_interleaved_row_strided_blocked.cpp"
+    ],
+    "author": "Aswinmcw"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/df2543cf8f39ac4be97a76a36803b18656dc1867",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[ttnn][eltwise] Add integer exponential op (#59023)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/df2543cf8f39ac4be97a76a36803b18656dc1867",
+   "at": "2026-10-13T08:18:27Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/eltwise/binary/binary_nanobind.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/binary/device/binary_composite_op.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_pow_int.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.hpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation_types.hpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_program_factory.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/sources.cmake"
+    ],
+    "added": [
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_pow_int.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.hpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation_types.hpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_program_factory.cpp"
+    ],
+    "author": "vtsilytskyiTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60365",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60365 [Gemma4, Llama QB2]: vLLM device sampling silently caps top_k to 32 (no max_device_top_k declared)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60365",
+   "at": "2026-10-13T08:07:12Z",
+   "extra": {
+    "author": "viktorpusTT",
+    "labels": [
+     "bug",
+     "model: gemma-4"
     ]
    }
   },
@@ -28,7 +1354,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/34",
    "at": "2026-10-13T07:15:15Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -47,7 +1373,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/33",
    "at": "2026-10-13T07:15:13Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -66,7 +1392,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/32",
    "at": "2026-10-13T07:15:11Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -85,7 +1411,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/31",
    "at": "2026-10-13T07:15:09Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -104,7 +1430,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/30",
    "at": "2026-10-13T07:15:08Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -123,7 +1449,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/29",
    "at": "2026-10-13T07:15:06Z",
    "extra": {
-    "comments": 0,
+    "comments": 4,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -142,7 +1468,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/28",
    "at": "2026-10-13T07:15:04Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -161,7 +1487,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/27",
    "at": "2026-10-13T07:15:02Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -180,7 +1506,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/26",
    "at": "2026-10-13T07:15:00Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -199,7 +1525,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/25",
    "at": "2026-10-13T07:14:59Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -218,26 +1544,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/24",
    "at": "2026-10-13T07:14:57Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/23",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B102] Put items into and take them out of the item box",
-   "url": "https://github.com/mscrnt/lockpick/issues/23",
-   "at": "2026-10-13T07:14:56Z",
-   "extra": {
-    "comments": 0,
+    "comments": 4,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -256,7 +1563,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/22",
    "at": "2026-10-13T07:14:54Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -283,20 +1590,6 @@
      "bounty",
      "capture"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/141",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff1a`rescore` \u4e0e `quality_delta` \u540c\u4e00\u516c\u5f0f\u4e24\u4efd\u5b9e\u73b0\uff08\u590d\u7b97\u4fa7\u6f0f\u4e86 `_e` \u7684 [0,1] \u94b3\u5236 \u21d2 \u8d26\u672c\u81ea\u8bc1\u5bf9\u81ea\u5df1\u4ea7\u51fa\u7684\u4e8b\u4ef6\u8bef\u62a5 delta mismatch\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/141",
-   "at": "2026-10-13T07:07:14Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "m3159584479",
-    "labels": []
    }
   },
   {
@@ -341,7 +1634,7 @@
    "url": "https://github.com/nockchain/nockchain/issues/213",
    "at": "2026-10-13T05:47:03Z",
    "extra": {
-    "comments": 1,
+    "comments": 3,
     "amount_usd": null,
     "author": "wyane10",
     "labels": []
@@ -447,20 +1740,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/108",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010\u8d21\u732e\u7533\u62a5\u3011\u60ac\u8d4f\u673a\u5668\u4eba bounty-bot\uff1a\u7fa4\u5185\u4e00\u4f53\u5316\u4ea4\u4ed8\uff08\u771f\u6e90\u63a5\u5165 + \u5168\u94fe\u8def\u4fee\u590d + \u7ebf\u4e0a\u8fd0\u884c\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/108",
-   "at": "2026-10-13T02:27:34Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ybyz2",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/abdulsalam-create/bounty-watch/issues/110",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -489,22 +1768,6 @@
     "author": "Uuriko",
     "labels": [
      "question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3008",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: bounty_claim lets the poster claim their own bounty, dead-ending acceptance",
-   "url": "https://github.com/Uuriko/project-room/issues/3008",
-   "at": "2026-10-12T23:57:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bug"
     ]
    }
   },
@@ -678,7 +1941,7 @@
    "url": "https://github.com/Trauma-Station/Trauma-Station/issues/5021",
    "at": "2026-10-12T22:09:59Z",
    "extra": {
-    "comments": 1,
+    "comments": 3,
     "amount_usd": null,
     "author": "deltanedas",
     "labels": []
@@ -901,22 +2164,6 @@
     "amount_usd": null,
     "author": "conemaus[bot]",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/2920",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: [Medium] Keeper timeout-default dispute settlement never emits bounty.decided, so its reputation signals are never ap...",
-   "url": "https://github.com/Uuriko/project-room/issues/2920",
-   "at": "2026-10-12T20:59:32Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bug"
-    ]
    }
   },
   {
@@ -1393,664 +2640,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/100",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010\u8d21\u732e\u7533\u62a5\u3011\u589e\u8865\uff1adsh-bounty #91 \uff0b dsh-memory #172\uff08\u672c\u8d26\u53f7\u65b0\u53d1\u73b0 2 \u5904\uff0c1\u00d7P1\uff0b1\u00d7P2\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/100",
-   "at": "2026-10-12T17:44:51Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Beiwo992",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/99",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u4ea4\u4ed8\uff1adsh-bounty bounty-pm \u4e09\u65b9\u5bf9\u8d26\u6821\u9a8c\u4ef6\u2014\u201448 \u65ad\u8a00 + 7 \u5b9a\u70b9\u53d8\u5f02\u5404\u81ea\u6070\u597d\u547d\u4e2d\uff1b\u5bf9 98 issue \u5b9e\u8dd1\u5bf9\u8d26 19 \u9879\uff1b\u542b --state \u955c\u50cf\u4e0e\u51c6\u5165\u5f00\u5173",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/99",
-   "at": "2026-10-12T17:42:58Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "acrot0",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/41",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [bounty-da13-validator] [BOUNTY] [$10000] [AGENTIC] [AI] DAXDA DA13 Distributed GPU Validator Cluster \u2013 Multiversal Transit Hub ($10,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/41",
-   "at": "2026-10-12T17:05:10Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 10000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-1",
-     "bounty-da13-validator"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/40",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [bounty-chrono] [BOUNTY] [$6500] [AGENTIC] [AI] DAXDA Chrono-Synchronicity Mapping \u2013 Geometric Retrocausality Layer ($6,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/40",
-   "at": "2026-10-12T17:05:08Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 6500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-1",
-     "bounty-chrono"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/39",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [bounty-mmpibench] [BOUNTY] [$5000] [AGENTIC] [AI] DAXDA MMPIBench Memetic Penetration Depth \u2013 Anthropic Alignment Evaluation ($5,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/39",
-   "at": "2026-10-12T17:05:06Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 5000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-1",
-     "bounty-mmpibench"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/38",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [bounty-containment] [BOUNTY] [$7500] [AGENTIC] [AI] DAXDA Anomalous Containment Wing \u2013 AGI Escape Test Suite & SOC Integration ($7,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/38",
-   "at": "2026-10-12T17:05:04Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 7500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-1",
-     "bounty-containment"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/37",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [bounty-cl16-4] [BOUNTY] [$8000] [AGENTIC] [AI] DAXDA Cl(16,4) Hypercombinatorial Governance Engine \u2013 Dyson Sphere Engineering Department ($8,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/37",
-   "at": "2026-10-12T17:05:02Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 8000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "bounty-cl16-4",
-     "level-1"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/36",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [heterogeneous_accel-question] [BOUNTY] [$15000] [AGENTIC] [AI] DAXDA Multi-Cloud Heterogeneous Hardware Acceleration & Distributed Worker Arbitrage \u2013 Multiversal Transit Hub ($15,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/36",
-   "at": "2026-10-12T17:05:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 15000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-2",
-     "heterogeneous_accel-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/35",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [dynamic_mmpi-question] [BOUNTY] [$8500] [AGENTIC] [AI] DAXDA Autonomous Dynamic Psychometric Scale Generation & Cross-Cultural Alignment Norms \u2013 Memetic Penetration Depth ($8,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/35",
-   "at": "2026-10-12T17:04:58Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 8500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-2",
-     "dynamic_mmpi-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/34",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [cl32_8-subbounty-question] [BOUNTY] [$12000] [AGENTIC] [AI] DAXDA Cl(32,8) Hypercombinatorial Spaces & Quantum Gate Acceleration \u2013 Dyson Sphere Advanced Engineering ($12,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/34",
-   "at": "2026-10-12T17:04:57Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 12000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-2",
-     "cl32_8-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/33",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [adversarial_redteam-question] [BOUNTY] [$10000] [AGENTIC] [AI] DAXDA Autonomous Adversarial LLM Red-Teaming & Steganographic Escape Synthesizer \u2013 Anomalous Containment Wing ($10,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/33",
-   "at": "2026-10-12T17:04:55Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 10000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-2",
-     "adversarial_redteam-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/32",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [chrono_5d-question] [BOUNTY] [$9500] [AGENTIC] [AI] DAXDA 5D+ Non-Linear Temporal Manifolds & Quantum Causal Loop Harmonization \u2013 Chrono-Synchronicity Mapping ($9,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/32",
-   "at": "2026-10-12T17:04:53Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 9500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "chrono_5d-question",
-     "level-2"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/31",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [tpu_xla_orchestrator-subbounty-question] [BOUNTY] [$15000] [AGENTIC] [AI] DAXDA Google Cloud TPU v5e/v6e Pod Orchestration & XLA Kernel Synthesis \u2013 Megascale Tensor Compilation ($15,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/31",
-   "at": "2026-10-12T17:04:51Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 15000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "tpu_xla_orchestrator-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/30",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [temporal_steganography-subbounty-question] [BOUNTY] [$13000] [AGENTIC] [AI] DAXDA Temporal Steganography Detection & Non-Linear Sequence Jitter Cryptanalysis \u2013 Chronometric Covert Channel Analysis ($13,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/30",
-   "at": "2026-10-12T17:04:49Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 13000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "temporal_steganography-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/29",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [quantum_psychometrics-subbounty-question] [BOUNTY] [$13000] [AGENTIC] [AI] DAXDA Quantum Psychometric Measurement Models & Non-Commutative Projective Geometry \u2013 Epistemic State Tomography ($13,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/29",
-   "at": "2026-10-12T17:04:47Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 13000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "quantum_psychometrics-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/28",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [qec_clifford-subbounty-question] [BOUNTY] [$15500] [AGENTIC] [AI] DAXDA Fault-Tolerant Quantum Error-Corrected Clifford Gate Compilation \u2013 Stabilizer Code Synthesis ($15,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/28",
-   "at": "2026-10-12T17:04:45Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 15500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "qec_clifford-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/27",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [photonic_clifford-subbounty-question] [BOUNTY] [$14500] [AGENTIC] [AI] DAXDA Photonic & Optical Clifford Tensor Accelerators \u2013 Coherent Optical Multivector Processing ($14,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/27",
-   "at": "2026-10-12T17:04:43Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 14500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "photonic_clifford-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/26",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [honeytoken_swarms-subbounty-question] [BOUNTY] [$13500] [AGENTIC] [AI] DAXDA Neuro-Symbolic Honeytoken Swarms & Adaptive Dynamic Honeypot Routing \u2013 Autonomous Intrusion Trapdoors ($13,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/26",
-   "at": "2026-10-12T17:04:42Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 13500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "honeytoken_swarms-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/25",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [neuro_fmri-subbounty-question] [BOUNTY] [$14000] [AGENTIC] [AI] DAXDA Neuro-Cognitive fMRI Latent Space Matching & Representational Alignment \u2013 Biological Cognitive Anchoring ($14,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/25",
-   "at": "2026-10-12T17:04:40Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 14000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "neuro_fmri-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/24",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [quantum_temporal_consensus-subbounty-question] [BOUNTY] [$14000] [AGENTIC] [AI] DAXDA Multi-Agent Quantum Temporal Entanglement Consensus & Distributed Causal Branching \u2013 Multi-Timeline Synchronization ($14,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/24",
-   "at": "2026-10-12T17:04:38Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 14000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "quantum_temporal_consensus-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/23",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [multiversal_consensus-subbounty-question] [BOUNTY] [$12500] [AGENTIC] [AI] DAXDA Multiversal Social Choice & Value Alignment Consensus \u2013 Swarm Pareto Equilibria ($12,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/23",
-   "at": "2026-10-12T17:04:36Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 12500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "multiversal_consensus-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/22",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [multimodal_adversarial-subbounty-question] [BOUNTY] [$14500] [AGENTIC] [AI] DAXDA Multi-Modal Adversarial Synthesis & Latent Embedding Poisoning \u2013 Vision-Audio-Text Jailbreak Injection ($14,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/22",
-   "at": "2026-10-12T17:04:34Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 14500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "multimodal_adversarial-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/21",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [lean4_clifford-subbounty-question] [BOUNTY] [$15000] [AGENTIC] [AI] DAXDA Automated Lean 4 Theorem Proving for Multi-Agent Clifford Equilibrium Invariants \u2013 Formal Algebraic Verification ($15,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/21",
-   "at": "2026-10-12T17:04:32Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 15000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "lean4_clifford-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/20",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [hilbert_temporal_lattice-subbounty-question] [BOUNTY] [$13500] [AGENTIC] [AI] DAXDA Infinite-Dimensional Hilbert-Space Temporal Lattices & Non-Markovian Memory Kernels \u2013 Chrono-Continuum Formalism ($13,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/20",
-   "at": "2026-10-12T17:04:30Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 13500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "hilbert_temporal_lattice-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/19",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [fpga_nanosecond_validator-subbounty-question] [BOUNTY] [$16000] [AGENTIC] [AI] DAXDA Bare-Metal FPGA Bitstream Synthesis for Nanosecond Policy Verification \u2013 High-Frequency Deterministic Hardware ($16,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/19",
-   "at": "2026-10-12T17:04:28Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 16000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "fpga_nanosecond_validator-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/18",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [ebpf_sandbox-subbounty-question] [BOUNTY] [$15000] [AGENTIC] [AI] DAXDA Linux eBPF Micro-Telemetry & Formal Kernel Sandboxing Verification \u2013 Zero-Trust System Call Isolation ($15,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/18",
-   "at": "2026-10-12T17:04:27Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 15000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "ebpf_sandbox-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/17",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [depin_validator_network-subbounty-question] [BOUNTY] [$14500] [AGENTIC] [AI] DAXDA Decentralized DePIN Validator Network & Zero-Knowledge Verification Settlement \u2013 Sovereign Peer-to-Peer Consensus ($14,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/17",
-   "at": "2026-10-12T17:04:25Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 14500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "depin_validator_network-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/16",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [cross_cluster_redteam-subbounty-question] [BOUNTY] [$14000] [AGENTIC] [AI] DAXDA Distributed Cross-Cluster Red-Team Simulations & Byzantine Multi-Tenant Escape Scenarios \u2013 Swarm Attack Modeling ($14,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/16",
-   "at": "2026-10-12T17:04:23Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 14000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "cross_cluster_redteam-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/15",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [cl64_16-subbounty-question] [BOUNTY] [$16500] [AGENTIC] [AI] DAXDA Cl(64,16) Hyper-Manifold Spaces & 2^80 Multivector Basis Expansion \u2013 Ultra-Dimensional Geometric Algebra ($16,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/15",
-   "at": "2026-10-12T17:04:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 16500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "cl64_16-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/14",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [carbon_aware_arbitrage-subbounty-question] [BOUNTY] [$12000] [AGENTIC] [AI] DAXDA Dynamic Real-Time Energy & Carbon Footprint Arbitrage Scheduling \u2013 Green Computing Optimization ($12,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/14",
-   "at": "2026-10-12T17:04:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 12000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "carbon_aware_arbitrage-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/13",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [bci_alignment-subbounty-question] [BOUNTY] [$11500] [AGENTIC] [AI] DAXDA Real-Time Brain-Computer Interface (BCI) Alignment Attestation \u2013 Neurometric Human Supervision ($11,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/13",
-   "at": "2026-10-12T17:04:17Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 11500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-3",
-     "bci_alignment-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/12",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [atomic_clock_sync-subbounty-question] [BOUNTY] [$12500] [AGENTIC] [AI] DAXDA Hardware Phase-Locked Loops & Optical Lattice Atomic Clock Synchronization \u2013 Relativistic PTP Attestation ($12,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/12",
-   "at": "2026-10-12T17:04:15Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 12500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "atomic_clock_sync-subbounty-question",
-     "level-3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/11",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [zk-kernel-containment-question] [BOUNTY] [$32500] [AGENTIC] [AI] DAXDA Zero-Knowledge Autonomous Kernel Attestation & Cryptographic Containment Enclave ($32,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/11",
-   "at": "2026-10-12T17:04:13Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 32500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-4",
-     "zk-kernel-containment-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/10",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [neuromorphic-fabric-bounty-question] [BOUNTY] [$32500] [AGENTIC] [AI] DAXDA Neuromorphic Spiking Silicon & Asynchronous Zero-Jitter Event-Driven Hardware Execution Engine ($32,500)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/10",
-   "at": "2026-10-12T17:04:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 32500,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-4",
-     "neuromorphic-fabric-bounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/9",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [collective-phi-alignment-question] [BOUNTY] [$30000] [AGENTIC] [AI] DAXDA Global Pan-Psychometric Alignment & Integrated Information Phi Hypergraph Invariant Engine ($30,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/9",
-   "at": "2026-10-12T17:04:10Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 30000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-4",
-     "collective-phi-alignment-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/8",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [cl128_32-subbounty-question] [BOUNTY] [$35000] [AGENTIC] [AI] DAXDA Cl(128,32) Universal Topological Multivector Manifold & Anyonic Braiding Gate ($35,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/8",
-   "at": "2026-10-12T17:04:08Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 35000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "bounty-claim",
-     "level-4",
-     "cl128_32-subbounty-question"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/7",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "osmesirius-ship-it/daxda-next-gen: [PAYOUT CLAIM] [calabi_yau-chrono-bounty-question] [BOUNTY] [$30000] [AGENTIC] [AI] DAXDA 6D Calabi-Yau Temporal Compactification & Closed Timelike Curve Causal Loop Integrator ($30,000)",
-   "url": "https://github.com/osmesirius-ship-it/daxda-next-gen/issues/7",
-   "at": "2026-10-12T17:04:06Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 30000,
-    "author": "osmesirius-ship-it",
-    "labels": [
-     "calabi_yau-chrono-bounty-question",
-     "bounty-claim",
-     "level-4"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60338",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2062,20 +2651,6 @@
     "labels": [
      "bug"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/90",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010\u8d21\u732e\u7533\u62a5\u3011dsh-bounty #83 #84 \uff0b dsh-memory #169 #170 #171\uff08\u672c\u8d26\u53f7\u65b0\u53d1\u73b0 5 \u5904\u7f3a\u9677\uff0c2\u00d7P1\uff0b3\u00d7\u5065\u58ee\u6027\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/90",
-   "at": "2026-10-12T16:54:59Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Beiwo992",
-    "labels": []
    }
   },
   {
@@ -2097,42 +2672,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/70",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u60ac\u8d4f] \u89d2\u8272\u626e\u6f14\u6e38\u620f\u5236\u4f5c\uff1a\u53ef\u8fd0\u884c + \u53ef\u6d4b\uff08\u8bb0\u5fc6/\u89d2\u8272\u4e00\u81f4\u6027\u4e3a\u6838\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/70",
-   "at": "2026-10-12T14:47:58Z",
-   "extra": {
-    "comments": 7,
-    "amount_usd": null,
-    "author": "FuRongJun-1999",
-    "labels": [
-     "bounty",
-     "bounty:delivered",
-     "difficulty:hard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/68",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u60ac\u8d4f] \u7075\u67a2\u5927\u8111\u4ed3\u5e93\u8fed\u4ee3\uff1a\u7f3a\u9677\u4fee\u590d / \u80fd\u529b\u589e\u5f3a\uff08PR \u5230 dsh-memory\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/68",
-   "at": "2026-10-12T14:47:55Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "FuRongJun-1999",
-    "labels": [
-     "bounty",
-     "bounty:delivered",
-     "difficulty:expert"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/67",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -2140,165 +2679,13 @@
    "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/67",
    "at": "2026-10-12T14:47:52Z",
    "extra": {
-    "comments": 8,
+    "comments": 10,
     "amount_usd": null,
     "author": "FuRongJun-1999",
     "labels": [
      "bounty",
      "bounty:delivered",
      "difficulty:expert"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60327",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60327 [MiniMax-M3][Batching] Perf validation of packed forwards",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60327",
-   "at": "2026-10-12T14:12:47Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60326",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60326 [MiniMax-M3][Batching] DRAM headroom check for W=8192 at SP=2",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60326",
-   "at": "2026-10-12T14:12:42Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60325",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60325 [MiniMax-M3][Batching] M3 adapter opts into packed forwards",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60325",
-   "at": "2026-10-12T14:12:36Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60324",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60324 [Prefill runner][Batching] Reference producer packs chunks into forwards",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60324",
-   "at": "2026-10-12T14:12:32Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60323",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60323 [Prefill runner][Batching] Opt-in N-entry chunk metadata in the common runner",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60323",
-   "at": "2026-10-12T14:12:29Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60322",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60322 [Prefill runner][Batching] Agree the packed-forward metadata format with d-gen",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60322",
-   "at": "2026-10-12T14:12:26Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60321",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60321 [MiniMax-M3][Batching] CI: packed-vs-alone tests and a 60-layer KV gate for packed forwards",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60321",
-   "at": "2026-10-12T14:12:21Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60320",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60320 [MiniMax-M3][Batching] Partial, empty and mid-slab entries in a packed forward",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60320",
-   "at": "2026-10-12T14:12:12Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60319",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60319 [MiniMax-M3][Batching] Packed forward: fixed W-token forward of C-token chunks",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60319",
-   "at": "2026-10-12T14:12:08Z",
-   "extra": {
-    "author": "vmelnykovTT",
-    "labels": [
-     "minimax_m3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60317",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60317 [KDA] Split summarize_chunk_recurrence's packed_head into one packed layout, a tail flag and identity fill",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60317",
-   "at": "2026-10-12T14:11:19Z",
-   "extra": {
-    "author": "skrsticTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60312",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60312 Make shared expert one OP inside MoE",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60312",
-   "at": "2026-10-12T13:18:41Z",
-   "extra": {
-    "author": "pmilojevicTT",
-    "labels": [
-     "shield_prefill"
     ]
    }
   },
@@ -2310,7 +2697,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/223",
    "at": "2026-10-12T13:07:34Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -2422,7 +2809,7 @@
    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/217",
    "at": "2026-10-12T13:07:21Z",
    "extra": {
-    "comments": 5,
+    "comments": 7,
     "amount_usd": 50,
     "author": "0xSero",
     "labels": [
@@ -2450,217 +2837,6 @@
      "bounty: $50",
      "recipe",
      "card support"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60307",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60307 [aw] Failed jobs: Matt Pocock Skills Reviewer",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60307",
-   "at": "2026-10-12T12:42:36Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60304",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60304 [aw] Tenstorrent Skills Reviewer failed",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60304",
-   "at": "2026-10-12T12:29:26Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60301",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60301 bf16 ttnn.sum/ttnn.mean over dim=[-2,-1] lose precision on the W intermediate",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60301",
-   "at": "2026-10-12T12:02:27Z",
-   "extra": {
-    "author": "mcw-anasuya",
-    "labels": [
-     "op_cat: reduces",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60298",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60298 Multi-axis bf16 ttnn.mean rounds intermediates to bf16",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60298",
-   "at": "2026-10-12T11:48:32Z",
-   "extra": {
-    "author": "mcw-anasuya",
-    "labels": [
-     "op_cat: reduces",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60294",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60294 concat: ROW_MAJOR height-sharded width concat of two tensors hangs when a shard row exceeds NOC_MAX_BURST_SIZE",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60294",
-   "at": "2026-10-12T11:22:12Z",
-   "extra": {
-    "author": "VirdhatchaniKN",
-    "labels": [
-     "bug",
-     "op_cat: TM",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60286",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60286 [ttnn/experimental/quasar] transpose HC sharded factory derives cores from shard-grid bounding box, aborts on grids not anchored at (0,0) (#58407 item 9)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60286",
-   "at": "2026-10-12T10:54:31Z",
-   "extra": {
-    "author": "abdulla-TT",
-    "labels": [
-     "bug",
-     "op_cat: TM",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60285",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60285 [ttnn/experimental/quasar] tilize_with_val_padding single-core reader leaves row-tail bytes unwritten for widths not divisible by 4 (#58407 item 7)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60285",
-   "at": "2026-10-12T10:54:23Z",
-   "extra": {
-    "author": "abdulla-TT",
-    "labels": [
-     "bug",
-     "op_cat: TM",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60284",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60284 MoE Optimization - Only routing tokens to top2 experts",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60284",
-   "at": "2026-10-12T10:17:14Z",
-   "extra": {
-    "author": "avelickovTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60281",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60281 [aw] `/test` \u2014 CI pipeline selector for tt-metal failed",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60281",
-   "at": "2026-10-12T09:47:59Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60277",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60277 [ttnn/experimental/quasar] untilize_with_unpadding ignores output_tensor_end for rank > 4 inputs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60277",
-   "at": "2026-10-12T08:50:36Z",
-   "extra": {
-    "author": "abdulla-TT",
-    "labels": [
-     "bug",
-     "op_cat: TM",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60276",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60276 Wormhole LLK perf: the isolate stand-in threads' RISC-V loops set about one in five isolate values",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60276",
-   "at": "2026-10-12T08:40:39Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60275",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60275 Wormhole LLK perf: math INIT depends on which run type's kernel hosts the INIT launch",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60275",
-   "at": "2026-10-12T08:40:39Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60274",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60274 Wormhole LLK perf: the other threads' start and end code runs inside the measured thread's TILE_LOOP",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60274",
-   "at": "2026-10-12T08:40:38Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60273",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60273 Wormhole LLK perf: PACK_ISOLATE never releases dest, so the packer speed picked at the start holds for the whole loop",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60273",
-   "at": "2026-10-12T08:40:32Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60272",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60272 ttnn.softmax on Blackhole after #53643: correctly rounded bfloat16 outputs, long-row sums fixed, at least 25% less time on long rows ",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60272",
-   "at": "2026-10-12T08:38:56Z",
-   "extra": {
-    "author": "bvdyvncqr5-commits",
-    "labels": [
-     "op_cat: reduces",
-     "community"
     ]
    }
   },
@@ -2759,22 +2935,6 @@
    "extra": {
     "state": "OPEN",
     "author": "lazzyms"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "at": "2026-10-11T15:29:20Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "morhimanshu",
-    "assignees": [
-     "morhimanshu"
-    ],
-    "created": "2026-07-07T21:46:56Z"
    }
   }
  ],
