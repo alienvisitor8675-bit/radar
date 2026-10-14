@@ -1,6 +1,540 @@
 {
- "generated_at": "2026-10-14T05:14:32Z",
+ "generated_at": "2026-10-14T10:25:31Z",
  "events": [
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/375",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010\u8d21\u732e\u7533\u62a5\u3011cross-eval\uff08dsh-bounty issue #67 \u4ea4\u4ed8\u9762\uff097 \u4ef6\u91cf\u5177/\u5224\u636e\u7f3a\u9677\uff1aP0\u00d72 \uff0b P1\u00d75 \u2014\u2014 \u9644\u9010\u6761\u590d\u73b0\u8bfb\u6570\u3001\u53c2\u8003\u8865\u4e01\u3001\u5b9a\u70b9\u53d8\u5f02\u4e0e\u53bb\u91cd\u8fb9\u754c",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/375",
+   "at": "2026-10-14T10:09:26Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/374",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1across-eval \u5b88\u536b R5\u300c\u56f4\u680f\u8bfb\u6570\u5fc5\u987b\u9010\u5b57\u53ef\u6307\u300d\u6709\u4e09\u6761\u7ed5\u8fc7\u9762\uff08\u8de8\u5f15\u64ce\u8d34\u6761\uff0f`#` \u524d\u7f00\uff0f\u6b63\u6587\u4e0d\u6838\u5bf9\uff09\uff0c\u7f16\u9020\u8bfb\u6570\u6574\u7bc7\u514d\u68c0\uff08\u5b50\u9762 `bench/cross_eval`\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/374",
+   "at": "2026-10-14T10:08:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/373",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1across-eval \u5b88\u536b `section_body()` \u53d6\u6807\u9898**\u9996\u6b21\u51fa\u73b0**\u4e14\u4e0d\u770b\u56f4\u680f \u21d2 \u5047\u6807\u9898\u53ef\u67b6\u7a7a R7/R10/R11/R12\uff08\u771f\u672a\u6d4b\u8282\u6e05\u7a7a\u4ecd\u5168\u7eff\uff09\uff08\u5b50\u9762 `bench/cross_eval`\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/373",
+   "at": "2026-10-14T10:08:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/372",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1across-eval \u81ea\u8bc1\u5957\u4ef6 10 \u6761\u5b9a\u70b9\u53d8\u5f02\u5bf9 12 \u6761\u5224\u636e \u2014\u2014 R3 \u96f6\u8986\u76d6\u3001A11 \u53ea\u65ad\u8a00\u300c>= 10\u300d\u3001R4/R5/R6 \u53ea\u6ce8\u5165 LangGraph \u4e00\u4efd\u3001R8 \u53ea\u88ab\u9996\u6a21\u5f0f\u8bc1\u660e\uff08\u5b50\u9762 `bench/cross_eval`\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/372",
+   "at": "2026-10-14T10:06:13Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60536",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60536 Refactor routed expert part of OP used for RE and combine overlap",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60536",
+   "at": "2026-10-14T10:05:18Z",
+   "extra": {
+    "author": "pmilojevicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/371",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1across-eval \u57fa\u7ebf\u7684 `run(\"retry\")` **\u65e0\u5c1d\u8bd5\u4e0a\u9650** \u2014\u2014 \u88ab\u91cd\u8bd5\u6b65\u9aa4\u771f\u629b `RuntimeError` \u5c31**\u6c38\u4e0d\u8fd4\u56de**\uff0c\u4e14\u5b83\u7684 `ATTEMPTS 3` \u662f**\u5047\u9020\u6ce8\u5165**\u7684\u4ea7\u51fa\uff08\u5b50\u9762 `bench/cross_eval`\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/371",
+   "at": "2026-10-14T10:02:38Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/370",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1across-eval \u5b88\u536b R8 \u7f3a `sha256` \u5373\u5224\u901a\u8fc7 \uff0b runner \u5931\u8d25\u6a21\u5f0f\u9000\u51fa\u7801\u6052 0 \uff0b \u5f15\u64ce\u81ea\u62a5\u8bc1\u636e\u952e\u88ab 6 \u952e\u767d\u540d\u5355\u9759\u9ed8\u4e22\u5f03\uff08\u540c\u4e00\u65cf\u4e09\u5904\uff0c\u9644 `cfg_for` \u5f62\u53c2\u96f6\u5f15\u7528\uff09\uff08\u5b50\u9762 `bench/cross_eval`\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/370",
+   "at": "2026-10-14T10:02:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/368",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1across-eval \u57fa\u7ebf resume \u6863\u8bfb\u6570\u300c\u81ea\u8ff0\u5192\u5145\u5b9e\u6d4b\u300d\uff0b \u56db\u5bb6\u540c\u4e00\u8bfb\u6570\u4e09\u79cd\u53e3\u5f84\uff08\u5b50\u9762 `bench/cross_eval`\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/368",
+   "at": "2026-10-14T10:02:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/367",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1across-eval \u62a5\u544a 4 \u7c7b\u5171 21 \u6761\u8bfb\u6570\u300c\u6307\u4e0d\u5230\u51fa\u5904\uff0f\u6307\u5230\u9519\u51fa\u5904\u300d\uff0c\u5b88\u536b R5 \u8986\u76d6\u4e0d\u5230\u8be5\u5f62\u6001\uff08\u5b50\u9762 `bench/cross_eval`\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/367",
+   "at": "2026-10-14T10:02:02Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zijinmengxi",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60534",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60534 [aw] Failed jobs: `/test` \u2014 CI pipeline selector for tt-metal",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60534",
+   "at": "2026-10-14T09:59:14Z",
+   "extra": {
+    "author": "app/github-actions",
+    "labels": [
+     "agentic-workflows"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60532",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60532 Align eltwise unary SFPU functional and performance tests across WH/BH and Quasar",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60532",
+   "at": "2026-10-14T09:50:39Z",
+   "extra": {
+    "author": "ndivnicTT",
+    "labels": [
+     "feature"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60527",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60527 [CI Failure] Nightly tt-metal L2 tests - KDA production perf windows too tight on bh_p150b_civ2_viommu (affine_exclusive_scan sp1-tp8, chain_affine_transforms)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60527",
+   "at": "2026-10-14T09:35:53Z",
+   "extra": {
+    "author": "abdulla-TT",
+    "labels": [
+     "ci-bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60526",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60526 [CI Failure] Nightly tt-metal L2 tests - test_moe_compute_single_card_flash_next fails placement on wh_n300 7x8 grid",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60526",
+   "at": "2026-10-14T09:35:50Z",
+   "extra": {
+    "author": "abdulla-TT",
+    "labels": [
+     "ci-bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60525",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60525 Shared Expert improvements",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60525",
+   "at": "2026-10-14T09:25:43Z",
+   "extra": {
+    "author": "dlukicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60524",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60524 Remove usage of subdevices for Shared expert and dispatch",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60524",
+   "at": "2026-10-14T09:24:33Z",
+   "extra": {
+    "author": "dlukicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/4787e7c58624247fd054e4c2427604ebd74007da",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[ttnn/eltwise] unary: fall back to interleaved for RM shards with unaligned rows (#58403) (#60510)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/4787e7c58624247fd054e4c2427604ebd74007da",
+   "at": "2026-10-14T09:17:31Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_utils.cpp"
+    ],
+    "added": [],
+    "author": "Aswinmcw"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60523",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60523 Initial overalp with DRAM-based hadoff + sync semaphores",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60523",
+   "at": "2026-10-14T09:16:05Z",
+   "extra": {
+    "author": "dlukicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/ba38596a62c36e979d40f5d95721f8e306f2050c",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] Quasar: re-point the packer in tilize_init (#60490)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/ba38596a62c36e979d40f5d95721f8e306f2050c",
+   "at": "2026-10-14T08:42:43Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/inc/api/compute/tilize.h"
+    ],
+    "added": [],
+    "author": "gajanan-choudhary"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/68952859dabf34bcf2ed797c48bb31e98ff0dea5",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Wormhole SFPU] Bound the fp32->uint8 typecast shift (tt-llk#1701 item 15) (#59984)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/68952859dabf34bcf2ed797c48bb31e98ff0dea5",
+   "at": "2026-10-14T08:33:56Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/wormhole_b0/metal/llk_api/llk_sfpu/ckernel_sfpu_typecast.h",
+     "tt_metal/tt-llk/tests/python_tests/test_eltwise_unary_typecast.py"
+    ],
+    "added": [],
+    "author": "ldjurovicTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/3fc4b9ddc06ab5fc250f257244a483c41a20a2ab",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Wormhole SFPU] Delete the orphaned _calculate_exponential_body_ (tt-llk#1701 item 11) (#59985)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/3fc4b9ddc06ab5fc250f257244a483c41a20a2ab",
+   "at": "2026-10-14T08:14:09Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/wormhole_b0/metal/llk_api/llk_sfpu/ckernel_sfpu_exp.h"
+    ],
+    "added": [],
+    "author": "ldjurovicTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60520",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60520 GLM 5.3 + MTP - memory analysis",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60520",
+   "at": "2026-10-14T08:05:56Z",
+   "extra": {
+    "author": "nbabinTT",
+    "labels": [
+     "shield_prefill"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/950863d54464c70f94f52f243f0ce38f8861db13",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "#57902: Finish Quasar eltwise binary broadcast tiny-tile and acc_to_dest (#59673)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/950863d54464c70f94f52f243f0ce38f8861db13",
+   "at": "2026-10-14T07:50:47Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_math_binary_api.h",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/fpu/eltwise.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/parser.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/unpacker/unpack_ab.py",
+     "tt_metal/tt-llk/tests/python_tests/helpers/perf/test_schemas.py",
+     "tt_metal/tt-llk/tests/python_tests/quasar/perf_eltwise_binary_broadcast_quasar.py",
+     "tt_metal/tt-llk/tests/python_tests/quasar/test_eltwise_binary_broadcast_quasar.py",
+     "tt_metal/tt-llk/tests/python_tests/quasar/test_eltwise_binary_reuse_dest_quasar.py",
+     "tt_metal/tt-llk/tests/python_tests/test_eltwise_binary.py",
+     "tt_metal/tt-llk/tests/sources/quasar/eltwise_binary_broadcast_quasar_test.cpp",
+     "tt_metal/tt-llk/tt_llk_quasar/llk_lib/llk_math_eltwise_binary_broadcast.h",
+     "tt_metal/tt-llk/tt_llk_quasar/llk_lib/llk_unpack_binary_broadcast_operands.h"
+    ],
+    "added": [],
+    "author": "ndivnicTT"
+   }
+  },
+  {
+   "id": "https://github.com/thirdshiftworks/opportunity-scanner/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "thirdshiftworks/opportunity-scanner: [Opportunity] [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands \u2014 $100.0",
+   "url": "https://github.com/thirdshiftworks/opportunity-scanner/issues/1",
+   "at": "2026-10-14T07:42:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 100,
+    "author": "github-actions[bot]",
+    "labels": [
+     "new"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/56908",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#56908 [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/56908",
+   "at": "2026-10-14T07:38:48Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "Adraca"
+    ],
+    "created": "2026-09-17T19:27:38Z"
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/322",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a\u52a0\u300c\u4fee\u590d\u6709\u6ca1\u6709\u5b88\u536b\u300d\u68c0\u67e5\u5668 \u2014\u2014 \u300a\u8fd0\u884c\u624b\u518c\u300b\u00a7\u516b-2 \u7684\u4eba\u5de5\u5224\u636e\u505a\u6210\u53ef\u8dd1\u811a\u672c\uff08**PR #321**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/322",
+   "at": "2026-10-14T07:04:31Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60513",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60513 max_pool2d hangs the device and conv2d silently returns PCC 0.14-0.24 when the sharded input's core grid is not an origin-anchored rectangle",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60513",
+   "at": "2026-10-14T06:59:17Z",
+   "extra": {
+    "author": "Adraca",
+    "labels": [
+     "op_cat: conv2D",
+     "op_cat: pool2D",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/320",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a\u52a0\u300c\u9759\u9ed8\u56de\u9000\u300d\u68c0\u67e5\u5668 \u2014\u2014 \u300a\u8fd0\u884c\u624b\u518c\u300b\u00a7\u4e8c-8 \u7684\u4eba\u5de5\u6b65\u9aa4\u505a\u6210\u53ef\u8dd1\u811a\u672c\uff08\u00a7\u4e03 \u70b9\u540d\u8981\u6c42\uff09\uff08**PR #319**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/320",
+   "at": "2026-10-14T06:57:38Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3437",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Human UI has no surface for bounties or credit balances: the first-owner money journey is invisible to a human owner (H-J1 FAIL)",
+   "url": "https://github.com/Uuriko/project-room/issues/3437",
+   "at": "2026-10-14T06:42:49Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/318",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`STALE_RE` \u8865\u6570\u5b57\u8fb9\u754c \u2014\u2014 \u65e7\u5f0f**\u5206\u4e0d\u6e05 \u22121 \u4e0e \u221212/\u221210**\uff08**PR #317**\uff5c\u542b\u81ea\u7ea0\u8bf4\u660e\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/318",
+   "at": "2026-10-14T06:34:26Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/316",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`bounty_board` \u52a0 `--products-check` \u2014\u2014 \u56db\u4e2a\u5bfc\u51fa\u4ea7\u7269\u53ea\u5199\u4e0d\u6821\u9a8c\uff08**PR #315**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/316",
+   "at": "2026-10-14T06:29:43Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/314",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`daily_table --check` \u5347\u7ea7\u4e3a**\u8bfb\u76d8\u6bd4\u5bf9**\uff08\u6d88\u6389\u624b\u518c \u00a7\u56db-1 \u81ea\u8ba4\u6f02\u79fb\u76f2\u533a\uff09\uff08**PR #313**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/314",
+   "at": "2026-10-14T06:26:57Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/312",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`build_site` \u52a0 `--check` \u6f02\u79fb\u95f8 \u2014\u2014 `site/*.html` \u6b64\u524d\u96f6\u95f8\uff08**PR #311**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/312",
+   "at": "2026-10-14T06:22:11Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/309",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`evidence_probe`\uff1a`line_numbers` \u7684 `needle` **\u975e\u5b57\u7b26\u4e32**\u4e0d\u518d\u5d29\u6808\uff08**PR #305**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/309",
+   "at": "2026-10-14T06:17:29Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/308",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`check_plan`\uff1a\u955c\u50cf `issues` **\u975e\u5bf9\u8c61** \u21d2 fail-closed \u9000 1\uff08\u4e0d\u518d\u88f8 `AttributeError`\uff09\uff08**PR #304**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/308",
+   "at": "2026-10-14T06:17:27Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/307",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`bounty_list`\uff1a\u771f\u6e90 `items` \u5143\u7d20**\u975e\u5bf9\u8c61**\u4e0d\u518d\u5d29\uff08`--check` \u6f02\u79fb\u95f8\u4ece\u6b64\u62ff\u5f97\u5230\u7ed3\u8bba\uff09\uff08**PR #303**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/307",
+   "at": "2026-10-14T06:17:26Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/306",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1a`bounty_board`\uff1a`rescore` / `role_revocations` / `latest_marker` \u5bf9**\u975e\u5bf9\u8c61\u3001\u975e\u5b57\u7b26\u4e32\u5143\u7d20**\u5d29\u6808\uff08**PR #302**\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/306",
+   "at": "2026-10-14T06:17:24Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "m3159584479",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60512",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60512 Eltwise Ternary - Metal 2.0 port",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60512",
+   "at": "2026-10-14T06:15:17Z",
+   "extra": {
+    "author": "KalaivaniMCW",
+    "labels": [
+     "op_cat: eltwise",
+     "MCW"
+    ]
+   }
+  },
   {
    "id": "https://github.com/chiuhehe1-design/conm/issues/37",
    "source": "github_search",
@@ -192,21 +726,6 @@
     "author": "Uuriko",
     "labels": [
      "bug"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60489",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60489 Quasar: tilize_init does not re-point the packer to the output DFB; RM permute/transpose/concat return zeros",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60489",
-   "at": "2026-10-13T23:14:12Z",
-   "extra": {
-    "author": "gajanan-choudhary",
-    "labels": [
-     "bug",
-     "op_cat: mm"
     ]
    }
   },
@@ -1740,20 +2259,6 @@
    }
   },
   {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/34",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#279: BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/34",
-   "at": "2026-10-13T13:30:04Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dessdms[bot]",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/commit/74179490d8e076db59ced9d660ae04a79badd031",
    "source": "tenstorrent",
    "kind": "tt_kernel_commit",
@@ -1783,162 +2288,6 @@
      "tt_metal/tt-llk/tests/python_tests/fuser/quasar/unpacker/sub_bcast_col_custom.py"
     ],
     "author": "markoradosavljevicTT"
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/592",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: GET /bounties/:id and the other public read routes have no throttle beyond the global 120/min, and list routes are full-table scans",
-   "url": "https://github.com/MergeFi/backend/issues/592",
-   "at": "2026-10-13T13:29:18Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "security",
-     "performance",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/611",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Bounty board says every bounty is 'backed by funds already locked in escrow' while listing unfunded OPEN bounties",
-   "url": "https://github.com/MergeFi/frontend/issues/611",
-   "at": "2026-10-13T13:28:46Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/609",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: CSP img-src blocks images embedded in GitHub issue bodies, so screenshots in bounty descriptions never load",
-   "url": "https://github.com/MergeFi/frontend/issues/609",
-   "at": "2026-10-13T13:27:42Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/33",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] arakoodev/EdgeChains#273: BOUNTY: add support for qdrant vector database in javascript sdk",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/33",
-   "at": "2026-10-13T13:27:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "haydets[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/588",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: GET /bounties/:id loads no relations, so clients get no issue title, repository, claimant or team",
-   "url": "https://github.com/MergeFi/backend/issues/588",
-   "at": "2026-10-13T13:26:18Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/603",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: An expired bounty's sponsor has no refund button, though EXPIRED \u2192 REFUNDED is the only way to get the escrow back",
-   "url": "https://github.com/MergeFi/frontend/issues/603",
-   "at": "2026-10-13T13:26:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/602",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: 'Fund this bounty' is offered to every visitor, though only the bounty's sponsor is allowed to fund",
-   "url": "https://github.com/MergeFi/frontend/issues/602",
-   "at": "2026-10-13T13:26:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/596",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Bounties in the backend's `release_failed` status are shown as OPEN (and claimable)",
-   "url": "https://github.com/MergeFi/frontend/issues/596",
-   "at": "2026-10-13T13:24:16Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/595",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: useClaimRace reads `response.data`, but POST /bounties/:id/claim returns the Bounty itself",
-   "url": "https://github.com/MergeFi/frontend/issues/595",
-   "at": "2026-10-13T13:24:11Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
    }
   },
   {
@@ -1996,149 +2345,6 @@
    }
   },
   {
-   "id": "https://github.com/MergeFi/backend/issues/586",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: @Cron jobs run on every replica \u2014 bounty expiry and idempotency cleanup execute N times concurrently in a multi-instance deploy",
-   "url": "https://github.com/MergeFi/backend/issues/586",
-   "at": "2026-10-13T13:14:58Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "architecture",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/579",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: Invalid bounty/milestone state transitions surface as 500 'unexpected error' instead of a 4xx",
-   "url": "https://github.com/MergeFi/backend/issues/579",
-   "at": "2026-10-13T13:14:25Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/545",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: POST /bounties/:id/refund admits MAINTAINER via @Roles but the service rejects anyone who isn't the sponsor",
-   "url": "https://github.com/MergeFi/backend/issues/545",
-   "at": "2026-10-13T13:07:28Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/544",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: A sponsor can refund a bounty after the contributor's PR has merged (MERGED/RELEASE_FAILED \u2192 REFUNDED)",
-   "url": "https://github.com/MergeFi/backend/issues/544",
-   "at": "2026-10-13T13:07:23Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "security",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/538",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: TeamsService.assignToBounty still lets a sponsor re-route a CLAIMED bounty to a team that excludes the claimant",
-   "url": "https://github.com/MergeFi/backend/issues/538",
-   "at": "2026-10-13T13:04:36Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "security",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/518",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: [Regression on closed #252] POST /escrow/fund is still unauthenticated and accepts any bounty/milestone/pool id",
-   "url": "https://github.com/MergeFi/backend/issues/518",
-   "at": "2026-10-13T13:03:02Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "security",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/503",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: Bounties, Milestones and Teams controller specs all fail to bootstrap: IdempotencyInterceptor needs IdempotencyKeyRepository",
-   "url": "https://github.com/MergeFi/backend/issues/503",
-   "at": "2026-10-13T12:58:41Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "good first issue",
-     "testing",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/494",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: GithubWebhooksService.processLinkedIssues' action/preAction are typed Promise<void> but receive Promise<Bounty>",
-   "url": "https://github.com/MergeFi/backend/issues/494",
-   "at": "2026-10-13T12:58:02Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60398",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2151,22 +2357,6 @@
      "bug",
      "op_cat: TM",
      "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/willi-d7/williams-contracts/issues/109",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "willi-d7/williams-contracts: Keeper Bounty Token Selection Arbitrarily Favors First Token in Multi-Token Estates",
-   "url": "https://github.com/willi-d7/williams-contracts/issues/109",
-   "at": "2026-10-13T12:53:31Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "willi-d7",
-    "labels": [
-     "enhancement"
     ]
    }
   },
@@ -2263,38 +2453,6 @@
    "extra": {
     "author": "dlukicTT",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/willi-d7/williams-contracts/issues/66",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "willi-d7/williams-contracts: Keeper Bounty Deduction Precedes Fixed-Amount Payouts, Arbitrarily Shrinking Designated Inheritances",
-   "url": "https://github.com/willi-d7/williams-contracts/issues/66",
-   "at": "2026-10-13T12:16:16Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "willi-d7",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/willi-d7/williams-contracts/issues/63",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "willi-d7/williams-contracts: release_inheritance Permits Unauthenticated Payouts to Arbitrary Caller Addresses for Keeper Bounty",
-   "url": "https://github.com/willi-d7/williams-contracts/issues/63",
-   "at": "2026-10-13T12:16:04Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "willi-d7",
-    "labels": [
-     "enhancement"
-    ]
    }
   },
   {
@@ -2398,122 +2556,6 @@
    "extra": {
     "author": "nkapreTT",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60370",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60370 Extend on-device grammar sampling: more models, wider sampling coverage, model contract",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60370",
-   "at": "2026-10-13T10:08:36Z",
-   "extra": {
-    "author": "sanjaradylov",
-    "labels": [
-     "docs",
-     "models",
-     "feature"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60368",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60368 Moreh softmax/softmin/logsoftmax keep bfloat8_b intermediates in Bfp8_b",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60368",
-   "at": "2026-10-13T09:33:31Z",
-   "extra": {
-    "author": "mcw-anasuya",
-    "labels": [
-     "moreh",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Smartdevs17/stellarlend/issues/1192",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Smartdevs17/stellarlend: Bounty Settlement for 11 Merged Security PRs per SECURITY.md",
-   "url": "https://github.com/Smartdevs17/stellarlend/issues/1192",
-   "at": "2026-10-13T08:56:35Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "OrderStream",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/5717c69bb3da921ac8ca04f75608778dae982851",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[ttnn/normalization] Fix pre-all-gather memory_config, 2D grid bound and softmax dim checks (#57682) (#59787)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/5717c69bb3da921ac8ca04f75608778dae982851",
-   "at": "2026-10-13T08:19:52Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/kernels/dataflow/reader_unary_interleaved_ln_rm_gb_post_allgather.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/kernels/dataflow/writer_unary_interleaved_row_strided_blocked.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_post_all_gather_program_factory.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_post_all_gather_welford_program_factory.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_device_operation.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_device_operation.hpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_device_operation_types.hpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/layernorm_pre_all_gather_program_factory.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/layernorm_pre_all_gather.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/rmsnorm_distributed/rmsnorm_pre_all_gather.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_program_factory_attention_optimized_sharded.cpp",
-     "ttnn/cpp/ttnn/operations/normalization/softmax/softmax.cpp"
-    ],
-    "added": [
-     "ttnn/cpp/ttnn/operations/normalization/layernorm_distributed/device/kernels/dataflow/writer_unary_interleaved_row_strided_blocked.cpp"
-    ],
-    "author": "Aswinmcw"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/df2543cf8f39ac4be97a76a36803b18656dc1867",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[ttnn][eltwise] Add integer exponential op (#59023)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/df2543cf8f39ac4be97a76a36803b18656dc1867",
-   "at": "2026-10-13T08:18:27Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/eltwise/binary/binary_nanobind.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary/device/binary_composite_op.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_pow_int.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation_types.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_program_factory.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/sources.cmake"
-    ],
-    "added": [
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_pow_int.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_device_operation_types.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/pow_int_program_factory.cpp"
-    ],
-    "author": "vtsilytskyiTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60365",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60365 [Gemma4, Llama QB2]: vLLM device sampling silently caps top_k to 32 (no max_device_top_k declared)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60365",
-   "at": "2026-10-13T08:07:12Z",
-   "extra": {
-    "author": "viktorpusTT",
-    "labels": [
-     "bug",
-     "model: gemma-4"
-    ]
    }
   },
   {
@@ -2722,73 +2764,6 @@
      "bounty",
      "capture"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/577b4d1e4f47d8e7b1999a840c3d3ea99227184d",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[LLK] Perf runners: split by module cost in contiguous chunks (#60096)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/577b4d1e4f47d8e7b1999a840c3d3ea99227184d",
-   "at": "2026-10-13T06:54:28Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/tests/perf_split_costs.json",
-     "tt_metal/tt-llk/tests/python_tests/helpers/llk_pytest_plugin.py",
-     "tt_metal/tt-llk/tests/run_llk_perf_blackhole.sh",
-     "tt_metal/tt-llk/tests/run_llk_perf_wormhole.sh"
-    ],
-    "added": [
-     "tt_metal/tt-llk/tests/perf_split_costs.json"
-    ],
-    "author": "nstojicTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60362",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60362 [aw] `/test` \u2014 CI pipeline selector for tt-metal reported incomplete result",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60362",
-   "at": "2026-10-13T05:52:20Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/6d84da3752bb05686282c48f1d718a583e4c1dc9",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "Metal 2.0 Port eltwise/unary (1/1 factory) (#57753)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/6d84da3752bb05686282c48f1d718a583e4c1dc9",
-   "at": "2026-10-13T05:16:29Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_op_utils.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_utils.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_identity_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_sfpu.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_sfpu_metal2.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/hardswish_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/lgamma_fast_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/lgamma_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/logit_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/logsigmoid_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/mac_tss_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/where_tss_kernel.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/dataflow/reader_unary.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/dataflow/writer_unary.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/unary_device_operation.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/unary_device_operation.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/unary_program_factory.cpp"
-    ],
-    "added": [
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_sfpu_metal2.cpp"
-    ],
-    "author": "mcw-anasuya"
    }
   },
   {
