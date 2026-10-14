@@ -1,6 +1,247 @@
 {
- "generated_at": "2026-10-14T19:34:14Z",
+ "generated_at": "2026-10-14T22:57:39Z",
  "events": [
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/58986",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#58986 [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/58986",
+   "at": "2026-10-14T22:49:26Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "bvdyvncqr5-commits"
+    ],
+    "created": "2026-10-02T14:34:03Z"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60656",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60656 combine_device_tensors and the unit-mesh aggregate label the result with synthetic (1, n) coordinates instead of the devices that hold it",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60656",
+   "at": "2026-10-14T22:13:58Z",
+   "extra": {
+    "author": "awliu-TT",
+    "labels": [
+     "tensor",
+     "distributed"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/262",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "sybil-solutions/local-ai-registry: Bounty ledger: claims, submissions and payouts",
+   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/262",
+   "at": "2026-10-14T22:11:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "0xSero",
+    "labels": [
+     "bounty-ledger"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SoroLabs/SoroTask/issues/1420",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SoroLabs/SoroTask: [SC-PROD-46] Decentralized Task Bounty Booster with Crowdfunded Incentive Pools & Contributor Distribution",
+   "url": "https://github.com/SoroLabs/SoroTask/issues/1420",
+   "at": "2026-10-14T22:10:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "ayomideadeniran",
+    "labels": [
+     "advanced",
+     "contract",
+     "production-readiness",
+     "Crowdfunding",
+     "Economics"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60650",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60650 [ttnn.concat]: bfloat8_b last-dim concat with 32-wide inputs takes the transpose fallback on Blackhole and changes values",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60650",
+   "at": "2026-10-14T22:06:48Z",
+   "extra": {
+    "author": "gajanan-choudhary",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
+   "at": "2026-10-14T21:50:10Z",
+   "extra": {
+    "state": "CLOSED",
+    "author": "morhimanshu",
+    "assignees": [
+     "morhimanshu"
+    ],
+    "created": "2026-07-07T21:46:56Z"
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/120",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-14: 0 new, 0 resumed, 6 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/120",
+   "at": "2026-10-14T21:49:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/terrafirma2021/ps5-13.60-kernel-dump/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "terrafirma2021/ps5-13.60-kernel-dump: [Bounty $50] Decrypted 13.60 system modules (/system/common/lib)",
+   "url": "https://github.com/terrafirma2021/ps5-13.60-kernel-dump/issues/1",
+   "at": "2026-10-14T21:18:19Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "Leclowndu93150",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/56908",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#56908 [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/56908",
+   "at": "2026-10-14T21:04:01Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "Adraca"
+    ],
+    "created": "2026-09-17T19:27:38Z"
+   }
+  },
+  {
+   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/172",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vanduc2514/hackathon-circle-misthos: Bounty: let the publisher name the escrow term, within bounds",
+   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/172",
+   "at": "2026-10-14T20:56:35Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "circle-mithios[bot]",
+    "labels": [
+     "enhancement",
+     "p2",
+     "area:backend",
+     "area:frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60638",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60638 H3 Parent",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60638",
+   "at": "2026-10-14T20:55:21Z",
+   "extra": {
+    "author": "cglagovichTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/171",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vanduc2514/hackathon-circle-misthos: Bounty: Open the claim model \u2014 anyone can work an issue, and only the merge pays",
+   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/171",
+   "at": "2026-10-14T20:46:32Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "circle-mithios[bot]",
+    "labels": [
+     "enhancement",
+     "epic",
+     "p1",
+     "area:backend",
+     "area:frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/85",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: security: bug-bounty intake pipeline with triage automation",
+   "url": "https://github.com/Neziahtech/streampay/issues/85",
+   "at": "2026-10-14T20:03:37Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Neziahtech",
+    "labels": [
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/69",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "limitlessprojects/Go-Hybrid: JSON string decoding bug in Go binding \u2014 bounty eligibility",
+   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/69",
+   "at": "2026-10-14T19:57:32Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "rahamim2014asafov-stack",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/169",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vanduc2514/hackathon-circle-misthos: Bounty: migrate the app's pages onto the landing page's design",
+   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/169",
+   "at": "2026-10-14T19:40:37Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "circle-mithios[bot]",
+    "labels": [
+     "enhancement",
+     "area:frontend"
+    ]
+   }
+  },
   {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60630",
    "source": "tenstorrent",
@@ -222,6 +463,24 @@
    }
   },
   {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/b4efead39b70025241d201e5f36739f1788697a1",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] Perf split: use a speed-of-light cost table for SoL runs (#60521)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/b4efead39b70025241d201e5f36739f1788697a1",
+   "at": "2026-10-14T17:07:27Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/perf_split_costs_sol.json",
+     "tt_metal/tt-llk/tests/python_tests/helpers/llk_pytest_plugin.py"
+    ],
+    "added": [
+     "tt_metal/tt-llk/tests/perf_split_costs_sol.json"
+    ],
+    "author": "nstojicTT"
+   }
+  },
+  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60602",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -302,6 +561,43 @@
      "prefill",
      "model: gemma-4"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/cbc196e4106b5d67b9f5fdcf970c2c6159d090c8",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] Warn when MOVD2A/MOVD2B has no source-bank wait before it (#59170)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/cbc196e4106b5d67b9f5fdcf970c2c6159d090c8",
+   "at": "2026-10-14T16:20:14Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/infra/check_dest_to_src_wait.py",
+     "tt_metal/tt-llk/infra/tests/test_check_dest_to_src_wait.py"
+    ],
+    "added": [
+     "tt_metal/tt-llk/infra/check_dest_to_src_wait.py",
+     "tt_metal/tt-llk/infra/tests/test_check_dest_to_src_wait.py"
+    ],
+    "author": "amahmudTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/864344849004e899b258edc6077296cdfaef011a",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][BH+WH] Save and restore the row dbg_get_array_row(SRCA) borrows without converting it (#59751)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/864344849004e899b258edc6077296cdfaef011a",
+   "at": "2026-10-14T16:15:28Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/test_dbg_get_array_row_srca.py",
+     "tt_metal/tt-llk/tests/sources/dbg_get_array_row_srca_test.cpp",
+     "tt_metal/tt-llk/tt_llk_blackhole/common/inc/ckernel_debug.h",
+     "tt_metal/tt-llk/tt_llk_wormhole_b0/common/inc/ckernel_debug.h"
+    ],
+    "added": [],
+    "author": "amahmudTT"
    }
   },
   {
@@ -601,22 +897,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/56908",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#56908 [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/56908",
-   "at": "2026-10-14T12:07:44Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "jberkowitzTT",
-    "assignees": [
-     "Adraca"
-    ],
-    "created": "2026-09-17T19:27:38Z"
-   }
-  },
-  {
    "id": "https://github.com/abdulsalam-create/bounty-watch/issues/117",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -746,7 +1026,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
    "at": "2026-10-14T10:31:03Z",
    "extra": {
-    "comments": 11,
+    "comments": 14,
     "amount_usd": null,
     "author": "limitlessprojects",
     "labels": [
@@ -1308,50 +1588,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60487",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60487 [LLK][BH][TOPK] Unstable multi-core topk returns other indices for zeros",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60487",
-   "at": "2026-10-13T22:12:24Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60484",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60484 [moe_compute]: n300 core placement throws 'core ranges overlap' on some chips",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60484",
-   "at": "2026-10-13T21:53:39Z",
-   "extra": {
-    "author": "sjettTT",
-    "labels": [
-     "bug"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60481",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60481 [tt_dit] Wan2.2: move VBench quality gate to test_performance_wan.py, score multiple videos, and recalibrate thresholds by height",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60481",
-   "at": "2026-10-13T21:44:20Z",
-   "extra": {
-    "author": "jamesleeTT",
-    "labels": [
-     "blackhole",
-     "ci-instability"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/habibdxb01/bounty-watcher/issues/5",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1366,38 +1602,6 @@
      "bounty",
      "assessed"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/0bdfa1e4bc1932142766864624e5d9a1d2d6c7ce",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Feature][Quasar] Same core compute semaphore implementation  (#58850)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/0bdfa1e4bc1932142766864624e5d9a1d2d6c7ce",
-   "at": "2026-10-13T21:36:29Z",
-   "extra": {
-    "files": [
-     "tt_metal/hw/inc/api/compute/compute_kernel_hw_startup.h",
-     "tt_metal/hw/inc/api/compute/experimental/semaphore_compute_impl.h",
-     "tt_metal/tt-llk/tt_llk_quasar/common/inc/ckernel_trisc_common.h"
-    ],
-    "added": [],
-    "author": "nmohammedTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/228283c15103b5a05a4507b14e94d73c8ffd2d4d",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Fix] Fixed LLK -march to support float vector unit (#60139)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/228283c15103b5a05a4507b14e94d73c8ffd2d4d",
-   "at": "2026-10-13T21:33:19Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/tests/python_tests/helpers/test_config.py"
-    ],
-    "added": [],
-    "author": "gdsinghTT"
    }
   },
   {
@@ -1932,22 +2136,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#49307 [Bounty $2500] Command-R bringup using TTNN APIs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/49307",
-   "at": "2026-10-13T21:02:04Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "morhimanshu",
-    "assignees": [
-     "morhimanshu"
-    ],
-    "created": "2026-07-07T21:46:56Z"
-   }
-  },
-  {
    "id": "https://github.com/RandyKnapp/ValheimMods/issues/764",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1959,22 +2147,6 @@
     "amount_usd": null,
     "author": "jhhertel",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/96d546bac94f0cb8b7c3e23b2f39e116f1c307df",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[ttnn] Drop the obsolete #9370 unpack drains after reduce_c in moe and sampling (#59973)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/96d546bac94f0cb8b7c3e23b2f39e116f1c307df",
-   "at": "2026-10-13T19:54:41Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/reduction/moe/device/kernels/compute/moe.cpp",
-     "ttnn/cpp/ttnn/operations/reduction/sampling/device/kernels/compute/sampling.cpp"
-    ],
-    "added": [],
-    "author": "amahmudTT"
    }
   },
   {
@@ -2272,196 +2444,6 @@
     "labels": [
      "good first issue",
      "testing",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/649",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Deadline countdown says 'deadline passed' for a bounty that is due later today",
-   "url": "https://github.com/MergeFi/frontend/issues/649",
-   "at": "2026-10-13T14:17:52Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/backend/issues/613",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/backend: POST /milestones/:id/allocate and /bounties/:id/approve|reject are documented in Swagger as working operations",
-   "url": "https://github.com/MergeFi/backend/issues/613",
-   "at": "2026-10-13T14:16:06Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "documentation",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/112",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-13: 9 changes across 7 bounty programs",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/112",
-   "at": "2026-10-13T14:15:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/111",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-13: 0 new, 0 resumed, 4 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/111",
-   "at": "2026-10-13T14:15:52Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/641",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: The maintainer pipeline shows every bounty on the platform, not the maintainer's own repositories",
-   "url": "https://github.com/MergeFi/frontend/issues/641",
-   "at": "2026-10-13T13:34:24Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/640",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: No UI to create teams, edit splits, or assign a team to a bounty",
-   "url": "https://github.com/MergeFi/frontend/issues/640",
-   "at": "2026-10-13T13:34:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "enhancement",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/636",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: [Regression on closed #241] 'Create bounty' now links to the bounty board \u2014 there's still no way to create a bounty in the app",
-   "url": "https://github.com/MergeFi/frontend/issues/636",
-   "at": "2026-10-13T13:34:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "enhancement",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/634",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Sitemap lists mock bounty URLs when the backend is unreachable, and caches them for an hour",
-   "url": "https://github.com/MergeFi/frontend/issues/634",
-   "at": "2026-10-13T13:33:09Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/632",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Bounty status polling never stops for terminal states (paid, refunded, expired)",
-   "url": "https://github.com/MergeFi/frontend/issues/632",
-   "at": "2026-10-13T13:33:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "good first issue",
-     "performance",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/631",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Each issue page runs two independent pollers on the same bounty (ClaimButton every 2s, LiveBountyStatus every 5s)",
-   "url": "https://github.com/MergeFi/frontend/issues/631",
-   "at": "2026-10-13T13:32:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "performance",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/630",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: A backend outage turns a real bounty's page into a 404",
-   "url": "https://github.com/MergeFi/frontend/issues/630",
-   "at": "2026-10-13T13:32:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
      "Stellar Wave"
     ]
    }
@@ -2804,38 +2786,6 @@
    "extra": {
     "state": "OPEN",
     "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/56277",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#56277 [Bounty $7500] Remove legacy sqrt/rsqrt/reciprocal compatibility paths",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/56277",
-   "at": "2026-10-12T19:52:11Z",
-   "extra": {
-    "state": "CLOSED",
-    "author": "jberkowitzTT",
-    "assignees": [
-     "jasondavies"
-    ],
-    "created": "2026-09-11T17:26:07Z"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/56290",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#56290 [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/56290",
-   "at": "2026-10-12T19:52:08Z",
-   "extra": {
-    "state": "CLOSED",
-    "author": "jberkowitzTT",
-    "assignees": [
-     "singhharsh1708"
-    ],
-    "created": "2026-09-11T18:45:31Z"
    }
   }
  ],
