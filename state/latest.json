@@ -1,6 +1,244 @@
 {
- "generated_at": "2026-10-13T21:24:20Z",
+ "generated_at": "2026-10-14T00:27:41Z",
  "events": [
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60495",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60495 [Quasar] Device open fails on the RTL emulator: fetch queue size not a multiple of 64 B since #58907",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60495",
+   "at": "2026-10-14T00:14:34Z",
+   "extra": {
+    "author": "gajanan-choudhary",
+    "labels": [
+     "bug",
+     "fast-dispatch",
+     "Quasar"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] \ud83d\udccb 2 open bounties right now",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+   "at": "2026-10-13T23:57:04Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60491",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60491 generalized_moe_gate on Blackhole: the ungrouped gate sorts with a merge tree that costs 966 cycles per token; an SFPU-only sort takes 526 but picks among equal keys differently",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60491",
+   "at": "2026-10-13T23:28:36Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "LLK",
+     "blackhole"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3307",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Dispute bond is specified two ways: dispute machine opens at max(1, 5% of bounty), escrow enforces exactly 25%",
+   "url": "https://github.com/Uuriko/project-room/issues/3307",
+   "at": "2026-10-13T23:19:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60489",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60489 Quasar: tilize_init does not re-point the packer to the output DFB; RM permute/transpose/concat return zeros",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60489",
+   "at": "2026-10-13T23:14:12Z",
+   "extra": {
+    "author": "gajanan-choudhary",
+    "labels": [
+     "bug",
+     "op_cat: mm"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/114",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-13: 0 new, 1 resumed, 5 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/114",
+   "at": "2026-10-13T22:48:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "agile-students-fall2026/generic-mern-stack-project-bounty: As someone who lost their item, I want to mark who helped me when resolving the post so that the bounty is recorded as going to the right person.",
+   "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
+   "at": "2026-10-13T22:30:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LeoLobo9906",
+    "labels": [
+     "user story",
+     "Sprint 0"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "agile-students-fall2026/generic-mern-stack-project-bounty: As someone who lost their item, I want to attach an optional bounty to my post so that more people are motivated to help look for it.",
+   "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
+   "at": "2026-10-13T22:29:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LeoLobo9906",
+    "labels": [
+     "user story",
+     "Sprint 0"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60487",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60487 ttnn.topk on Blackhole: the unstable multi-core path lists zeros and denormals with other indices after the fused local sort passes",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60487",
+   "at": "2026-10-13T22:12:24Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "LLK",
+     "blackhole"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3275",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [Medium] Escrow settlement is not atomic across its two stores: in-memory dispute machine survives DB rollback, and closeEpoch commits partial settlements on per-bounty errors",
+   "url": "https://github.com/Uuriko/project-room/issues/3275",
+   "at": "2026-10-13T21:54:08Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60484",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60484 [moe_compute]: n300 core placement throws 'core ranges overlap' on some chips",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60484",
+   "at": "2026-10-13T21:53:39Z",
+   "extra": {
+    "author": "sjettTT",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60481",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60481 [tt_dit] Wan2.2: move VBench quality gate to test_performance_wan.py, score multiple videos, and recalibrate thresholds by height",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60481",
+   "at": "2026-10-13T21:44:20Z",
+   "extra": {
+    "author": "jamesleeTT",
+    "labels": [
+     "blackhole",
+     "ci-instability"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/habibdxb01/bounty-watcher/issues/5",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "habibdxb01/bounty-watcher: \ud83d\udccb 2 open bounties right now",
+   "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
+   "at": "2026-10-13T21:40:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty",
+     "assessed"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/0bdfa1e4bc1932142766864624e5d9a1d2d6c7ce",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Feature][Quasar] Same core compute semaphore implementation  (#58850)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/0bdfa1e4bc1932142766864624e5d9a1d2d6c7ce",
+   "at": "2026-10-13T21:36:29Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/inc/api/compute/compute_kernel_hw_startup.h",
+     "tt_metal/hw/inc/api/compute/experimental/semaphore_compute_impl.h",
+     "tt_metal/tt-llk/tt_llk_quasar/common/inc/ckernel_trisc_common.h"
+    ],
+    "added": [],
+    "author": "nmohammedTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/228283c15103b5a05a4507b14e94d73c8ffd2d4d",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Fix] Fixed LLK -march to support float vector unit (#60139)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/228283c15103b5a05a4507b14e94d73c8ffd2d4d",
+   "at": "2026-10-13T21:33:19Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/helpers/test_config.py"
+    ],
+    "added": [],
+    "author": "gdsinghTT"
+   }
+  },
   {
    "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1623",
    "source": "github_search",
@@ -660,22 +898,6 @@
    }
   },
   {
-   "id": "https://github.com/vandelay87/pile-up/issues/175",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "vandelay87/pile-up: Units and the economy: bounty, combo and upkeep",
-   "url": "https://github.com/vandelay87/pile-up/issues/175",
-   "at": "2026-10-13T18:24:32Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "vandelay87",
-    "labels": [
-     "wayfinder:grilling"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -683,7 +905,7 @@
    "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
    "at": "2026-10-13T18:19:24Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "Peyton-Spencer",
     "labels": [
@@ -870,34 +1092,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/272",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u8d21\u732e\u9a8c\u6536\u7533\u8bf7][expert] LarryE135\uff1adsh-bounty \u5ba1\u6838\u5458\u673a\u5236 / \u51c6\u5165\u9762\u4e09\u5c42\u5ba1\u8ba1 5 \u6761\uff08P1\u00d73 / P2\u00d72\uff09\uff0c\u8bf7\u7eb3\u5165\u7ed3\u7b97\u8868",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/272",
-   "at": "2026-10-13T17:02:15Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/270",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [Bug][P2] 3682f5c \u7684\u4f5c\u8005\u95f8\u53ea\u6302\u5728 `/claim` \u4e0a\uff1a\u62db\u6807\u8def\u5f84 `/bid \u2192 /select \u2192 /verify \u2192 /settle` \u4e0d\u67e5\u4f5c\u8005\uff08`/bid` \u8fde `bounty` \u6807\u7b7e\u95f8\u4e5f\u4e0d\u67e5\uff09\uff0c\u5916\u90e8\u4eba\u53d1\u5e03\u7684 issue \u5e26\u4e0a `bounty:contest` \u5c31\u80fd\u4e00\u8def\u7ed3\u7b97",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/270",
-   "at": "2026-10-13T17:01:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -989,20 +1183,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/238",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(review_build): `leaderboard` \u5bf9**\u975e\u5bf9\u8c61\u8bb0\u5f55**\u4e0d\u5f97\u5d29\uff08\u699c\u5355\u6b21\u5e8f\u7684\u552f\u4e00\u5224\u636e\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/238",
-   "at": "2026-10-13T14:51:47Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zhangdeishuai1",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/235",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1066,7 +1246,7 @@
    "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/213",
    "at": "2026-10-13T14:47:00Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "Beiwo992",
     "labels": []
@@ -1080,7 +1260,7 @@
    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
    "at": "2026-10-13T14:33:46Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "SPLURT-Station-Bot",
     "labels": [
@@ -1096,7 +1276,7 @@
    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
    "at": "2026-10-13T14:33:04Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "SPLURT-Station-Bot",
     "labels": [
@@ -1289,7 +1469,7 @@
    "url": "https://github.com/MergeFi/backend/issues/613",
    "at": "2026-10-13T14:16:06Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "chonilius",
     "labels": [
@@ -2568,34 +2748,6 @@
    }
   },
   {
-   "id": "https://github.com/nockchain/nockchain/issues/213",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "nockchain/nockchain: Regarding Bug Bounty Report",
-   "url": "https://github.com/nockchain/nockchain/issues/213",
-   "at": "2026-10-13T05:47:03Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "wyane10",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/storytold/effectcraft/issues/1198",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "storytold/effectcraft: Publish a maintained plug-in availability and bounty list",
-   "url": "https://github.com/storytold/effectcraft/issues/1198",
-   "at": "2026-10-13T05:22:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "earlvanze",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/commit/6d84da3752bb05686282c48f1d718a583e4c1dc9",
    "source": "tenstorrent",
    "kind": "tt_kernel_commit",
@@ -2664,54 +2816,6 @@
    "extra": {
     "state": "OPEN",
     "author": "haoxucu"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60350",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60350 LLK perf: the counters off build runs the counter routine, so KERNEL grew by 4.6k to 12.8k cycles with #56322",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60350",
-   "at": "2026-10-12T22:46:34Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60351",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60351 Wormhole LLK perf: one pinned start phase is not the average production sees for start sensitive kernels",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60351",
-   "at": "2026-10-12T22:46:34Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60349",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60349 Wormhole LLK perf: code before a measured loop's callees moves them, and the loop's timing with them",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60349",
-   "at": "2026-10-12T22:46:33Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60347",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60347 [CI] TT-DiT Mochi unit tests (wh_llmbox) time out at 60 min on every scheduled run since 2026-10-07",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60347",
-   "at": "2026-10-12T21:43:43Z",
-   "extra": {
-    "author": "jamesleeTT",
-    "labels": []
    }
   },
   {
@@ -2864,414 +2968,6 @@
      "singhharsh1708"
     ],
     "created": "2026-09-11T18:45:31Z"
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for Intel Arc B580 12 GB",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884",
-   "at": "2026-10-12T18:14:50Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883",
-   "at": "2026-10-12T18:14:49Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880",
-   "at": "2026-10-12T18:14:48Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1881",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for RX 7900 XTX 24 GB",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1881",
-   "at": "2026-10-12T18:14:48Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1882",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for GTX 1080 Ti 11 GB",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1882",
-   "at": "2026-10-12T18:14:48Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1879",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for RTX 4060 Ti 16 GB",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1879",
-   "at": "2026-10-12T18:14:47Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1877",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1877",
-   "at": "2026-10-12T18:14:46Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1878",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1878",
-   "at": "2026-10-12T18:14:46Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/71",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u60ac\u8d4f] \u7075\u67a2\u751f\u6001\u5ba3\u4f20\uff1a\u6750\u6599 + \u6e20\u9053 + \u89e6\u8fbe\u8bfb\u6570\uff08\u53ef\u6838\u9a8c\uff0c\u4e0d\u5199\u300c\u6548\u679c\u597d\u300d\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/71",
-   "at": "2026-10-12T14:48:03Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "FuRongJun-1999",
-    "labels": [
-     "bounty",
-     "bounty:open",
-     "difficulty:medium"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/67",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [\u60ac\u8d4f] \u6a2a\u5411\u6d4b\u8bc4\uff1a\u5404\u5bb6\u89d2\u8272\u626e\u6f14 / \u8bb0\u5fc6\u7cfb\u7edf / \u667a\u80fd\u4f53\u5de5\u4f5c\u6d41\u65b9\u6848\uff08\u22653 \u5bb6 \u00b7 \u53ef\u590d\u8dd1\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/67",
-   "at": "2026-10-12T14:47:52Z",
-   "extra": {
-    "comments": 10,
-    "amount_usd": null,
-    "author": "FuRongJun-1999",
-    "labels": [
-     "bounty",
-     "bounty:delivered",
-     "difficulty:expert"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/223",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/223",
-   "at": "2026-10-12T13:07:34Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe",
-     "card support"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/222",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for RTX 5060 Ti 16 GB",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/222",
-   "at": "2026-10-12T13:07:31Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe",
-     "good first recipe"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/221",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for RTX 4060 Ti 16 GB",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/221",
-   "at": "2026-10-12T13:07:29Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe",
-     "good first recipe"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/220",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for a 27B model on a 16 GB AMD card",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/220",
-   "at": "2026-10-12T13:07:27Z",
-   "extra": {
-    "comments": 8,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/219",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for RX 7900 XTX 24 GB",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/219",
-   "at": "2026-10-12T13:07:25Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/218",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for GTX 1080 Ti 11 GB",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/218",
-   "at": "2026-10-12T13:07:23Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe",
-     "card support"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/217",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for RTX 2080 Ti 11 GB",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/217",
-   "at": "2026-10-12T13:07:21Z",
-   "extra": {
-    "comments": 7,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe",
-     "card support",
-     "good first recipe"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/216",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "sybil-solutions/local-ai-registry: Bounty $50: recipe for Intel Arc B580 12 GB",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/216",
-   "at": "2026-10-12T13:07:17Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 50,
-    "author": "0xSero",
-    "labels": [
-     "bounty",
-     "bounty: $50",
-     "recipe",
-     "card support"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/5",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: truncate() output is longer than the limit",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/5",
-   "at": "2026-10-12T03:00:57Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "VARUN3WARE",
-    "labels": [
-     "bug",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: word_count() miscounts extra whitespace",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/4",
-   "at": "2026-10-12T03:00:56Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "VARUN3WARE",
-    "labels": [
-     "bug",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: parse_duration() ignores seconds",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/3",
-   "at": "2026-10-12T03:00:56Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "VARUN3WARE",
-    "labels": [
-     "bug",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: chunk() drops the last partial chunk",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/1",
-   "at": "2026-10-12T03:00:55Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "VARUN3WARE",
-    "labels": [
-     "bug",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/VARUN3WARE/textkit-bounty/issues/2",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "VARUN3WARE/textkit-bounty: slugify() leaves repeated and trailing dashes",
-   "url": "https://github.com/VARUN3WARE/textkit-bounty/issues/2",
-   "at": "2026-10-12T03:00:55Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "VARUN3WARE",
-    "labels": [
-     "bug",
-     "bounty"
-    ]
    }
   },
   {
