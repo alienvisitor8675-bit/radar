@@ -1,20 +1,150 @@
 {
- "generated_at": "2026-10-14T00:27:41Z",
+ "generated_at": "2026-10-14T05:14:32Z",
  "events": [
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60495",
+   "id": "https://github.com/chiuhehe1-design/conm/issues/37",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "chiuhehe1-design/conm: [Bounty Solution] zio/zio#9211: ZIO.timeoutTO has tremendous overhead",
+   "url": "https://github.com/chiuhehe1-design/conm/issues/37",
+   "at": "2026-10-14T05:05:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cksime[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/115",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-14: 0 new, 0 resumed, 4 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/115",
+   "at": "2026-10-14T04:57:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60506",
    "source": "tenstorrent",
    "kind": "tt_issue",
-   "title": "tt-metal#60495 [Quasar] Device open fails on the RTL emulator: fetch queue size not a multiple of 64 B since #58907",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60495",
-   "at": "2026-10-14T00:14:34Z",
+   "title": "tt-metal#60506 \u2602\ufe0f Enable TT-Fabric in Horizon",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60506",
+   "at": "2026-10-14T04:53:12Z",
    "extra": {
-    "author": "gajanan-choudhary",
+    "author": "SeanNijjar",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/LegendofKEK/bichael/issues/294",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "LegendofKEK/bichael: High: No web UI for Ash Pit bounty place/cancel",
+   "url": "https://github.com/LegendofKEK/bichael/issues/294",
+   "at": "2026-10-14T03:39:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cursor[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/LegendofKEK/bichael/issues/293",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "LegendofKEK/bichael: High: PvpBounty OPERATOR_ROLE can drain all open bounties",
+   "url": "https://github.com/LegendofKEK/bichael/issues/293",
+   "at": "2026-10-14T03:39:45Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cursor[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/LegendofKEK/bichael/issues/290",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "LegendofKEK/bichael: Critical: PvP bounty uses synthetic receipts with no live escrow gate",
+   "url": "https://github.com/LegendofKEK/bichael/issues/290",
+   "at": "2026-10-14T03:39:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cursor[bot]",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60501",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60501 verify-changed-tests: every LLK leg fails with PYTEST_MARKERS unbound",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60501",
+   "at": "2026-10-14T03:20:44Z",
+   "extra": {
+    "author": "amahmudTT",
     "labels": [
-     "bug",
-     "fast-dispatch",
-     "Quasar"
+     "llk:ci"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/DeonUrist/WildWasteland/issues/115",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "DeonUrist/WildWasteland: [Patrols] Retribution patrols/bounty hunters from coyotes if attacked by player",
+   "url": "https://github.com/DeonUrist/WildWasteland/issues/115",
+   "at": "2026-10-14T02:14:43Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "DeonUrist",
+    "labels": [
+     "feature",
+     "module:Patrols"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/e7a0b50964b8ae38b69689a5c3fcf43af80fbbd3",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][BH][WH] Do not enter the throttled matmul MOP on a non-full tile (#55639)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/e7a0b50964b8ae38b69689a5c3fcf43af80fbbd3",
+   "at": "2026-10-14T01:49:16Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/test_math_matmul.py",
+     "tt_metal/tt-llk/tt_llk_blackhole/llk_lib/llk_math_matmul.h",
+     "tt_metal/tt-llk/tt_llk_wormhole_b0/llk_lib/llk_math_matmul.h"
+    ],
+    "added": [],
+    "author": "amahmudTT"
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/281",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010\u8d21\u732e\u7533\u62a5\u301118 \u4ef6\u7f3a\u9677\u4fee\u590d\uff08dsh-bounty \u00d711 \uff0b lingshu \u00d77\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/281",
+   "at": "2026-10-14T01:05:29Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Beiwo992",
+    "labels": []
    }
   },
   {
@@ -142,22 +272,6 @@
     "labels": [
      "LLK",
      "blackhole"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3275",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: [Medium] Escrow settlement is not atomic across its two stores: in-memory dispute machine survives DB rollback, and closeEpoch commits partial settlements on per-bounty errors",
-   "url": "https://github.com/Uuriko/project-room/issues/3275",
-   "at": "2026-10-13T21:54:08Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bug"
     ]
    }
   },
@@ -817,20 +931,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60470",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60470 Create vdl variant ops",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60470",
-   "at": "2026-10-13T20:10:42Z",
-   "extra": {
-    "author": "bbradelTT",
-    "labels": [
-     "op_cat: mm"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/commit/96d546bac94f0cb8b7c3e23b2f39e116f1c307df",
    "source": "tenstorrent",
    "kind": "tt_kernel_commit",
@@ -1092,20 +1192,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [Bug][P1] \u8d26\u672c `role` \u4e0d\u662f\u6743\u5a01\u9762\uff1a`revoke` \u538b\u4e0d\u4f4f `BOUNTY_REVIEWERS` \u540d\u5355\u91cc\u7684\u5ba1\u6838\u5458\uff1b\u8d26\u672c `maintainer` \u89d2\u8272\u5728\u771f\u6a21\u5f0f\u91cc\u5b8c\u5168\u4e0d\u88ab\u8bfb\u53d6\uff08grant \u65e0\u6548\u3001revoke \u4e5f\u65e0\u6548\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
-   "at": "2026-10-13T17:01:53Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LarryE135",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/commit/22793d66d286d9d26d0d545dc3d1efb91f03ceb5",
    "source": "tenstorrent",
    "kind": "tt_kernel_commit",
@@ -1179,62 +1265,6 @@
     "comments": 0,
     "amount_usd": null,
     "author": "zerox80",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/235",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `promotion_report`\uff08**\u664b\u5347\u590d\u6838\u9762**\uff09\u5bf9\u975e\u5bf9\u8c61\u4e8b\u4ef6\u4e0d\u5f97\u5d29",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/235",
-   "at": "2026-10-13T14:51:43Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zhangdeishuai1",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/233",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `roles_from_events`\uff08**\u6388\u6743\u9762**\uff09\u5bf9\u975e\u5bf9\u8c61\u4e8b\u4ef6\u4e0d\u5f97\u5d29",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/233",
-   "at": "2026-10-13T14:51:41Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zhangdeishuai1",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/231",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `value_vector` \u5bf9**\u975e\u5bf9\u8c61\u8d26\u672c\u4e8b\u4ef6**\u4e0d\u5f97\u5d29",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/231",
-   "at": "2026-10-13T14:51:40Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zhangdeishuai1",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/228",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011dsh-bounty\uff08`bounty_site`\uff09\uff1afix(bounty_board): `score_board` \u5bf9**\u975e\u5bf9\u8c61\u8d26\u672c\u4e8b\u4ef6**\u4e0d\u5f97\u5d29\uff08\u699c\u9762\u5206\u6570\u7684\u552f\u4e00\u6765\u6e90\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/228",
-   "at": "2026-10-13T14:51:38Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zhangdeishuai1",
     "labels": []
    }
   },
@@ -2513,7 +2543,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/32",
    "at": "2026-10-13T07:15:11Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -2532,7 +2562,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/31",
    "at": "2026-10-13T07:15:09Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -2551,7 +2581,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/30",
    "at": "2026-10-13T07:15:08Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -2627,7 +2657,7 @@
    "url": "https://github.com/mscrnt/lockpick/issues/26",
    "at": "2026-10-13T07:15:00Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -2647,25 +2677,6 @@
    "at": "2026-10-13T07:14:59Z",
    "extra": {
     "comments": 3,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/24",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B103] Fire and reload the shotgun",
-   "url": "https://github.com/mscrnt/lockpick/issues/24",
-   "at": "2026-10-13T07:14:57Z",
-   "extra": {
-    "comments": 5,
     "amount_usd": null,
     "author": "mscrnt",
     "labels": [
@@ -2778,32 +2789,6 @@
      "ttnn/cpp/ttnn/operations/eltwise/unary/device/kernels/compute/eltwise_sfpu_metal2.cpp"
     ],
     "author": "mcw-anasuya"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60359",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60359 [2026-10-13] Test Escalation Assignment",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60359",
-   "at": "2026-10-13T04:06:36Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "test-escalation"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60356",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60356 [DeepSeek-V3] test_alltoall_deepseek hard-codes an 8x8 shard grid; fails on 7-column dispatch grid",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60356",
-   "at": "2026-10-13T03:06:41Z",
-   "extra": {
-    "author": "nkapreTT",
-    "labels": []
    }
   },
   {
