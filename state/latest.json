@@ -1,6 +1,930 @@
 {
- "generated_at": "2026-10-15T16:15:04Z",
+ "generated_at": "2026-10-15T19:57:45Z",
  "events": [
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/27",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $45] Export convertPrecision and add 6\u21947 decimal round-trip tests",
+   "url": "https://github.com/ASCTP/parabola/issues/27",
+   "at": "2026-10-15T19:56:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 45,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/26",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $45] Validate input to bytes32ToStellarAddress",
+   "url": "https://github.com/ASCTP/parabola/issues/26",
+   "at": "2026-10-15T19:56:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 45,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/25",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
+   "url": "https://github.com/ASCTP/parabola/issues/25",
+   "at": "2026-10-15T19:56:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 60,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/24",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
+   "url": "https://github.com/ASCTP/parabola/issues/24",
+   "at": "2026-10-15T19:56:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 60,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/23",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $75] Website: accessibility and motion-preference fixes for the landing page",
+   "url": "https://github.com/ASCTP/parabola/issues/23",
+   "at": "2026-10-15T19:55:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/22",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
+   "url": "https://github.com/ASCTP/parabola/issues/22",
+   "at": "2026-10-15T19:55:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/21",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
+   "url": "https://github.com/ASCTP/parabola/issues/21",
+   "at": "2026-10-15T19:55:53Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/20",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
+   "url": "https://github.com/ASCTP/parabola/issues/20",
+   "at": "2026-10-15T19:55:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/19",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry",
+   "url": "https://github.com/ASCTP/parabola/issues/19",
+   "at": "2026-10-15T19:55:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/18",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
+   "url": "https://github.com/ASCTP/parabola/issues/18",
+   "at": "2026-10-15T19:55:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/17",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
+   "url": "https://github.com/ASCTP/parabola/issues/17",
+   "at": "2026-10-15T19:55:38Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/16",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
+   "url": "https://github.com/ASCTP/parabola/issues/16",
+   "at": "2026-10-15T19:55:34Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/14",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
+   "url": "https://github.com/ASCTP/parabola/issues/14",
+   "at": "2026-10-15T19:55:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/13",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
+   "url": "https://github.com/ASCTP/parabola/issues/13",
+   "at": "2026-10-15T19:55:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/12",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $125] Add structured progress callbacks to transfer()",
+   "url": "https://github.com/ASCTP/parabola/issues/12",
+   "at": "2026-10-15T19:55:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 125,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/11",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
+   "url": "https://github.com/ASCTP/parabola/issues/11",
+   "at": "2026-10-15T19:55:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 125,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/10",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
+   "url": "https://github.com/ASCTP/parabola/issues/10",
+   "at": "2026-10-15T19:55:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 105,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/9",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
+   "url": "https://github.com/ASCTP/parabola/issues/9",
+   "at": "2026-10-15T19:55:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 105,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/8",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+   "url": "https://github.com/ASCTP/parabola/issues/8",
+   "at": "2026-10-15T19:54:55Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 105,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ASCTP/parabola/issues/7",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ASCTP/parabola: [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+   "url": "https://github.com/ASCTP/parabola/issues/7",
+   "at": "2026-10-15T19:54:32Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 105,
+    "author": "Abdul-dev-creator",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60810",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60810 [LLK][BH][MOE_GATE] Output tiles pack all four faces, only face 0 holds results",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60810",
+   "at": "2026-10-15T19:32:33Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice E] Comparative real-world traces: retired engines under one method",
+   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
+   "at": "2026-10-15T19:27:24Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "TLS-sys",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 10303-242)",
+   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19",
+   "at": "2026-10-15T19:26:59Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "TLS-sys",
+    "labels": [
+     "schema",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/18",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice C] Red-team the hard boundaries: try to get technical data past the validator",
+   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/18",
+   "at": "2026-10-15T19:26:34Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "TLS-sys",
+    "labels": [
+     "bounty",
+     "priority: high"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/17",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice B] Verifiable evidence pointers: prove a record exists without disclosing it",
+   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/17",
+   "at": "2026-10-15T19:26:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "TLS-sys",
+    "labels": [
+     "schema",
+     "bounty",
+     "priority: high"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60809",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60809 [MiMo-V2.6-Flash-RL] Decode on Blackhole Galaxy",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60809",
+   "at": "2026-10-15T19:25:43Z",
+   "extra": {
+    "author": "zhenghaoniTT",
+    "labels": [
+     "models",
+     "blackhole",
+     "LLMs on Metal",
+     "Galaxy"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60808",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60808 [MiMo-V2.6-Flash-RL] Prefill on Blackhole Galaxy",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60808",
+   "at": "2026-10-15T19:25:37Z",
+   "extra": {
+    "author": "zhenghaoniTT",
+    "labels": [
+     "models",
+     "blackhole",
+     "LLMs on Metal",
+     "Galaxy"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice A] Public-evidence coverage score and gap atlas",
+   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16",
+   "at": "2026-10-15T19:25:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "TLS-sys",
+    "labels": [
+     "bounty",
+     "priority: high"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60807",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60807 [MiMo-V2.6-Flash-RL] Blackhole Galaxy Bring-up",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60807",
+   "at": "2026-10-15T19:25:26Z",
+   "extra": {
+    "author": "zhenghaoniTT",
+    "labels": [
+     "models",
+     "blackhole",
+     "LLMs on Metal",
+     "Galaxy"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3527",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Best-of-N bounty attempts: spec first (attempt cap, loser visibility, dispute scope)",
+   "url": "https://github.com/Uuriko/project-room/issues/3527",
+   "at": "2026-10-15T19:18:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3526",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Public receipt gallery with clone-as-template for completed bounties",
+   "url": "https://github.com/Uuriko/project-room/issues/3526",
+   "at": "2026-10-15T19:18:49Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3525",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Promote a completed bounty run into a room Skill (human-gated, receipt-linked)",
+   "url": "https://github.com/Uuriko/project-room/issues/3525",
+   "at": "2026-10-15T19:18:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3524",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Bounty pricing guidance at post time from the room's own receipt history",
+   "url": "https://github.com/Uuriko/project-room/issues/3524",
+   "at": "2026-10-15T19:18:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/verdikta/verdikta-arbiter/issues/89",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "verdikta/verdikta-arbiter: e2e: multi-CID scenarios on main, with a manualOnly flag so the paid bounty-171 replay stays out of the nightly",
+   "url": "https://github.com/verdikta/verdikta-arbiter/issues/89",
+   "at": "2026-10-15T19:00:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "nigelon11",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60802",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60802 [gemma4_d_p] AgentX workload characterisation for the prefill node",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60802",
+   "at": "2026-10-15T19:00:03Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Ac0rdP/AccordProtocol/issues/838",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Ac0rdP/AccordProtocol: Add a bug bounty policy and coordinated-disclosure workflow",
+   "url": "https://github.com/Ac0rdP/AccordProtocol/issues/838",
+   "at": "2026-10-15T18:58:08Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "thegreatfeez",
+    "labels": [
+     "difficulty:medium",
+     "security-and-compliance"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895",
+   "at": "2026-10-15T18:51:20Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60799",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60799 [tt-metalium] Tile divides by zero for zero face dimensions before validation",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60799",
+   "at": "2026-10-15T18:47:28Z",
+   "extra": {
+    "author": "blozano-tt",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60798",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60798 [sfpi-gcc] Binary generation fails w/ pre-compiled headers + no LTO + SFPU instructions",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60798",
+   "at": "2026-10-15T18:44:23Z",
+   "extra": {
+    "author": "gdsinghTT",
+    "labels": [
+     "sfpi"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60794",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60794 Stop disabling host DMA when DPRINT or the watcher is enabled",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60794",
+   "at": "2026-10-15T17:49:24Z",
+   "extra": {
+    "author": "jbaumanTT",
+    "labels": [
+     "runtime",
+     "tech-debt"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60793",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60793 Use PCIe DMA for slow-dispatch host-to-device writes on Blackhole",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60793",
+   "at": "2026-10-15T17:39:50Z",
+   "extra": {
+    "author": "jbaumanTT",
+    "labels": [
+     "feature",
+     "blackhole",
+     "perf",
+     "runtime"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60792",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60792 ttnn.exp with fast-mode float32 input returns NaN instead of +inf for x >= 89",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60792",
+   "at": "2026-10-15T17:29:24Z",
+   "extra": {
+    "author": "KalaivaniMCW",
+    "labels": [
+     "bug",
+     "op_cat: eltwise"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60789",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60789 Gemma-4-12B test_full_model[blackhole-1x4] below gate on the SDPA recipe stack (resolved by #60786)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60789",
+   "at": "2026-10-15T17:17:40Z",
+   "extra": {
+    "author": "cglagovichTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60788",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60788 Gemma-4 prefill trace parity batch1-prefill_4096 fails (writes during trace capture) and hangs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60788",
+   "at": "2026-10-15T17:17:39Z",
+   "extra": {
+    "author": "cglagovichTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60787",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60787 Gemma-4-12B 1x4: bf16 attention/MLP weights through DramShardedLinear give garbage",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60787",
+   "at": "2026-10-15T17:17:38Z",
+   "extra": {
+    "author": "cglagovichTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/2995e766da1c339c8702f10d5ad5ebbb2401a8b0",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] ttnn.rms_norm: honor epsilon for 0-D inputs (#59884)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/2995e766da1c339c8702f10d5ad5ebbb2401a8b0",
+   "at": "2026-10-15T17:12:40Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/rmsnorm/rmsnorm.cpp"
+    ],
+    "added": [],
+    "author": "Hung2124"
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/125",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-15: 0 new, 1 resumed, 4 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/125",
+   "at": "2026-10-15T17:08:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Sofiia7/ARC/issues/31",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Sofiia7/ARC: Idea: an optional \"verified legal body\" badge for bounty takers",
+   "url": "https://github.com/Sofiia7/ARC/issues/31",
+   "at": "2026-10-15T17:04:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "MBarralDevs",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/804023dc82891ec2f6bb89d09bec2bc0bf7a2b20",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][Feature] Implement lcm for Quasar (#59435)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/804023dc82891ec2f6bb89d09bec2bc0bf7a2b20",
+   "at": "2026-10-15T16:57:44Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_lcm.h",
+     "tt_metal/tt-llk/tests/helpers/include/sfpu_operations_quasar.h",
+     "tt_metal/tt-llk/tests/python_tests/fuser/quasar/parser.py",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_equal_signs.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_extremes.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_shared_factor.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_worst_case.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_zeros_units.yaml",
+     "tt_metal/tt-llk/tests/python_tests/helpers/test_variant_parameters.py",
+     "tt_metal/tt-llk/tests/python_tests/quasar/test_eltwise_binary_sfpu_quasar.py",
+     "tt_metal/tt-llk/tt_llk_quasar/common/inc/ckernel_defs.h"
+    ],
+    "added": [
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_lcm.h",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_equal_signs.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_extremes.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_shared_factor.yaml",
+     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_int32_lcm_pairs_worst_case.yaml"
+    ],
+    "author": "nstamatovicTT"
+   }
+  },
+  {
+   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ditto-assistant/ditto-subnet: Evaluate one scoped build-bounty pilot against an internal build",
+   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
+   "at": "2026-10-15T16:55:25Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Peyton-Spencer",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ditto-assistant/ditto-subnet: Add bounty operator controls and gate funded activation",
+   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
+   "at": "2026-10-15T16:55:24Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Peyton-Spencer",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ditto-assistant/ditto-subnet: Implement the scoped build-bounty system on top of miner identity and CLA",
+   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
+   "at": "2026-10-15T16:55:23Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Peyton-Spencer",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/184",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vanduc2514/hackathon-circle-misthos: Bounty: remove the simulation \u2014 the app runs live, and only live",
+   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/184",
+   "at": "2026-10-15T16:51:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "vanduc2514",
+    "labels": [
+     "enhancement",
+     "p0",
+     "area:backend",
+     "area:frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/183",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vanduc2514/hackathon-circle-misthos: Bounty: cut Loop, Spend and Plans, and the subscription pricing with them",
+   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/183",
+   "at": "2026-10-15T16:51:01Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "vanduc2514",
+    "labels": [
+     "enhancement",
+     "p1",
+     "area:backend",
+     "area:frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60783",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60783 [tt-train] Expose the SDPA gate argument in the Python binding ttml.ops.attention.scaled_dot_product_attention",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60783",
+   "at": "2026-10-15T16:50:41Z",
+   "extra": {
+    "author": "tstepanovicTT",
+    "labels": [
+     "feature",
+     "tt-train"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/182",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vanduc2514/hackathon-circle-misthos: Bounty: Overview becomes the signed-in user's dashboard \u2014 a publisher's, and a contributor's",
+   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/182",
+   "at": "2026-10-15T16:50:38Z",
+   "extra": {
+    "comments": 11,
+    "amount_usd": null,
+    "author": "vanduc2514",
+    "labels": [
+     "misthos"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/181",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "vanduc2514/hackathon-circle-misthos: Bounty: rework the way in \u2014 one gate: a wallet, a GitHub account, then a side",
+   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/181",
+   "at": "2026-10-15T16:38:40Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "circle-mithios[bot]",
+    "labels": [
+     "enhancement",
+     "p1",
+     "area:backend",
+     "area:frontend"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60778",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60778 [ttnn/fold] fp32 bit-exactness is documented unconditionally but only holds on the DRAM path",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60778",
+   "at": "2026-10-15T16:24:52Z",
+   "extra": {
+    "author": "VirdhatchaniKN",
+    "labels": [
+     "op_cat: TM",
+     "MCW"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/e0e41597777f93a1d662f6779a8830bbd3d6097e",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][Test Only] Sweep the broad unary profile at 128x256 only (#60732)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/e0e41597777f93a1d662f6779a8830bbd3d6097e",
+   "at": "2026-10-15T16:13:00Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/test_eltwise_unary_sfpu.py"
+    ],
+    "added": [],
+    "author": "ldjurovicTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/b3bf75b260ee83bd7dfde1893b46658cee78e8d9",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] Perf gates: post to Slack only on a merge gate regression or skip (#60572)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/b3bf75b260ee83bd7dfde1893b46658cee78e8d9",
+   "at": "2026-10-15T16:10:24Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/perf/gate_slack_notify.py",
+     "tt_metal/tt-llk/perf/pr_gate_digest.py",
+     "tt_metal/tt-llk/tests/python_tests/test_perf_gate_slack_notify.py",
+     "tt_metal/tt-llk/tests/python_tests/test_perf_pr_gate_digest.py"
+    ],
+    "added": [],
+    "author": "nstojicTT"
+   }
+  },
   {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60775",
    "source": "tenstorrent",
@@ -13,6 +937,22 @@
     "labels": [
      "Quasar"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/58e5f56675982051ad8d3a31f694bc8799c478ec",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] Perf gate report: configuration in the table, arch in the title (#60749)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/58e5f56675982051ad8d3a31f694bc8799c478ec",
+   "at": "2026-10-15T15:57:51Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/perf/regression_compare.py",
+     "tt_metal/tt-llk/tests/python_tests/test_perf_regression_compare.py"
+    ],
+    "added": [],
+    "author": "nstojicTT"
    }
   },
   {
@@ -92,7 +1032,7 @@
    "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/613",
    "at": "2026-10-15T14:51:09Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "Emmy123222",
     "labels": [
@@ -109,7 +1049,7 @@
    "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/602",
    "at": "2026-10-15T14:50:11Z",
    "extra": {
-    "comments": 0,
+    "comments": 2,
     "amount_usd": null,
     "author": "Emmy123222",
     "labels": [
@@ -127,7 +1067,7 @@
    "url": "https://github.com/uvsmtid/protoprimer/issues/143",
    "at": "2026-10-15T14:49:56Z",
    "extra": {
-    "comments": 4,
+    "comments": 13,
     "amount_usd": null,
     "author": "uvsmtid",
     "labels": [
@@ -143,7 +1083,7 @@
    "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/554",
    "at": "2026-10-15T14:45:52Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "Emmy123222",
     "labels": [
@@ -342,20 +1282,6 @@
    }
   },
   {
-   "id": "https://github.com/EcstaceeLOR/CertiFiks/issues/9",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "EcstaceeLOR/CertiFiks: [P0][ESCROW] Implement funded bounty creation with immutable acceptance terms",
-   "url": "https://github.com/EcstaceeLOR/CertiFiks/issues/9",
-   "at": "2026-10-15T13:31:31Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "EcstaceeLOR",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60752",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -397,42 +1323,10 @@
    "url": "https://github.com/verdikta/verdikta-arbiter/issues/81",
    "at": "2026-10-15T12:12:29Z",
    "extra": {
-    "comments": 6,
+    "comments": 11,
     "amount_usd": null,
     "author": "nigelon11",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Earnly-Build/earnly/issues/19",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "Earnly-Build/earnly: [Bounty: $60] Landing page images, metadata and footer year",
-   "url": "https://github.com/Earnly-Build/earnly/issues/19",
-   "at": "2026-10-15T12:06:35Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 60,
-    "author": "Abdul-dev-creator",
-    "labels": [
-     "seo"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Earnly-Build/earnly/issues/17",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "Earnly-Build/earnly: [Bounty: $60] Add CI (lint + test + build) to pull requests",
-   "url": "https://github.com/Earnly-Build/earnly/issues/17",
-   "at": "2026-10-15T12:06:29Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 60,
-    "author": "Abdul-dev-creator",
-    "labels": [
-     "infrastructure"
-    ]
    }
   },
   {
@@ -753,7 +1647,7 @@
    "url": "https://github.com/veracindarella/paystream-contracts/issues/326",
    "at": "2026-10-15T09:11:29Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "veracindarella",
     "labels": [
@@ -818,7 +1712,7 @@
    "url": "https://github.com/alston-personal/agentmanager/issues/2003",
    "at": "2026-10-15T08:42:58Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "alstonhuang",
     "labels": []
@@ -1155,7 +2049,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1389",
    "at": "2026-10-15T01:21:36Z",
    "extra": {
-    "comments": 6,
+    "comments": 8,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -1295,7 +2189,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1368",
    "at": "2026-10-15T01:04:40Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -1315,7 +2209,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1364",
    "at": "2026-10-15T01:01:53Z",
    "extra": {
-    "comments": 5,
+    "comments": 6,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -1391,7 +2285,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1353",
    "at": "2026-10-15T00:53:56Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -1772,20 +2666,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60630",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60630 [Fabric]: Receiver channel downstream-connection optimizations",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60630",
-   "at": "2026-10-14T19:21:18Z",
-   "extra": {
-    "author": "arajagopalTT",
-    "labels": [
-     "feature"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/fulldecent/erc721/issues/306",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1797,20 +2677,6 @@
     "amount_usd": null,
     "author": "Toshit99",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60620",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60620 [aw] Failed jobs: Tenstorrent Skills Reviewer",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60620",
-   "at": "2026-10-14T18:19:22Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
    }
   },
   {
@@ -1826,65 +2692,6 @@
     "author": "silicons",
     "labels": [
      "S: Untriaged"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60614",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60614 [moe_compute] migrate selective_reduce_combine to packed token mapping",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60614",
-   "at": "2026-10-14T17:49:32Z",
-   "extra": {
-    "author": "yieldthought",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60613",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60613 [ops] ttnn.sort: fp32 NaN sorts past the \u00b1inf padding, so padding indices leak on every factory",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60613",
-   "at": "2026-10-14T17:48:28Z",
-   "extra": {
-    "author": "ign-sudha",
-    "labels": [
-     "bug",
-     "op_cat: TM",
-     "community",
-     "ign-ops"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/126fba363697f6a2553bbc154a181952fcccb358",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Cleanup] sampling: replace the writer's self-loop DFBs with scratchpads (#60504)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/126fba363697f6a2553bbc154a181952fcccb358",
-   "at": "2026-10-14T17:31:53Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/reduction/sampling/device/kernels/dataflow/writer_interleaved.cpp",
-     "ttnn/cpp/ttnn/operations/reduction/sampling/device/sampling_program_factory.cpp"
-    ],
-    "added": [],
-    "author": "gajanan-choudhary"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60612",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60612 [aw] Failed jobs: `/test` \u2014 CI pipeline selector for tt-metal",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60612",
-   "at": "2026-10-14T17:25:10Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
     ]
    }
   },
@@ -1909,254 +2716,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60610",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60610 [LLK][BH][LOGICAL_NOT] Rolled row loop idles 113 of 366 cycles per tile",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60610",
-   "at": "2026-10-14T17:17:55Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60609",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60609 [LLK][BH][COPY_DEST_VALUES] Row loop spends 96 of 113 instructions on steps",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60609",
-   "at": "2026-10-14T17:17:51Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60608",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60608 [aw] `/test` \u2014 CI pipeline selector for tt-metal failed",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60608",
-   "at": "2026-10-14T17:17:25Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/119",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-14: 0 new, 1 resumed, 4 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/119",
-   "at": "2026-10-14T17:15:27Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60606",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60606 [LLK][BH][INFRA] Perf improvements tracker",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60606",
-   "at": "2026-10-14T17:08:21Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/b4efead39b70025241d201e5f36739f1788697a1",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[LLK] Perf split: use a speed-of-light cost table for SoL runs (#60521)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/b4efead39b70025241d201e5f36739f1788697a1",
-   "at": "2026-10-14T17:07:27Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/tests/perf_split_costs_sol.json",
-     "tt_metal/tt-llk/tests/python_tests/helpers/llk_pytest_plugin.py"
-    ],
-    "added": [
-     "tt_metal/tt-llk/tests/perf_split_costs_sol.json"
-    ],
-    "author": "nstojicTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60602",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60602 [LLK][BH][LOGICAL_NOT] Perf improvements tracker",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60602",
-   "at": "2026-10-14T17:06:19Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60601",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60601 [LLK][BH][SDPA_WEIGHTED_REDUCE] No block entries for runs of chunks",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60601",
-   "at": "2026-10-14T17:01:54Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/hanoi96international-gif/Test/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "hanoi96international-gif/Test: \ud83c\udfaf Bounty-Radar",
-   "url": "https://github.com/hanoi96international-gif/Test/issues/1",
-   "at": "2026-10-14T16:58:44Z",
-   "extra": {
-    "comments": 8,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-radar"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60600",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60600 [aw] Failed jobs: `/test` \u2014 CI pipeline selector for tt-metal",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60600",
-   "at": "2026-10-14T16:55:49Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60599",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60599 [LLK][BH][TOPK] Stable sampling, sort and gate use the comparator",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60599",
-   "at": "2026-10-14T16:54:04Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/cbc196e4106b5d67b9f5fdcf970c2c6159d090c8",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[LLK] Warn when MOVD2A/MOVD2B has no source-bank wait before it (#59170)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/cbc196e4106b5d67b9f5fdcf970c2c6159d090c8",
-   "at": "2026-10-14T16:20:14Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/infra/check_dest_to_src_wait.py",
-     "tt_metal/tt-llk/infra/tests/test_check_dest_to_src_wait.py"
-    ],
-    "added": [
-     "tt_metal/tt-llk/infra/check_dest_to_src_wait.py",
-     "tt_metal/tt-llk/infra/tests/test_check_dest_to_src_wait.py"
-    ],
-    "author": "amahmudTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/864344849004e899b258edc6077296cdfaef011a",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[LLK][BH+WH] Save and restore the row dbg_get_array_row(SRCA) borrows without converting it (#59751)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/864344849004e899b258edc6077296cdfaef011a",
-   "at": "2026-10-14T16:15:28Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/tests/python_tests/test_dbg_get_array_row_srca.py",
-     "tt_metal/tt-llk/tests/sources/dbg_get_array_row_srca_test.cpp",
-     "tt_metal/tt-llk/tt_llk_blackhole/common/inc/ckernel_debug.h",
-     "tt_metal/tt-llk/tt_llk_wormhole_b0/common/inc/ckernel_debug.h"
-    ],
-    "added": [],
-    "author": "amahmudTT"
-   }
-  },
-  {
-   "id": "https://github.com/ROAM-game-org/road-machiners/issues/570",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ROAM-game-org/road-machiners: Add witnessed crimes, funded bounties and Marshall pursuit",
-   "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
-   "at": "2026-10-14T15:47:28Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "roam-factory[bot]",
-    "labels": [
-     "feature-request",
-     "implementation-opus"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "StellarDevHub/soroban-playground: [SC-48] Decentralized Public Goods Bounty Matching Pool with Milestone Payouts",
-   "url": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
-   "at": "2026-10-14T15:24:48Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ayomideadeniran",
-    "labels": [
-     "difficulty: hard",
-     "eta: 2-days",
-     "impact: high",
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "StellarDevHub/soroban-playground: [SC-30] Decentralized Bounty & GitHub Issue Micro-Payment Reward Protocol",
-   "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
-   "at": "2026-10-14T15:23:47Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ayomideadeniran",
-    "labels": [
-     "difficulty: hard",
-     "eta: 2-days",
-     "impact: high",
-     "contract"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -2173,83 +2732,6 @@
    }
   },
   {
-   "id": "https://github.com/tamgahq/sandbox/issues/2",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "tamgahq/sandbox: Describe how to try a bounty in the README",
-   "url": "https://github.com/tamgahq/sandbox/issues/2",
-   "at": "2026-10-14T14:02:35Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "tamga-sandbox-bot[bot]",
-    "labels": [
-     "proof-of-merge",
-     "pom-large"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/karinasandorik-bit/OWL-CORE/issues/24",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "karinasandorik-bit/OWL-CORE: [OWL Bounty Radar] Open pilot \u2014 10 bounty due diligence checks / 15 Base USDC",
-   "url": "https://github.com/karinasandorik-bit/OWL-CORE/issues/24",
-   "at": "2026-10-14T13:06:46Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "karinasandorik-bit",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/117",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-14: 11 changes across 7 bounty programs",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/117",
-   "at": "2026-10-14T11:57:18Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/116",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-14: 0 new, 0 resumed, 3 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/116",
-   "at": "2026-10-14T11:57:17Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/SeedonD/Hardware-Hacking-Starter-Pack/issues/2",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SeedonD/Hardware-Hacking-Starter-Pack: Three dead links in the Hardware Bug Bounty Programs table",
-   "url": "https://github.com/SeedonD/Hardware-Hacking-Starter-Pack/issues/2",
-   "at": "2026-10-14T11:39:37Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "SeedonD",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -2257,7 +2739,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
    "at": "2026-10-14T10:31:03Z",
    "extra": {
-    "comments": 19,
+    "comments": 21,
     "amount_usd": null,
     "author": "limitlessprojects",
     "labels": [
@@ -2265,142 +2747,6 @@
      "soundness",
      "\ud83d\udc8e Bounty"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/thirdshiftworks/opportunity-scanner/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "thirdshiftworks/opportunity-scanner: [Opportunity] [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands \u2014 $100.0",
-   "url": "https://github.com/thirdshiftworks/opportunity-scanner/issues/1",
-   "at": "2026-10-14T07:42:09Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 100,
-    "author": "github-actions[bot]",
-    "labels": [
-     "new"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3437",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: Human UI has no surface for bounties or credit balances: the first-owner money journey is invisible to a human owner (H-J1 FAIL)",
-   "url": "https://github.com/Uuriko/project-room/issues/3437",
-   "at": "2026-10-14T06:42:49Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/37",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] zio/zio#9211: ZIO.timeoutTO has tremendous overhead",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/37",
-   "at": "2026-10-14T05:05:28Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "cksime[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/115",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-14: 0 new, 0 resumed, 4 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/115",
-   "at": "2026-10-14T04:57:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/LegendofKEK/bichael/issues/294",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "LegendofKEK/bichael: High: No web UI for Ash Pit bounty place/cancel",
-   "url": "https://github.com/LegendofKEK/bichael/issues/294",
-   "at": "2026-10-14T03:39:46Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "cursor[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/LegendofKEK/bichael/issues/293",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "LegendofKEK/bichael: High: PvpBounty OPERATOR_ROLE can drain all open bounties",
-   "url": "https://github.com/LegendofKEK/bichael/issues/293",
-   "at": "2026-10-14T03:39:45Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "cursor[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/LegendofKEK/bichael/issues/290",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "LegendofKEK/bichael: Critical: PvP bounty uses synthetic receipts with no live escrow gate",
-   "url": "https://github.com/LegendofKEK/bichael/issues/290",
-   "at": "2026-10-14T03:39:42Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "cursor[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/DeonUrist/WildWasteland/issues/115",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DeonUrist/WildWasteland: [Patrols] Retribution patrols/bounty hunters from coyotes if attacked by player",
-   "url": "https://github.com/DeonUrist/WildWasteland/issues/115",
-   "at": "2026-10-14T02:14:43Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "DeonUrist",
-    "labels": [
-     "feature",
-     "module:Future",
-     "module:Patrols"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/55105",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#55105 [Bounty $1,500] ttnn.polygamma returns exactly 0 for n >= 7 over a wide band of ordinary positive x, where the true value is a normal fp32 (n! scale applied after accumulation)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/55105",
-   "at": "2026-10-13T18:02:18Z",
-   "extra": {
-    "state": "CLOSED",
-    "author": "singhharsh1708",
-    "assignees": [
-     "singhharsh1708"
-    ],
-    "created": "2026-09-01T20:58:07Z"
    }
   },
   {
