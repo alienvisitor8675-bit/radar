@@ -1,284 +1,1073 @@
 {
- "generated_at": "2026-10-15T19:57:45Z",
+ "generated_at": "2026-10-15T22:57:11Z",
  "events": [
   {
-   "id": "https://github.com/ASCTP/parabola/issues/27",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $45] Export convertPrecision and add 6\u21947 decimal round-trip tests",
-   "url": "https://github.com/ASCTP/parabola/issues/27",
-   "at": "2026-10-15T19:56:11Z",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60853",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60853 [Quaser] Implement pack_block_contiguous (experimental pack block)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60853",
+   "at": "2026-10-15T22:56:09Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 45,
-    "author": "Abdul-dev-creator",
+    "author": "rtawfik01",
+    "labels": [
+     "LLK",
+     "Quasar",
+     "performance",
+     "llk:quasar"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60852",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60852 [LLK][BH][TILIZE] tilize_block releases DEST after every tile",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60852",
+   "at": "2026-10-15T22:51:05Z",
+   "extra": {
+    "author": "mvlahovicTT",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/26",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $45] Validate input to bytes32ToStellarAddress",
-   "url": "https://github.com/ASCTP/parabola/issues/26",
-   "at": "2026-10-15T19:56:07Z",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60850",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60850 [Cleanup] Include the public header in work_split.cpp",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60850",
+   "at": "2026-10-15T22:42:21Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 45,
-    "author": "Abdul-dev-creator",
+    "author": "blozano-tt",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/25",
+   "id": "https://github.com/nick-transition/fitapp/issues/99",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
-   "url": "https://github.com/ASCTP/parabola/issues/25",
-   "at": "2026-10-15T19:56:03Z",
+   "title": "nick-transition/fitapp: [Bounty Proposal] Subscription quotas for existing MCP tools (#20) \u2014 USD 1,000",
+   "url": "https://github.com/nick-transition/fitapp/issues/99",
+   "at": "2026-10-15T22:29:35Z",
    "extra": {
     "comments": 0,
-    "amount_usd": 60,
-    "author": "Abdul-dev-creator",
+    "amount_usd": 1000,
+    "author": "ntoledo319",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/24",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60849",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60849 [Quasar] llk_unpack_tilize_init changes the row stride under in-flight UNPACR_TILIZE, corrupting the previous block",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60849",
+   "at": "2026-10-15T22:29:27Z",
+   "extra": {
+    "author": "gajanan-choudhary",
+    "labels": [
+     "bug",
+     "LLK"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60848",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60848 Quasar: helper-owned and temporary DataflowBuffers drain mid-kernel",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60848",
+   "at": "2026-10-15T22:18:03Z",
+   "extra": {
+    "author": "gajanan-choudhary",
+    "labels": [
+     "bug",
+     "op_cat: reduces",
+     "Quasar"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BigNathan1/CoopLumen/issues/899",
    "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
-   "url": "https://github.com/ASCTP/parabola/issues/24",
-   "at": "2026-10-15T19:56:01Z",
+   "kind": "bounty_issue_unpriced",
+   "title": "BigNathan1/CoopLumen: Frontend Design (Dark Mode): Contribution & Bounty Spotlight",
+   "url": "https://github.com/BigNathan1/CoopLumen/issues/899",
+   "at": "2026-10-15T22:15:55Z",
    "extra": {
     "comments": 0,
-    "amount_usd": 60,
-    "author": "Abdul-dev-creator",
+    "amount_usd": null,
+    "author": "BigNathan1",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/23",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $75] Website: accessibility and motion-preference fixes for the landing page",
-   "url": "https://github.com/ASCTP/parabola/issues/23",
-   "at": "2026-10-15T19:55:58Z",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60846",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60846 Quasar native multi thread binary op, support SFPU ops of mul and divide, and activation chains",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60846",
+   "at": "2026-10-15T22:10:30Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 75,
-    "author": "Abdul-dev-creator",
+    "author": "dchenTT",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/22",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
-   "url": "https://github.com/ASCTP/parabola/issues/22",
-   "at": "2026-10-15T19:55:56Z",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60845",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60845 Quasar LLK perf: two UNPACK_ISOLATE rows take one of two values from run to run",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60845",
+   "at": "2026-10-15T21:59:09Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 75,
-    "author": "Abdul-dev-creator",
+    "author": "mvlahovicTT",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/21",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
-   "url": "https://github.com/ASCTP/parabola/issues/21",
-   "at": "2026-10-15T19:55:53Z",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60844",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60844 Blackhole LLK perf: code changes that do no work still move results",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60844",
+   "at": "2026-10-15T21:59:08Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 75,
-    "author": "Abdul-dev-creator",
+    "author": "mvlahovicTT",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/20",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
-   "url": "https://github.com/ASCTP/parabola/issues/20",
-   "at": "2026-10-15T19:55:48Z",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60843",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60843 Wormhole LLK perf: L1_CONGESTION has several stable values per test",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60843",
+   "at": "2026-10-15T21:59:07Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 75,
-    "author": "Abdul-dev-creator",
+    "author": "mvlahovicTT",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/19",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry",
-   "url": "https://github.com/ASCTP/parabola/issues/19",
-   "at": "2026-10-15T19:55:46Z",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60841",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60841 [Cleanup] Deprecate public Int8 and UInt8 test helpers",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60841",
+   "at": "2026-10-15T21:57:23Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 75,
-    "author": "Abdul-dev-creator",
+    "author": "blozano-tt",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/18",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
-   "url": "https://github.com/ASCTP/parabola/issues/18",
-   "at": "2026-10-15T19:55:42Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915",
+   "at": "2026-10-15T21:54:24Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "Abdul-dev-creator",
-    "labels": []
+    "comments": 4,
+    "amount_usd": 105,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/17",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
-   "url": "https://github.com/ASCTP/parabola/issues/17",
-   "at": "2026-10-15T19:55:38Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
+   "at": "2026-10-15T21:54:23Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "Abdul-dev-creator",
-    "labels": []
+    "comments": 4,
+    "amount_usd": 105,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/16",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
-   "url": "https://github.com/ASCTP/parabola/issues/16",
-   "at": "2026-10-15T19:55:34Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913",
+   "at": "2026-10-15T21:54:23Z",
    "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "Abdul-dev-creator",
-    "labels": []
+    "comments": 4,
+    "amount_usd": 105,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/14",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
-   "url": "https://github.com/ASCTP/parabola/issues/14",
-   "at": "2026-10-15T19:55:28Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "Abdul-dev-creator",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/ASCTP/parabola/issues/13",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
-   "url": "https://github.com/ASCTP/parabola/issues/13",
-   "at": "2026-10-15T19:55:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "Abdul-dev-creator",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/ASCTP/parabola/issues/12",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $125] Add structured progress callbacks to transfer()",
-   "url": "https://github.com/ASCTP/parabola/issues/12",
-   "at": "2026-10-15T19:55:11Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911",
+   "at": "2026-10-15T21:54:22Z",
    "extra": {
     "comments": 0,
     "amount_usd": 125,
-    "author": "Abdul-dev-creator",
-    "labels": []
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/11",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
-   "url": "https://github.com/ASCTP/parabola/issues/11",
-   "at": "2026-10-15T19:55:07Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912",
+   "at": "2026-10-15T21:54:22Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 105,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909",
+   "at": "2026-10-15T21:54:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 90,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $125] Add structured progress callbacks to transfer()",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
+   "at": "2026-10-15T21:54:21Z",
    "extra": {
     "comments": 0,
     "amount_usd": 125,
-    "author": "Abdul-dev-creator",
-    "labels": []
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/10",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
-   "url": "https://github.com/ASCTP/parabola/issues/10",
-   "at": "2026-10-15T19:55:04Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
+   "at": "2026-10-15T21:54:20Z",
    "extra": {
     "comments": 0,
-    "amount_usd": 105,
-    "author": "Abdul-dev-creator",
-    "labels": []
+    "amount_usd": 90,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/9",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1907",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
-   "url": "https://github.com/ASCTP/parabola/issues/9",
-   "at": "2026-10-15T19:55:00Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1907",
+   "at": "2026-10-15T21:54:20Z",
    "extra": {
     "comments": 0,
-    "amount_usd": 105,
-    "author": "Abdul-dev-creator",
-    "labels": []
+    "amount_usd": 90,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/8",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
-   "url": "https://github.com/ASCTP/parabola/issues/8",
-   "at": "2026-10-15T19:54:55Z",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
+   "at": "2026-10-15T21:54:19Z",
    "extra": {
     "comments": 0,
-    "amount_usd": 105,
-    "author": "Abdul-dev-creator",
+    "amount_usd": 90,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1905",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1905",
+   "at": "2026-10-15T21:54:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 90,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1903",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1903",
+   "at": "2026-10-15T21:54:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1904",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag ",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1904",
+   "at": "2026-10-15T21:54:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
+   "at": "2026-10-15T21:54:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publ",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
+   "at": "2026-10-15T21:54:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1900",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for the landing",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1900",
+   "at": "2026-10-15T21:54:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 75,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1899",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1899",
+   "at": "2026-10-15T21:54:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 60,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1898",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1898",
+   "at": "2026-10-15T21:54:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 60,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1897",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $45] Validate input to bytes32ToStellarAddress",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1897",
+   "at": "2026-10-15T21:54:14Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 45,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1896",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $45] Export convertPrecision and add 6\u21947 decimal round-trip tests",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1896",
+   "at": "2026-10-15T21:54:14Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 45,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60834",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60834 conv2d activation readers: kernel windows wider than one NoC burst fail to JIT-compile; needs a multi-packet read fallback",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60834",
+   "at": "2026-10-15T21:51:33Z",
+   "extra": {
+    "author": "ayewo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60833",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60833 ttnn.rms_norm and ttnn.layer_norm: a one-tile-row interleaved input runs on one core; needs a width-split interleaved program",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60833",
+   "at": "2026-10-15T21:51:32Z",
+   "extra": {
+    "author": "ayewo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60832",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60832 ttnn.matmul auto config: a one-tile K block whenever the grid width does not divide Kt, which is most K on Blackhole",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60832",
+   "at": "2026-10-15T21:51:31Z",
+   "extra": {
+    "author": "ayewo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60831",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60831 ttnn.topk: rows whose width is not a power of two run on one core on Wormhole; needs a chunked multi-core route",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60831",
+   "at": "2026-10-15T21:51:30Z",
+   "extra": {
+    "author": "ayewo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60830",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60830 ttnn.argmax: TILE-layout inputs run on one core; needs a multi-core TILE reader",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60830",
+   "at": "2026-10-15T21:51:30Z",
+   "extra": {
+    "author": "ayewo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60829",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60829 ttnn.conv_transpose2d: strided upsamplers spend most of their work on inserted zeros; needs a polyphase lowering",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60829",
+   "at": "2026-10-15T21:51:19Z",
+   "extra": {
+    "author": "ayewo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60828",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60828 ttnn.conv_transpose2d: L1 clash on Blackhole at every input length from 361 to 400; the single-slice L1 estimate uses DRAM alignment",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60828",
+   "at": "2026-10-15T21:51:09Z",
+   "extra": {
+    "author": "ayewo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/126",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-15: 0 new, 1 resumed, 3 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/126",
+   "at": "2026-10-15T21:28:37Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3550",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Account-deletion purge (#2737) breaks the bounty journal hash chain \u2014 orphaned counterparty legs",
+   "url": "https://github.com/Uuriko/project-room/issues/3550",
+   "at": "2026-10-15T21:03:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
     "labels": []
    }
   },
   {
-   "id": "https://github.com/ASCTP/parabola/issues/7",
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60825",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60825 Static circular buffers can overlap the L1-small region without any enqueue-time check",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60825",
+   "at": "2026-10-15T20:35:46Z",
+   "extra": {
+    "author": "jamesleeTT",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60822",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60822 ttnn.addcdiv_bw overflows (-grad * value) * tensor1 before dividing by tensor2, and hardcodes unconditional +inf/-inf at tensor2 == 0 with wrong signs and missing 0/0 -> NaN",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60822",
+   "at": "2026-10-15T20:28:34Z",
+   "extra": {
+    "author": "area523ufo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60821",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60821 ttnn.acosh_bw checks square(input) < 1.0f instead of input < 1.0f, returning finite positive gradients for input < -1 and \u00b1inf at input == -1 where PyTorch returns NaN",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60821",
+   "at": "2026-10-15T20:28:32Z",
+   "extra": {
+    "author": "area523ufo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60820",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60820 ttnn.var_hw, ttnn.std_hw, ttnn.normalize_hw, and ttnn.normalize_global use padded_shape instead of logical_shape (up to 1024x variance error on non-32-aligned tiles)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60820",
+   "at": "2026-10-15T20:28:30Z",
+   "extra": {
+    "author": "area523ufo",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60817",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60817 Mesh trace replay hangs: prefetcher leaves an exec_buf page read in flight past EXEC_BUF_END",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60817",
+   "at": "2026-10-15T20:23:59Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "bug",
+     "fast-dispatch",
+     "runtime",
+     "trace",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60815",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60815 Consolidate DRISC use cases as a common \"dataplane\" service",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60815",
+   "at": "2026-10-15T20:17:57Z",
+   "extra": {
+    "author": "SeanNijjar",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/acc6bb4dfe03688c6095ba00c3ef937d381869bc",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] Correct typo in macro causing reconfig_data_format to be included unnecessarily (#60695)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/acc6bb4dfe03688c6095ba00c3ef937d381869bc",
+   "at": "2026-10-15T20:15:32Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/layernorm/device/kernels/compute/layernorm_sharded.cpp"
+    ],
+    "added": [],
+    "author": "edleeTT"
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/20",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "ASCTP/parabola: [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
-   "url": "https://github.com/ASCTP/parabola/issues/7",
-   "at": "2026-10-15T19:54:32Z",
+   "title": "Parabola-org/parabola: [Bounty: $45] Export convertPrecision and add 6\u21947 decimal round-trip tests",
+   "url": "https://github.com/Parabola-org/parabola/issues/20",
+   "at": "2026-10-15T20:03:08Z",
    "extra": {
-    "comments": 1,
+    "comments": 6,
+    "amount_usd": 45,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/19",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $45] Validate input to bytes32ToStellarAddress",
+   "url": "https://github.com/Parabola-org/parabola/issues/19",
+   "at": "2026-10-15T20:03:06Z",
+   "extra": {
+    "comments": 5,
+    "amount_usd": 45,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/18",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
+   "url": "https://github.com/Parabola-org/parabola/issues/18",
+   "at": "2026-10-15T20:03:03Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": 60,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "chore",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/17",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
+   "url": "https://github.com/Parabola-org/parabola/issues/17",
+   "at": "2026-10-15T20:03:01Z",
+   "extra": {
+    "comments": 6,
+    "amount_usd": 60,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "documentation",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/16",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $75] Website: accessibility and motion-preference fixes for the landing page",
+   "url": "https://github.com/Parabola-org/parabola/issues/16",
+   "at": "2026-10-15T20:02:58Z",
+   "extra": {
+    "comments": 5,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/15",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
+   "url": "https://github.com/Parabola-org/parabola/issues/15",
+   "at": "2026-10-15T20:02:55Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "chore",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/14",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
+   "url": "https://github.com/Parabola-org/parabola/issues/14",
+   "at": "2026-10-15T20:02:53Z",
+   "extra": {
+    "comments": 6,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/13",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
+   "url": "https://github.com/Parabola-org/parabola/issues/13",
+   "at": "2026-10-15T20:02:51Z",
+   "extra": {
+    "comments": 9,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "testing",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/12",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry",
+   "url": "https://github.com/Parabola-org/parabola/issues/12",
+   "at": "2026-10-15T20:02:49Z",
+   "extra": {
+    "comments": 5,
+    "amount_usd": 75,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/11",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
+   "url": "https://github.com/Parabola-org/parabola/issues/11",
+   "at": "2026-10-15T20:02:45Z",
+   "extra": {
+    "comments": 5,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "ci",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/10",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
+   "url": "https://github.com/Parabola-org/parabola/issues/10",
+   "at": "2026-10-15T20:02:39Z",
+   "extra": {
+    "comments": 6,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/9",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
+   "url": "https://github.com/Parabola-org/parabola/issues/9",
+   "at": "2026-10-15T20:02:33Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/8",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
+   "url": "https://github.com/Parabola-org/parabola/issues/8",
+   "at": "2026-10-15T20:02:25Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "performance",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/7",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
+   "url": "https://github.com/Parabola-org/parabola/issues/7",
+   "at": "2026-10-15T20:02:18Z",
+   "extra": {
+    "comments": 5,
+    "amount_usd": 90,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/6",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $125] Add structured progress callbacks to transfer()",
+   "url": "https://github.com/Parabola-org/parabola/issues/6",
+   "at": "2026-10-15T20:02:13Z",
+   "extra": {
+    "comments": 5,
+    "amount_usd": 125,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/5",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
+   "url": "https://github.com/Parabola-org/parabola/issues/5",
+   "at": "2026-10-15T20:02:07Z",
+   "extra": {
+    "comments": 6,
+    "amount_usd": 125,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "enhancement",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/4",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
+   "url": "https://github.com/Parabola-org/parabola/issues/4",
+   "at": "2026-10-15T20:02:04Z",
+   "extra": {
+    "comments": 4,
     "amount_usd": 105,
     "author": "Abdul-dev-creator",
-    "labels": []
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
+   "url": "https://github.com/Parabola-org/parabola/issues/3",
+   "at": "2026-10-15T20:02:02Z",
+   "extra": {
+    "comments": 5,
+    "amount_usd": 105,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/2",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+   "url": "https://github.com/Parabola-org/parabola/issues/2",
+   "at": "2026-10-15T20:01:56Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": 105,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Parabola-org/parabola/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "Parabola-org/parabola: [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+   "url": "https://github.com/Parabola-org/parabola/issues/1",
+   "at": "2026-10-15T20:01:50Z",
+   "extra": {
+    "comments": 6,
+    "amount_usd": 105,
+    "author": "Abdul-dev-creator",
+    "labels": [
+     "bug",
+     "bounty"
+    ]
    }
   },
   {
@@ -334,7 +1123,7 @@
    "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/18",
    "at": "2026-10-15T19:26:34Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "TLS-sys",
     "labels": [
@@ -351,7 +1140,7 @@
    "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/17",
    "at": "2026-10-15T19:26:09Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "TLS-sys",
     "labels": [
@@ -403,7 +1192,7 @@
    "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16",
    "at": "2026-10-15T19:25:35Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "TLS-sys",
     "labels": [
@@ -493,7 +1282,7 @@
    "url": "https://github.com/verdikta/verdikta-arbiter/issues/89",
    "at": "2026-10-15T19:00:09Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "nigelon11",
     "labels": []
@@ -538,13 +1327,30 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895",
    "at": "2026-10-15T18:51:20Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "zhangjiayang6835-cyber",
     "labels": [
      "bounty",
      "real"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/21552be352a4249f36297931c1cfa8b18ae636f3",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] layer_norm: fix device hang for ROW_MAJOR input on the large-tensor path (#59430)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/21552be352a4249f36297931c1cfa8b18ae636f3",
+   "at": "2026-10-15T18:50:37Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/layernorm/device/kernels/compute/layernorm_large_tensor.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm/device/kernels/dataflow/reader_unary_interleaved_ln_large_tensor.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/layernorm/device/layernorm_op_multi_core.cpp"
+    ],
+    "added": [],
+    "author": "warneat"
    }
   },
   {
@@ -573,6 +1379,22 @@
     "labels": [
      "sfpi"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/5556386833668e97997d022d7eb286e0f569861c",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] group_norm: cap the channel subblock at 4 tiles for fp32 DEST in half sync (#60167)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/5556386833668e97997d022d7eb286e0f569861c",
+   "at": "2026-10-15T18:26:09Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/groupnorm/device/groupnorm_mcast_program_factory.cpp",
+     "ttnn/cpp/ttnn/operations/normalization/groupnorm/device/groupnorm_no_mcast_program_factory.cpp"
+    ],
+    "added": [],
+    "author": "warneat"
    }
   },
   {
@@ -746,7 +1568,7 @@
    "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
    "at": "2026-10-15T16:55:25Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "Peyton-Spencer",
     "labels": [
@@ -763,7 +1585,7 @@
    "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
    "at": "2026-10-15T16:55:24Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "Peyton-Spencer",
     "labels": [
@@ -1067,7 +1889,7 @@
    "url": "https://github.com/uvsmtid/protoprimer/issues/143",
    "at": "2026-10-15T14:49:56Z",
    "extra": {
-    "comments": 13,
+    "comments": 14,
     "amount_usd": null,
     "author": "uvsmtid",
     "labels": [
@@ -1582,7 +2404,7 @@
    "url": "https://github.com/veracindarella/paystream-contracts/issues/337",
    "at": "2026-10-15T09:15:55Z",
    "extra": {
-    "comments": 0,
+    "comments": 3,
     "amount_usd": null,
     "author": "veracindarella",
     "labels": [
@@ -1647,7 +2469,7 @@
    "url": "https://github.com/veracindarella/paystream-contracts/issues/326",
    "at": "2026-10-15T09:11:29Z",
    "extra": {
-    "comments": 2,
+    "comments": 4,
     "amount_usd": null,
     "author": "veracindarella",
     "labels": [
@@ -1664,7 +2486,7 @@
    "url": "https://github.com/veracindarella/paystream-contracts/issues/319",
    "at": "2026-10-15T09:10:49Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "veracindarella",
     "labels": [
@@ -1956,20 +2778,6 @@
    }
   },
   {
-   "id": "https://github.com/aibtcdev/landing-page/issues/1110",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "aibtcdev/landing-page: bounties: /paid refuses a proof once status is abandoned, even when the payment landed inside PAY_GRACE",
-   "url": "https://github.com/aibtcdev/landing-page/issues/1110",
-   "at": "2026-10-15T02:07:26Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "sonic-mast",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60688",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2049,7 +2857,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1389",
    "at": "2026-10-15T01:21:36Z",
    "extra": {
-    "comments": 8,
+    "comments": 11,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -2069,7 +2877,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1386",
    "at": "2026-10-15T01:19:44Z",
    "extra": {
-    "comments": 7,
+    "comments": 9,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -2089,7 +2897,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1384",
    "at": "2026-10-15T01:17:38Z",
    "extra": {
-    "comments": 4,
+    "comments": 6,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -2249,7 +3057,7 @@
    "url": "https://github.com/verdikta/verdikta-applications/issues/76",
    "at": "2026-10-15T00:58:41Z",
    "extra": {
-    "comments": 2,
+    "comments": 6,
     "amount_usd": 30,
     "author": "nigelon11",
     "labels": [
@@ -2442,87 +3250,6 @@
    }
   },
   {
-   "id": "https://github.com/BeeStation/BeeStation-Hornet/issues/14812",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "BeeStation/BeeStation-Hornet: [Bug]: Tritium canister not registering as a bounty",
-   "url": "https://github.com/BeeStation/BeeStation-Hornet/issues/14812",
-   "at": "2026-10-14T23:03:27Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "unknownautistico",
-    "labels": [
-     "Bug"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60656",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60656 combine_device_tensors and the unit-mesh aggregate label the result with synthetic (1, n) coordinates instead of the devices that hold it",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60656",
-   "at": "2026-10-14T22:13:58Z",
-   "extra": {
-    "author": "awliu-TT",
-    "labels": [
-     "tensor",
-     "distributed"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/sybil-solutions/local-ai-registry/issues/262",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "sybil-solutions/local-ai-registry: Bounty ledger: claims, submissions and payouts",
-   "url": "https://github.com/sybil-solutions/local-ai-registry/issues/262",
-   "at": "2026-10-14T22:11:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "0xSero",
-    "labels": [
-     "bounty-ledger"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/SoroLabs/SoroTask/issues/1420",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SoroLabs/SoroTask: [SC-PROD-46] Decentralized Task Bounty Booster with Crowdfunded Incentive Pools & Contributor Distribution",
-   "url": "https://github.com/SoroLabs/SoroTask/issues/1420",
-   "at": "2026-10-14T22:10:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ayomideadeniran",
-    "labels": [
-     "advanced",
-     "contract",
-     "production-readiness",
-     "Crowdfunding",
-     "Economics"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60650",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60650 [ttnn.concat]: bfloat8_b last-dim concat with 32-wide inputs takes the transpose fallback on Blackhole and changes values",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60650",
-   "at": "2026-10-14T22:06:48Z",
-   "extra": {
-    "author": "gajanan-choudhary",
-    "labels": [
-     "bug"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -2539,50 +3266,6 @@
    }
   },
   {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/120",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-14: 0 new, 0 resumed, 6 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/120",
-   "at": "2026-10-14T21:49:17Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/2d29ecb829dce674962ea40569d943dcc62ef86f",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Feature] Add experimental Blackhole block-max8 SFPU pooling (#59924)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/2d29ecb829dce674962ea40569d943dcc62ef86f",
-   "at": "2026-10-14T21:12:19Z",
-   "extra": {
-    "files": [
-     "tt_metal/hw/ckernels/blackhole/metal/llk_api/experimental/llk_sfpu/llk_math_block_max8.h",
-     "tt_metal/hw/inc/api/compute/experimental/block_max8.h",
-     "tt_metal/tt-llk/tests/python_tests/helpers/test_variant_parameters.py",
-     "tt_metal/tt-llk/tests/python_tests/test_block_max8.py",
-     "tt_metal/tt-llk/tests/sources/block_max8_test.cpp",
-     "tt_metal/tt-llk/tt_llk_blackhole/common/inc/sfpu/experimental/ckernel_sfpu_block_max8.h",
-     "tt_metal/tt-llk/tt_llk_blackhole/common/inc/sfpu/experimental/ckernel_sfpu_fill_negative_zero.h"
-    ],
-    "added": [
-     "tt_metal/hw/ckernels/blackhole/metal/llk_api/experimental/llk_sfpu/llk_math_block_max8.h",
-     "tt_metal/hw/inc/api/compute/experimental/block_max8.h",
-     "tt_metal/tt-llk/tests/python_tests/test_block_max8.py",
-     "tt_metal/tt-llk/tests/sources/block_max8_test.cpp",
-     "tt_metal/tt-llk/tt_llk_blackhole/common/inc/sfpu/experimental/ckernel_sfpu_block_max8.h",
-     "tt_metal/tt-llk/tt_llk_blackhole/common/inc/sfpu/experimental/ckernel_sfpu_fill_negative_zero.h"
-    ],
-    "author": "atatuzunerTT"
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/56908",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -2596,123 +3279,6 @@
      "Adraca"
     ],
     "created": "2026-09-17T19:27:38Z"
-   }
-  },
-  {
-   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/172",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "vanduc2514/hackathon-circle-misthos: Bounty: let the publisher name the escrow term, within bounds",
-   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/172",
-   "at": "2026-10-14T20:56:35Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "circle-mithios[bot]",
-    "labels": [
-     "enhancement",
-     "p2",
-     "area:backend",
-     "area:frontend"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60638",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60638 H3 Parent",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60638",
-   "at": "2026-10-14T20:55:21Z",
-   "extra": {
-    "author": "cglagovichTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/171",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "vanduc2514/hackathon-circle-misthos: Bounty: Open the claim model \u2014 anyone can work an issue, and only the merge pays",
-   "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/171",
-   "at": "2026-10-14T20:46:32Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "circle-mithios[bot]",
-    "labels": [
-     "enhancement",
-     "epic",
-     "p1",
-     "area:backend",
-     "area:frontend"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Neziahtech/streampay/issues/85",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Neziahtech/streampay: security: bug-bounty intake pipeline with triage automation",
-   "url": "https://github.com/Neziahtech/streampay/issues/85",
-   "at": "2026-10-14T20:03:37Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "Neziahtech",
-    "labels": [
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/fulldecent/erc721/issues/306",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "fulldecent/erc721: Bug Bounty Report: Security Issue in ERC-721 Reference Implementation",
-   "url": "https://github.com/fulldecent/erc721/issues/306",
-   "at": "2026-10-14T19:18:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Toshit99",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/citadel-station/sector-xiv/issues/427",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "citadel-station/sector-xiv: 'Buy' contracts & bounties",
-   "url": "https://github.com/citadel-station/sector-xiv/issues/427",
-   "at": "2026-10-14T18:15:37Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "silicons",
-    "labels": [
-     "S: Untriaged"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/StellarDevHub/Web3-Student-Lab/issues/1657",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "StellarDevHub/Web3-Student-Lab: [SC-036] Decentralized Bounty Board Contract with Milestone Claim Validation & Auto-Refund",
-   "url": "https://github.com/StellarDevHub/Web3-Student-Lab/issues/1657",
-   "at": "2026-10-14T17:18:26Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ayomideadeniran",
-    "labels": [
-     "smart-contract",
-     "soroban",
-     "eta-2-days",
-     "complexity-hard",
-     "open-source-ready"
-    ]
    }
   },
   {
@@ -2759,126 +3325,6 @@
    "extra": {
     "state": "OPEN",
     "author": "haoxucu"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/998",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#998 Two CLI diagnostics that omit the actionable cause",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/998",
-   "at": "2026-10-12T20:54:21Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/999",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#999 HPFS filesystem type entry disabled by a misspelled guard",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/999",
-   "at": "2026-10-12T20:46:41Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/997",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#997 CLI help omits maintenance modes and supported options",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/997",
-   "at": "2026-10-12T20:45:00Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/995",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#995 Two tarsnap.conf(5) documentation corrections",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/995",
-   "at": "2026-10-12T20:44:46Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/994",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#994 Three protocol-specification mismatches in packets.txt",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/994",
-   "at": "2026-10-12T20:42:09Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/993",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#993 Chunkification-cache update can race after the cachedir lock is released",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/993",
-   "at": "2026-10-12T20:40:07Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/991",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#991 Relative XDG_CONFIG_HOME reads configuration from the working directory",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/991",
-   "at": "2026-10-12T20:36:10Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/990",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#990 --verify-config accepts empty file: and env: passphrase arguments",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/990",
-   "at": "2026-10-12T20:35:03Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/989",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#989 --cachedir changes permissions of a regular file or symlink target",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/989",
-   "at": "2026-10-12T20:35:00Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/988",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#988 tarsnap -r can report success before buffered stdout data is written",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/988",
-   "at": "2026-10-12T20:30:41Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "mySebbe"
    }
   }
  ],
