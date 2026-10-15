@@ -1,6 +1,367 @@
 {
- "generated_at": "2026-10-14T22:57:39Z",
+ "generated_at": "2026-10-15T01:17:53Z",
  "events": [
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1384",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add custom asset trustline creation quick-action modal in wallet selector",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1384",
+   "at": "2026-10-15T01:17:38Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "frontend",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1378",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add drag-and-drop CSV batch upload zone with visual upload progress feedback",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1378",
+   "at": "2026-10-15T01:13:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "frontend",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1377",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add interactive vesting timeline and claim simulator for payment streams UI",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1377",
+   "at": "2026-10-15T01:12:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "frontend",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1375",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add QR code payment request generator with configurable amounts and assets",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1375",
+   "at": "2026-10-15T01:10:37Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "frontend",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1373",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add live network transaction fee estimator widget to payment submission form",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1373",
+   "at": "2026-10-15T01:09:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "frontend",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1368",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Validate Stellar transaction memo encoding and character set on payment routes",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1368",
+   "at": "2026-10-15T01:04:40Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "backend",
+     "security",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1364",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add RFC 7807 problem details error formatting across all /api/payments routes",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1364",
+   "at": "2026-10-15T01:01:53Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "backend",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1361",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add cursor-based pagination and sorting to /api/audit-log route",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1361",
+   "at": "2026-10-15T00:59:53Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "backend",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/verdikta/verdikta-applications/issues/76",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "verdikta/verdikta-applications: [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)",
+   "url": "https://github.com/verdikta/verdikta-applications/issues/76",
+   "at": "2026-10-15T00:58:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 30,
+    "author": "nigelon11",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1357",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add stream cancellation pro-rata refund verification for partial elapsed periods",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1357",
+   "at": "2026-10-15T00:56:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "contracts",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1353",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Validate dispute timeout window in resolve_dispute to prevent premature resolution",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1353",
+   "at": "2026-10-15T00:53:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "bug",
+     "contracts",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1350",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Enforce minimum and maximum duration bounds on payment streams in create_stream",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1350",
+   "at": "2026-10-15T00:51:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "contracts",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/OphirPay/OphirPay/issues/1347",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "OphirPay/OphirPay: Add validation for token decimal precision mismatch in record_payment",
+   "url": "https://github.com/OphirPay/OphirPay/issues/1347",
+   "at": "2026-10-15T00:50:09Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "CodingAngel1",
+    "labels": [
+     "enhancement",
+     "contracts",
+     "difficulty: medium",
+     "bounty",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60679",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60679 [LLK][BH][SFPU_UNARY] Accurate sqrt and rsqrt idle in the refinement chain",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60679",
+   "at": "2026-10-15T00:32:22Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "LLK",
+     "blackhole"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60678",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60678 [LLK][BH][SAMPLING] Top-p rescale takes two one-tile calls",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60678",
+   "at": "2026-10-15T00:32:17Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "LLK",
+     "blackhole"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60673",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60673 [LLK][BH][TOPK] Prefill gate runs the slow top-k engine",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60673",
+   "at": "2026-10-15T00:04:24Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "perf",
+     "llk:blackhole",
+     "llk:performance"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60670",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60670 Wan2.2 T2V VAE decode regressed ~2x on BH galaxy between 2026-09-14 and 09-15 nightlies; bh_sc1 e2e job red since",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60670",
+   "at": "2026-10-14T23:57:15Z",
+   "extra": {
+    "author": "jamesleeTT",
+    "labels": [
+     "bug",
+     "models",
+     "blackhole",
+     "perf"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60667",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60667 Create oft variant quasar ops tests",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60667",
+   "at": "2026-10-14T23:51:04Z",
+   "extra": {
+    "author": "bbradelTT",
+    "labels": [
+     "op_cat: mm"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60661",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60661 Remove Obsolete force_replicate_axes Function",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60661",
+   "at": "2026-10-14T23:06:23Z",
+   "extra": {
+    "author": "awliu-TT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BeeStation/BeeStation-Hornet/issues/14812",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "BeeStation/BeeStation-Hornet: [Bug]: Tritium canister not registering as a bounty",
+   "url": "https://github.com/BeeStation/BeeStation-Hornet/issues/14812",
+   "at": "2026-10-14T23:03:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "unknownautistico",
+    "labels": [
+     "Bug"
+    ]
+   }
+  },
   {
    "id": "https://github.com/tenstorrent/tt-metal/issues/58986",
    "source": "tenstorrent",
@@ -112,20 +473,6 @@
     "labels": [
      "bounty-watch"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/terrafirma2021/ps5-13.60-kernel-dump/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "terrafirma2021/ps5-13.60-kernel-dump: [Bounty $50] Decrypted 13.60 system modules (/system/common/lib)",
-   "url": "https://github.com/terrafirma2021/ps5-13.60-kernel-dump/issues/1",
-   "at": "2026-10-14T21:18:19Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 50,
-    "author": "Leclowndu93150",
-    "labels": []
    }
   },
   {
@@ -343,6 +690,22 @@
    }
   },
   {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/126fba363697f6a2553bbc154a181952fcccb358",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Cleanup] sampling: replace the writer's self-loop DFBs with scratchpads (#60504)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/126fba363697f6a2553bbc154a181952fcccb358",
+   "at": "2026-10-14T17:31:53Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/reduction/sampling/device/kernels/dataflow/writer_interleaved.cpp",
+     "ttnn/cpp/ttnn/operations/reduction/sampling/device/sampling_program_factory.cpp"
+    ],
+    "added": [],
+    "author": "gajanan-choudhary"
+   }
+  },
+  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60612",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -444,7 +807,7 @@
    "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/407",
    "at": "2026-10-14T17:13:04Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "LarryE135",
     "labels": []
@@ -1490,702 +1853,6 @@
    }
   },
   {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] \ud83d\udccb 2 open bounties right now",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
-   "at": "2026-10-13T23:57:04Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60491",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60491 [LLK][BH][MOE_GATE] Ungrouped merge tree costs 966 cycles per token",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60491",
-   "at": "2026-10-13T23:28:36Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3307",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: Dispute bond is specified two ways: dispute machine opens at max(1, 5% of bounty), escrow enforces exactly 25%",
-   "url": "https://github.com/Uuriko/project-room/issues/3307",
-   "at": "2026-10-13T23:19:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bug"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/114",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-13: 0 new, 1 resumed, 5 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/114",
-   "at": "2026-10-13T22:48:42Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "agile-students-fall2026/generic-mern-stack-project-bounty: As someone who lost their item, I want to mark who helped me when resolving the post so that the bounty is recorded as going to the right person.",
-   "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
-   "at": "2026-10-13T22:30:11Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LeoLobo9906",
-    "labels": [
-     "user story",
-     "Sprint 0"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "agile-students-fall2026/generic-mern-stack-project-bounty: As someone who lost their item, I want to attach an optional bounty to my post so that more people are motivated to help look for it.",
-   "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
-   "at": "2026-10-13T22:29:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LeoLobo9906",
-    "labels": [
-     "user story",
-     "Sprint 0"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/habibdxb01/bounty-watcher/issues/5",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "habibdxb01/bounty-watcher: \ud83d\udccb 2 open bounties right now",
-   "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
-   "at": "2026-10-13T21:40:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty",
-     "assessed"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1623",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Mobile: end-to-end tests with Maestro or Detox for sign-in and bounty browsing",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1623",
-   "at": "2026-10-13T21:22:48Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "mobile",
-     "testing"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/172",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Minimum bounty amount per token",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/172",
-   "at": "2026-10-13T21:22:40Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "contract",
-     "security"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/171",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Reject self-claims by the bounty creator",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/171",
-   "at": "2026-10-13T21:22:33Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "good first issue",
-     "Stellar Wave",
-     "contract",
-     "security"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1613",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Admin reports: export CSV for revenue, users, bounties, disputes",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1613",
-   "at": "2026-10-13T21:22:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "backend",
-     "feature"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/166",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [frontend] Show the scanner's detection for a bounty's package",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/166",
-   "at": "2026-10-13T21:22:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "scanner",
-     "frontend"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1611",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Bounty templates management for clients",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1611",
-   "at": "2026-10-13T21:21:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "backend",
-     "feature"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1610",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Team/agency accounts that can apply to bounties together",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1610",
-   "at": "2026-10-13T21:21:52Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "backend",
-     "feature"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1608",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Verified reviews only from completed bounties",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1608",
-   "at": "2026-10-13T21:21:43Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "security",
-     "feature"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/161",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [testing] Integration test: scan \u2192 create bounty on a local contract",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/161",
-   "at": "2026-10-13T21:21:36Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "scanner",
-     "contract",
-     "testing"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1606",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Bounty application drafts and withdrawal",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1606",
-   "at": "2026-10-13T21:21:34Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "backend",
-     "feature"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1605",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Saved searches and alerts for new bounties matching skills",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1605",
-   "at": "2026-10-13T21:21:30Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "backend",
-     "feature"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/156",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [docs] Threat model for the bounty router",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/156",
-   "at": "2026-10-13T21:21:07Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "documentation",
-     "Stellar Wave",
-     "security"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/149",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [drips] Fund the bounty pool from a Drips stream",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/149",
-   "at": "2026-10-13T21:20:26Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "drips"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/148",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [drips] Send a share of each released bounty to the project's Drips list",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/148",
-   "at": "2026-10-13T21:20:20Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "contract",
-     "drips"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/146",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [drips] Design doc: routing bounty payouts through Drips",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/146",
-   "at": "2026-10-13T21:20:08Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "documentation",
-     "Stellar Wave",
-     "drips"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1579",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Add e2e test for bounty lifecycle (create \u2192 apply \u2192 assign \u2192 submit \u2192 approve \u2192 pay)",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1579",
-   "at": "2026-10-13T21:19:37Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "testing"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1563",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Add events for every state change in bounty/freelancer contracts",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1563",
-   "at": "2026-10-13T21:18:25Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/127",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [frontend] Submit-claim form on the bounty page",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/127",
-   "at": "2026-10-13T21:18:13Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "frontend",
-     "wallet"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/126",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [frontend] Create-bounty form",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/126",
-   "at": "2026-10-13T21:18:08Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "frontend",
-     "wallet"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/124",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [frontend] Paginate the bounty list",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/124",
-   "at": "2026-10-13T21:17:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "frontend",
-     "performance"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/123",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [frontend] Sort the bounty board",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/123",
-   "at": "2026-10-13T21:17:50Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "frontend"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/122",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [frontend] Search bounties by finding text",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/122",
-   "at": "2026-10-13T21:17:44Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "good first issue",
-     "Stellar Wave",
-     "frontend"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/118",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Invariant tests: contract balance always equals the sum of open bounties",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/118",
-   "at": "2026-10-13T21:17:20Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "Stellar Wave",
-     "contract",
-     "testing"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/117",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Structured finding metadata on bounties",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/117",
-   "at": "2026-10-13T21:17:15Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/115",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Index claims by claimant across bounties",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/115",
-   "at": "2026-10-13T21:17:03Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/114",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Paginated bounty listing getter",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/114",
-   "at": "2026-10-13T21:16:58Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/109",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Let the creator extend a bounty's deadline",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/109",
-   "at": "2026-10-13T21:16:27Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/108",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Top up an open bounty (`fund_bounty`)",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/108",
-   "at": "2026-10-13T21:16:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/DepRadarOrg/DepRadar/issues/107",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "DepRadarOrg/DepRadar: [contract] Split a bounty payout across multiple claimants",
-   "url": "https://github.com/DepRadarOrg/DepRadar/issues/107",
-   "at": "2026-10-13T21:16:15Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ALLEN-AYODEJI",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "contract"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1520",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "yosemite01/stellar-creator-portfolio: Restrict `/api/bounties/[id]/suggested-creators` to the bounty owner",
-   "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1520",
-   "at": "2026-10-13T21:15:18Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "yosemite01",
-    "labels": [
-     "backend",
-     "security"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/RandyKnapp/ValheimMods/issues/764",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "RandyKnapp/ValheimMods: When collecting bounty rewards for completed bounties, If your inventory is full, it drops only a single item of whatever is dropped",
-   "url": "https://github.com/RandyKnapp/ValheimMods/issues/764",
-   "at": "2026-10-13T20:48:48Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jhhertel",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ditto-assistant/ditto-subnet: Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey",
-   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
-   "at": "2026-10-13T18:19:24Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "Peyton-Spencer",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2871",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ditto-assistant/ditto-subnet: Miner CLI: attest a GitHub account and link it to the miner hotkey",
-   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2871",
-   "at": "2026-10-13T18:18:59Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "Peyton-Spencer",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "bounty"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/55105",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -2199,461 +1866,6 @@
      "singhharsh1708"
     ],
     "created": "2026-09-01T20:58:07Z"
-   }
-  },
-  {
-   "id": "https://github.com/SecOpsNews/news/issues/75026",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SecOpsNews/news: [SecurityWeek] Google Partially Reverses Chrome Bug Bounty Cuts",
-   "url": "https://github.com/SecOpsNews/news/issues/75026",
-   "at": "2026-10-13T17:09:08Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "SecurityWeek",
-     "Stale"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/36",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#8232: [Enhancement]: Add Open Replay",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/36",
-   "at": "2026-10-13T17:06:27Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "assdkias[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/chiuhehe1-design/conm/issues/35",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "chiuhehe1-design/conm: [Bounty Solution] coollabsio/coolify#8264: [Enhancement]: WordPress + OpenLiteSpeed service template",
-   "url": "https://github.com/chiuhehe1-design/conm/issues/35",
-   "at": "2026-10-13T17:04:35Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "jasoetts[bot]",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1200",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MentorsMind/MentorsMind-Contract: Add integration test covering bounty post \u2192 claim \u2192 dispute \u2192 resolution lifecycle",
-   "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1200",
-   "at": "2026-10-13T15:40:35Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Benalex8797",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/facebook/mvfst/issues/470",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "facebook/mvfst: Unable to contact Meta Bug Bounty team after permanent Facebook account suspension",
-   "url": "https://github.com/facebook/mvfst/issues/470",
-   "at": "2026-10-13T15:30:31Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zerox80",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1286",
-   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
-   "at": "2026-10-13T14:33:46Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": null,
-    "author": "SPLURT-Station-Bot",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1285",
-   "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
-   "at": "2026-10-13T14:33:04Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "SPLURT-Station-Bot",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/716",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: The bounty board downloads the entire bounties table on every page view and paginates in memory",
-   "url": "https://github.com/MergeFi/frontend/issues/716",
-   "at": "2026-10-13T14:25:25Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "performance",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/703",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: 'Deadline: soonest' sort lists bounties whose deadline already passed first",
-   "url": "https://github.com/MergeFi/frontend/issues/703",
-   "at": "2026-10-13T14:23:03Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/700",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Signing in from a bounty page never returns the user to it",
-   "url": "https://github.com/MergeFi/frontend/issues/700",
-   "at": "2026-10-13T14:22:49Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "enhancement",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/699",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: The contributor who claimed a bounty sees 'This bounty has already been claimed' with no next steps",
-   "url": "https://github.com/MergeFi/frontend/issues/699",
-   "at": "2026-10-13T14:22:44Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/696",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Every bounty page shares the generic OG image \u2014 no per-bounty share card",
-   "url": "https://github.com/MergeFi/frontend/issues/696",
-   "at": "2026-10-13T14:22:28Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "enhancement",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/691",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: README roadmap lists 'real-time bounty status via polling' as future work \u2014 polling already ships",
-   "url": "https://github.com/MergeFi/frontend/issues/691",
-   "at": "2026-10-13T14:22:05Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "documentation",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/680",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: Bounty card previews show raw HTML comments and tags from GitHub issue templates",
-   "url": "https://github.com/MergeFi/frontend/issues/680",
-   "at": "2026-10-13T14:20:25Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "bug",
-     "good first issue",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MergeFi/frontend/issues/657",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MergeFi/frontend: components/bounty/LiveBountyStatus.tsx has no test file",
-   "url": "https://github.com/MergeFi/frontend/issues/657",
-   "at": "2026-10-13T14:18:29Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "chonilius",
-    "labels": [
-     "good first issue",
-     "testing",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/34",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B113] Try to pick something up with a full inventory",
-   "url": "https://github.com/mscrnt/lockpick/issues/34",
-   "at": "2026-10-13T07:15:15Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/32",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B111] Pick up each key item (keys, crests, MO disk, emblems...)",
-   "url": "https://github.com/mscrnt/lockpick/issues/32",
-   "at": "2026-10-13T07:15:11Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/31",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B110] Combine items",
-   "url": "https://github.com/mscrnt/lockpick/issues/31",
-   "at": "2026-10-13T07:15:09Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/30",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B109] Get poisoned and cure it (blue herb or serum)",
-   "url": "https://github.com/mscrnt/lockpick/issues/30",
-   "at": "2026-10-13T07:15:08Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/29",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B108] Use each healing item (green, red+green, blue, mixed herbs, first aid spray)",
-   "url": "https://github.com/mscrnt/lockpick/issues/29",
-   "at": "2026-10-13T07:15:06Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/28",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B107] Use the rocket launcher (ending)",
-   "url": "https://github.com/mscrnt/lockpick/issues/28",
-   "at": "2026-10-13T07:15:04Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/27",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B106] Use the flamethrower (Chris)",
-   "url": "https://github.com/mscrnt/lockpick/issues/27",
-   "at": "2026-10-13T07:15:02Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/26",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B105] Use the bazooka with each round type (explosive, acid, flame)",
-   "url": "https://github.com/mscrnt/lockpick/issues/26",
-   "at": "2026-10-13T07:15:00Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/25",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B104] Fire and reload the Colt Python / magnum",
-   "url": "https://github.com/mscrnt/lockpick/issues/25",
-   "at": "2026-10-13T07:14:59Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/22",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: [B007] Play the Rebecca section (Chris scenario)",
-   "url": "https://github.com/mscrnt/lockpick/issues/22",
-   "at": "2026-10-13T07:14:54Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "area:re1",
-     "needs-game"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mscrnt/lockpick/issues/7",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mscrnt/lockpick: Capture bounties: help Lockpick learn the game",
-   "url": "https://github.com/mscrnt/lockpick/issues/7",
-   "at": "2026-10-13T07:14:25Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "mscrnt",
-    "labels": [
-     "help wanted",
-     "bounty",
-     "capture"
-    ]
    }
   },
   {
