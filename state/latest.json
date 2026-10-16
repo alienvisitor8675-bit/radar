@@ -1,11 +1,146 @@
 {
- "generated_at": "2026-10-15T22:57:11Z",
+ "generated_at": "2026-10-16T01:01:52Z",
  "events": [
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3613",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Records: criteria-level outcomes and period-of-use stop at the bounty lane (accountability R-2)",
+   "url": "https://github.com/Uuriko/project-room/issues/3613",
+   "at": "2026-10-16T00:55:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60858",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60858 [LLK][BH][SOFTSHRINK] Row waits on its own adds",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60858",
+   "at": "2026-10-16T00:41:36Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/644",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: dsh-bounty\uff1a#293 \u7ed3\u7b97\u4e8b\u4ef6\u7684 `formula` \u5199\u6210\u5b57\u7b26\u4e32 \u21d2 \u516c\u5f00\u590d\u7b97\u5165\u53e3 `rescore` \u5728\u771f\u5b9e\u8d26\u672c\u4e0a\u5d29\u6808\u3001`--value-vector-out`/`--promotion-out` \u5d29\u3001\u4e24\u4efd\u5bfc\u51fa\u4ea7\u7269\u9648\u65e7\uff1bCI \u5168\u91cf\u5b88\u536b\u5728 main \u4e0a\u7ea2 2 \u4ef6\uff0c\u800c\u8d26\u672c\u4e0d\u53d8\u91cf\u81ea\u5ba1 15 \u9879\u5168 0\uff08\u6f0f\u68c0\uff09",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/644",
+   "at": "2026-10-16T00:23:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Liyang1145",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3599",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [High] NDJSON export\u2192restore silently corrupts name-matched \"secret\" columns: sha256 placeholders loaded as live values (password_reset_required cleared, bounty verifier authority replaced)",
+   "url": "https://github.com/Uuriko/project-room/issues/3599",
+   "at": "2026-10-16T00:14:49Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3594",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [Security] Settled bounty lot receipts are public by default \u2014 they bypass the room public-receipts opt-in that gates every other receipt shape",
+   "url": "https://github.com/Uuriko/project-room/issues/3594",
+   "at": "2026-10-16T00:11:15Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3591",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Bounty escrow: deadline/challenge boundaries are a race \u2014 accept-vs-finalize and dispute-vs-finalize outcomes depend on who pokes first",
+   "url": "https://github.com/Uuriko/project-room/issues/3591",
+   "at": "2026-10-16T00:08:34Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/verdikta/verdikta-applications/issues/78",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "verdikta/verdikta-applications: Bounty site has no Open Graph / Twitter Card tags: shared links render blank",
+   "url": "https://github.com/verdikta/verdikta-applications/issues/78",
+   "at": "2026-10-15T23:48:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "nigelon11",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/20778bdbcda8c0474e17446cee0f0b9a24489afd",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK] Check that sticky config fields are restored after a fixed write (#59174)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/20778bdbcda8c0474e17446cee0f0b9a24489afd",
+   "at": "2026-10-15T23:46:42Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/infra/check_sticky_cfg_restore.py",
+     "tt_metal/tt-llk/infra/sticky_cfg_fields.yaml",
+     "tt_metal/tt-llk/infra/tests/test_check_sticky_cfg_restore.py"
+    ],
+    "added": [
+     "tt_metal/tt-llk/infra/check_sticky_cfg_restore.py",
+     "tt_metal/tt-llk/infra/sticky_cfg_fields.yaml",
+     "tt_metal/tt-llk/infra/tests/test_check_sticky_cfg_restore.py"
+    ],
+    "author": "amahmudTT"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60855",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60855 [Quasar] Implement pack_rows_to_addr (row pack to an L1 address)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60855",
+   "at": "2026-10-15T23:12:39Z",
+   "extra": {
+    "author": "rtawfik01",
+    "labels": [
+     "LLK",
+     "Quasar",
+     "llk:quasar"
+    ]
+   }
+  },
   {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60853",
    "source": "tenstorrent",
    "kind": "tt_issue",
-   "title": "tt-metal#60853 [Quaser] Implement pack_block_contiguous (experimental pack block)",
+   "title": "tt-metal#60853 [Quasar] Implement pack_block_contiguous (experimental pack block)",
    "url": "https://github.com/tenstorrent/tt-metal/issues/60853",
    "at": "2026-10-15T22:56:09Z",
    "extra": {
@@ -169,24 +304,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915",
    "at": "2026-10-15T21:54:24Z",
    "extra": {
-    "comments": 4,
-    "amount_usd": 105,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
-   "at": "2026-10-15T21:54:23Z",
-   "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": 105,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -204,6 +322,23 @@
    "at": "2026-10-15T21:54:23Z",
    "extra": {
     "comments": 4,
+    "amount_usd": 105,
+    "author": "zhangjiayang6835-cyber",
+    "labels": [
+     "bounty",
+     "real"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
+   "at": "2026-10-15T21:54:23Z",
+   "extra": {
+    "comments": 5,
     "amount_usd": 105,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -271,7 +406,7 @@
    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
    "at": "2026-10-15T21:54:21Z",
    "extra": {
-    "comments": 0,
+    "comments": 5,
     "amount_usd": 125,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -383,14 +518,14 @@
    }
   },
   {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publ",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
    "at": "2026-10-15T21:54:17Z",
    "extra": {
-    "comments": 0,
+    "comments": 4,
     "amount_usd": 75,
     "author": "zhangjiayang6835-cyber",
     "labels": [
@@ -400,11 +535,11 @@
    }
   },
   {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
+   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
    "source": "github_search",
    "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publ",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
+   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
    "at": "2026-10-15T21:54:17Z",
    "extra": {
     "comments": 0,
@@ -686,24 +821,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60817",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60817 Mesh trace replay hangs: prefetcher leaves an exec_buf page read in flight past EXEC_BUF_END",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60817",
-   "at": "2026-10-15T20:23:59Z",
-   "extra": {
-    "author": "kmabeeTT",
-    "labels": [
-     "bug",
-     "fast-dispatch",
-     "runtime",
-     "trace",
-     "model: gemma-4"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60815",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -738,7 +855,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/20",
    "at": "2026-10-15T20:03:08Z",
    "extra": {
-    "comments": 6,
+    "comments": 7,
     "amount_usd": 45,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -755,7 +872,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/19",
    "at": "2026-10-15T20:03:06Z",
    "extra": {
-    "comments": 5,
+    "comments": 6,
     "amount_usd": 45,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -772,7 +889,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/18",
    "at": "2026-10-15T20:03:03Z",
    "extra": {
-    "comments": 4,
+    "comments": 6,
     "amount_usd": 60,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -806,7 +923,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/16",
    "at": "2026-10-15T20:02:58Z",
    "extra": {
-    "comments": 5,
+    "comments": 9,
     "amount_usd": 75,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -823,7 +940,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/15",
    "at": "2026-10-15T20:02:55Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": 75,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -840,7 +957,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/14",
    "at": "2026-10-15T20:02:53Z",
    "extra": {
-    "comments": 6,
+    "comments": 7,
     "amount_usd": 75,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -891,7 +1008,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/11",
    "at": "2026-10-15T20:02:45Z",
    "extra": {
-    "comments": 5,
+    "comments": 7,
     "amount_usd": 90,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -908,7 +1025,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/10",
    "at": "2026-10-15T20:02:39Z",
    "extra": {
-    "comments": 6,
+    "comments": 8,
     "amount_usd": 90,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -925,7 +1042,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/9",
    "at": "2026-10-15T20:02:33Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": 90,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -942,7 +1059,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/8",
    "at": "2026-10-15T20:02:25Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": 90,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -959,7 +1076,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/7",
    "at": "2026-10-15T20:02:18Z",
    "extra": {
-    "comments": 5,
+    "comments": 7,
     "amount_usd": 90,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -1010,7 +1127,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/4",
    "at": "2026-10-15T20:02:04Z",
    "extra": {
-    "comments": 4,
+    "comments": 6,
     "amount_usd": 105,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -2559,24 +2676,6 @@
    }
   },
   {
-   "id": "https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/892",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract: contract: drop the crate-wide #![allow(dead_code)] \u2014 its TODO(next-bounty) backlog is down to three unused helpers and four unused DataKey variants",
-   "url": "https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/892",
-   "at": "2026-10-15T08:07:33Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "CHEF-SAVY",
-    "labels": [
-     "enhancement",
-     "good first issue",
-     "rust"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60706",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2608,22 +2707,6 @@
    }
   },
   {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/121",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-15: 0 new, 0 resumed, 3 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/121",
-   "at": "2026-10-15T04:44:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/commit/aa7f0d29a12d98f09eb8919ae9b2b79891600602",
    "source": "tenstorrent",
    "kind": "tt_kernel_commit",
@@ -2636,23 +2719,6 @@
     ],
     "added": [],
     "author": "pkennedyTT"
-   }
-  },
-  {
-   "id": "https://github.com/LiamVisionary/bee-scouts/issues/3",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "LiamVisionary/bee-scouts: Add a 'Hall bounties' pointer to the SuperAgent API rewards page",
-   "url": "https://github.com/LiamVisionary/bee-scouts/issues/3",
-   "at": "2026-10-15T04:30:32Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LiamVisionary",
-    "labels": [
-     "bee-proposal",
-     "bee-547"
-    ]
    }
   },
   {
@@ -2857,7 +2923,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1389",
    "at": "2026-10-15T01:21:36Z",
    "extra": {
-    "comments": 11,
+    "comments": 12,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -2917,7 +2983,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1378",
    "at": "2026-10-15T01:13:31Z",
    "extra": {
-    "comments": 6,
+    "comments": 7,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -2957,7 +3023,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1375",
    "at": "2026-10-15T01:10:37Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3146,110 +3212,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60679",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60679 [LLK][BH][SFPU_UNARY] Accurate sqrt and rsqrt idle in the refinement chain",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60679",
-   "at": "2026-10-15T00:32:22Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60678",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60678 [LLK][BH][SAMPLING] Top-p rescale takes two one-tile calls",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60678",
-   "at": "2026-10-15T00:32:17Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/6d60d6f30165bf769f5dd2613e4f9ec5f5d2958c",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "Unify Copy Block and Pack Block Implementations (#60151)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/6d60d6f30165bf769f5dd2613e4f9ec5f5d2958c",
-   "at": "2026-10-15T00:15:24Z",
-   "extra": {
-    "files": [
-     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_unpack_A_api.h"
-    ],
-    "added": [],
-    "author": "wransom-TT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60673",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60673 [LLK][BH][TOPK] Prefill gate runs the slow top-k engine",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60673",
-   "at": "2026-10-15T00:04:24Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "perf",
-     "llk:blackhole",
-     "llk:performance"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60670",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60670 Wan2.2 T2V VAE decode regressed ~2x on BH galaxy between 2026-09-14 and 09-15 nightlies; bh_sc1 e2e job red since",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60670",
-   "at": "2026-10-14T23:57:15Z",
-   "extra": {
-    "author": "jamesleeTT",
-    "labels": [
-     "bug",
-     "models",
-     "blackhole",
-     "perf"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60667",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60667 Create oft variant quasar ops tests",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60667",
-   "at": "2026-10-14T23:51:04Z",
-   "extra": {
-    "author": "bbradelTT",
-    "labels": [
-     "op_cat: mm"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60661",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60661 Remove Obsolete force_replicate_axes Function",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60661",
-   "at": "2026-10-14T23:06:23Z",
-   "extra": {
-    "author": "awliu-TT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/49307",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -3295,24 +3257,6 @@
      "samiyadev786"
     ],
     "created": "2026-10-07T21:34:17Z"
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: Bounty track: hunt accepted-but-unsound programs at the task boundary",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
-   "at": "2026-10-14T10:31:03Z",
-   "extra": {
-    "comments": 21,
-    "amount_usd": null,
-    "author": "limitlessprojects",
-    "labels": [
-     "help wanted",
-     "soundness",
-     "\ud83d\udc8e Bounty"
-    ]
    }
   },
   {
