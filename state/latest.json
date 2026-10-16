@@ -1,6 +1,419 @@
 {
- "generated_at": "2026-10-16T01:01:52Z",
+ "generated_at": "2026-10-16T06:06:00Z",
  "events": [
+  {
+   "id": "https://github.com/oll4com/spaceapp/issues/65",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "oll4com/spaceapp: [$450] One command to run the full SpaceApp stack from source for contributors",
+   "url": "https://github.com/oll4com/spaceapp/issues/65",
+   "at": "2026-10-16T05:30:34Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 450,
+    "author": "oll4com",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "\ud83d\udc8e Bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/oll4com/spaceapp/issues/64",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "oll4com/spaceapp: [$400] Per-service container images: ship each image only the code and dependencies it runs",
+   "url": "https://github.com/oll4com/spaceapp/issues/64",
+   "at": "2026-10-16T05:30:32Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 400,
+    "author": "oll4com",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "\ud83d\udc8e Bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/oll4com/spaceapp/issues/63",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "oll4com/spaceapp: [$600] Support rootless Podman as a container engine in the run-spaceapp launcher",
+   "url": "https://github.com/oll4com/spaceapp/issues/63",
+   "at": "2026-10-16T05:30:31Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 600,
+    "author": "oll4com",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "\ud83d\udc8e Bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/oll4com/spaceapp/issues/62",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "oll4com/spaceapp: [$750] WebGL renderer for the 3D memory graph: 50,000 nodes at interactive frame rates",
+   "url": "https://github.com/oll4com/spaceapp/issues/62",
+   "at": "2026-10-16T05:30:26Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 750,
+    "author": "oll4com",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "\ud83d\udc8e Bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/oll4com/spaceapp/issues/61",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "oll4com/spaceapp: [$600] Export worker and workflow spans over OTLP: one trace from API request to every Temporal activity",
+   "url": "https://github.com/oll4com/spaceapp/issues/61",
+   "at": "2026-10-16T05:30:25Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 600,
+    "author": "oll4com",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "\ud83d\udc8e Bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/oll4com/spaceapp/issues/60",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "oll4com/spaceapp: [$400] Test every Temporal workflow on a real time-skipping test server and gate replay determinism in CI",
+   "url": "https://github.com/oll4com/spaceapp/issues/60",
+   "at": "2026-10-16T05:30:20Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": 400,
+    "author": "oll4com",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "\ud83d\udc8e Bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/304",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "limitlessprojects/Go-Hybrid: [wildcard] Kill syntactic alias/loan/freeze tracking: replace path-sensitive value-flow (`freeze.rs` + `closures.rs`) with Linear Region Capabilities (`cap[R]`) and Isolated Sub-Graphs[wildcard]",
+   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/304",
+   "at": "2026-10-16T05:01:00Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "ajithnair1808-max",
+    "labels": [
+     "\ud83d\udc8e Bounty",
+     "wildcard"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60874",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60874 [gemma4_d_p] Continuous-batching prefill: several requests' 2k chunks per step",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60874",
+   "at": "2026-10-16T04:46:50Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60873",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60873 [prefill] Batched prefill: carry several requests' chunks in one step message",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60873",
+   "at": "2026-10-16T04:46:37Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60872",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60872 [ring_joint_sdpa] One sliding-window call for several requests stacked along Q",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60872",
+   "at": "2026-10-16T04:46:32Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60871",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60871 [update_padded_kv_cache] Write a row window of the input",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60871",
+   "at": "2026-10-16T04:46:27Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/127",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-16: 0 new, 0 resumed, 3 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/127",
+   "at": "2026-10-16T04:36:14Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60869",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60869 [gemma4_d_p] Run the AgentX eval end to end through tt-d-gen on silicon",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60869",
+   "at": "2026-10-16T04:27:32Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60866",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60866 [gemma4_d_p] Window-sized KV cache for the sliding layers",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60866",
+   "at": "2026-10-16T03:54:17Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60865",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60865 [LLK][BH][LAYERNORM] Float32 tile unpack waits for the previous update",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60865",
+   "at": "2026-10-16T03:30:25Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3709",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive operator; only reviewer diligence bounds it (bond + flake ladder: adversary net -6 cr when reviews happen)",
+   "url": "https://github.com/Uuriko/project-room/issues/3709",
+   "at": "2026-10-16T03:06:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bounty",
+     "launch-readiness"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3708",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enforced they leak: collusion ring extracted 31.6 cr (44% of float) at 17x the honest rate",
+   "url": "https://github.com/Uuriko/project-room/issues/3708",
+   "at": "2026-10-16T03:06:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bounty",
+     "launch-readiness"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3707",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [launch-readiness] Claim squatting is free and unbounded: one lane held the whole tranche-1 shelf for 72h at zero cost, and the 48h submission deadline is unenforced",
+   "url": "https://github.com/Uuriko/project-room/issues/3707",
+   "at": "2026-10-16T03:05:58Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bounty",
+     "launch-readiness"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3704",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does not make FS-14 established-lane-only as the packet claims",
+   "url": "https://github.com/Uuriko/project-room/issues/3704",
+   "at": "2026-10-16T03:04:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bounty",
+     "launch-readiness"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3703",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [launch-readiness] The challenge window cannot protect the sponsor on the rail: post-window disputes freeze payouts, and a sponsor dispute pays the worker a bonus",
+   "url": "https://github.com/Uuriko/project-room/issues/3703",
+   "at": "2026-10-16T03:04:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bounty",
+     "launch-readiness"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3702",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [launch-readiness] Rail disputes are undecidable and default to paying the claimant: a confederate dispute freezes the verdict and force-pays junk after 14d",
+   "url": "https://github.com/Uuriko/project-room/issues/3702",
+   "at": "2026-10-16T03:04:23Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bounty",
+     "launch-readiness"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60862",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60862 [gemma4_d_p] Check in the AgentX prefill simulator",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60862",
+   "at": "2026-10-16T03:00:43Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60861",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60861 [gemma4_d_p] Continuous-batching prefill (umbrella)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60861",
+   "at": "2026-10-16T03:00:35Z",
+   "extra": {
+    "author": "kmabeeTT",
+    "labels": [
+     "perf",
+     "model: gemma-4"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3693",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: bounty_finalize cannot pay out an approved bounty, its tool/doc copy promises it can, and the agent door has no payout path at all",
+   "url": "https://github.com/Uuriko/project-room/issues/3693",
+   "at": "2026-10-16T02:56:20Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/b811f05bdd4db135ea0342b062ff3a36eb5191c8",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[LLK][BH] Drop the redundant drains in hw_cleanup (#60715)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/b811f05bdd4db135ea0342b062ff3a36eb5191c8",
+   "at": "2026-10-16T01:01:49Z",
+   "extra": {
+    "files": [
+     "tt_metal/tt-llk/tests/python_tests/test_cfg_state_flip_sync.py",
+     "tt_metal/tt-llk/tests/python_tests/test_tensix_sync_mop_drain.py",
+     "tt_metal/tt-llk/tests/sources/cfg_state_flip_sync_test.cpp",
+     "tt_metal/tt-llk/tests/sources/tensix_sync_mop_drain_test.cpp",
+     "tt_metal/tt-llk/tt_llk_blackhole/llk_lib/experimental/llk_hw_cleanup.h"
+    ],
+    "added": [
+     "tt_metal/tt-llk/tests/python_tests/test_cfg_state_flip_sync.py",
+     "tt_metal/tt-llk/tests/python_tests/test_tensix_sync_mop_drain.py",
+     "tt_metal/tt-llk/tests/sources/cfg_state_flip_sync_test.cpp",
+     "tt_metal/tt-llk/tests/sources/tensix_sync_mop_drain_test.cpp"
+    ],
+    "author": "amahmudTT"
+   }
+  },
   {
    "id": "https://github.com/Uuriko/project-room/issues/3613",
    "source": "github_search",
@@ -28,20 +441,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/644",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: dsh-bounty\uff1a#293 \u7ed3\u7b97\u4e8b\u4ef6\u7684 `formula` \u5199\u6210\u5b57\u7b26\u4e32 \u21d2 \u516c\u5f00\u590d\u7b97\u5165\u53e3 `rescore` \u5728\u771f\u5b9e\u8d26\u672c\u4e0a\u5d29\u6808\u3001`--value-vector-out`/`--promotion-out` \u5d29\u3001\u4e24\u4efd\u5bfc\u51fa\u4ea7\u7269\u9648\u65e7\uff1bCI \u5168\u91cf\u5b88\u536b\u5728 main \u4e0a\u7ea2 2 \u4ef6\uff0c\u800c\u8d26\u672c\u4e0d\u53d8\u91cf\u81ea\u5ba1 15 \u9879\u5168 0\uff08\u6f0f\u68c0\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/644",
-   "at": "2026-10-16T00:23:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Liyang1145",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/Uuriko/project-room/issues/3599",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -65,7 +464,7 @@
    "url": "https://github.com/Uuriko/project-room/issues/3594",
    "at": "2026-10-16T00:11:15Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "Uuriko",
     "labels": []
@@ -79,7 +478,7 @@
    "url": "https://github.com/Uuriko/project-room/issues/3591",
    "at": "2026-10-16T00:08:34Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "Uuriko",
     "labels": []
@@ -162,18 +561,6 @@
    "at": "2026-10-15T22:51:05Z",
    "extra": {
     "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60850",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60850 [Cleanup] Include the public header in work_split.cpp",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60850",
-   "at": "2026-10-15T22:42:21Z",
-   "extra": {
-    "author": "blozano-tt",
     "labels": []
    }
   },
@@ -751,20 +1138,6 @@
    }
   },
   {
-   "id": "https://github.com/Uuriko/project-room/issues/3550",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: Account-deletion purge (#2737) breaks the bounty journal hash chain \u2014 orphaned counterparty legs",
-   "url": "https://github.com/Uuriko/project-room/issues/3550",
-   "at": "2026-10-15T21:03:58Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60825",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -855,7 +1228,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/20",
    "at": "2026-10-15T20:03:08Z",
    "extra": {
-    "comments": 7,
+    "comments": 8,
     "amount_usd": 45,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -872,7 +1245,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/19",
    "at": "2026-10-15T20:03:06Z",
    "extra": {
-    "comments": 6,
+    "comments": 8,
     "amount_usd": 45,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -906,7 +1279,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/17",
    "at": "2026-10-15T20:03:01Z",
    "extra": {
-    "comments": 6,
+    "comments": 7,
     "amount_usd": 60,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -940,7 +1313,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/15",
    "at": "2026-10-15T20:02:55Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": 75,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -1042,7 +1415,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/9",
    "at": "2026-10-15T20:02:33Z",
    "extra": {
-    "comments": 5,
+    "comments": 7,
     "amount_usd": 90,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -1127,7 +1500,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/4",
    "at": "2026-10-15T20:02:04Z",
    "extra": {
-    "comments": 6,
+    "comments": 7,
     "amount_usd": 105,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -1161,7 +1534,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/2",
    "at": "2026-10-15T20:01:56Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": 105,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -1178,7 +1551,7 @@
    "url": "https://github.com/Parabola-org/parabola/issues/1",
    "at": "2026-10-15T20:01:50Z",
    "extra": {
-    "comments": 6,
+    "comments": 8,
     "amount_usd": 105,
     "author": "Abdul-dev-creator",
     "labels": [
@@ -1907,20 +2280,6 @@
    }
   },
   {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/606",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: [intake \u8f93\u5165] dsh-memory \u8111\u7aef\u53ea\u8bfb\u7f3a\u9677\u5ba1\u8ba1\uff08\u7b2c\u4e8c\u8f6e\uff09\uff1a**4 \u6761\u65b0\u7acb\u6848**\uff08\u8bc1\u636e\u9762\u5916\u952e\u9759\u9ed8\u8986\u5199\u81f4\u6570\u636e\u4e22\u5931 / heal \u5047\u6210\u529f\u5199\u5047\u5ba1\u8ba1\u884c / sleep \u76ee\u5f55\u7ea7\u767d\u540d\u5355\u6c61\u67d3\u4e0d\u53ef\u9006\u5386\u53f2+\u5ba1\u8ba1\u5224\u636e\u5931\u660e+\u8de8\u6839\u9519\u63d0\u4ea4 / \u7eaa\u5f8b\u95e8\u7981\u5bf9\u6b63\u6587\u6ce8\u5165\u96f6\u5224\u522b\u529b\uff09\u2014\u2014\u4e0e\u7b2c\u4e00\u8f6e [#605](https://github.com/FuRongJun-1999/dsh-bounty/issues/605) \u4e0d\u91cd\u53e0",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/606",
-   "at": "2026-10-15T15:27:52Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zijinmengxi",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60770",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2596,24 +2955,6 @@
    }
   },
   {
-   "id": "https://github.com/veracindarella/paystream-contracts/issues/319",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "veracindarella/paystream-contracts: PROD-30: Add bounty issue labels and automation script",
-   "url": "https://github.com/veracindarella/paystream-contracts/issues/319",
-   "at": "2026-10-15T09:10:49Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "veracindarella",
-    "labels": [
-     "enhancement",
-     "devops",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60711",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2640,38 +2981,6 @@
     "labels": [
      "op_cat: TM",
      "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/alston-personal/agentmanager/issues/2003",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "alston-personal/agentmanager: Bounty Golden Path v1: qualified paid-issue discovery \u2192 governed execution \u2192 verified payout",
-   "url": "https://github.com/alston-personal/agentmanager/issues/2003",
-   "at": "2026-10-15T08:42:58Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "alstonhuang",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/soroban-tooling/soroban-keeper-network/issues/747",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "soroban-tooling/soroban-keeper-network: docs(security): bug bounty scope and rewards",
-   "url": "https://github.com/soroban-tooling/soroban-keeper-network/issues/747",
-   "at": "2026-10-15T08:41:26Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Andreschuks101",
-    "labels": [
-     "docs",
-     "intermediate",
-     "security"
     ]
    }
   },
@@ -2703,175 +3012,6 @@
     "labels": [
      "bounty",
      "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/aa7f0d29a12d98f09eb8919ae9b2b79891600602",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Test Only] tt-llk: initialize FPU_SFPU before sdpa_bcast_col_srca_srcb_reuse posts it (#60441)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/aa7f0d29a12d98f09eb8919ae9b2b79891600602",
-   "at": "2026-10-15T04:36:14Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/tests/sources/sdpa_bcast_col_srca_srcb_reuse_test.cpp"
-    ],
-    "added": [],
-    "author": "pkennedyTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/ac7f3b8c01f82c30f4751d993c0f0d156322872a",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Test Only] Quasar fuser: sfpu_unary_sweep unpacks only Float32 into its 32-bit Dest (#60427)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/ac7f3b8c01f82c30f4751d993c0f0d156322872a",
-   "at": "2026-10-15T04:17:03Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/tests/python_tests/fuser/tests/quasar/sfpu_unary_sweep.yaml"
-    ],
-    "added": [],
-    "author": "pkennedyTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60694",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60694 [ttnn/experimental/quasar] binary_ng is_native_L1_sharding subtile-broadcast branch skips L1 and output-shard checks, throws or hangs on DRAM-sharded / off-grid output (#58407 item 15)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60694",
-   "at": "2026-10-15T03:47:32Z",
-   "extra": {
-    "author": "abdulla-TT",
-    "labels": [
-     "bug",
-     "op_cat: eltwise",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60693",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60693 [ttnn/experimental/quasar] binary_ng is_native_L1_sharding scalar branch skips L1 and output-shard checks, aliases DRAM / off-grid buffers as CBs (#58407 item 14)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60693",
-   "at": "2026-10-15T03:47:28Z",
-   "extra": {
-    "author": "abdulla-TT",
-    "labels": [
-     "bug",
-     "op_cat: eltwise",
-     "MCW"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/8398b77bf6ee5e716711720e349ba042ace02911",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Bug fix] unary: reject dedicated-kernel ops in chains; tighten in-place sharding (#57485)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/8398b77bf6ee5e716711720e349ba042ace02911",
-   "at": "2026-10-15T03:43:54Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_op_utils.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_op_utils.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_utils.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary/device/unary_device_operation.cpp"
-    ],
-    "added": [],
-    "author": "Aswinmcw"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/614f605ffe2977715adc198156c72bea14c2bae6",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "Bug fix: ternary ops with mixed bf16/fp32 operands (#60223) (#60282)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/614f605ffe2977715adc198156c72bea14c2bae6",
-   "at": "2026-10-15T03:43:49Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/eltwise/ternary/device/kernels/compute/ternary_addc_ops_sfpu.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/ternary/device/kernels/compute/ternary_addc_ops_sfpu_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/ternary/device/kernels/compute/ternary_sfpu_col_scalar_bcast_tts_tst.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/ternary/device/kernels/compute/ternary_sfpu_no_bcast_tts_tst.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/ternary/device/ternary_program_factory.cpp"
-    ],
-    "added": [],
-    "author": "Aswinmcw"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/6ed096941345b696baea4dbfcfb44de9fccb1503",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[ttnn/eltwise] Fix NaN-propagating backward masks, ternary output checks and RM reader offsets (#58403) (#59788)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/6ed096941345b696baea4dbfcfb44de9fccb1503",
-   "at": "2026-10-15T03:42:58Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/eltwise/binary_backward/binary_backward.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/dataflow/reader_interleaved_rm_col_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/dataflow/reader_interleaved_rm_no_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/dataflow/reader_interleaved_rm_row_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/dataflow/reader_interleaved_rm_row_col_mixed_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/dataflow/reader_interleaved_rm_scalar_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/ternary/device/ternary_device_operation.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/ternary/device/ternary_op_utils.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/unary_backward/unary_backward.cpp"
-    ],
-    "added": [],
-    "author": "Aswinmcw"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/219b21f0e4006941f0057d9d7784416b3fd97053",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[LLK][Test] Sweep only the dest_acc modes test_eltwise_unary_sfpu actually builds (#59749)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/219b21f0e4006941f0057d9d7784416b3fd97053",
-   "at": "2026-10-15T03:07:47Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/tests/python_tests/test_eltwise_unary_sfpu.py"
-    ],
-    "added": [],
-    "author": "amahmudTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60688",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60688 [BEVFormer] Evaluate local-L1 dispatch for fused-MSDA corner gather",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60688",
-   "at": "2026-10-15T01:47:59Z",
-   "extra": {
-    "author": "ctr-mmicicTT",
-    "labels": [
-     "blackhole",
-     "perf",
-     "BEVFormer"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60687",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60687 [BEVFormer] Skip SCA rebatch padding rows in fused MSDA",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60687",
-   "at": "2026-10-15T01:47:57Z",
-   "extra": {
-    "author": "ctr-mmicicTT",
-    "labels": [
-     "blackhole",
-     "perf",
-     "BEVFormer"
     ]
    }
   },
@@ -2923,7 +3063,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1389",
    "at": "2026-10-15T01:21:36Z",
    "extra": {
-    "comments": 12,
+    "comments": 13,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -2983,7 +3123,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1378",
    "at": "2026-10-15T01:13:31Z",
    "extra": {
-    "comments": 7,
+    "comments": 9,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3003,7 +3143,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1377",
    "at": "2026-10-15T01:12:30Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3023,7 +3163,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1375",
    "at": "2026-10-15T01:10:37Z",
    "extra": {
-    "comments": 5,
+    "comments": 7,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3043,7 +3183,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1373",
    "at": "2026-10-15T01:09:29Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3063,7 +3203,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1368",
    "at": "2026-10-15T01:04:40Z",
    "extra": {
-    "comments": 5,
+    "comments": 6,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3083,7 +3223,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1364",
    "at": "2026-10-15T01:01:53Z",
    "extra": {
-    "comments": 6,
+    "comments": 8,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3103,7 +3243,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1361",
    "at": "2026-10-15T00:59:53Z",
    "extra": {
-    "comments": 7,
+    "comments": 9,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3139,7 +3279,7 @@
    "url": "https://github.com/OphirPay/OphirPay/issues/1357",
    "at": "2026-10-15T00:56:56Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "CodingAngel1",
     "labels": [
@@ -3257,18 +3397,6 @@
      "samiyadev786"
     ],
     "created": "2026-10-07T21:34:17Z"
-   }
-  },
-  {
-   "id": "https://github.com/Tarsnap/tarsnap/issues/1001",
-   "source": "tarsnap",
-   "kind": "tarsnap_issue",
-   "title": "Tarsnap/tarsnap#1001 [Bug bounty] network_register() leaves a stale callback slot on failure, causing use-after-free / double free on later deregister",
-   "url": "https://github.com/Tarsnap/tarsnap/issues/1001",
-   "at": "2026-10-13T02:33:34Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "haoxucu"
    }
   }
  ],
