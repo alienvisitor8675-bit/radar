@@ -1,6 +1,847 @@
 {
- "generated_at": "2026-10-17T05:17:30Z",
+ "generated_at": "2026-10-17T09:34:20Z",
  "events": [
+  {
+   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/404",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "limitlessprojects/Go-Hybrid: Bounty program: Argentina eligibility, USDC payout network and cycle dates",
+   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/404",
+   "at": "2026-10-17T09:31:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "nahuelposdeley10",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61121",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61121 ttnn.hypot_bw and complex ttnn.abs_bw lose unit-vector gradients for |x| > 2^64 and 0 < |x| < 2^-63 (and hypot_bw returns NaN at (0, 0))",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61121",
+   "at": "2026-10-17T09:04:00Z",
+   "extra": {
+    "author": "dhaulagani",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61119",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61119 [BH] ZEROACC_ADDRMOD_ONLY / WHERE_NOP are not a no-op on Blackhole: face_compressed_mm zero-face skips erase output face 31 at ct_dim 16",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61119",
+   "at": "2026-10-17T09:03:45Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61117",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61117 ttnn.polar_bw and ttnn.angle_bw lose gradients for |z| > 2^63 and 0 < |z| < 2^-63 (returning 0, \u00b1inf, or NaN), and polar_bw dispatches 34 kernels instead of 9",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61117",
+   "at": "2026-10-17T08:51:16Z",
+   "extra": {
+    "author": "dhaulagani",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61112",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61112 [BH] llk_unpack_A_top32_rm halves the chunk offset for Float32 input without fp32 dest accumulation",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61112",
+   "at": "2026-10-17T08:36:52Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61110",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61110 [BH] fast_untilize routes Bfp2_b and A-exponent BFP inputs to the dense unpack path (wrong output from tile 1 on)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61110",
+   "at": "2026-10-17T08:31:42Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61105",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61105 [BH] compressed_custom_mm and sdpa_custom_mm_reuse_dest_srcb inits leave the Src zero flag at keep; copy_tile_custom flushes bf16 -0.0 and denormals",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61105",
+   "at": "2026-10-17T08:08:15Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61103",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61103 [BH] sdpa_custom_mm: default mask unpack writes fewer SrcB rows than math broadcasts; result clear at DEST slot 496 lands in the other half",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61103",
+   "at": "2026-10-17T08:03:52Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/313",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Sponsor Escrow Top-Up and Low-Balance Auto-Refill for Bounty Programs",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/313",
+   "at": "2026-10-17T08:00:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/306",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Bounty Program Wind-Down and Final Settlement in RefractBounty",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/306",
+   "at": "2026-10-17T08:00:02Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61101",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61101 [LLK][WH+BH] tiled_prod_tile stores its running product into Dest tile idst+1, the packer's half for the last tile of a batch",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61101",
+   "at": "2026-10-17T07:56:33Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61099",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61099 [LLK][WH+BH] unary eq/ne threshold compares are bit-pattern tests: -0.0 != +0.0 and a NaN threshold equals a NaN datum",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61099",
+   "at": "2026-10-17T07:54:46Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61097",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61097 [LLK][BH] _llk_pack_init_ caps num_tiles at the SyncHalf capacity with no sync-mode input: a legal SyncFull block trips the assert",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61097",
+   "at": "2026-10-17T07:54:40Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61095",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61095 [LLK][BH] sfpu_rope_all_rows (separate cos/sin rope) always uses the 16-bit Dest view: rope_sfpu_inplace under fp32 dest accumulation rotates the wrong rows silently",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61095",
+   "at": "2026-10-17T07:54:34Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61093",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61093 [LLK][BH] custom_mm dense_packing hard-codes a 2-byte packer datum: with fp32 dest accumulation tiles pack from the wrong DEST rows and the uninit restores half the canonical stride",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61093",
+   "at": "2026-10-17T07:54:28Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61091",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61091 [LLK][BH] _llk_unpack_tilizeA_B_init_ programs a 16-byte SrcA row stride for Tf32: Float32 tilize+reduce under fp32 dest accumulation is silently corrupted",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61091",
+   "at": "2026-10-17T07:54:21Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61089",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61089 [LLK][WH+BH] sfpu_add_int ignores dst_offset: add_int always adds the tile after idst, so the API's own default of 2 sums the wrong tile",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61089",
+   "at": "2026-10-17T07:45:11Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/794",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: \u3010intake \u8f93\u5165\u3011\u63d2\u4ef6\u6d4b\u8bc4\u5de5\u4f5c\u6d41\u89c4\u8303 v1.0 \u843d\u5730\uff1a\u63d2\u4ef6\u6d4b\u8bc4\u8d70 bounty \u5355\u901a\u9053\uff1bdsh-memory / lingshu \u4ed3\u5e93\u5148\u884c \u2192 bounty \u590d\u4ea4\u4e0e\u81ea\u8bc4",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/794",
+   "at": "2026-10-17T07:45:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "rinDBeans",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/296",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Extend SPEC.md with Formal Specifications for Backstop, Bounty, Grants, and Treasury and Add Conformance Tests",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/296",
+   "at": "2026-10-17T07:40:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/287",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Bounty Evidence Manifest with Content-Addressed Attachments and Integrity Checks",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/287",
+   "at": "2026-10-17T07:39:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/278",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Merkle-Root Bulk Disbursement for Grant Cohorts and Bounty Batches",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/278",
+   "at": "2026-10-17T07:38:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/266",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Fee-Bump Sponsorship for Claimant-Facing Bounty and Grant Entrypoints",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/266",
+   "at": "2026-10-17T07:38:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/265",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Add Per-Recipient Payout Velocity Limits and Cooldowns in Bounty and Grants",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/265",
+   "at": "2026-10-17T07:38:08Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/264",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Add Atomic Batch Administrative Entrypoints Across Backstop, Bounty, Grants, and Treasury",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/264",
+   "at": "2026-10-17T07:38:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/260",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement a Configurable Protocol Fee on Bounty and Grant Payouts Routed to Treasury",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/260",
+   "at": "2026-10-17T07:37:49Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/256",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement a Bounty Program Registry with Per-Program Budgets and Scope Declarations",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/256",
+   "at": "2026-10-17T07:37:34Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/252",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Add a Legacy Data Migration and Backfill Tool for Off-Chain Bounty and Grant Records",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/252",
+   "at": "2026-10-17T07:37:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/247",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Add a Queryable Payout Registry Sidecar for Bounty and Grant Disbursements",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/247",
+   "at": "2026-10-17T07:37:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/238",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Payout-Address Indirection for Anonymity-Preserving Bounty Claims",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/238",
+   "at": "2026-10-17T07:36:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61087",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61087 [BH] rmsnorm bcast-scalar inits: X span programmed on the unpacker that never reads L1; Src zero flag left at keep",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61087",
+   "at": "2026-10-17T07:36:25Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/237",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Add an xtask Operator CLI for Administering Backstop, Bounty, Grants, and Treasury",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/237",
+   "at": "2026-10-17T07:36:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/229",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Wire RefractMultisig as the Threshold Approver for Treasury Withdrawals and Bounty Payouts",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/229",
+   "at": "2026-10-17T07:35:52Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/224",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Introduce a Timelock-Gated Protocol Parameter Registry Shared by Backstop, Bounty, Grants, Treasury, and Pool",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/224",
+   "at": "2026-10-17T07:35:33Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/219",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Bounty Severity Adjudication, Multi-Approver Sign-off, and Dispute Resolution",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/219",
+   "at": "2026-10-17T07:35:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/210",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Emit Standardized Events and Structured Observability Across Backstop, Bounty, Grants, and Treasury",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/210",
+   "at": "2026-10-17T07:34:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/207",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Implement Bounty Expiry, Refund, and Reclaim Path",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/207",
+   "at": "2026-10-17T07:34:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/195",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Refract-Protocol/refract-contracts: Add Backstop, Bounty, Grants, and Treasury to the Cargo Workspace",
+   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/195",
+   "at": "2026-10-17T07:33:44Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "OxDev-max",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61084",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61084 [BH] blocked bcast-col MUL scaffold (indexer_score qk_col_batch > 1) always runs at LoFi, ignoring MATH_FIDELITY",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61084",
+   "at": "2026-10-17T07:32:28Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61082",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61082 [BH] 32-bit unpack-to-dest datacopy re-validates tile dst_index-4 under SyncFull (bank-relative ZEROACC index with the offset at the bank base)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61082",
+   "at": "2026-10-17T07:31:21Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61080",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61080 [BH] custom_mm / compressed_custom_mm CB-id paths accept a 16-row in0 tile and silently drop rows 8..15",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61080",
+   "at": "2026-10-17T07:30:05Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61078",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61078 [BH] no-mop matmul: throttled replay image used for 16x32 in0 tiles (wrong product); transpose with 32x16 in1 silently dropped",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61078",
+   "at": "2026-10-17T07:27:47Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/zsxh1990/pr-genius/issues/123",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "zsxh1990/pr-genius: [Zero-Bounty] \u8bf4\u4e00\u6761\u672c\u4f1a\u6b7b\u6389\u7684 PR\uff08\u4e0d\u9650\u5e2d\uff09\u2014\u2014 \u6362\u56de\u6211\u4eec\u81ea\u5df1\u7684\u7b2c\u4e00\u6761\u6218\u7ee9",
+   "url": "https://github.com/zsxh1990/pr-genius/issues/123",
+   "at": "2026-10-17T07:24:57Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zsxh1990",
+    "labels": [
+     "usage-evidence"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/zsxh1990/pr-genius/issues/122",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "zsxh1990/pr-genius: [Zero-Bounty] \u767b\u8bb0\u4f60\u5728\u54ea\u8dd1 pr-genius\uff085 \u5e2d\uff09\u2014\u2014 \u6362\u56de 5 \u4e2a\u4ed3\u5e93\u753b\u50cf",
+   "url": "https://github.com/zsxh1990/pr-genius/issues/122",
+   "at": "2026-10-17T07:24:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "zsxh1990",
+    "labels": [
+     "usage-evidence"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/hbbq/ProjectDelve/issues/185",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "hbbq/ProjectDelve: Playtest a Goblin bounty that depends on Shaman summoning",
+   "url": "https://github.com/hbbq/ProjectDelve/issues/185",
+   "at": "2026-10-17T07:14:53Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "hbbq",
+    "labels": [
+     "agent:ready",
+     "complexity:low"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/neatlogs/neatroots/issues/387",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "neatlogs/neatroots: Feature proposal: flag streamed replies the agent abandoned partway (neatlogs.stream.cancelled) (bounty requested)",
+   "url": "https://github.com/neatlogs/neatroots/issues/387",
+   "at": "2026-10-17T07:14:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "nftkingiii",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/neatlogs/neatroots/issues/386",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "neatlogs/neatroots: Feature proposal: flag model replies cut off at max_tokens, by reading the stop reason the SDK already sends (bounty requested)",
+   "url": "https://github.com/neatlogs/neatroots/issues/386",
+   "at": "2026-10-17T07:14:49Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "nftkingiii",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/neatlogs/neatroots/issues/385",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "neatlogs/neatroots: Feature proposal: a check for a prompt cache that is written on every call but never read (bounty requested)",
+   "url": "https://github.com/neatlogs/neatroots/issues/385",
+   "at": "2026-10-17T07:14:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "nftkingiii",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61073",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61073 [LLK][BH] Two Blackhole replay records are loaded with instruction gathering left on: the welfords init and the where DISABLE_SFPLOADMACRO path",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61073",
+   "at": "2026-10-17T07:14:04Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61071",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61071 [LLK][WH+BH] ckernel_globals.h declares a global-scope cfg_state_id with no definition, making the name ambiguous from llk_lib scope",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61071",
+   "at": "2026-10-17T07:13:55Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61069",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61069 [LLK][BH] common_exp_is_b puts integer operands in the 5-bit exponent family: Float32 x integer unpacks to Float16, integer x b-family float does not compile",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61069",
+   "at": "2026-10-17T07:13:46Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61067",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61067 [LLK][BH] _llk_math_hw_cleanup_poison_addr_mods_ does not compile at -O2/-O1: SETC16 immediate operand fed from a loop index",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61067",
+   "at": "2026-10-17T07:13:38Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61065",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61065 [LLK][BH] Blackhole sinkhorn compute-API wrapper does not compile: the SFPU init is called with one template argument",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61065",
+   "at": "2026-10-17T07:13:28Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Tekwan404/ElyndorMMORPG/issues/381",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Tekwan404/ElyndorMMORPG: World PvP Guild UI: independent ratings, bounty prizes and titles",
+   "url": "https://github.com/Tekwan404/ElyndorMMORPG/issues/381",
+   "at": "2026-10-17T07:09:38Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Tekwan404",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61063",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61063 [BH] compressed_custom_mm zero-tile skip ZEROACC zeroes tile 15's second face at dense ct_dim 16",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61063",
+   "at": "2026-10-17T07:07:58Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61060",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61060 [LLK][WH+BH] 16x32 bfloat8_b/bfloat4_b output tiles are scrambled: packer partial-face flag set from tile height",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61060",
+   "at": "2026-10-17T07:02:35Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61058",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61058 [BH] dbg DEST window converts Int32/UInt32 datums with bit 31 set (sign-magnitude view selected)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61058",
+   "at": "2026-10-17T06:56:50Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61056",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61056 [BH] custom_mm with kt_dim = 256 reads the last activation face from face 255 (8-bit face counters)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61056",
+   "at": "2026-10-17T06:56:30Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3868",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: [Lane D] Live payout sweep did not run (2nd instance): accepted bounty Q1HUMANR1X7-1 still attributed after challenge window ended (q1-human-r1-x7)",
+   "url": "https://github.com/Uuriko/project-room/issues/3868",
+   "at": "2026-10-17T06:53:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61054",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61054 [BH] softmax_k with a 32-bit Dest normalises over the padding columns for k < 16",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61054",
+   "at": "2026-10-17T06:52:37Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61052",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61052 [BH] generic_moe_gate accepts fp32 Dest and returns garbage; compute_sdpa_chunk output-post bound omits the outstanding post",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61052",
+   "at": "2026-10-17T06:51:09Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/378",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "limitlessprojects/Go-Hybrid: [wildcard] Compile fixed-rate task networks away: certified periodic Go kernels with explicit buffer budgets",
+   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/378",
+   "at": "2026-10-17T06:28:49Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "untalsix",
+    "labels": [
+     "\ud83d\udc8e Bounty",
+     "wildcard"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/callstackincubator/simlock/issues/648",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "callstackincubator/simlock: Bug hunt: confirmed findings from the bug bounty sweep",
+   "url": "https://github.com/callstackincubator/simlock/issues/648",
+   "at": "2026-10-17T06:16:00Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "V3RON",
+    "labels": [
+     "bug:new"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61047",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61047 [Bug][ttnn]: ttnn.mse_loss and ttnn.l1_loss crash or corrupt optional_output_tensor on SUM/MEAN reductions",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61047",
+   "at": "2026-10-17T05:20:05Z",
+   "extra": {
+    "author": "MusounoEnma",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
   {
    "id": "https://github.com/Swordfish90/Lemuroid/issues/1185",
    "source": "github_search",
@@ -35,7 +876,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21990",
    "at": "2026-10-17T04:40:57Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "SectorOneVentures",
     "labels": []
@@ -387,11 +1228,11 @@
    "url": "https://github.com/mnnobre/rathena/issues/2",
    "at": "2026-10-17T00:16:48Z",
    "extra": {
-    "comments": 4,
+    "comments": 6,
     "amount_usd": null,
     "author": "mnnobre",
     "labels": [
-     "fila:em-dev"
+     "fila:bloqueado"
     ]
    }
   },
@@ -403,7 +1244,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/348",
    "at": "2026-10-16T23:50:59Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
     "author": "yupengtang",
     "labels": [
@@ -809,7 +1650,7 @@
    "url": "https://github.com/ZecHub/zec-bounties/issues/421",
    "at": "2026-10-16T21:04:48Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "tidelit4",
     "labels": []
@@ -979,7 +1820,7 @@
    "url": "https://github.com/neatlogs/neatroots/issues/288",
    "at": "2026-10-16T18:23:40Z",
    "extra": {
-    "comments": 0,
+    "comments": 2,
     "amount_usd": null,
     "author": "isHeSatoshi",
     "labels": []
@@ -1293,7 +2134,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21895",
    "at": "2026-10-16T16:47:30Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": 50,
     "author": "Dragonire9",
     "labels": []
@@ -1977,38 +2818,6 @@
    }
   },
   {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/129",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-16: 6 changes across 4 bounty programs",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/129",
-   "at": "2026-10-16T11:26:53Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/128",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-16: 0 new, 1 resumed, 2 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/128",
-   "at": "2026-10-16T11:26:51Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/51655",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -2026,20 +2835,6 @@
   },
   {
    "id": "https://github.com/BasedHardware/omi/issues/21841",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty Proposal] fix(backend): enforce locks, cancel reminders, and filter soft-deleted action items ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21841",
-   "at": "2026-10-16T11:20:07Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 50,
-    "author": "duongynhi000005-oss",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21841",
    "source": "omi",
    "kind": "omi_proposal",
    "title": "omi#21841 [Bounty Proposal] fix(backend): enforce locks, cancel reminders, and filter soft-deleted action items ($50 proposed)",
@@ -2048,36 +2843,6 @@
    "extra": {
     "state": "open",
     "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/GameNative/gamenative-compat/issues/218",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "GameNative/gamenative-compat: King's Bounty: The Legend (STEAM) does not work",
-   "url": "https://github.com/GameNative/gamenative-compat/issues/218",
-   "at": "2026-10-16T11:04:00Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "does-not-work"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21838",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty Proposal] fix(backend): guard soft-deleted tombstones and sync search index in conversation sync mutations ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21838",
-   "at": "2026-10-16T11:03:37Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 50,
-    "author": "duongynhi000005-oss",
-    "labels": []
    }
   },
   {
@@ -2106,20 +2871,6 @@
      "llk:test-infra",
      "llk:common"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21833",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty Proposal] fix(folders): decode folder conversations for read, filter visibility, and exclude hidden rows from counts ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21833",
-   "at": "2026-10-16T10:51:22Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 50,
-    "author": "duongynhi000005-oss",
-    "labels": []
    }
   },
   {
@@ -2164,20 +2915,6 @@
    }
   },
   {
-   "id": "https://github.com/neatlogs/neatroots/issues/236",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: offline regression suites for custom checks \u2014 bounty requested",
-   "url": "https://github.com/neatlogs/neatroots/issues/236",
-   "at": "2026-10-16T10:41:20Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ronkenx9",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60901",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2201,20 +2938,6 @@
     "labels": [
      "tt-train"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/paraspell/xcm-tools/issues/2157",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "paraspell/xcm-tools: [Bug bounty] Dedot dry-run misreports non-Module dispatch errors as \"Pallet with index undefined not found\"",
-   "url": "https://github.com/paraspell/xcm-tools/issues/2157",
-   "at": "2026-10-16T10:32:46Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "Ratanlavate",
-    "labels": []
    }
   },
   {
@@ -2246,330 +2969,6 @@
    }
   },
   {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1107",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Docs] Tutorial: create and pay out your first bounty",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1107",
-   "at": "2026-10-16T09:45:07Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "documentation"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1081",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] PWA support with offline bounty cache",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1081",
-   "at": "2026-10-16T09:44:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1074",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] 404 and bounty-not-found pages",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1074",
-   "at": "2026-10-16T09:43:57Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1071",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] QR code in share bounty menu",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1071",
-   "at": "2026-10-16T09:43:50Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1068",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Wallet balance check in create bounty form",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1068",
-   "at": "2026-10-16T09:43:44Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1066",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Sponsor bounty modal",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1066",
-   "at": "2026-10-16T09:43:40Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1065",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Reassign bounty dialog",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1065",
-   "at": "2026-10-16T09:43:38Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1064",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Reopen expired bounty action",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1064",
-   "at": "2026-10-16T09:43:36Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1063",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Creator dashboard for managing my bounties",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1063",
-   "at": "2026-10-16T09:43:34Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1061",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Render bounty descriptions as sanitized Markdown",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1061",
-   "at": "2026-10-16T09:43:29Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1060",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Bounty activity timeline",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1060",
-   "at": "2026-10-16T09:43:27Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1058",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Sync bounty filters with URL query params",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1058",
-   "at": "2026-10-16T09:43:23Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1057",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Bounty search bar",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1057",
-   "at": "2026-10-16T09:43:20Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1056",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Notification bell for bounty updates",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1056",
-   "at": "2026-10-16T09:43:18Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1053",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Frontend] Milestone builder step in create bounty wizard",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1053",
-   "at": "2026-10-16T09:43:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1040",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Backend] CSV export of bounties",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1040",
-   "at": "2026-10-16T09:42:45Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1037",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Backend] RSS/Atom feed of open bounties",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1037",
-   "at": "2026-10-16T09:42:38Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1031",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Backend] Support ETag and conditional GET on bounty routes",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1031",
-   "at": "2026-10-16T09:42:26Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "performance"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1029",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Backend] Full-text search for bounties",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1029",
-   "at": "2026-10-16T09:42:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/e176fd0d814659f02f469c366716141ad18b6572",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[Blackhole SFPU] snake_beta init: program the reciprocal Newton constant in approx mode (tt-llk#1701 item 2) (#59859)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/e176fd0d814659f02f469c366716141ad18b6572",
-   "at": "2026-10-16T09:19:57Z",
-   "extra": {
-    "files": [
-     "tt_metal/hw/ckernels/blackhole/metal/llk_api/llk_sfpu/ckernel_sfpu_snake_beta.h",
-     "tt_metal/tt-llk/tests/helpers/include/sfpu_operations.h",
-     "tt_metal/tt-llk/tests/helpers/include/sfpu_test_helpers.h",
-     "tt_metal/tt-llk/tests/python_tests/helpers/test_variant_parameters.py",
-     "tt_metal/tt-llk/tests/python_tests/test_sfpu_ternary.py",
-     "tt_metal/tt-llk/tests/sources/sfpu_ternary_test.cpp"
-    ],
-    "added": [],
-    "author": "ldjurovicTT"
-   }
-  },
-  {
    "id": "https://github.com/BasedHardware/omi/issues/21824",
    "source": "omi",
    "kind": "omi_proposal",
@@ -2579,50 +2978,6 @@
    "extra": {
     "state": "open",
     "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/18b5d9cbbde0f135cb8f1ac03e21ee98f365a7a8",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "Make ttnn.situ_glu a single native binary-SFPU op (#60763)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/18b5d9cbbde0f135cb8f1ac03e21ee98f365a7a8",
-   "at": "2026-10-16T08:56:07Z",
-   "extra": {
-    "files": [
-     "ttnn/cpp/ttnn/operations/eltwise/binary/common/binary_op_dtype_policy.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary/common/binary_op_types.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary/device/binary_composite_op.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/binary_ng_device_operation.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/binary_ng_utils.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/binary_ng_utils.hpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels/compute/eltwise_binary_sfpu.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels/compute/eltwise_binary_sfpu_no_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels/compute/eltwise_binary_sfpu_scalar.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/compute/eltwise_binary_sfpu_col_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/compute/eltwise_binary_sfpu_row_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/compute/eltwise_binary_sfpu_row_col_bcast.cpp",
-     "ttnn/cpp/ttnn/operations/eltwise/binary_ng/device/kernels_ng/compute/eltwise_binary_sfpu_scalar_bcast.cpp"
-    ],
-    "added": [],
-    "author": "pavlejosipovic"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/af41ddf6c8dff0b43707b6551caaf26ed21a7b01",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[LLK][Test Only] Remove test_matmul_and_unary_sfpu, superseded by the fuser (#60713)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/af41ddf6c8dff0b43707b6551caaf26ed21a7b01",
-   "at": "2026-10-16T08:25:59Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/.claude/skills/bug-audit/packs/tt-llk-detail-1.md",
-     "tt_metal/tt-llk/tests/python_tests/test_matmul_and_unary_sfpu.py",
-     "tt_metal/tt-llk/tests/sources/matmul_and_unary_sfpu_test.cpp"
-    ],
-    "added": [],
-    "author": "ldjurovicTT"
    }
   },
   {
@@ -2657,7 +3012,7 @@
    "url": "https://github.com/oll4com/spaceapp/issues/65",
    "at": "2026-10-16T05:30:34Z",
    "extra": {
-    "comments": 19,
+    "comments": 23,
     "amount_usd": 450,
     "author": "oll4com",
     "labels": [
@@ -2675,7 +3030,7 @@
    "url": "https://github.com/oll4com/spaceapp/issues/64",
    "at": "2026-10-16T05:30:32Z",
    "extra": {
-    "comments": 20,
+    "comments": 21,
     "amount_usd": 400,
     "author": "oll4com",
     "labels": [
@@ -2693,7 +3048,7 @@
    "url": "https://github.com/oll4com/spaceapp/issues/63",
    "at": "2026-10-16T05:30:31Z",
    "extra": {
-    "comments": 14,
+    "comments": 15,
     "amount_usd": 600,
     "author": "oll4com",
     "labels": [
@@ -2711,7 +3066,7 @@
    "url": "https://github.com/oll4com/spaceapp/issues/62",
    "at": "2026-10-16T05:30:26Z",
    "extra": {
-    "comments": 26,
+    "comments": 27,
     "amount_usd": 750,
     "author": "oll4com",
     "labels": [
@@ -2729,7 +3084,7 @@
    "url": "https://github.com/oll4com/spaceapp/issues/61",
    "at": "2026-10-16T05:30:25Z",
    "extra": {
-    "comments": 17,
+    "comments": 21,
     "amount_usd": 600,
     "author": "oll4com",
     "labels": [
@@ -2747,7 +3102,7 @@
    "url": "https://github.com/oll4com/spaceapp/issues/60",
    "at": "2026-10-16T05:30:20Z",
    "extra": {
-    "comments": 18,
+    "comments": 19,
     "amount_usd": 400,
     "author": "oll4com",
     "labels": [
@@ -2782,7 +3137,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/294",
    "at": "2026-10-16T03:09:13Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
     "author": "michellehumes",
     "labels": [
