@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-17T21:34:29Z",
+ "generated_at": "2026-10-17T23:43:14Z",
  "events": [
+  {
+   "id": "https://github.com/ZecHub/zec-bounties/issues/426",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ZecHub/zec-bounties: Availability of existing submission-review-thread bounty (0.09 ZEC)",
+   "url": "https://github.com/ZecHub/zec-bounties/issues/426",
+   "at": "2026-10-17T22:53:44Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "3Nerion7",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/UniteAndCreateForLife/hal-supreme-community/issues/40",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "UniteAndCreateForLife/hal-supreme-community: Bring Agent Bounty Guard findings to OpenSSF AI/ML Security",
+   "url": "https://github.com/UniteAndCreateForLife/hal-supreme-community/issues/40",
+   "at": "2026-10-17T22:20:13Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "UniteAndCreateForLife",
+    "labels": [
+     "help wanted"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Drago-Labs/golden-raccoon/issues/368",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Drago-Labs/golden-raccoon: Security: Summarize published bug bounty and vulnerability disclosure programs",
+   "url": "https://github.com/Drago-Labs/golden-raccoon/issues/368",
+   "at": "2026-10-17T22:19:12Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "emirykl",
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "Stellar Wave",
+     "priority: p1",
+     "wave: pending 400",
+     "area: security",
+     "area: data"
+    ]
+   }
+  },
   {
    "id": "https://github.com/Aur-Dev-re/veille-jeux-retro/issues/85989",
    "source": "github_search",
@@ -16,41 +68,6 @@
    }
   },
   {
-   "id": "https://github.com/mnnobre/rathena/issues/44",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mnnobre/rathena: [Valida\u00e7\u00e3o] #2 [Living World] Governanca Municipal, Regentes de IA e Quests de Bounties de MVPs (Estilo AIKA) \u2014 soak",
-   "url": "https://github.com/mnnobre/rathena/issues/44",
-   "at": "2026-10-17T20:23:54Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "mnnobre",
-    "labels": [
-     "fila:aguardando-teste",
-     "validacao-servidor-real",
-     "soak"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mnnobre/rathena/issues/43",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mnnobre/rathena: [Valida\u00e7\u00e3o] #2 [Living World] Governanca Municipal, Regentes de IA e Quests de Bounties de MVPs (Estilo AIKA) no servidor real",
-   "url": "https://github.com/mnnobre/rathena/issues/43",
-   "at": "2026-10-17T20:23:51Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "mnnobre",
-    "labels": [
-     "fila:em-teste",
-     "validacao-servidor-real"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/ichabodcole/anthill/issues/114",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -63,42 +80,6 @@
     "author": "ichabodcole",
     "labels": [
      "anthill-feedback"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mnnobre/rathena/issues/42",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mnnobre/rathena: [Valida\u00e7\u00e3o] #2 [Living World] Governanca Municipal, Regentes de IA e Quests de Bounties de MVPs (Estilo AIKA) \u2014 soak",
-   "url": "https://github.com/mnnobre/rathena/issues/42",
-   "at": "2026-10-17T20:15:45Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "mnnobre",
-    "labels": [
-     "fila:aguardando-teste",
-     "validacao-servidor-real",
-     "soak"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/mnnobre/rathena/issues/41",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mnnobre/rathena: [Valida\u00e7\u00e3o] #2 [Living World] Governanca Municipal, Regentes de IA e Quests de Bounties de MVPs (Estilo AIKA) \u2014 soak \u2014 soak",
-   "url": "https://github.com/mnnobre/rathena/issues/41",
-   "at": "2026-10-17T20:12:37Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "mnnobre",
-    "labels": [
-     "fila:aguardando-teste",
-     "validacao-servidor-real",
-     "soak"
     ]
    }
   },
@@ -1197,7 +1178,7 @@
    "url": "https://github.com/Refract-Protocol/refract-contracts/issues/287",
    "at": "2026-10-17T07:39:30Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "OxDev-max",
     "labels": []
@@ -2136,22 +2117,6 @@
    }
   },
   {
-   "id": "https://github.com/mnnobre/rathena/issues/2",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mnnobre/rathena: [Living World] Governanca Municipal, Regentes de IA e Quests de Bounties de MVPs (Estilo AIKA)",
-   "url": "https://github.com/mnnobre/rathena/issues/2",
-   "at": "2026-10-17T00:16:48Z",
-   "extra": {
-    "comments": 12,
-    "amount_usd": null,
-    "author": "mnnobre",
-    "labels": [
-     "fila:aguardando-teste"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/348",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -2176,7 +2141,7 @@
    "url": "https://github.com/boundlessfi/builders/issues/412",
    "at": "2026-10-16T23:26:27Z",
    "extra": {
-    "comments": 6,
+    "comments": 7,
     "amount_usd": null,
     "author": "0xdevcollins",
     "labels": [
@@ -2186,18 +2151,6 @@
      "blocked",
      "Improvement"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61007",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61007 [LLK][WH+BH] tanh-derivative LUT kernel returns NaN for infinite inputs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61007",
-   "at": "2026-10-16T23:12:34Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
    }
   },
   {
@@ -2217,18 +2170,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61004",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61004 [LLK][WH+BH] Packer data-format reconfig never writes PCK_DEST_RD_CTRL_Read_int8",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61004",
-   "at": "2026-10-16T23:04:33Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/347",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -2243,66 +2184,6 @@
      "\ud83d\udc8e Bounty",
      "wildcard"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61001",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61001 [LLK][WH] _llk_unpack_bcastA_B_init_ hard-codes a 16-bit SrcA Y-stride, misreading rows for 32-bit register formats",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61001",
-   "at": "2026-10-16T23:00:27Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61000",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61000 [LLK][WH+BH] generalized MoE gate: topk-6 rank mask zeroes expert ids with a zero low byte; merge4_top8 runs without index tracking",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61000",
-   "at": "2026-10-16T23:00:18Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60996",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60996 [LLK][WH+BH] bf16-accurate SFPU exp: runtime scale does not compile; CLAMP_NEGATIVE=false drops the lower clamp and returns garbage below -88",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60996",
-   "at": "2026-10-16T22:53:54Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60993",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60993 [LLK][WH] pack_untilize: narrow-row path packs one tile per block; single-face 16-row tiles pack 8 of 16 rows",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60993",
-   "at": "2026-10-16T22:49:15Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60991",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60991 [LLK][WH+BH] SFPU reduce: UInt16 row MAX/MIN in a 32-bit Dest is misrouted (WH column-only static_assert, BH unmasked Int32 path)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60991",
-   "at": "2026-10-16T22:46:41Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
    }
   },
   {
@@ -2539,20 +2420,6 @@
    "extra": {
     "state": "open",
     "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21914",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize document id, add timestamp boundary to api key metadata ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21914",
-   "at": "2026-10-16T17:49:40Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
    }
   },
   {
@@ -3031,7 +2898,7 @@
    "url": "https://github.com/Uuriko/project-room/issues/3709",
    "at": "2026-10-16T03:06:03Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
     "author": "Uuriko",
     "labels": [
@@ -3048,7 +2915,7 @@
    "url": "https://github.com/Uuriko/project-room/issues/3708",
    "at": "2026-10-16T03:06:01Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
     "author": "Uuriko",
     "labels": [
@@ -3065,7 +2932,7 @@
    "url": "https://github.com/Uuriko/project-room/issues/3704",
    "at": "2026-10-16T03:04:29Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
     "author": "Uuriko",
     "labels": [
@@ -3082,7 +2949,7 @@
    "url": "https://github.com/Uuriko/project-room/issues/3703",
    "at": "2026-10-16T03:04:25Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "Uuriko",
     "labels": [
@@ -3099,7 +2966,7 @@
    "url": "https://github.com/Uuriko/project-room/issues/3702",
    "at": "2026-10-16T03:04:23Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "Uuriko",
     "labels": [
