@@ -1,6 +1,207 @@
 {
- "generated_at": "2026-10-16T22:28:38Z",
+ "generated_at": "2026-10-17T00:42:54Z",
  "events": [
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21953",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty Proposal] Persona refresh includes paywall-locked conversation context and memory previews ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21953",
+   "at": "2026-10-17T00:41:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "Davidson3556",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/21953",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#21953 [Bounty Proposal] Persona refresh includes paywall-locked conversation context and memory previews ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/21953",
+   "at": "2026-10-17T00:41:28Z",
+   "extra": {
+    "state": "open",
+    "author": "Davidson3556"
+   }
+  },
+  {
+   "id": "https://github.com/mnnobre/rathena/issues/2",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "mnnobre/rathena: [Living World] Governanca Municipal, Regentes de IA e Quests de Bounties de MVPs (Estilo AIKA)",
+   "url": "https://github.com/mnnobre/rathena/issues/2",
+   "at": "2026-10-17T00:16:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "mnnobre",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/boundlessfi/builders/issues/412",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "boundlessfi/builders: Remove the archived bounties app from the repo",
+   "url": "https://github.com/boundlessfi/builders/issues/412",
+   "at": "2026-10-16T23:26:27Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": null,
+    "author": "0xdevcollins",
+    "labels": [
+     "documentation",
+     "good first issue",
+     "Stellar Wave",
+     "blocked",
+     "Improvement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61007",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61007 [LLK][WH+BH] tanh-derivative LUT kernel returns NaN for infinite inputs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61007",
+   "at": "2026-10-16T23:12:34Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/paraspell/xcm-tools/issues/2169",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "paraspell/xcm-tools: [Bug bounty] SDK (Dedot): getFromRpc sends every RPC twice and leaks an unhandled rejection that crashes Node.js even when the caller catches the error",
+   "url": "https://github.com/paraspell/xcm-tools/issues/2169",
+   "at": "2026-10-16T23:05:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "codeNinja62",
+    "labels": [
+     "Bug bounty \ud83d\udcb0"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61004",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61004 [LLK][WH+BH] Packer data-format reconfig never writes PCK_DEST_RD_CTRL_Read_int8",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61004",
+   "at": "2026-10-16T23:04:33Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61001",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61001 [LLK][WH] _llk_unpack_bcastA_B_init_ hard-codes a 16-bit SrcA Y-stride, misreading rows for 32-bit register formats",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61001",
+   "at": "2026-10-16T23:00:27Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61000",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61000 [LLK][WH+BH] generalized MoE gate: topk-6 rank mask zeroes expert ids with a zero low byte; merge4_top8 runs without index tracking",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61000",
+   "at": "2026-10-16T23:00:18Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60996",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60996 [LLK][WH+BH] bf16-accurate SFPU exp: runtime scale does not compile; CLAMP_NEGATIVE=false drops the lower clamp and returns garbage below -88",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60996",
+   "at": "2026-10-16T22:53:54Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60993",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60993 [LLK][WH] pack_untilize: narrow-row path packs one tile per block; single-face 16-row tiles pack 8 of 16 rows",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60993",
+   "at": "2026-10-16T22:49:15Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60991",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60991 [LLK][WH+BH] SFPU reduce: UInt16 row MAX/MIN in a 32-bit Dest is misrouted (WH column-only static_assert, BH unmasked Int32 path)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60991",
+   "at": "2026-10-16T22:46:41Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/LiamVisionary/bee-scouts/issues/11",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "LiamVisionary/bee-scouts: Show the 'Hall bounties' list on the SuperAgent API Hall page",
+   "url": "https://github.com/LiamVisionary/bee-scouts/issues/11",
+   "at": "2026-10-16T22:33:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LiamVisionary",
+    "labels": [
+     "bee-proposal",
+     "bee-547"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60985",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60985 [LLK][WH+BH] int32 SFPU compare and division kernels lose INT32_MIN through the sign-magnitude conversion",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60985",
+   "at": "2026-10-16T22:30:20Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/60984",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#60984 [LLK][WH+BH] SFPU typecast: UInt16->fp16b reads the wrong Dest half under a 32-bit Dest; fp32->fp16b rounding corrupts NaN",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/60984",
+   "at": "2026-10-16T22:30:13Z",
+   "extra": {
+    "author": "amahmudTT",
+    "labels": []
+   }
+  },
   {
    "id": "https://github.com/tenstorrent/tt-metal/issues/60982",
    "source": "tenstorrent",
@@ -476,7 +677,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21914",
    "at": "2026-10-16T17:49:40Z",
    "extra": {
-    "comments": 1,
+    "comments": 3,
     "amount_usd": 50,
     "author": "Dragonire9",
     "labels": []
@@ -502,7 +703,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21911",
    "at": "2026-10-16T17:42:05Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": 50,
     "author": "Dragonire9",
     "labels": []
@@ -687,7 +888,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21895",
    "at": "2026-10-16T16:47:30Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "Dragonire9",
     "labels": []
@@ -772,7 +973,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21892",
    "at": "2026-10-16T16:37:53Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "Dragonire9",
     "labels": []
@@ -879,7 +1080,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21867",
    "at": "2026-10-16T14:42:20Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "duongynhi000005-oss",
     "labels": []
@@ -972,7 +1173,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21863",
    "at": "2026-10-16T14:16:49Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "duongynhi000005-oss",
     "labels": []
@@ -1243,7 +1444,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21852",
    "at": "2026-10-16T12:29:47Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "duongynhi000005-oss",
     "labels": []
@@ -1298,7 +1499,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/21848",
    "at": "2026-10-16T12:02:09Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": 50,
     "author": "duongynhi000005-oss",
     "labels": []
@@ -2095,22 +2296,6 @@
    }
   },
   {
-   "id": "https://github.com/mergemint-mint/mergemint-contracts/issues/1005",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mergemint-mint/mergemint-contracts: [Contract] Add reopen_bounty entrypoint for expired bounties",
-   "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1005",
-   "at": "2026-10-16T09:41:30Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "techisigu",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/commit/e176fd0d814659f02f469c366716141ad18b6572",
    "source": "tenstorrent",
    "kind": "tt_kernel_commit",
@@ -2128,20 +2313,6 @@
     ],
     "added": [],
     "author": "ldjurovicTT"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21824",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty Proposal] fix(retrieval): sync action-item vectors across chat tools, tool services, and undo ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21824",
-   "at": "2026-10-16T09:03:49Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 50,
-    "author": "duongynhi000005-oss",
-    "labels": []
    }
   },
   {
@@ -2198,76 +2369,6 @@
     ],
     "added": [],
     "author": "ldjurovicTT"
-   }
-  },
-  {
-   "id": "https://github.com/shakurJJ/chainsettle-contract/issues/645",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "shakurJJ/chainsettle-contract: feat: keeper bounty for permissionless maintenance calls",
-   "url": "https://github.com/shakurJJ/chainsettle-contract/issues/645",
-   "at": "2026-10-16T07:41:20Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "shakurJJ",
-    "labels": [
-     "enhancement",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/thirdshiftworks/opportunity-scanner/issues/4",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "thirdshiftworks/opportunity-scanner: [Opportunity] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) \u2014 $50.0",
-   "url": "https://github.com/thirdshiftworks/opportunity-scanner/issues/4",
-   "at": "2026-10-16T07:40:02Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 50,
-    "author": "github-actions[bot]",
-    "labels": [
-     "new"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/965",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "zeroking1998/KF2-Optimizer-Next: Fix stale and invalid Bounty Hunt flee targets",
-   "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/965",
-   "at": "2026-10-16T07:09:12Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "zeroking1998",
-    "labels": [
-     "bug",
-     "area: zeds",
-     "area: online",
-     "area: weekly"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/964",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "zeroking1998/KF2-Optimizer-Next: Decouple Bounty Hunt Weekly behavior and UI from server frame rate",
-   "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/964",
-   "at": "2026-10-16T07:05:52Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "zeroking1998",
-    "labels": [
-     "performance",
-     "area: online",
-     "area: weekly"
-    ]
    }
   },
   {
@@ -2678,592 +2779,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60858",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60858 [LLK][BH][SOFTSHRINK] Row waits on its own adds",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60858",
-   "at": "2026-10-16T00:41:36Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/commit/20778bdbcda8c0474e17446cee0f0b9a24489afd",
-   "source": "tenstorrent",
-   "kind": "tt_kernel_commit",
-   "title": "[LLK] Check that sticky config fields are restored after a fixed write (#59174)",
-   "url": "https://github.com/tenstorrent/tt-metal/commit/20778bdbcda8c0474e17446cee0f0b9a24489afd",
-   "at": "2026-10-15T23:46:42Z",
-   "extra": {
-    "files": [
-     "tt_metal/tt-llk/infra/check_sticky_cfg_restore.py",
-     "tt_metal/tt-llk/infra/sticky_cfg_fields.yaml",
-     "tt_metal/tt-llk/infra/tests/test_check_sticky_cfg_restore.py"
-    ],
-    "added": [
-     "tt_metal/tt-llk/infra/check_sticky_cfg_restore.py",
-     "tt_metal/tt-llk/infra/sticky_cfg_fields.yaml",
-     "tt_metal/tt-llk/infra/tests/test_check_sticky_cfg_restore.py"
-    ],
-    "author": "amahmudTT"
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60855",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60855 [Quasar] Implement pack_rows_to_addr (row pack to an L1 address)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60855",
-   "at": "2026-10-15T23:12:39Z",
-   "extra": {
-    "author": "rtawfik01",
-    "labels": [
-     "LLK",
-     "Quasar",
-     "llk:quasar"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60853",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60853 [Quasar] Implement pack_block_contiguous (experimental pack block)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60853",
-   "at": "2026-10-15T22:56:09Z",
-   "extra": {
-    "author": "rtawfik01",
-    "labels": [
-     "LLK",
-     "Quasar",
-     "performance",
-     "llk:quasar"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60852",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60852 [LLK][BH][TILIZE] tilize_block releases DEST after every tile",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60852",
-   "at": "2026-10-15T22:51:05Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/60849",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#60849 [Quasar] llk_unpack_tilize_init changes the row stride under in-flight UNPACR_TILIZE, corrupting the previous block",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/60849",
-   "at": "2026-10-15T22:29:27Z",
-   "extra": {
-    "author": "gajanan-choudhary",
-    "labels": [
-     "bug",
-     "LLK"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915",
-   "at": "2026-10-15T21:54:24Z",
-   "extra": {
-    "comments": 7,
-    "amount_usd": 105,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913",
-   "at": "2026-10-15T21:54:23Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": 105,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
-   "at": "2026-10-15T21:54:23Z",
-   "extra": {
-    "comments": 7,
-    "amount_usd": 105,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912",
-   "at": "2026-10-15T21:54:22Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 105,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911",
-   "at": "2026-10-15T21:54:22Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": 125,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909",
-   "at": "2026-10-15T21:54:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $125] Add structured progress callbacks to transfer()",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
-   "at": "2026-10-15T21:54:21Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 125,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
-   "at": "2026-10-15T21:54:20Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1907",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1907",
-   "at": "2026-10-15T21:54:20Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
-   "at": "2026-10-15T21:54:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 90,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1905",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1905",
-   "at": "2026-10-15T21:54:19Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 90,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1904",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag ",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1904",
-   "at": "2026-10-15T21:54:18Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": 75,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1903",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1903",
-   "at": "2026-10-15T21:54:18Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 75,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publ",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
-   "at": "2026-10-15T21:54:17Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 75,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
-   "at": "2026-10-15T21:54:17Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 75,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1899",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1899",
-   "at": "2026-10-15T21:54:16Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 60,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1900",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for the landing",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1900",
-   "at": "2026-10-15T21:54:16Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": 75,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1898",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1898",
-   "at": "2026-10-15T21:54:15Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 60,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1897",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $45] Validate input to bytes32ToStellarAddress",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1897",
-   "at": "2026-10-15T21:54:14Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 45,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1896",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty: $45] Export convertPrecision and add 6\u21947 decimal round-trip tests",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1896",
-   "at": "2026-10-15T21:54:14Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 45,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice E] Comparative real-world traces: retired engines under one method",
-   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
-   "at": "2026-10-15T19:27:24Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "TLS-sys",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 10303-242)",
-   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19",
-   "at": "2026-10-15T19:26:59Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "TLS-sys",
-    "labels": [
-     "schema",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/18",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice C] Red-team the hard boundaries: try to get technical data past the validator",
-   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/18",
-   "at": "2026-10-15T19:26:34Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "TLS-sys",
-    "labels": [
-     "bounty",
-     "priority: high"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/17",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice B] Verifiable evidence pointers: prove a record exists without disclosing it",
-   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/17",
-   "at": "2026-10-15T19:26:09Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "TLS-sys",
-    "labels": [
-     "schema",
-     "bounty",
-     "priority: high"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Element-Ventures-Canada-Ltd/openchokepoint: [Slice A] Public-evidence coverage score and gap atlas",
-   "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16",
-   "at": "2026-10-15T19:25:35Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "TLS-sys",
-    "labels": [
-     "bounty",
-     "priority: high"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895",
-   "at": "2026-10-15T18:51:20Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ditto-assistant/ditto-subnet: Evaluate one scoped build-bounty pilot against an internal build",
-   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
-   "at": "2026-10-15T16:55:25Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "Peyton-Spencer",
-    "labels": [
-     "enhancement",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ditto-assistant/ditto-subnet: Add bounty operator controls and gate funded activation",
-   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
-   "at": "2026-10-15T16:55:24Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Peyton-Spencer",
-    "labels": [
-     "enhancement",
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ditto-assistant/ditto-subnet: Implement the scoped build-bounty system on top of miner identity and CLA",
-   "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
-   "at": "2026-10-15T16:55:23Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Peyton-Spencer",
-    "labels": [
-     "enhancement",
-     "bounty"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/58986",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -3277,311 +2792,6 @@
      "bvdyvncqr5-commits"
     ],
     "created": "2026-10-02T14:34:03Z"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21678",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21678 Bounty Proposal: Hume Webhook Callback Resilience & Malformed Payload Hardening ($50 USD)",
-   "url": "https://github.com/BasedHardware/omi/issues/21678",
-   "at": "2026-10-15T10:11:38Z",
-   "extra": {
-    "state": "open",
-    "author": "gewenbo01-debug"
-   }
-  },
-  {
-   "id": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "zhangjiayang6835-cyber/bounty-plaza: [Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid",
-   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892",
-   "at": "2026-10-15T05:09:29Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 30,
-    "author": "zhangjiayang6835-cyber",
-    "labels": [
-     "bounty",
-     "real"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1416",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1416",
-   "at": "2026-10-15T01:45:34Z",
-   "extra": {
-    "comments": 9,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "documentation",
-     "frontend",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1405",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add end-to-end test suite for escrow dispute and resolution flow",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1405",
-   "at": "2026-10-15T01:34:38Z",
-   "extra": {
-    "comments": 7,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "contracts",
-     "tests",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1378",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add drag-and-drop CSV batch upload zone with visual upload progress feedback",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1378",
-   "at": "2026-10-15T01:13:31Z",
-   "extra": {
-    "comments": 11,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "frontend",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1377",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add interactive vesting timeline and claim simulator for payment streams UI",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1377",
-   "at": "2026-10-15T01:12:30Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "frontend",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1375",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add QR code payment request generator with configurable amounts and assets",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1375",
-   "at": "2026-10-15T01:10:37Z",
-   "extra": {
-    "comments": 8,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "frontend",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1373",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add live network transaction fee estimator widget to payment submission form",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1373",
-   "at": "2026-10-15T01:09:29Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "frontend",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1368",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Validate Stellar transaction memo encoding and character set on payment routes",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1368",
-   "at": "2026-10-15T01:04:40Z",
-   "extra": {
-    "comments": 9,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "backend",
-     "security",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1364",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add RFC 7807 problem details error formatting across all /api/payments routes",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1364",
-   "at": "2026-10-15T01:01:53Z",
-   "extra": {
-    "comments": 10,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "backend",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1361",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add cursor-based pagination and sorting to /api/audit-log route",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1361",
-   "at": "2026-10-15T00:59:53Z",
-   "extra": {
-    "comments": 10,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "backend",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/verdikta/verdikta-applications/issues/76",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "verdikta/verdikta-applications: [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)",
-   "url": "https://github.com/verdikta/verdikta-applications/issues/76",
-   "at": "2026-10-15T00:58:41Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": 30,
-    "author": "nigelon11",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1357",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add stream cancellation pro-rata refund verification for partial elapsed periods",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1357",
-   "at": "2026-10-15T00:56:56Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "contracts",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1353",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Validate dispute timeout window in resolve_dispute to prevent premature resolution",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1353",
-   "at": "2026-10-15T00:53:56Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "bug",
-     "contracts",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1350",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Enforce minimum and maximum duration bounds on payment streams in create_stream",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1350",
-   "at": "2026-10-15T00:51:58Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "contracts",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/OphirPay/OphirPay/issues/1347",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "OphirPay/OphirPay: Add validation for token decimal precision mismatch in record_payment",
-   "url": "https://github.com/OphirPay/OphirPay/issues/1347",
-   "at": "2026-10-15T00:50:09Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "CodingAngel1",
-    "labels": [
-     "enhancement",
-     "contracts",
-     "difficulty: medium",
-     "bounty",
-     "Stellar Wave"
-    ]
    }
   }
  ],
