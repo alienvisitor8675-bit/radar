@@ -1,6 +1,64 @@
 {
- "generated_at": "2026-10-18T21:13:32Z",
+ "generated_at": "2026-10-18T23:27:11Z",
  "events": [
+  {
+   "id": "https://github.com/eschnitzler/EmpireCore/issues/528",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "eschnitzler/EmpireCore: Event minigames and currencies: lucky wheel, gacha, colossus, donations, bounty hunter, artifacts",
+   "url": "https://github.com/eschnitzler/EmpireCore/issues/528",
+   "at": "2026-10-18T23:12:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "eschnitzler",
+    "labels": [
+     "enhancement",
+     "client-sync",
+     "priority: low"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/picsoritdidnthappen/poidh-app/issues/1575",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "picsoritdidnthappen/poidh-app: \"Create wallet\" (ZeroDev smart account) users cannot create bounties",
+   "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1575",
+   "at": "2026-10-18T22:19:38Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Chipagosfinest",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22234",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(routers): coerce None and mixed published_at in firmware and desktop update sorting ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22234",
+   "at": "2026-10-18T21:45:55Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 50,
+    "author": "Dragonire9",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22234",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22234 [Bounty proposal] fix(routers): coerce None and mixed published_at in firmware and desktop update sorting ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22234",
+   "at": "2026-10-18T21:45:55Z",
+   "extra": {
+    "state": "open",
+    "author": "Dragonire9"
+   }
+  },
   {
    "id": "https://github.com/alleycatassetacquisitions/pdn/issues/299",
    "source": "github_search",
@@ -87,7 +145,7 @@
    "url": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
    "at": "2026-10-18T18:41:16Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "Baskarayelu",
     "labels": [
@@ -251,7 +309,7 @@
    "url": "https://github.com/Neziahtech/streampay/issues/255",
    "at": "2026-10-18T15:25:45Z",
    "extra": {
-    "comments": 4,
+    "comments": 5,
     "amount_usd": null,
     "author": "irman1996",
     "labels": [
@@ -641,7 +699,7 @@
    "url": "https://github.com/ayaangazali/eyes/issues/117",
    "at": "2026-10-18T08:06:53Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 10,
     "author": "ayaangazali",
     "labels": [
@@ -741,37 +799,6 @@
      "status:todo",
      "release:freeze"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/98",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "dmavs412/twilights-eve-wow: Northshire bounties and Abbey Relics quest",
-   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/98",
-   "at": "2026-10-18T04:19:28Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "dmavs412",
-    "labels": [
-     "ready-for-agent",
-     "blocked"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/96",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "dmavs412/twilights-eve-wow: Spec: Northshire bounties and the Abbey relic repeatable",
-   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/96",
-   "at": "2026-10-18T04:19:26Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dmavs412",
-    "labels": []
    }
   },
   {
@@ -1131,38 +1158,6 @@
    }
   },
   {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/135",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: Scope digest 2026-10-17: 4 changes across 2 bounty programs",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/135",
-   "at": "2026-10-17T10:46:35Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/134",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-17: 0 new, 0 resumed, 1 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/134",
-   "at": "2026-10-17T10:46:35Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/417",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1177,20 +1172,6 @@
      "\ud83d\udc8e Bounty",
      "wildcard"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/404",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: Bounty program: Argentina eligibility, USDC payout network and cycle dates",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/404",
-   "at": "2026-10-17T09:31:58Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "nahuelposdeley10",
-    "labels": []
    }
   },
   {
