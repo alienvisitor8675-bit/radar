@@ -1,6 +1,342 @@
 {
- "generated_at": "2026-10-18T12:25:25Z",
+ "generated_at": "2026-10-18T16:02:36Z",
  "events": [
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/137",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-18: 0 new, 0 resumed, 1 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/137",
+   "at": "2026-10-18T15:58:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22189",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22189 [Bounty proposal] fix(database): restore main typecheck after unnecessary isinstance in announcements targeting (#22090) ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22189",
+   "at": "2026-10-18T15:38:46Z",
+   "extra": {
+    "state": "closed",
+    "author": "Dragonire9"
+   }
+  },
+  {
+   "id": "https://github.com/istiyak2124/istiyak2124/issues/11",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "istiyak2124/istiyak2124: Bug Bounty & Web Penetration Testing Practice",
+   "url": "https://github.com/istiyak2124/istiyak2124/issues/11",
+   "at": "2026-10-18T15:27:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "istiyak2124",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/255",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: freeze-logic trigger",
+   "url": "https://github.com/Neziahtech/streampay/issues/255",
+   "at": "2026-10-18T15:25:45Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "irman1996",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:contract",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/249",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: Policy/allowlist bypass via scheduled lane: schedule_stream / execute_scheduled skip check_asset_allowed and validate_stream_args",
+   "url": "https://github.com/Neziahtech/streampay/issues/249",
+   "at": "2026-10-18T15:16:24Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "irman1996",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:critical",
+     "scope:contract",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/cubaloop/notrack-ecosystem/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "cubaloop/notrack-ecosystem: \u26a1 [ANNOUNCEMENT] Open-Source Bounties & Algorithm Precision Squad \u00b7 24/7 Rapid Response \u00b7 Funding Our AI Compute",
+   "url": "https://github.com/cubaloop/notrack-ecosystem/issues/3",
+   "at": "2026-10-18T15:12:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "cubaloop",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22181",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(action-items): sort and score aggregation crashes with TypeError / AttributeError on ISO string or naive timestamps ( proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22181",
+   "at": "2026-10-18T14:45:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Dragonire9",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22181",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22181 [Bounty proposal] fix(action-items): sort and score aggregation crashes with TypeError / AttributeError on ISO string or naive timestamps ( proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22181",
+   "at": "2026-10-18T14:45:17Z",
+   "extra": {
+    "state": "open",
+    "author": "Dragonire9"
+   }
+  },
+  {
+   "id": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/338",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "TheJollyLaMa/BigNuten_Vanilla: Feature: Make bounty payroll replay-safe and receipt-verified",
+   "url": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/338",
+   "at": "2026-10-18T14:44:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "TheJollyLaMa",
+    "labels": [
+     "enhancement",
+     "web3"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/342",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "TheJollyLaMa/BigNuten_Vanilla: Feature: Define explicit lifecycle for funded requests and bounty work",
+   "url": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/342",
+   "at": "2026-10-18T14:44:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "TheJollyLaMa",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22174",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, harden etag matching, and add client injection to action items cache ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22174",
+   "at": "2026-10-18T14:12:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "Dragonire9",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22174",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22174 [Bounty proposal] fix(database): sanitize identifiers, harden etag matching, and add client injection to action items cache ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22174",
+   "at": "2026-10-18T14:12:27Z",
+   "extra": {
+    "state": "open",
+    "author": "Dragonire9"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22168",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, enforce comment length bounds, and add client injection to csat ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22168",
+   "at": "2026-10-18T13:55:57Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "Dragonire9",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22168",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22168 [Bounty proposal] fix(database): sanitize identifiers, enforce comment length bounds, and add client injection to csat ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22168",
+   "at": "2026-10-18T13:55:57Z",
+   "extra": {
+    "state": "open",
+    "author": "Dragonire9"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22162",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, add tolerant reads, and client injection to support audit ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22162",
+   "at": "2026-10-18T13:41:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "Dragonire9",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22162",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22162 [Bounty proposal] fix(database): sanitize identifiers, add tolerant reads, and client injection to support audit ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22162",
+   "at": "2026-10-18T13:41:01Z",
+   "extra": {
+    "state": "open",
+    "author": "Dragonire9"
+   }
+  },
+  {
+   "id": "https://github.com/z4imon/auto-equipment-return/issues/42",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "z4imon/auto-equipment-return: [360 CN Server] 'demount all bounty equipment' Needs to be changed to 'demount all bounty equipmen\"",
+   "url": "https://github.com/z4imon/auto-equipment-return/issues/42",
+   "at": "2026-10-18T13:40:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "becausemadoka",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/4128",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: Keeper blind spot: nonterminal bounties matching no DUE_WHERE branch are invisible to due, overdue, and next-due (NULL challenge_ends_ms repro)",
+   "url": "https://github.com/Uuriko/project-room/issues/4128",
+   "at": "2026-10-18T13:31:04Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/4125",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: verifyConservation never runs in production, and its per-bounty checks ignore payable flows \u2014 a chain-valid forged payout passes it",
+   "url": "https://github.com/Uuriko/project-room/issues/4125",
+   "at": "2026-10-18T13:30:51Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/ivcained/fiddy/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "ivcained/fiddy: Fiddy: Farcaster client + read node + 3-command tutorial ($2048 bounty)",
+   "url": "https://github.com/ivcained/fiddy/issues/1",
+   "at": "2026-10-18T13:00:41Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": 2048,
+    "author": "ivcained",
+    "labels": [
+     "ready-for-agent"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/730",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Rickyy1017/Stellar-Defi-Vault: Add a published vulnerability disclosure and bug bounty policy",
+   "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/730",
+   "at": "2026-10-18T12:48:04Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "Rickyy1017",
+    "labels": [
+     "enhancement",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22144",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, add stream error boundaries, and client injection to tasks ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22144",
+   "at": "2026-10-18T12:28:03Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "Dragonire9",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22144",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22144 [Bounty proposal] fix(database): sanitize identifiers, add stream error boundaries, and client injection to tasks ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22144",
+   "at": "2026-10-18T12:28:03Z",
+   "extra": {
+    "state": "open",
+    "author": "Dragonire9"
+   }
+  },
   {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/634",
    "source": "github_search",
@@ -47,22 +383,6 @@
    }
   },
   {
-   "id": "https://github.com/LORDSINE/bounty-bot-e2e/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "LORDSINE/bounty-bot-e2e: Fix calc.py: average() wrong for normal lists and clamp() returns low for out-of-range high",
-   "url": "https://github.com/LORDSINE/bounty-bot-e2e/issues/1",
-   "at": "2026-10-18T09:43:59Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "LORDSINE",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/610",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -87,7 +407,7 @@
    "url": "https://github.com/mozzimorzam-sudo/project100-mcp/issues/7",
    "at": "2026-10-18T09:10:42Z",
    "extra": {
-    "comments": 0,
+    "comments": 2,
     "amount_usd": null,
     "author": "mozzimorzam-sudo",
     "labels": [
@@ -396,22 +716,6 @@
     "amount_usd": null,
     "author": "3Nerion7",
     "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/UniteAndCreateForLife/hal-supreme-community/issues/40",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "UniteAndCreateForLife/hal-supreme-community: Bring Agent Bounty Guard findings to OpenSSF AI/ML Security",
-   "url": "https://github.com/UniteAndCreateForLife/hal-supreme-community/issues/40",
-   "at": "2026-10-17T22:20:13Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "UniteAndCreateForLife",
-    "labels": [
-     "help wanted"
-    ]
    }
   },
   {
@@ -738,30 +1042,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61202",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61202 Packer reconfig: Blackhole drops the partial-face flag, and the conditional reconfig skips geometry-only changes (block-float exponent section size wrong)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61202",
-   "at": "2026-10-17T15:23:35Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61200",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61200 REDUCE_SCALAR SUM/AVG truncates its fp32 partial sums to TF32 through the Src round-trip (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61200",
-   "at": "2026-10-17T15:21:07Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/462",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -776,246 +1056,6 @@
      "\ud83d\udc8e Bounty",
      "wildcard"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61198",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61198 unpack_AB ROW broadcast: bcast_row_idx is unbounded and a BFP operand B with a non-zero index reads garbage (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61198",
-   "at": "2026-10-17T15:00:26Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61196",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61196 reduce_block_max_row: runtime block_ct_dim wraps the MOP loop-count field, and the shape guard admits unimplemented tile shapes (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61196",
-   "at": "2026-10-17T14:56:39Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61194",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61194 max_reduce_with_indices: the 9-row ROW_MAJOR path accepts accumulate=true and silently ignores it (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61194",
-   "at": "2026-10-17T14:40:23Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61192",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61192 Approximate exp_tile silently ignores its runtime scale and scale_en; the documented contract says otherwise (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61192",
-   "at": "2026-10-17T14:35:50Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61189",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61189 fast_tilize: tiny-tile (16x32) CBs silently run an unsupported path (Blackhole: all shapes; Wormhole: odd block widths)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61189",
-   "at": "2026-10-17T14:32:28Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61187",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61187 ckernel_xmov: xmov_wait_till_idle returns before the move is done; xmov_l1_to_l1_non_compact sends an uninitialised command word (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61187",
-   "at": "2026-10-17T14:27:10Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61185",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61185 llk_matmul_pack with out_of_order_output packs every DEST tile to the same output page (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61185",
-   "at": "2026-10-17T14:16:10Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61183",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61183 llk_unpack_reduce unpacks its scaler from L1 address 0: the SrcB base comes from a GPR slot nothing writes (Blackhole + Wormhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61183",
-   "at": "2026-10-17T14:14:35Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61181",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61181 [ttnn] Enforce strict rank-4 validation in batch_norm, support preallocated output on 0V tensors, and remove duplicate log argument",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61181",
-   "at": "2026-10-17T14:07:54Z",
-   "extra": {
-    "author": "dhaulagani",
-    "labels": [
-     "community"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61179",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61179 [ttnn] Pass target dtype to clone on rank-0 / zero-volume tensors in accumulation_invoke and fix rank log",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61179",
-   "at": "2026-10-17T14:06:05Z",
-   "extra": {
-    "author": "dhaulagani",
-    "labels": [
-     "community"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61177",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61177 [ttnn] Apply residual_input_tensor on 0D scalar rank-0 tensors in ttnn::rms_norm",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61177",
-   "at": "2026-10-17T14:04:44Z",
-   "extra": {
-    "author": "dhaulagani",
-    "labels": [
-     "community"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61175",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61175 [ttnn] Fix dimension ordering in fold_with_transpose_sharded_ padded_shape2 and standardize output_shape slice dimensions in fold_with_transpose_",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61175",
-   "at": "2026-10-17T14:01:13Z",
-   "extra": {
-    "author": "dhaulagani",
-    "labels": [
-     "community"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61173",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61173 [ttnn] Fix div_bw other_grad factor pairing overflow/underflow, share reciprocal dispatch, and fix rsub_bw preallocated operand check",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61173",
-   "at": "2026-10-17T13:56:58Z",
-   "extra": {
-    "author": "dhaulagani",
-    "labels": [
-     "community"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61171",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61171 [ttnn] Fix softmax_in_place TT_FATAL on rank < 4 tensors and prim::softmax dim_adjusted check against pre-unsqueeze rank",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61171",
-   "at": "2026-10-17T13:54:45Z",
-   "extra": {
-    "author": "dhaulagani",
-    "labels": [
-     "community"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61169",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61169 dbg_get_array_row(SRCA) returns a stale DEST row whenever the math thread's DEST offset is not zero (Blackhole + Wormhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61169",
-   "at": "2026-10-17T13:50:59Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61167",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61167 Compute API docstrings wrong: addcmul/addcdiv argument order, softplus threshold predicate, mul_reduce_scalar scaler applied twice",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61167",
-   "at": "2026-10-17T13:43:39Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61165",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61165 _llk_math_hw_configure_ docstrings describe a removed debug-feature workaround and an unpack-side SrcB format write that Blackhole never performs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61165",
-   "at": "2026-10-17T13:42:26Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61162",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61162 tt-llk SFPU test harness runs topk without the DEST-increment init; test_sdpa_reduce_row cannot fail its MAX arm",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61162",
-   "at": "2026-10-17T13:26:30Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61160",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61160 [Feature][ttnn unary] Pareto-optimal accuracy tiers for SFPU unary ops",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61160",
-   "at": "2026-10-17T12:38:15Z",
-   "extra": {
-    "author": "nkapreTT",
-    "labels": []
    }
   },
   {
@@ -1322,209 +1362,6 @@
    }
   },
   {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/237",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Add an xtask Operator CLI for Administering Backstop, Bounty, Grants, and Treasury",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/237",
-   "at": "2026-10-17T07:36:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/229",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Wire RefractMultisig as the Threshold Approver for Treasury Withdrawals and Bounty Payouts",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/229",
-   "at": "2026-10-17T07:35:52Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/224",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Introduce a Timelock-Gated Protocol Parameter Registry Shared by Backstop, Bounty, Grants, Treasury, and Pool",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/224",
-   "at": "2026-10-17T07:35:33Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/219",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Bounty Severity Adjudication, Multi-Approver Sign-off, and Dispute Resolution",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/219",
-   "at": "2026-10-17T07:35:15Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/210",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Emit Standardized Events and Structured Observability Across Backstop, Bounty, Grants, and Treasury",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/210",
-   "at": "2026-10-17T07:34:41Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/207",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Bounty Expiry, Refund, and Reclaim Path",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/207",
-   "at": "2026-10-17T07:34:29Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/195",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Add Backstop, Bounty, Grants, and Treasury to the Cargo Workspace",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/195",
-   "at": "2026-10-17T07:33:44Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/zsxh1990/pr-genius/issues/123",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "zsxh1990/pr-genius: [Zero-Bounty] \u8bf4\u4e00\u6761\u672c\u4f1a\u6b7b\u6389\u7684 PR\uff08\u4e0d\u9650\u5e2d\uff09\u2014\u2014 \u6362\u56de\u6211\u4eec\u81ea\u5df1\u7684\u7b2c\u4e00\u6761\u6218\u7ee9",
-   "url": "https://github.com/zsxh1990/pr-genius/issues/123",
-   "at": "2026-10-17T07:24:57Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zsxh1990",
-    "labels": [
-     "usage-evidence"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/zsxh1990/pr-genius/issues/122",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "zsxh1990/pr-genius: [Zero-Bounty] \u767b\u8bb0\u4f60\u5728\u54ea\u8dd1 pr-genius\uff085 \u5e2d\uff09\u2014\u2014 \u6362\u56de 5 \u4e2a\u4ed3\u5e93\u753b\u50cf",
-   "url": "https://github.com/zsxh1990/pr-genius/issues/122",
-   "at": "2026-10-17T07:24:41Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "zsxh1990",
-    "labels": [
-     "usage-evidence"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/hbbq/ProjectDelve/issues/185",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "hbbq/ProjectDelve: Playtest a Goblin bounty that depends on Shaman summoning",
-   "url": "https://github.com/hbbq/ProjectDelve/issues/185",
-   "at": "2026-10-17T07:14:53Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "hbbq",
-    "labels": [
-     "agent:ready",
-     "complexity:low"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/neatlogs/neatroots/issues/387",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: flag streamed replies the agent abandoned partway (neatlogs.stream.cancelled) (bounty requested)",
-   "url": "https://github.com/neatlogs/neatroots/issues/387",
-   "at": "2026-10-17T07:14:51Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "nftkingiii",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/neatlogs/neatroots/issues/386",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: flag model replies cut off at max_tokens, by reading the stop reason the SDK already sends (bounty requested)",
-   "url": "https://github.com/neatlogs/neatroots/issues/386",
-   "at": "2026-10-17T07:14:49Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "nftkingiii",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/neatlogs/neatroots/issues/385",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: a check for a prompt cache that is written on every call but never read (bounty requested)",
-   "url": "https://github.com/neatlogs/neatroots/issues/385",
-   "at": "2026-10-17T07:14:46Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "nftkingiii",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Tekwan404/ElyndorMMORPG/issues/381",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Tekwan404/ElyndorMMORPG: World PvP Guild UI: independent ratings, bounty prizes and titles",
-   "url": "https://github.com/Tekwan404/ElyndorMMORPG/issues/381",
-   "at": "2026-10-17T07:09:38Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Tekwan404",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/378",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1538,22 +1375,6 @@
     "labels": [
      "\ud83d\udc8e Bounty",
      "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/callstackincubator/simlock/issues/648",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "callstackincubator/simlock: Bug hunt: confirmed findings from the bug bounty sweep",
-   "url": "https://github.com/callstackincubator/simlock/issues/648",
-   "at": "2026-10-17T06:16:00Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "V3RON",
-    "labels": [
-     "bug:new"
     ]
    }
   },
@@ -1572,34 +1393,6 @@
      "\ud83d\udc8e Bounty",
      "wildcard"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/Swordfish90/Lemuroid/issues/1185",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Swordfish90/Lemuroid: Save states break King's Bounty",
-   "url": "https://github.com/Swordfish90/Lemuroid/issues/1185",
-   "at": "2026-10-17T05:10:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "FizzyRain",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21990",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] MCP OAuth token refresh during chat tool calls is not persisted and breaks rotating refresh-token integrations ($50)",
-   "url": "https://github.com/BasedHardware/omi/issues/21990",
-   "at": "2026-10-17T04:40:57Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "SectorOneVentures",
-    "labels": []
    }
   },
   {
