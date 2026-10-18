@@ -1,6 +1,127 @@
 {
- "generated_at": "2026-10-18T16:02:36Z",
+ "generated_at": "2026-10-18T18:45:04Z",
  "events": [
+  {
+   "id": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "CredenceOrg/Credence-Contracts: feat(bounty-escrow): turn the analytics-only crate into a deployable escrow contract with lock, release and refund",
+   "url": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
+   "at": "2026-10-18T18:41:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Baskarayelu",
+    "labels": [
+     "enhancement",
+     "area:bounty-escrow",
+     "difficulty:hard",
+     "smart-contracts"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/xaviercallens/HiveMind/issues/4",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "xaviercallens/HiveMind: [Swarm Fabric M4] HM-M4-01: Streaming SSE (stream=True) /v1/chat/completions OpenAI Proxy for Cursor & Continue.dev (1,200  Bounty)",
+   "url": "https://github.com/xaviercallens/HiveMind/issues/4",
+   "at": "2026-10-18T17:21:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "xaviercallens",
+    "labels": [
+     "enhancement",
+     "good first issue"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/xaviercallens/HiveMind/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "xaviercallens/HiveMind: [Swarm Fabric M3] HM-M3-01: Custom Triton float8_e4m3fn Quantization Kernel & Dynamic Eagle/Medusa Tree Mask gamma=6..8 (3,000  Bounty)",
+   "url": "https://github.com/xaviercallens/HiveMind/issues/3",
+   "at": "2026-10-18T17:21:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "xaviercallens",
+    "labels": [
+     "enhancement",
+     "help wanted"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/xaviercallens/HiveMind/issues/2",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "xaviercallens/HiveMind: [Swarm Fabric M2] HM-M2-01: Double-Buffered CUDA Stream Lookahead Prefetcher for 3-Tier Pinned RAM DMA (3,000  Bounty)",
+   "url": "https://github.com/xaviercallens/HiveMind/issues/2",
+   "at": "2026-10-18T17:21:47Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "xaviercallens",
+    "labels": [
+     "enhancement",
+     "help wanted"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/xaviercallens/HiveMind/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "xaviercallens/HiveMind: [Swarm Fabric M1] HM-M1-01: Native aioquic HTTP/3 0-RTT & Libp2p WebSocket NAT Hole-Punching (2,500  Bounty)",
+   "url": "https://github.com/xaviercallens/HiveMind/issues/1",
+   "at": "2026-10-18T17:21:45Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "xaviercallens",
+    "labels": [
+     "enhancement",
+     "help wanted"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/695",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "limitlessprojects/Go-Hybrid: [wildcard] Eliminate the Checker/Emitter Semantic Split: Emit-Driven Verification via Explicit Desugared MIR (`hy-mir`)",
+   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/695",
+   "at": "2026-10-18T17:07:14Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": [
+     "\ud83d\udc8e Bounty",
+     "wildcard"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/teslims2/StellarKraal-/issues/1429",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "teslims2/StellarKraal-: Add CVE disclosure timeline and bug bounty scope to SECURITY.md",
+   "url": "https://github.com/teslims2/StellarKraal-/issues/1429",
+   "at": "2026-10-18T16:20:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "teslims2",
+    "labels": [
+     "documentation",
+     "enhancement"
+    ]
+   }
+  },
   {
    "id": "https://github.com/abdulsalam-create/bounty-watch/issues/137",
    "source": "github_search",
@@ -51,7 +172,7 @@
    "url": "https://github.com/Neziahtech/streampay/issues/255",
    "at": "2026-10-18T15:25:45Z",
    "extra": {
-    "comments": 1,
+    "comments": 4,
     "amount_usd": null,
     "author": "irman1996",
     "labels": [
@@ -166,7 +287,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/22174",
    "at": "2026-10-18T14:12:27Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": 50,
     "author": "Dragonire9",
     "labels": []
@@ -286,7 +407,7 @@
    "url": "https://github.com/ivcained/fiddy/issues/1",
    "at": "2026-10-18T13:00:41Z",
    "extra": {
-    "comments": 3,
+    "comments": 5,
     "amount_usd": 2048,
     "author": "ivcained",
     "labels": [
@@ -407,7 +528,7 @@
    "url": "https://github.com/mozzimorzam-sudo/project100-mcp/issues/7",
    "at": "2026-10-18T09:10:42Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
     "author": "mozzimorzam-sudo",
     "labels": [
@@ -820,63 +941,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61220",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61220 [LLK][BH][MATMUL] Output packs one tile per call",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61220",
-   "at": "2026-10-17T18:31:40Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole",
-     "op_cat: mm",
-     "perf",
-     "llk:blackhole",
-     "llk:performance"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61219",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61219 [LLK][BH][MATMUL] Dynamic throttle re-inits the math MOP in-stream",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61219",
-   "at": "2026-10-17T18:31:37Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole",
-     "op_cat: mm",
-     "perf",
-     "llk:blackhole",
-     "llk:performance"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61218",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61218 [LLK][BH][MATMUL] DEST read-after-write stalls on small-tile bodies",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61218",
-   "at": "2026-10-17T18:31:34Z",
-   "extra": {
-    "author": "mvlahovicTT",
-    "labels": [
-     "LLK",
-     "blackhole",
-     "op_cat: mm",
-     "perf",
-     "llk:blackhole",
-     "llk:performance"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/allurco/caribbean-adventure/issues/440",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -955,90 +1019,6 @@
      "enhancement",
      "Stellar Wave"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61216",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61216 [LLK][WH+BH] pack untilize packs a 32x16 (narrow) tile as if its two faces were side by side: rows interleaved, half taken from the neighbouring tile, no error",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61216",
-   "at": "2026-10-17T17:18:03Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61214",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61214 FP32 dest-acc toggle: the packer reconfig undoes a mid-kernel override, and the disable path clears Read_32b_data for 32-bit pack formats (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61214",
-   "at": "2026-10-17T17:01:04Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61212",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61212 [LLK][WH] Accurate bf16 exp records 20-22 replay entries at slot 0 and overwrites the matmul/reduce program in the FPU half of the replay buffer",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61212",
-   "at": "2026-10-17T16:58:00Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61210",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61210 [LLK] Wormhole matmul_block with rt_dim and ct_dim both >= 3 and min(rt, ct) odd hangs the math thread",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61210",
-   "at": "2026-10-17T16:51:18Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61208",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61208 [LLK] The binary/matmul unpack inits accept a CB marked UnpackToDestFp32 as an FPU operand and run on source registers the unpacker cannot fill",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61208",
-   "at": "2026-10-17T16:36:16Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61206",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61206 Dequant replay body crosses into the FPU half of the math replay buffer; mixing dequant with reduce corrupts the recorded MOP body (Wormhole + Blackhole)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61206",
-   "at": "2026-10-17T16:12:01Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61205",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61205 LLK WH/BH audit: nine findings parked for a decision",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61205",
-   "at": "2026-10-17T16:08:17Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
    }
   },
   {
@@ -1222,146 +1202,6 @@
    }
   },
   {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/287",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Bounty Evidence Manifest with Content-Addressed Attachments and Integrity Checks",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/287",
-   "at": "2026-10-17T07:39:30Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/278",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Merkle-Root Bulk Disbursement for Grant Cohorts and Bounty Batches",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/278",
-   "at": "2026-10-17T07:38:56Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/266",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Fee-Bump Sponsorship for Claimant-Facing Bounty and Grant Entrypoints",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/266",
-   "at": "2026-10-17T07:38:11Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/265",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Add Per-Recipient Payout Velocity Limits and Cooldowns in Bounty and Grants",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/265",
-   "at": "2026-10-17T07:38:08Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/264",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Add Atomic Batch Administrative Entrypoints Across Backstop, Bounty, Grants, and Treasury",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/264",
-   "at": "2026-10-17T07:38:04Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/260",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement a Configurable Protocol Fee on Bounty and Grant Payouts Routed to Treasury",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/260",
-   "at": "2026-10-17T07:37:49Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/256",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement a Bounty Program Registry with Per-Program Budgets and Scope Declarations",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/256",
-   "at": "2026-10-17T07:37:34Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/252",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Add a Legacy Data Migration and Backfill Tool for Off-Chain Bounty and Grant Records",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/252",
-   "at": "2026-10-17T07:37:18Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/247",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Add a Queryable Payout Registry Sidecar for Bounty and Grant Disbursements",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/247",
-   "at": "2026-10-17T07:37:00Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/238",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Payout-Address Indirection for Anonymity-Preserving Bounty Claims",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/238",
-   "at": "2026-10-17T07:36:25Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/378",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1447,7 +1287,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/352",
    "at": "2026-10-17T02:20:41Z",
    "extra": {
-    "comments": 2,
+    "comments": 4,
     "amount_usd": null,
     "author": "raju12345-raju",
     "labels": [
