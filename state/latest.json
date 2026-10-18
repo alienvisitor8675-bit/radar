@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-10-18T18:45:04Z",
+ "generated_at": "2026-10-18T21:13:32Z",
  "events": [
+  {
+   "id": "https://github.com/alleycatassetacquisitions/pdn/issues/299",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "alleycatassetacquisitions/pdn: game: Synchronize DuelCountdown / Duel start between Hunter and Bounty",
+   "url": "https://github.com/alleycatassetacquisitions/pdn/issues/299",
+   "at": "2026-10-18T21:12:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "tire-fire",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61280",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61280 [aw] Failed jobs: Silencer (tt-metal)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61280",
+   "at": "2026-10-18T20:48:34Z",
+   "extra": {
+    "author": "app/github-actions",
+    "labels": [
+     "agentic-workflows"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22227",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(screen-frames): coerce naive and ISO string timestamps to prevent TypeError and KeyError crashes during frame sorting ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22227",
+   "at": "2026-10-18T20:43:50Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "Dragonire9",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22227",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22227 [Bounty proposal] fix(screen-frames): coerce naive and ISO string timestamps to prevent TypeError and KeyError crashes during frame sorting ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22227",
+   "at": "2026-10-18T20:43:50Z",
+   "extra": {
+    "state": "open",
+    "author": "Dragonire9"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61270",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61270 ring_joint_sdpa: Reject `max_k_splits` and `segmented_accumulation` values that the op cannot apply",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61270",
+   "at": "2026-10-18T19:43:00Z",
+   "extra": {
+    "author": "svuckovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61268",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61268 ttnn.where(BF16 condition, FP32 true tensor, FP32 false tensor) silently returns garbage values",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61268",
+   "at": "2026-10-18T19:41:16Z",
+   "extra": {
+    "author": "nkapreTT",
+    "labels": []
+   }
+  },
   {
    "id": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
    "source": "github_search",
@@ -14,6 +92,7 @@
     "author": "Baskarayelu",
     "labels": [
      "enhancement",
+     "Stellar Wave",
      "area:bounty-escrow",
      "difficulty:hard",
      "smart-contracts"
@@ -28,7 +107,7 @@
    "url": "https://github.com/xaviercallens/HiveMind/issues/4",
    "at": "2026-10-18T17:21:50Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "xaviercallens",
     "labels": [
@@ -776,23 +855,6 @@
    }
   },
   {
-   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [1/6]",
-   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/1",
-   "at": "2026-10-18T01:06:41Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "MicahHeneveld",
-    "labels": [
-     "bounty",
-     "bounty:claimed"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/Suncrest-Labs/nester/issues/1536",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -909,34 +971,6 @@
      "wave",
      "testing",
      "security"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61224",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61224 [Gemma4] Re-enable D2H layer acks for batched prefill steps once #58136 lands",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61224",
-   "at": "2026-10-17T19:24:48Z",
-   "extra": {
-    "author": "kmabeeTT",
-    "labels": [
-     "model: gemma-4"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61221",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61221 ttnn.ema starts every sequence from 0 instead of input_0, contradicting its docstring and its registered golden",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61221",
-   "at": "2026-10-17T18:55:18Z",
-   "extra": {
-    "author": "tnclaudecode",
-    "labels": [
-     "community"
     ]
    }
   },
@@ -1064,7 +1098,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/432",
    "at": "2026-10-17T11:43:10Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "Sud0x67",
     "labels": []
@@ -1156,48 +1190,6 @@
     "comments": 5,
     "amount_usd": null,
     "author": "nahuelposdeley10",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/313",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Sponsor Escrow Top-Up and Low-Balance Auto-Refill for Bounty Programs",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/313",
-   "at": "2026-10-17T08:00:29Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/306",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Implement Bounty Program Wind-Down and Final Settlement in RefractBounty",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/306",
-   "at": "2026-10-17T08:00:02Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Refract-Protocol/refract-contracts/issues/296",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Refract-Protocol/refract-contracts: Extend SPEC.md with Formal Specifications for Backstop, Bounty, Grants, and Treasury and Add Conformance Tests",
-   "url": "https://github.com/Refract-Protocol/refract-contracts/issues/296",
-   "at": "2026-10-17T07:40:04Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "OxDev-max",
     "labels": []
    }
   },
