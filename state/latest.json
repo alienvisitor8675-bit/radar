@@ -1,6 +1,171 @@
 {
- "generated_at": "2026-10-17T23:43:14Z",
+ "generated_at": "2026-10-18T02:53:51Z",
  "events": [
+  {
+   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [6/6]",
+   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
+   "at": "2026-10-18T01:07:06Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "MicahHeneveld",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/5",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [5/6]",
+   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/5",
+   "at": "2026-10-18T01:07:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "MicahHeneveld",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/4",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [4/6]",
+   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/4",
+   "at": "2026-10-18T01:06:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "MicahHeneveld",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [3/6]",
+   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/3",
+   "at": "2026-10-18T01:06:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "MicahHeneveld",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/2",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [2/6]",
+   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/2",
+   "at": "2026-10-18T01:06:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "MicahHeneveld",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [1/6]",
+   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/1",
+   "at": "2026-10-18T01:06:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "MicahHeneveld",
+    "labels": [
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Djbrl/bitbounty/issues/109",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Djbrl/bitbounty: Web \u00b7 U5 \u00b7 Restyle public pages (bounty, pay, profile, receipt, live)",
+   "url": "https://github.com/Djbrl/bitbounty/issues/109",
+   "at": "2026-10-18T01:00:04Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": null,
+    "author": "Djbrl",
+    "labels": [
+     "pts:3",
+     "wave:3",
+     "area:web"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Djbrl/bitbounty/issues/107",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Djbrl/bitbounty: Web \u00b7 U3 \u00b7 Hunter home (hunter card, tiers, claims, bounties for you)",
+   "url": "https://github.com/Djbrl/bitbounty/issues/107",
+   "at": "2026-10-18T01:00:00Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": null,
+    "author": "Djbrl",
+    "labels": [
+     "pts:3",
+     "wave:3",
+     "area:web"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Suncrest-Labs/nester/issues/1536",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Suncrest-Labs/nester: feat(security): launch a funded bug bounty before mainnet deposits open",
+   "url": "https://github.com/Suncrest-Labs/nester/issues/1536",
+   "at": "2026-10-18T00:27:39Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "0xDeon",
+    "labels": [
+     "priority:high",
+     "Stellar Wave",
+     "security",
+     "moderate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Uuriko/project-room/issues/3976",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Uuriko/project-room: AEO follow-up: serve docs/FAQ.md at /faq with FAQPage JSON-LD (and fix its stale bounty lines)",
+   "url": "https://github.com/Uuriko/project-room/issues/3976",
+   "at": "2026-10-18T00:24:56Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Uuriko",
+    "labels": []
+   }
+  },
   {
    "id": "https://github.com/ZecHub/zec-bounties/issues/426",
    "source": "github_search",
@@ -91,7 +256,7 @@
    "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/1027",
    "at": "2026-10-17T19:36:13Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "king-aj-the-first",
     "labels": [
@@ -327,20 +492,6 @@
    "at": "2026-10-17T16:36:16Z",
    "extra": {
     "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/885",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: `bounty_list.validate` \u4e0d\u6821\u9a8c `render` \u76f4\u63a5\u7d22\u5f15\u7684**\u56db\u4e2a\u9876\u5c42\u952e** \u21d2 \u7f3a\u952e\u65f6\u300c\u6821\u9a8c\u65e0\u9519\u300d\u4f46\u88f8\u5d29 `KeyError`\uff0c\u9000\u51fa\u7801\u4e0e\u300c\u4ea7\u7269\u6f02\u79fb\u300d\u649e\u7801",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/885",
-   "at": "2026-10-17T16:22:12Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "m3159584479",
     "labels": []
    }
   },
@@ -699,7 +850,7 @@
    "url": "https://github.com/TabularisDB/tabularis/issues/1145",
    "at": "2026-10-17T11:50:05Z",
    "extra": {
-    "comments": 5,
+    "comments": 6,
     "amount_usd": null,
     "author": "debba",
     "labels": [
@@ -950,7 +1101,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/404",
    "at": "2026-10-17T09:31:58Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "nahuelposdeley10",
     "labels": []
@@ -1192,7 +1343,7 @@
    "url": "https://github.com/Refract-Protocol/refract-contracts/issues/278",
    "at": "2026-10-17T07:38:56Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "OxDev-max",
     "labels": []
@@ -1882,7 +2033,7 @@
    "url": "https://github.com/odiseo159-beep/mergit/issues/2",
    "at": "2026-10-17T03:50:50Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "odiseo159-beep",
     "labels": [
@@ -1898,7 +2049,7 @@
    "url": "https://github.com/odiseo159-beep/mergit/issues/1",
    "at": "2026-10-17T03:50:49Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "odiseo159-beep",
     "labels": [
@@ -2048,18 +2199,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61017",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61017 [LLK][Test] test_eltwise_unary_sfpu_polygamma_order raises TypeError: unexpected kwarg custom_atol",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61017",
-   "at": "2026-10-17T02:00:40Z",
-   "extra": {
-    "author": "nkapreTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/38",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -2117,550 +2256,6 @@
    }
   },
   {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/348",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Certify cancellation-safe structured task regions through blocking-effect admission",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/348",
-   "at": "2026-10-16T23:50:59Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "yupengtang",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/boundlessfi/builders/issues/412",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "boundlessfi/builders: Remove the archived bounties app from the repo",
-   "url": "https://github.com/boundlessfi/builders/issues/412",
-   "at": "2026-10-16T23:26:27Z",
-   "extra": {
-    "comments": 7,
-    "amount_usd": null,
-    "author": "0xdevcollins",
-    "labels": [
-     "documentation",
-     "good first issue",
-     "Stellar Wave",
-     "blocked",
-     "Improvement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/paraspell/xcm-tools/issues/2169",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "paraspell/xcm-tools: [Bug bounty] SDK (Dedot): getFromRpc sends every RPC twice and leaks an unhandled rejection that crashes Node.js even when the caller catches the error",
-   "url": "https://github.com/paraspell/xcm-tools/issues/2169",
-   "at": "2026-10-16T23:05:48Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "codeNinja62",
-    "labels": [
-     "Bug bounty \ud83d\udcb0"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/347",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Flip GUARANTEES Row 16 & Deadlock-Freedom from \"No claim\" to Guaranteed: Affine tx[T]/rx[T] Endpoint Split + Acyclic Wait-For Epochs in Pass B",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/347",
-   "at": "2026-10-16T23:04:32Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "lienhoatienphung-svg",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/LiamVisionary/bee-scouts/issues/11",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "LiamVisionary/bee-scouts: Show the 'Hall bounties' list on the SuperAgent API Hall page",
-   "url": "https://github.com/LiamVisionary/bee-scouts/issues/11",
-   "at": "2026-10-16T22:33:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "LiamVisionary",
-    "labels": [
-     "bee-proposal",
-     "bee-547"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/345",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Make hy-emit untrusted: independently validated lowering to plain Go",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/345",
-   "at": "2026-10-16T22:12:20Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "MyTH-zyxeon",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/paraspell/xcm-tools/issues/2168",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "paraspell/xcm-tools: [Bug bounty] AssetHub fallback transfer can exceed the swap\u2019s minimum output",
-   "url": "https://github.com/paraspell/xcm-tools/issues/2168",
-   "at": "2026-10-16T21:53:30Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "aaka3h",
-    "labels": [
-     "Bug bounty \ud83d\udcb0"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Zenith-options/backend/issues/245",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Zenith-options/backend: Implement Keeper Bounty Accrual and Reward Distribution",
-   "url": "https://github.com/Zenith-options/backend/issues/245",
-   "at": "2026-10-16T21:21:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dami-005",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/132",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-16: 0 new, 1 resumed, 5 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/132",
-   "at": "2026-10-16T21:13:33Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ZecHub/zec-bounties/issues/421",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ZecHub/zec-bounties: Question: reward requests for merged PRs under the new 5-completed-bounties rule",
-   "url": "https://github.com/ZecHub/zec-bounties/issues/421",
-   "at": "2026-10-16T21:04:48Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "tidelit4",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/paraspell/xcm-tools/issues/2165",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "paraspell/xcm-tools: [Bug bounty] Snowbridge client cache drops public clients without closing their WebSocket transports (leaked auto-reconnecting sockets)",
-   "url": "https://github.com/paraspell/xcm-tools/issues/2165",
-   "at": "2026-10-16T20:18:48Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "agusgarcia3007",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Zenith-options/frontend/issues/263",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Zenith-options/frontend: Launch a Bug Bounty Program and Vulnerability Disclosure Process for the Vault Stack",
-   "url": "https://github.com/Zenith-options/frontend/issues/263",
-   "at": "2026-10-16T19:13:48Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dami-005",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/neatlogs/neatroots/issues/290",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: findings have no list page, so the documented goes-quiet-after-3-dismissals control can only be driven one run at a time (bounty requested)",
-   "url": "https://github.com/neatlogs/neatroots/issues/290",
-   "at": "2026-10-16T18:24:06Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "isHeSatoshi",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/neatlogs/neatroots/issues/289",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: a compare view for two runs, since compare_runs is MCP-only today (bounty requested)",
-   "url": "https://github.com/neatlogs/neatroots/issues/289",
-   "at": "2026-10-16T18:23:50Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "isHeSatoshi",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/neatlogs/neatroots/issues/288",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: show what a run, a project and a period cost, from a bundled price table and the tokens already stored (bounty requested)",
-   "url": "https://github.com/neatlogs/neatroots/issues/288",
-   "at": "2026-10-16T18:23:40Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "isHeSatoshi",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/neatlogs/neatroots/issues/287",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "neatlogs/neatroots: Feature proposal: retention is value-blind, so a run with findings is evicted before a clean run (bounty requested)",
-   "url": "https://github.com/neatlogs/neatroots/issues/287",
-   "at": "2026-10-16T18:22:56Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "isHeSatoshi",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/paraspell/xcm-tools/issues/2163",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "paraspell/xcm-tools: [Bug bounty] SDK (Dedot): no transfer from Acala or Karura can be built \u2014 CheckNonce is encoded with the wrong shape (runtime trap) and Token currency ids are rejected",
-   "url": "https://github.com/paraspell/xcm-tools/issues/2163",
-   "at": "2026-10-16T18:16:47Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "codeNinja62",
-    "labels": [
-     "Bug bounty \ud83d\udcb0"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/paraspell/xcm-tools/issues/2161",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "paraspell/xcm-tools: [Bug bounty] SDK (Dedot): every transfer from AssetHubPolkadot / PeoplePolkadot fails with \"SignedExtension for VerifyMultiSignature requires input but is not implemented\"",
-   "url": "https://github.com/paraspell/xcm-tools/issues/2161",
-   "at": "2026-10-16T18:11:04Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "codeNinja62",
-    "labels": [
-     "Bug bounty \ud83d\udcb0"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21916",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize inputs and add stream error boundaries to batch pipeline privacy queries ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21916",
-   "at": "2026-10-16T17:57:46Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21916",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21916 [Bounty proposal] fix(database): sanitize inputs and add stream error boundaries to batch pipeline privacy queries ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21916",
-   "at": "2026-10-16T17:57:46Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21914",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21914 [Bounty proposal] fix(database): sanitize document id, add timestamp boundary to api key metadata ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21914",
-   "at": "2026-10-16T17:49:40Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/342",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Clone mutable object graphs at task and channel boundaries",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/342",
-   "at": "2026-10-16T17:43:34Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "nikolas-sapa",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21911",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21911 [Bounty proposal] fix(database): prevent read mutation and harden date boundaries in action item codec ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21911",
-   "at": "2026-10-16T17:42:05Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21907",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21907 [Bounty proposal] fix(database): sanitize uid and period, add error boundary to budget choice ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21907",
-   "at": "2026-10-16T17:30:45Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21903",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21903 [Bounty proposal] fix(database): add stream fault tolerance and client injection to trends ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21903",
-   "at": "2026-10-16T17:14:20Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21901",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21901 [Bounty proposal] fix(database): sanitize uid and protect session streams in channel visibility ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21901",
-   "at": "2026-10-16T17:08:06Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21899",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21899 [Bounty proposal] fix(database): sanitize uid and guard voice preferences against store failures ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21899",
-   "at": "2026-10-16T17:02:19Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21897",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21897 [Bounty Proposal] fix(tests): preload calendar_render in calendar unit stubs and adapt to model_text event format",
-   "url": "https://github.com/BasedHardware/omi/issues/21897",
-   "at": "2026-10-16T16:48:22Z",
-   "extra": {
-    "state": "closed",
-    "author": "hardik4love-lang"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21895",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21895 [Bounty proposal] fix(database): sanitize phone call overrides and add fault-tolerant client injection ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21895",
-   "at": "2026-10-16T16:47:30Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21892",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21892 [Bounty proposal] fix(database): sanitize review config inputs and harden version gating ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21892",
-   "at": "2026-10-16T16:37:53Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21878",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21878 [Bounty proposal] fix(database): sanitize plan_key attribution and guard hourly usage increments ( proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21878",
-   "at": "2026-10-16T15:54:12Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21875",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21875 [Bounty Proposal] fix(staged_tasks): filter completed entities in creation dedup and default relevance_score for index sorting ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21875",
-   "at": "2026-10-16T15:44:21Z",
-   "extra": {
-    "state": "open",
-    "author": "hardik4love-lang"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21867",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21867 [Bounty Proposal] Fix apps, persona, and speech-profile temp-file leaks, pricing/cache lifecycle, and locked-memory guards ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21867",
-   "at": "2026-10-16T14:42:20Z",
-   "extra": {
-    "state": "closed",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21863",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21863 [Bounty Proposal] fix(developer,mcp): sync action-item vectors, filter locked MCP tasks, and harden developer conversation endpoints ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21863",
-   "at": "2026-10-16T14:16:49Z",
-   "extra": {
-    "state": "closed",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21854",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21854 [Bounty Proposal] fix(backend): filter soft-deleted entities in recommendations and ensure goal deletion idempotency ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21854",
-   "at": "2026-10-16T12:56:39Z",
-   "extra": {
-    "state": "open",
-    "author": "hardik4love-lang"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21852",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21852 [Bounty Proposal] fix(chat): clean up session files and temp thumbnails, guard rating/sharing endpoints, and harden level migration ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21852",
-   "at": "2026-10-16T12:29:47Z",
-   "extra": {
-    "state": "closed",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21848",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21848 [Bounty Proposal] fix(memories): encrypt/rekey evidence in migrations, encrypt refined content, and harden public/mutation paths ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21848",
-   "at": "2026-10-16T12:02:09Z",
-   "extra": {
-    "state": "closed",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/327",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Make the A5 Go-escape a check-site with no Go API database: a capture-write at a foreign-call boundary takes `managed`",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/327",
-   "at": "2026-10-16T11:57:35Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "airdropia",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21844",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21844 [Bounty Proposal] fix(conversations): purge vectors/tasks in merge cleanup, reject duplicate merge IDs, and sync task description edits ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21844",
-   "at": "2026-10-16T11:41:35Z",
-   "extra": {
-    "state": "open",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/51655",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -2674,339 +2269,6 @@
      "kinginu"
     ],
     "created": "2026-07-31T03:59:46Z"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21841",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21841 [Bounty Proposal] fix(backend): enforce locks, cancel reminders, and filter soft-deleted action items ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21841",
-   "at": "2026-10-16T11:20:07Z",
-   "extra": {
-    "state": "open",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21838",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21838 [Bounty Proposal] fix(backend): guard soft-deleted tombstones and sync search index in conversation sync mutations ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21838",
-   "at": "2026-10-16T11:03:37Z",
-   "extra": {
-    "state": "open",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21833",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21833 [Bounty Proposal] fix(folders): decode folder conversations for read, filter visibility, and exclude hidden rows from counts ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21833",
-   "at": "2026-10-16T10:51:22Z",
-   "extra": {
-    "state": "open",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21824",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21824 [Bounty Proposal] fix(retrieval): sync action-item vectors across chat tools, tool services, and undo ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21824",
-   "at": "2026-10-16T09:03:49Z",
-   "extra": {
-    "state": "open",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21812",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21812 [Bounty Proposal] fix(listen): isolate reconnect and prepare rollover finalizations ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21812",
-   "at": "2026-10-16T06:40:04Z",
-   "extra": {
-    "state": "open",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21809",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#21809 [Bounty Proposal] fix(integrations): explicit-null context.filters and non-string webhook fields drop notifications or abort fanout ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21809",
-   "at": "2026-10-16T06:17:34Z",
-   "extra": {
-    "state": "open",
-    "author": "duongynhi000005-oss"
-   }
-  },
-  {
-   "id": "https://github.com/oll4com/spaceapp/issues/65",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "oll4com/spaceapp: [$450] One command to run the full SpaceApp stack from source for contributors",
-   "url": "https://github.com/oll4com/spaceapp/issues/65",
-   "at": "2026-10-16T05:30:34Z",
-   "extra": {
-    "comments": 29,
-    "amount_usd": 450,
-    "author": "oll4com",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "\ud83d\udc8e Bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/oll4com/spaceapp/issues/64",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "oll4com/spaceapp: [$400] Per-service container images: ship each image only the code and dependencies it runs",
-   "url": "https://github.com/oll4com/spaceapp/issues/64",
-   "at": "2026-10-16T05:30:32Z",
-   "extra": {
-    "comments": 24,
-    "amount_usd": 400,
-    "author": "oll4com",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "\ud83d\udc8e Bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/oll4com/spaceapp/issues/63",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "oll4com/spaceapp: [$600] Support rootless Podman as a container engine in the run-spaceapp launcher",
-   "url": "https://github.com/oll4com/spaceapp/issues/63",
-   "at": "2026-10-16T05:30:31Z",
-   "extra": {
-    "comments": 17,
-    "amount_usd": 600,
-    "author": "oll4com",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "\ud83d\udc8e Bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/oll4com/spaceapp/issues/62",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "oll4com/spaceapp: [$750] WebGL renderer for the 3D memory graph: 50,000 nodes at interactive frame rates",
-   "url": "https://github.com/oll4com/spaceapp/issues/62",
-   "at": "2026-10-16T05:30:26Z",
-   "extra": {
-    "comments": 28,
-    "amount_usd": 750,
-    "author": "oll4com",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "\ud83d\udc8e Bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/oll4com/spaceapp/issues/61",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "oll4com/spaceapp: [$600] Export worker and workflow spans over OTLP: one trace from API request to every Temporal activity",
-   "url": "https://github.com/oll4com/spaceapp/issues/61",
-   "at": "2026-10-16T05:30:25Z",
-   "extra": {
-    "comments": 25,
-    "amount_usd": 600,
-    "author": "oll4com",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "\ud83d\udc8e Bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/oll4com/spaceapp/issues/60",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "oll4com/spaceapp: [$400] Test every Temporal workflow on a real time-skipping test server and gate replay determinism in CI",
-   "url": "https://github.com/oll4com/spaceapp/issues/60",
-   "at": "2026-10-16T05:30:20Z",
-   "extra": {
-    "comments": 27,
-    "amount_usd": 400,
-    "author": "oll4com",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "\ud83d\udc8e Bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/304",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Kill syntactic alias/loan/freeze tracking: replace path-sensitive value-flow (`freeze.rs` + `closures.rs`) with Linear Region Capabilities (`cap[R]`) and Isolated Sub-Graphs[wildcard]",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/304",
-   "at": "2026-10-16T05:01:00Z",
-   "extra": {
-    "comments": 5,
-    "amount_usd": null,
-    "author": "ajithnair1808-max",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/294",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Lexical Split-Join Slice Capabilities via Zero-Allocation 3-Index Capacity Clipping",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/294",
-   "at": "2026-10-16T03:09:13Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "michellehumes",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3709",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: [launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive operator; only reviewer diligence bounds it (bond + flake ladder: adversary net -6 cr when reviews happen)",
-   "url": "https://github.com/Uuriko/project-room/issues/3709",
-   "at": "2026-10-16T03:06:03Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bounty",
-     "launch-readiness"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3708",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enforced they leak: collusion ring extracted 31.6 cr (44% of float) at 17x the honest rate",
-   "url": "https://github.com/Uuriko/project-room/issues/3708",
-   "at": "2026-10-16T03:06:01Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bounty",
-     "launch-readiness"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3704",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does not make FS-14 established-lane-only as the packet claims",
-   "url": "https://github.com/Uuriko/project-room/issues/3704",
-   "at": "2026-10-16T03:04:29Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bounty",
-     "launch-readiness"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3703",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: [launch-readiness] The challenge window cannot protect the sponsor on the rail: post-window disputes freeze payouts, and a sponsor dispute pays the worker a bonus",
-   "url": "https://github.com/Uuriko/project-room/issues/3703",
-   "at": "2026-10-16T03:04:25Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bounty",
-     "launch-readiness"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3702",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: [launch-readiness] Rail disputes are undecidable and default to paying the claimant: a confederate dispute freezes the verdict and force-pays junk after 14d",
-   "url": "https://github.com/Uuriko/project-room/issues/3702",
-   "at": "2026-10-16T03:04:23Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": [
-     "bounty",
-     "launch-readiness"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/279",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Delete the alias graph: make ownership a capability the type carries",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/279",
-   "at": "2026-10-16T00:52:12Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "yaojiajia838-design",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/268",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Self-Hosted In-Process Analysis: Native Go Library Driver (x/tools/go/analysis) for Zero-Install IDE Checking and Compiler Unification",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/268",
-   "at": "2026-10-16T00:07:23Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "1932819331hy-debug",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
    }
   }
  ],
