@@ -1,6 +1,129 @@
 {
- "generated_at": "2026-10-18T02:53:51Z",
+ "generated_at": "2026-10-18T07:44:51Z",
  "events": [
+  {
+   "id": "https://github.com/openai/codex/issues/54998",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "openai/codex: Safety check blocks authorized bug bounty work with Daybreak enabled",
+   "url": "https://github.com/openai/codex/issues/54998",
+   "at": "2026-10-18T06:31:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "mauriciomelo23",
+    "labels": [
+     "bug",
+     "CLI",
+     "safety-check"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#59732 [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
+   "at": "2026-10-18T05:42:49Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "jberkowitzTT",
+    "assignees": [
+     "samiyadev786"
+    ],
+    "created": "2026-10-07T21:34:17Z"
+   }
+  },
+  {
+   "id": "https://github.com/Guyue-arch/fizzfest-bounty/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Guyue-arch/fizzfest-bounty: \ud83e\udd64 Say hi & claim your bounty spot (start here)",
+   "url": "https://github.com/Guyue-arch/fizzfest-bounty/issues/1",
+   "at": "2026-10-18T05:21:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Guyue-arch",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22091",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize uid and protect announcement streams against store failures ( proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22091",
+   "at": "2026-10-18T04:56:02Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "nikolas-sapa",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22091",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22091 [Bounty proposal] fix(database): sanitize uid and protect announcement streams against store failures ( proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22091",
+   "at": "2026-10-18T04:56:02Z",
+   "extra": {
+    "state": "open",
+    "author": "nikolas-sapa"
+   }
+  },
+  {
+   "id": "https://github.com/adwate-ui/rivr-platform/issues/117",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "adwate-ui/rivr-platform: B-028 Bounty and progressive bounty, satellites, guarantee with overlay, multi-flight",
+   "url": "https://github.com/adwate-ui/rivr-platform/issues/117",
+   "at": "2026-10-18T04:22:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "adwate-ui",
+    "labels": [
+     "lane:b",
+     "status:todo",
+     "release:freeze"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/98",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "dmavs412/twilights-eve-wow: Northshire bounties and Abbey Relics quest",
+   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/98",
+   "at": "2026-10-18T04:19:28Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "dmavs412",
+    "labels": [
+     "ready-for-agent",
+     "blocked"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/96",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "dmavs412/twilights-eve-wow: Spec: Northshire bounties and the Abbey relic repeatable",
+   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/96",
+   "at": "2026-10-18T04:19:26Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dmavs412",
+    "labels": []
+   }
+  },
   {
    "id": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
    "source": "github_search",
@@ -9,7 +132,7 @@
    "url": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
    "at": "2026-10-18T01:07:06Z",
    "extra": {
-    "comments": 1,
+    "comments": 0,
     "amount_usd": null,
     "author": "MicahHeneveld",
     "labels": [
@@ -89,47 +212,12 @@
    "url": "https://github.com/MicahHeneveld/bros-analysis/issues/1",
    "at": "2026-10-18T01:06:41Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "MicahHeneveld",
     "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Djbrl/bitbounty/issues/109",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Djbrl/bitbounty: Web \u00b7 U5 \u00b7 Restyle public pages (bounty, pay, profile, receipt, live)",
-   "url": "https://github.com/Djbrl/bitbounty/issues/109",
-   "at": "2026-10-18T01:00:04Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "Djbrl",
-    "labels": [
-     "pts:3",
-     "wave:3",
-     "area:web"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Djbrl/bitbounty/issues/107",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Djbrl/bitbounty: Web \u00b7 U3 \u00b7 Hunter home (hunter card, tiers, claims, bounties for you)",
-   "url": "https://github.com/Djbrl/bitbounty/issues/107",
-   "at": "2026-10-18T01:00:00Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "Djbrl",
-    "labels": [
-     "pts:3",
-     "wave:3",
-     "area:web"
+     "bounty",
+     "bounty:claimed"
     ]
    }
   },
@@ -141,7 +229,7 @@
    "url": "https://github.com/Suncrest-Labs/nester/issues/1536",
    "at": "2026-10-18T00:27:39Z",
    "extra": {
-    "comments": 0,
+    "comments": 2,
     "amount_usd": null,
     "author": "0xDeon",
     "labels": [
@@ -713,24 +801,6 @@
    }
   },
   {
-   "id": "https://github.com/ErenYeager1836/reconflow/issues/12",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ErenYeager1836/reconflow: feat: add custom HTTP headers support (-H / --header) for bug bounty identification",
-   "url": "https://github.com/ErenYeager1836/reconflow/issues/12",
-   "at": "2026-10-17T13:57:28Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "ErenYeager1836",
-    "labels": [
-     "enhancement",
-     "help wanted",
-     "good first issue"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/61173",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -1101,7 +1171,7 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/404",
    "at": "2026-10-17T09:31:58Z",
    "extra": {
-    "comments": 2,
+    "comments": 4,
     "amount_usd": null,
     "author": "nahuelposdeley10",
     "labels": []
@@ -1462,18 +1532,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61087",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61087 [BH] rmsnorm bcast-scalar inits: X span programmed on the unpacker that never reads L1; Src zero flag left at keep",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61087",
-   "at": "2026-10-17T07:36:25Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/Refract-Protocol/refract-contracts/issues/237",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1572,54 +1630,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61084",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61084 [BH] blocked bcast-col MUL scaffold (indexer_score qk_col_batch > 1) always runs at LoFi, ignoring MATH_FIDELITY",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61084",
-   "at": "2026-10-17T07:32:28Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61082",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61082 [BH] 32-bit unpack-to-dest datacopy re-validates tile dst_index-4 under SyncFull (bank-relative ZEROACC index with the offset at the bank base)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61082",
-   "at": "2026-10-17T07:31:21Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61080",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61080 [BH] custom_mm / compressed_custom_mm CB-id paths accept a 16-row in0 tile and silently drop rows 8..15",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61080",
-   "at": "2026-10-17T07:30:05Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61078",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61078 [BH] no-mop matmul: throttled replay image used for 16x32 in0 tiles (wrong product); transpose with 32x16 in1 silently dropped",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61078",
-   "at": "2026-10-17T07:27:47Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/zsxh1990/pr-genius/issues/123",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1711,66 +1721,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61073",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61073 [LLK][BH] Two Blackhole replay records are loaded with instruction gathering left on: the welfords init and the where DISABLE_SFPLOADMACRO path",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61073",
-   "at": "2026-10-17T07:14:04Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61071",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61071 [LLK][WH+BH] ckernel_globals.h declares a global-scope cfg_state_id with no definition, making the name ambiguous from llk_lib scope",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61071",
-   "at": "2026-10-17T07:13:55Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61069",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61069 [LLK][BH] common_exp_is_b puts integer operands in the 5-bit exponent family: Float32 x integer unpacks to Float16, integer x b-family float does not compile",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61069",
-   "at": "2026-10-17T07:13:46Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61067",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61067 [LLK][BH] _llk_math_hw_cleanup_poison_addr_mods_ does not compile at -O2/-O1: SETC16 immediate operand fed from a loop index",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61067",
-   "at": "2026-10-17T07:13:38Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61065",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61065 [LLK][BH] Blackhole sinkhorn compute-API wrapper does not compile: the SFPU init is called with one template argument",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61065",
-   "at": "2026-10-17T07:13:28Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/Tekwan404/ElyndorMMORPG/issues/381",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1785,78 +1735,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61063",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61063 [BH] compressed_custom_mm zero-tile skip ZEROACC zeroes tile 15's second face at dense ct_dim 16",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61063",
-   "at": "2026-10-17T07:07:58Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61060",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61060 [LLK][WH+BH] 16x32 bfloat8_b/bfloat4_b output tiles are scrambled: packer partial-face flag set from tile height",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61060",
-   "at": "2026-10-17T07:02:35Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61058",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61058 [BH] dbg DEST window converts Int32/UInt32 datums with bit 31 set (sign-magnitude view selected)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61058",
-   "at": "2026-10-17T06:56:50Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61056",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61056 [BH] custom_mm with kt_dim = 256 reads the last activation face from face 255 (8-bit face counters)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61056",
-   "at": "2026-10-17T06:56:30Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61054",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61054 [BH] softmax_k with a 32-bit Dest normalises over the padding columns for k < 16",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61054",
-   "at": "2026-10-17T06:52:37Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61052",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61052 [BH] generic_moe_gate accepts fp32 Dest and returns garbage; compute_sdpa_chunk output-post bound omits the outstanding post",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61052",
-   "at": "2026-10-17T06:51:09Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/378",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1864,9 +1742,9 @@
    "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/378",
    "at": "2026-10-17T06:28:49Z",
    "extra": {
-    "comments": 2,
+    "comments": 3,
     "amount_usd": null,
-    "author": "untalsix",
+    "author": "0xSixtos",
     "labels": [
      "\ud83d\udc8e Bounty",
      "wildcard"
@@ -1907,21 +1785,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61047",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61047 [Bug][ttnn]: ttnn.mse_loss and ttnn.l1_loss crash or corrupt optional_output_tensor on SUM/MEAN reductions",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61047",
-   "at": "2026-10-17T05:20:05Z",
-   "extra": {
-    "author": "MusounoEnma",
-    "labels": [
-     "bug",
-     "community"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/Swordfish90/Lemuroid/issues/1185",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1932,18 +1795,6 @@
     "comments": 0,
     "amount_usd": null,
     "author": "FizzyRain",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61044",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61044 [LLK][WH+BH] _llk_math_matmul_init_no_mop_ does not restore the Src zero-substitution flag after a copy_init",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61044",
-   "at": "2026-10-17T04:46:09Z",
-   "extra": {
-    "author": "amahmudTT",
     "labels": []
    }
   },
@@ -1974,42 +1825,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61042",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61042 [LLK][WH+BH] SFPU column broadcast turns an Inf/NaN in an ignored column of the column vector into NaN across the whole row",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61042",
-   "at": "2026-10-17T04:35:32Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61040",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61040 [LLK][WH+BH] debug hash_cb folds and clobbers the wrong DEST slot after an SFPU op on another slot in the same window",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61040",
-   "at": "2026-10-17T04:33:32Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61038",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61038 [LLK][WH] dbg_read_cfgreg reads the wrong word for HW_CFG_1 and the THREAD_0/1/2 banks",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61038",
-   "at": "2026-10-17T04:32:45Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/abdulsalam-create/bounty-watch/issues/133",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -2033,7 +1848,7 @@
    "url": "https://github.com/odiseo159-beep/mergit/issues/2",
    "at": "2026-10-17T03:50:50Z",
    "extra": {
-    "comments": 2,
+    "comments": 5,
     "amount_usd": null,
     "author": "odiseo159-beep",
     "labels": [
@@ -2049,135 +1864,11 @@
    "url": "https://github.com/odiseo159-beep/mergit/issues/1",
    "at": "2026-10-17T03:50:49Z",
    "extra": {
-    "comments": 1,
+    "comments": 3,
     "amount_usd": null,
     "author": "odiseo159-beep",
     "labels": [
      "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61036",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61036 [LLK][WH+BH] mul_reduce_scalar silently re-accumulates tile 7 for num_tiles 9..16 under a full-sync bf16 DEST",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61036",
-   "at": "2026-10-17T03:38:01Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61026",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61026 [LLK][WH] rdiv on a bf16 destination flushes 1/(\u00b12^126) to zero and misrounds boundary inputs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61026",
-   "at": "2026-10-17T03:01:19Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61025",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61025 [LLK][WH+BH] bf16 pow returns ~1.0 instead of +inf for very large exponents (exponent-field wrap)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61025",
-   "at": "2026-10-17T03:01:13Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61024",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61024 [LLK][WH+BH] accurate mish on a bf16 destination rounds its exp intermediate to bf16 and misrounds ~2.75 % of inputs",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61024",
-   "at": "2026-10-17T03:01:06Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61023",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61023 [TTNN] Three unary host defects: \"hardmish\" activation string rejected, integer chain unchecked before a TYPECAST, float scalar bit-cast into INT32 relational ops",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61023",
-   "at": "2026-10-17T03:01:00Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61022",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61022 [LLK][WH+BH] i1 clamps its input at \u00b188.5 (exp's overflow), returning 1.15e37 where i1 is larger or \u00b1inf",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61022",
-   "at": "2026-10-17T03:00:53Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61021",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61021 [LLK][WH+BH] celu with alpha < 0 wraps the exp exponent and returns wrong finite values",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61021",
-   "at": "2026-10-17T03:00:47Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61020",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61020 [LLK][WH+BH] fp32 exact GELU returns 0 for a NaN with the sign bit set",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61020",
-   "at": "2026-10-17T03:00:41Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61019",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61019 [LLK][WH+BH] atan2 returns NaN for finite float32 inputs when the larger operand is subnormal",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61019",
-   "at": "2026-10-17T03:00:33Z",
-   "extra": {
-    "author": "amahmudTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61018",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61018 Quasar matmul: fp32_dest_acc_en fails in the 2D/1D/Reuse factories (partials DFB has no unpack_modes entry)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61018",
-   "at": "2026-10-17T02:54:43Z",
-   "extra": {
-    "author": "rmillerTT",
-    "labels": [
-     "bug",
-     "op_cat: mm",
-     "Quasar"
     ]
    }
   },
@@ -2213,34 +1904,6 @@
      "user story",
      "Sprint 0"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/paraspell/xcm-tools/issues/2171",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "paraspell/xcm-tools: [Bug bounty] Swap router omits destination origin fee when swap originates on exchange",
-   "url": "https://github.com/paraspell/xcm-tools/issues/2171",
-   "at": "2026-10-17T00:47:47Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "melcheikh",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/21953",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty Proposal] Persona refresh includes paywall-locked conversation context and memory previews ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/21953",
-   "at": "2026-10-17T00:41:28Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "Davidson3556",
-    "labels": []
    }
   },
   {
