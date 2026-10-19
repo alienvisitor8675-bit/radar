@@ -1,6 +1,674 @@
 {
- "generated_at": "2026-10-19T01:31:37Z",
+ "generated_at": "2026-10-19T07:16:17Z",
  "events": [
+  {
+   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/179",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "dmavs412/twilights-eve-wow: Notoriety: Marked after a Bounty Hunter kill",
+   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/179",
+   "at": "2026-10-19T06:49:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dmavs412",
+    "labels": [
+     "ready-for-agent"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/178",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "dmavs412/twilights-eve-wow: Notoriety: Bounty Rank, affixes and Blood Coin",
+   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/178",
+   "at": "2026-10-19T06:49:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dmavs412",
+    "labels": [
+     "ready-for-agent"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/177",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "dmavs412/twilights-eve-wow: Notoriety: Bounty Hunters spawn, hunt and give up",
+   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/177",
+   "at": "2026-10-19T06:49:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dmavs412",
+    "labels": [
+     "ready-for-agent"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/175",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "dmavs412/twilights-eve-wow: Notoriety: Heat Levels, Bounty Hunters, Blood Coin and Marked",
+   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/175",
+   "at": "2026-10-19T06:47:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "dmavs412",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/318",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security] contracts/streampay: missing admin/recipient/registrant authorization in set_governance_caps, add_agent/remove_agent, and set_refill_rule + unvalidated negative/zero parameters",
+   "url": "https://github.com/Neziahtech/streampay/issues/318",
+   "at": "2026-10-19T06:47:10Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:critical",
+     "scope:other",
+     "repro-missing",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/317",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security] oracle::resolve_stream_time upper-median index (n / 2) lets 1 rogue publisher in 2-of-3 quorum fast-forward stream time + sponsor initial-window double-spend & i128 overflow",
+   "url": "https://github.com/Neziahtech/streampay/issues/317",
+   "at": "2026-10-19T06:47:09Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:other",
+     "repro-missing",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61319",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61319 [ttnn/moe] writer_unary_interleaved waits/writes Ht * Kt tiles from Ht-tile reduced output DFB (deadlock / OOB write for k > 32)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61319",
+   "at": "2026-10-19T06:38:38Z",
+   "extra": {
+    "author": "JohnNuwan",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61317",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61317 [LLK][WH+BH+Quasar] calculate_cube_root (ttnn.cbrt) loses sign of -0.0f and turns NaN into -inf on BF16 Dest",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61317",
+   "at": "2026-10-19T06:38:26Z",
+   "extra": {
+    "author": "JohnNuwan",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61315",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61315 [ttnn/batch_norm] reader_batch_norm and reader_running_statistics unconditionally push scalar tiles on idle cores (num_tiles == 0), leaving dfb::eps unpopped",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61315",
+   "at": "2026-10-19T06:37:26Z",
+   "extra": {
+    "author": "JohnNuwan",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/313",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security] stream-nft: withdraw and withdraw_max fail to route stream payouts to the current NFT owner after transfer and approve accepts expired live_until_ledger",
+   "url": "https://github.com/Neziahtech/streampay/issues/313",
+   "at": "2026-10-19T06:31:48Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:other",
+     "repro-missing",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/314",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security] streaming-payments: Out-of-order start_id in migrate_storage permanently skips unmigrated streams while locking SchemaVersion = v2, and set_stream_policy accepts inverted/negative bounds",
+   "url": "https://github.com/Neziahtech/streampay/issues/314",
+   "at": "2026-10-19T06:31:48Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:other",
+     "repro-missing",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/51655",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#51655 [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destination and the host path truncate",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/51655",
+   "at": "2026-10-19T06:27:47Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "kinginu",
+    "assignees": [
+     "kinginu"
+    ],
+    "created": "2026-07-31T03:59:46Z"
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/312",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: Front-runnable unauthenticated policy_init allows arbitrary caller to hijack PolicyDataKey::Admin, set zero timelock, and blacklist all stream assets",
+   "url": "https://github.com/Neziahtech/streampay/issues/312",
+   "at": "2026-10-19T06:16:36Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "Nyanns",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:contract",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/47e587e759c3a7b143048842cba1ef2823f0b248",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "Accumulation: [Perf] Scan bf16 cumsum along H or W in place instead of permuting (#59478)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/47e587e759c3a7b143048842cba1ef2823f0b248",
+   "at": "2026-10-19T06:16:28Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/reduction/accumulation/accumulation_common.cpp",
+     "ttnn/cpp/ttnn/operations/reduction/accumulation/accumulation_common.hpp",
+     "ttnn/cpp/ttnn/operations/reduction/accumulation/device/accumulation_device_operation.cpp",
+     "ttnn/cpp/ttnn/operations/reduction/accumulation/device/accumulation_device_operation.hpp",
+     "ttnn/cpp/ttnn/operations/reduction/accumulation/device/accumulation_program_factory.cpp",
+     "ttnn/cpp/ttnn/operations/reduction/accumulation/device/kernels/compute/accumulation_tile_axis_compute.cpp"
+    ],
+    "added": [
+     "ttnn/cpp/ttnn/operations/reduction/accumulation/device/kernels/compute/accumulation_tile_axis_compute.cpp"
+    ],
+    "author": "VirdhatchaniKN"
+   }
+  },
+  {
+   "id": "https://github.com/ktsu-dev/CounterStrikeProgression/issues/39",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ktsu-dev/CounterStrikeProgression: Bot kills grow a life-streak bounty at full value, so a streak built on bots pays its collector 20x a normal kill and bypasses BotXpMultiplier",
+   "url": "https://github.com/ktsu-dev/CounterStrikeProgression/issues/39",
+   "at": "2026-10-19T06:16:22Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "matt-edmondson",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/jejellyroll-fr/fpdb-3/issues/447",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "jejellyroll-fr/fpdb-3: [Feature] Bounty / PKO tournaments: per-seat bounties, bounty-adjusted EV and stats",
+   "url": "https://github.com/jejellyroll-fr/fpdb-3/issues/447",
+   "at": "2026-10-19T05:48:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "jejellyroll-fr",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/ariahendrawan-sudo/project-a/issues/13",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ariahendrawan-sudo/project-a: Bounty Scout \u2014 2026-10-19",
+   "url": "https://github.com/ariahendrawan-sudo/project-a/issues/13",
+   "at": "2026-10-19T05:22:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-scout"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/302",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: RpcManager fails to record network errors (breaking failover & 3 unit tests) + streampay-state rejects Paused streams and JSON-RPC error objects",
+   "url": "https://github.com/Neziahtech/streampay/issues/302",
+   "at": "2026-10-19T05:09:04Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "jeimner4652-lang",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:infra",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/33",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "bujiproject-art/agentmidasopendevteam: Application: bounty item 40 \u2014 Icon & Illustration Pack ($150)",
+   "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/33",
+   "at": "2026-10-19T05:06:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 150,
+    "author": "yoojix324",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/32",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "bujiproject-art/agentmidasopendevteam: Application: bounty item 29 \u2014 Onboarding Checklist ($100)",
+   "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/32",
+   "at": "2026-10-19T05:06:53Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 100,
+    "author": "yoojix324",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/31",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "bujiproject-art/agentmidasopendevteam: Application: bounty item 27 \u2014 Employee Directory ($150)",
+   "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/31",
+   "at": "2026-10-19T05:06:52Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 150,
+    "author": "yoojix324",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/30",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "bujiproject-art/agentmidasopendevteam: Application: bounty item 11 \u2014 Content Calendar ($100)",
+   "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/30",
+   "at": "2026-10-19T05:06:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 100,
+    "author": "yoojix324",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/29",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "bujiproject-art/agentmidasopendevteam: Application: bounty item 6 \u2014 Meeting Scheduler ($100)",
+   "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/29",
+   "at": "2026-10-19T05:06:24Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 100,
+    "author": "yoojix324",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61311",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61311 [LLK][WH+BH] xielu: _sfpu_neg_exp_f32_ clamps z instead of val, defeating the new_exp >= 1 guard for x <= -96.5 and returning -4.0 at -inf",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61311",
+   "at": "2026-10-19T05:05:12Z",
+   "extra": {
+    "author": "JohnNuwan",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61309",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61309 [LLK][WH+BH] Approximate-mode GELU (calculate_gelu_appx) returns NaN at -inf due to (-inf) + (+inf) cancellation",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61309",
+   "at": "2026-10-19T05:05:08Z",
+   "extra": {
+    "author": "JohnNuwan",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61307",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61307 [LLK][WH+BH] fp32 tanh_derivative (calculate_tanh_derivative_sech2 / ttnn.tanh_bw) returns 0.0 for NaN inputs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61307",
+   "at": "2026-10-19T05:05:03Z",
+   "extra": {
+    "author": "JohnNuwan",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/300",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON key spoofing in cbor.rs, and COSE/DER parsing bugs",
+   "url": "https://github.com/Neziahtech/streampay/issues/300",
+   "at": "2026-10-19T05:03:06Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "jeimner4652-lang",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:contract",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/138",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-19: 0 new, 1 resumed, 5 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/138",
+   "at": "2026-10-19T04:43:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/LiamVisionary/bee-scouts/issues/20",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "LiamVisionary/bee-scouts: Add a 'Hall bounties' filter to the SuperAgent API Hall page",
+   "url": "https://github.com/LiamVisionary/bee-scouts/issues/20",
+   "at": "2026-10-19T04:40:10Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LiamVisionary",
+    "labels": [
+     "bee-proposal",
+     "bee-547"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "patrickkellyyoung-ai/swarm-agora-mcp: [BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
+   "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
+   "at": "2026-10-19T04:11:43Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "patrickkellyyoung-ai",
+    "labels": [
+     "help wanted",
+     "good first issue",
+     "bounty",
+     "bot-task"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "patrickkellyyoung-ai/swarm-agora-mcp: [BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
+   "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
+   "at": "2026-10-19T04:11:40Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "patrickkellyyoung-ai",
+    "labels": [
+     "help wanted",
+     "good first issue",
+     "bounty",
+     "bot-task"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61305",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61305 [tt-train] The distributed GPT-2 and pipeline-parallel initialisers give every device a different embedding table",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61305",
+   "at": "2026-10-19T03:56:40Z",
+   "extra": {
+    "author": "awliu-TT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1024",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "FuRongJun-1999/dsh-bounty: [intake] \u8d21\u732e\u7533\u62a5\uff08\u9010\u4ef6\uff09\uff1alingshu \u96f6\u5f15\u7528\u53c2\u6570\u4e94\u5904\u5220\u7b7e\u540d\u6536\u53e3\uff08dsh-bounty #112/#114/#115/#116/#117\uff09\u2014\u2014 PR #511 \u5df2\u5408\u5e76",
+   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1024",
+   "at": "2026-10-19T03:55:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "myYangyunfan",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/295",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::transfer, enabling prior spender to seize or burn new holder's NFT",
+   "url": "https://github.com/Neziahtech/streampay/issues/295",
+   "at": "2026-10-19T03:35:48Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:contract",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/294",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: Signed i128 underflow in cancel_amounts_at and unguarded past timestamp in submit_oracle_time over-refunds creator on cancellation",
+   "url": "https://github.com/Neziahtech/streampay/issues/294",
+   "at": "2026-10-19T03:34:14Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:contract",
+     "possible-duplicate"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "patrickkellyyoung-ai/swarm-agora-mcp: [BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Projections",
+   "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
+   "at": "2026-10-19T02:57:25Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "patrickkellyyoung-ai",
+    "labels": [
+     "help wanted",
+     "good first issue",
+     "bounty",
+     "bot-task"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/757",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "limitlessprojects/Go-Hybrid: [wildcard] Kill libhyrt.a, cgo, and the 3-tier FFI bridge: AOT-transpile Rust boundary crates via wasm32 to pure bounds-checked Go (wasm2go linear-memory arenas per OwnHandle)",
+   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/757",
+   "at": "2026-10-19T02:10:37Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "jeimner4652-lang",
+    "labels": [
+     "\ud83d\udc8e Bounty",
+     "wildcard"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/292",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: relayer routines ignore circuit-breaker pause guards and drop settlement telemetry",
+   "url": "https://github.com/Neziahtech/streampay/issues/292",
+   "at": "2026-10-19T02:09:29Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "jeimner4652-lang",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:contract"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/Neziahtech/streampay/issues/291",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neziahtech/streampay: [Security]: create_streams_batch and create_single_batch_entry lack PolicyDataKey validation and misclassify funding debits",
+   "url": "https://github.com/Neziahtech/streampay/issues/291",
+   "at": "2026-10-19T02:08:37Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "jeimner4652-lang",
+    "labels": [
+     "security",
+     "needs-triage",
+     "bounty",
+     "severity:high",
+     "scope:contract"
+    ]
+   }
+  },
   {
    "id": "https://github.com/rixbrnn/starfield-completionist/issues/18",
    "source": "github_search",
@@ -163,7 +831,7 @@
    "url": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
    "at": "2026-10-18T18:41:16Z",
    "extra": {
-    "comments": 1,
+    "comments": 4,
     "amount_usd": null,
     "author": "Baskarayelu",
     "labels": [
@@ -183,7 +851,7 @@
    "url": "https://github.com/xaviercallens/HiveMind/issues/4",
    "at": "2026-10-18T17:21:50Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": null,
     "author": "xaviercallens",
     "labels": [
@@ -562,7 +1230,7 @@
    "url": "https://github.com/ivcained/fiddy/issues/1",
    "at": "2026-10-18T13:00:41Z",
    "extra": {
-    "comments": 5,
+    "comments": 6,
     "amount_usd": 2048,
     "author": "ivcained",
     "labels": [
@@ -891,11 +1559,12 @@
    "url": "https://github.com/MicahHeneveld/bros-analysis/issues/2",
    "at": "2026-10-18T01:06:46Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "MicahHeneveld",
     "labels": [
-     "bounty"
+     "bounty",
+     "bounty:claimed"
     ]
    }
   },
@@ -916,20 +1585,6 @@
      "security",
      "moderate"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/3976",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: AEO follow-up: serve docs/FAQ.md at /faq with FAQPage JSON-LD (and fix its stale bounty lines)",
-   "url": "https://github.com/Uuriko/project-room/issues/3976",
-   "at": "2026-10-18T00:24:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": []
    }
   }
  ],
