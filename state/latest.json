@@ -1,21 +1,2761 @@
 {
- "generated_at": "2026-10-19T14:50:18Z",
+ "generated_at": "2026-10-19T20:20:03Z",
  "events": [
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61422",
+   "id": "https://github.com/ZecHub/zec-bounties/issues/451",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ZecHub/zec-bounties: Let assignees see private team bounties they are assigned to",
+   "url": "https://github.com/ZecHub/zec-bounties/issues/451",
+   "at": "2026-10-19T20:02:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "Anuoluwapo25",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61471",
    "source": "tenstorrent",
    "kind": "tt_issue",
-   "title": "tt-metal#61422 [MiMo-V2.6-Flash-MOPD] Prefill: chunked prefill and start_pos > 0",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61422",
-   "at": "2026-10-19T14:45:56Z",
+   "title": "tt-metal#61471 Decouple fast dispatch-hang detection (TT_METAL_OPERATION_TIMEOUT_SECONDS) from auto-triage in setup-job",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61471",
+   "at": "2026-10-19T19:42:53Z",
    "extra": {
-    "author": "dwadhwaniTT",
+    "author": "tdowdallTT",
     "labels": [
-     "models",
-     "blackhole",
-     "LLMs on Metal",
-     "Galaxy"
+     "feature"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22620",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(entity-pages): normalize mixed naive, aware, and ISO conversation timestamps ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22620",
+   "at": "2026-10-19T18:39:20Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22620",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22620 [Bounty proposal] fix(entity-pages): normalize mixed naive, aware, and ISO conversation timestamps ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22620",
+   "at": "2026-10-19T18:39:20Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22614",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(calendar): normalize naive start timestamps and guard malformed start dicts in multi-window sort ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22614",
+   "at": "2026-10-19T18:31:29Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22614",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22614 [Bounty proposal] fix(calendar): normalize naive start timestamps and guard malformed start dicts in multi-window sort ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22614",
+   "at": "2026-10-19T18:31:29Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61459",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61459 Compute API for moe_compute's pack-thread activations (clamped SiLU GLU, SwiGLU, MUL)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61459",
+   "at": "2026-10-19T18:27:41Z",
+   "extra": {
+    "author": "sjettTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22611",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(memory): normalize mixed naive and aware evidence timestamps when ordering capture devices ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22611",
+   "at": "2026-10-19T18:24:40Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22611",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22611 [Bounty proposal] fix(memory): normalize mixed naive and aware evidence timestamps when ordering capture devices ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22611",
+   "at": "2026-10-19T18:24:40Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61457",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61457 Docs: op pages show wrong or empty signatures although the page body lists the parameters",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61457",
+   "at": "2026-10-19T18:19:40Z",
+   "extra": {
+    "author": "fplavecTT",
+    "labels": [
+     "docs",
+     "documentation",
+     "area: docs"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SlopDotCash/slopdotcash/issues/910",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SlopDotCash/slopdotcash: Implement private security bounty programs (SEC-01 to SEC-18)",
+   "url": "https://github.com/SlopDotCash/slopdotcash/issues/910",
+   "at": "2026-10-19T17:55:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lalalune",
+    "labels": [
+     "enhancement"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22598",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Fix TypeError, KeyError, and ValueError on mixed timestamps in proactivity producers ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22598",
+   "at": "2026-10-19T17:46:50Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22598",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22598 [Bounty proposal] Fix TypeError, KeyError, and ValueError on mixed timestamps in proactivity producers ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22598",
+   "at": "2026-10-19T17:46:50Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22593",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Fix TypeError and dropped ISO timestamps in screen frame notes evidence ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22593",
+   "at": "2026-10-19T17:37:49Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22593",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22593 [Bounty proposal] Fix TypeError and dropped ISO timestamps in screen frame notes evidence ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22593",
+   "at": "2026-10-19T17:37:49Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22582",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Fix TypeError and skipped ISO bounds when folding and replaying memory ledger commits ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22582",
+   "at": "2026-10-19T17:30:43Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22582",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22582 [Bounty proposal] Fix TypeError and skipped ISO bounds when folding and replaying memory ledger commits ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22582",
+   "at": "2026-10-19T17:30:43Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61448",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61448 reshape test fails with watcher an asserts on",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61448",
+   "at": "2026-10-19T17:26:06Z",
+   "extra": {
+    "author": "bbradelTT",
+    "labels": [
+     "op_cat: mm",
+     "op_cat: TM"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [opt-out check] RocketReach: find a no-account opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
+   "at": "2026-10-19T17:09:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [opt-out check] PrivateEye: which brokers are behind its search results?",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
+   "at": "2026-10-19T17:09:26Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [opt-out check] American Express: marketing opt-out page says \"currently not available\"",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
+   "at": "2026-10-19T17:09:22Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "good first issue",
+     "bounty",
+     "bounty: small",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [opt-out check] FastPeopleSearch: test the removal flow end to end",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
+   "at": "2026-10-19T17:09:18Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/415",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [opt-out check] TruePeopleSearch: test the removal flow end to end",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/415",
+   "at": "2026-10-19T17:09:14Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/414",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Xactus, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/414",
+   "at": "2026-10-19T17:09:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/413",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Vintel AI: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/413",
+   "at": "2026-10-19T17:09:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/412",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] United One Resources, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/412",
+   "at": "2026-10-19T17:08:59Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/411",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Statara Solutuions LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/411",
+   "at": "2026-10-19T17:08:55Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/410",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] SalesTech, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/410",
+   "at": "2026-10-19T17:08:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/409",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] SageStream LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/409",
+   "at": "2026-10-19T17:08:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/408",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Safety Holdings Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/408",
+   "at": "2026-10-19T17:08:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/407",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/407",
+   "at": "2026-10-19T17:08:37Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/406",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] RP On-Site LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/406",
+   "at": "2026-10-19T17:08:33Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/405",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Roq.ad GmbH: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/405",
+   "at": "2026-10-19T17:08:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/404",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Riv Data Corp: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/404",
+   "at": "2026-10-19T17:08:12Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/403",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Quality Planning Corporation: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/403",
+   "at": "2026-10-19T17:08:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/402",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Partners Credit and Verification Solutions: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/402",
+   "at": "2026-10-19T17:08:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/401",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Nielsen Marketing Cloud: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/401",
+   "at": "2026-10-19T17:07:59Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/400",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/400",
+   "at": "2026-10-19T17:07:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/399",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] MCH Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/399",
+   "at": "2026-10-19T17:07:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/398",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] LexisNexis: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/398",
+   "at": "2026-10-19T17:07:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/397",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] lempire: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/397",
+   "at": "2026-10-19T17:07:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/396",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Kontext: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/396",
+   "at": "2026-10-19T17:07:37Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/395",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] ISO Services, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/395",
+   "at": "2026-10-19T17:07:33Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/394",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] ISO Claims Services, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/394",
+   "at": "2026-10-19T17:07:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/393",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Insurance Services Office, Inc. (\u201cISO\u201d): find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/393",
+   "at": "2026-10-19T17:07:24Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/392",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] HomeData: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/392",
+   "at": "2026-10-19T17:07:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/391",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] HireRight, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/391",
+   "at": "2026-10-19T17:07:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/390",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] General Information Solutions LLC (\"GIS\"): find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/390",
+   "at": "2026-10-19T17:07:10Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/389",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] G2 Bankruptcy Risk Solutions, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/389",
+   "at": "2026-10-19T17:07:06Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/388",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Frontline eSolutions, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/388",
+   "at": "2026-10-19T17:07:02Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/387",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] First Direct, Inc. and its subsidiaries/affiliates: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/387",
+   "at": "2026-10-19T17:06:57Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/386",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] First American Data Tree LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/386",
+   "at": "2026-10-19T17:06:53Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/385",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Factual Data, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/385",
+   "at": "2026-10-19T17:06:48Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/384",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Factori Technologies LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/384",
+   "at": "2026-10-19T17:06:44Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/383",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Experian Fraud Prevention Solutions, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/383",
+   "at": "2026-10-19T17:06:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/382",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Experian Employer Services, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/382",
+   "at": "2026-10-19T17:06:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/381",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Experian Data Corp: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/381",
+   "at": "2026-10-19T17:06:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/380",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Equifax Data Services LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/380",
+   "at": "2026-10-19T17:06:26Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/379",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Equifax Apprise Solutions LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/379",
+   "at": "2026-10-19T17:06:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/378",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Employment Tax Servicing, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/378",
+   "at": "2026-10-19T17:06:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/377",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] eFunds: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/377",
+   "at": "2026-10-19T17:06:13Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/376",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Early Warning Services, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/376",
+   "at": "2026-10-19T17:06:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/375",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Deluxe Corporation: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/375",
+   "at": "2026-10-19T17:06:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/374",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Deimos Signals LTD. PTE: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/374",
+   "at": "2026-10-19T17:05:59Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/373",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Data Facts, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/373",
+   "at": "2026-10-19T17:05:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/372",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Data Driven Safety, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/372",
+   "at": "2026-10-19T17:05:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/371",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Dan Barnett: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/371",
+   "at": "2026-10-19T17:05:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/370",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] CoreLogic Portfolio Solutions, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/370",
+   "at": "2026-10-19T17:05:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/369",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] CoreLogic Credco of Puerto Rico: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/369",
+   "at": "2026-10-19T17:05:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/368",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] CoreLogic Credco, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/368",
+   "at": "2026-10-19T17:05:32Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/367",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Collin Hogue Spears: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/367",
+   "at": "2026-10-19T17:05:28Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/366",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Cleara, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/366",
+   "at": "2026-10-19T17:05:23Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/365",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] CIC Mortgage Credit, Inc: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/365",
+   "at": "2026-10-19T17:05:19Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/364",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] BrightCheck Inc: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/364",
+   "at": "2026-10-19T17:05:15Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/363",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Bridge: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/363",
+   "at": "2026-10-19T17:05:11Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/362",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] BLACK KNIGHT DATA & ANALYTICS, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/362",
+   "at": "2026-10-19T17:05:06Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/361",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Birchwood Credit Services Inc: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/361",
+   "at": "2026-10-19T17:05:02Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/360",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] BeenVerified, LLC, The Lifetime Value Co. LLC and subsidiaries and affiliates: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/360",
+   "at": "2026-10-19T17:04:57Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/359",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Backgroundchecks.com LLC (\"BGC\"): find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/359",
+   "at": "2026-10-19T17:04:53Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/358",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Automation Research, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/358",
+   "at": "2026-10-19T17:04:49Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/357",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] AmRent, Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/357",
+   "at": "2026-10-19T17:04:44Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/356",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Always On Data LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/356",
+   "at": "2026-10-19T17:04:40Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/355",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] AIS Recovery Solutions, LLC: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/355",
+   "at": "2026-10-19T17:04:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/354",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] AIS Infosource LP: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/354",
+   "at": "2026-10-19T17:04:31Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/353",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] Accuity Asset Verification Services Inc.: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/353",
+   "at": "2026-10-19T17:04:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/352",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [find opt-out] 4LegalLeads: find the official opt-out route",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/352",
+   "at": "2026-10-19T17:04:23Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/351",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [new research] FTC case: AppFolio",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/351",
+   "at": "2026-10-19T16:55:26Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: large",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/350",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [new research] FTC case: RealPage",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/350",
+   "at": "2026-10-19T16:55:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: large",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/349",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [new research] FTC case: Cerebral",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/349",
+   "at": "2026-10-19T16:55:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: large",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/348",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [new research] FTC case: Premom (Easy Healthcare)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/348",
+   "at": "2026-10-19T16:55:13Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: large",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/347",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Acxiom LLC supplies Meta Platforms (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/347",
+   "at": "2026-10-19T16:55:08Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/346",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Datalogix supplies Meta Platforms (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/346",
+   "at": "2026-10-19T16:55:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/345",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Recrue Media buys Near Intelligence (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/345",
+   "at": "2026-10-19T16:55:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/344",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Smaato supplies Near Intelligence (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/344",
+   "at": "2026-10-19T16:54:55Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/343",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] OpenX Technologies, Inc. supplies Near Intelligence (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/343",
+   "at": "2026-10-19T16:54:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/342",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Near Intelligence supplies AELIUS Exploitation Technologies (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/342",
+   "at": "2026-10-19T16:54:47Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/341",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Foursquare Labs, Inc. supplies Xandr (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/341",
+   "at": "2026-10-19T16:54:42Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/340",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Equifax Inc. supplies Xandr (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/340",
+   "at": "2026-10-19T16:54:38Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/339",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Experian plc supplies Xandr (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/339",
+   "at": "2026-10-19T16:54:33Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/338",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Acxiom LLC supplies Xandr (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/338",
+   "at": "2026-10-19T16:54:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/337",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Oracle Advertising supplies Xandr (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/337",
+   "at": "2026-10-19T16:54:25Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/336",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] eContext.ai LLC supplies Gravy Analytics (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/336",
+   "at": "2026-10-19T16:54:20Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/335",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Predicio supplies Gravy Analytics (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/335",
+   "at": "2026-10-19T16:54:16Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/334",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Salaat First supplies Predicio (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/334",
+   "at": "2026-10-19T16:54:12Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/333",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Zumigo supplies Microbilt (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/333",
+   "at": "2026-10-19T16:54:07Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/332",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Venntel, Inc. supplies Fog Data science LLC (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/332",
+   "at": "2026-10-19T16:54:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/331",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Hyundai supplies Verisk Analytics, Inc. (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/331",
+   "at": "2026-10-19T16:53:58Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/330",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Honda supplies Verisk Analytics, Inc. (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/330",
+   "at": "2026-10-19T16:53:54Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/329",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] X-Mode Social supplies Systems & Technology Research (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/329",
+   "at": "2026-10-19T16:53:50Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/328",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] X-Mode Social supplies Sierra Nevada Corporation (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/328",
+   "at": "2026-10-19T16:53:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/327",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Muslim Pro supplies X-Mode Social (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/327",
+   "at": "2026-10-19T16:53:41Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/326",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Life360 supplies SafeGraph (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/326",
+   "at": "2026-10-19T16:53:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/325",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Life360 supplies Arity (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/325",
+   "at": "2026-10-19T16:53:32Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/324",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Life360 supplies Cuebiq (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/324",
+   "at": "2026-10-19T16:53:27Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/323",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Life360 supplies X-Mode Social (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/323",
+   "at": "2026-10-19T16:53:22Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/322",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] Equifax Inc. supplies Thomson Reuters Corporation (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/322",
+   "at": "2026-10-19T16:53:17Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/321",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] National Consumer Telecom & Utilities Exchange supplies Equifax Inc. (tier C)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/321",
+   "at": "2026-10-19T16:53:13Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/320",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "lizTheDeveloper/privacy-the-game: [stronger source] QuickLocate owns USATrace (tier B)",
+   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/320",
+   "at": "2026-10-19T16:53:09Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "lizTheDeveloper",
+    "labels": [
+     "bounty",
+     "bounty: medium",
+     "data-brokers"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61443",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61443 pool grid stick size hardening",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61443",
+   "at": "2026-10-19T16:45:13Z",
+   "extra": {
+    "author": "bbradelTT",
+    "labels": [
+     "op_cat: mm",
+     "op_cat: pool2D"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/8cfcaf754d3ac73834b12cb62b88a35ccecd3a2a",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "Remove racy experimental compute ckernel::Semaphore (Quasar) (#60946)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/8cfcaf754d3ac73834b12cb62b88a35ccecd3a2a",
+   "at": "2026-10-19T16:29:17Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/inc/api/compute/experimental/semaphore.h"
+    ],
+    "added": [],
+    "author": "rtawfik01"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61435",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61435 [LLK][BH][TILIZE] Unpack to DEST waits for the unpacker after every tile",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61435",
+   "at": "2026-10-19T16:04:00Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "tilize_untilize",
+     "LLK",
+     "blackhole",
+     "op_cat: TM",
+     "perf",
+     "llk:blackhole",
+     "llk:performance"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61434",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61434 [LLK][BH][REDUCE] Block row max is bound by its pool chain",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61434",
+   "at": "2026-10-19T16:03:56Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "LLK",
+     "blackhole",
+     "op_cat: reduces",
+     "perf",
+     "llk:blackhole",
+     "llk:performance"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61433",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61433 [LLK][BH][REDUCE] Scalar reduce transposes every tile, also inside a block",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61433",
+   "at": "2026-10-19T16:03:52Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": [
+     "LLK",
+     "blackhole",
+     "op_cat: reduces",
+     "perf",
+     "llk:blackhole",
+     "llk:performance"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61432",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61432 [tt-train] grpo_remote_rollout/test_attention_update.py::test_readback device timeout on P100",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61432",
+   "at": "2026-10-19T16:00:00Z",
+   "extra": {
+    "author": "kevinwuTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22546",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden omi-cli OAuth token exchange/refresh and local webhook receiver against transport, JSON, and socket errors ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22546",
+   "at": "2026-10-19T15:56:53Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22546",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22546 [Bounty proposal] Harden omi-cli OAuth token exchange/refresh and local webhook receiver against transport, JSON, and socket errors ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22546",
+   "at": "2026-10-19T15:56:53Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61431",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61431 GLM prefill: SC1/SC4 scaling",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61431",
+   "at": "2026-10-19T15:54:20Z",
+   "extra": {
+    "author": "pavlepopovic",
+    "labels": [
+     "shield_prefill"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22542",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden announcements router with constant-time admin key verification, document/query validation, and store error boundaries ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22542",
+   "at": "2026-10-19T15:45:04Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22542",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22542 [Bounty proposal] Harden announcements router with constant-time admin key verification, document/query validation, and store error boundaries ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22542",
+   "at": "2026-10-19T15:45:04Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22540",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/live_owner_continuity.py against invalid IDs, non-finite continuity values, and malformed snapshots ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22540",
+   "at": "2026-10-19T15:42:12Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22540",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22540 [Bounty proposal] Harden backend/database/live_owner_continuity.py against invalid IDs, non-finite continuity values, and malformed snapshots ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22540",
+   "at": "2026-10-19T15:42:12Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22537",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Validate chat_sessions document IDs, guard non-string LLM title responses, and add store/LLM error boundaries ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22537",
+   "at": "2026-10-19T15:40:59Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22537",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22537 [Bounty proposal] Validate chat_sessions document IDs, guard non-string LLM title responses, and add store/LLM error boundaries ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22537",
+   "at": "2026-10-19T15:40:59Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61430",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61430 LLK test_custom_mm_flushes_denormal_srcb_after_keep_flag: tolerance depends on host CPU (oneDNN bf16 denormal handling in the golden)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61430",
+   "at": "2026-10-19T15:39:32Z",
+   "extra": {
+    "author": "nkapreTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/RunOnFlux/ssp-wallet/issues/742",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "RunOnFlux/ssp-wallet: How to submit a bug bounty report?",
+   "url": "https://github.com/RunOnFlux/ssp-wallet/issues/742",
+   "at": "2026-10-19T15:38:05Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "allsafeareas",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/e274d3f9e45255178a2f867c3f44a07a9f9a5a41",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Bug fix] Quasar compute semaphores don't wait on unpacker 2 or packer 1 (#60616)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/e274d3f9e45255178a2f867c3f44a07a9f9a5a41",
+   "at": "2026-10-19T15:37:26Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/inc/api/compute/experimental/semaphore_compute_impl.h"
+    ],
+    "added": [],
+    "author": "pkennedyTT"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22534",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/review_exact_undo.py against non-dict intermediate paths, None generations, and malformed fences ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22534",
+   "at": "2026-10-19T15:35:46Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22534",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22534 [Bounty proposal] Harden backend/database/review_exact_undo.py against non-dict intermediate paths, None generations, and malformed fences ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22534",
+   "at": "2026-10-19T15:35:46Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22531",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Validate focus_sessions path IDs, reject whitespace-only payloads, return 404 on missing delete, and add store error boundaries ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22531",
+   "at": "2026-10-19T15:34:26Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22531",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22531 [Bounty proposal] Validate focus_sessions path IDs, reject whitespace-only payloads, return 404 on missing delete, and add store error boundaries ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22531",
+   "at": "2026-10-19T15:34:26Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61428",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61428 Investigate splitting tensor prefetcher on blackhole to use x280 as control plane",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61428",
+   "at": "2026-10-19T15:32:42Z",
+   "extra": {
+    "author": "jbaumanTT",
+    "labels": [
+     "blackhole",
+     "runtime"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22529",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/dream_dirty.py against omitted default arguments, blank IDs, and unsafe refs ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22529",
+   "at": "2026-10-19T15:32:30Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22529",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22529 [Bounty proposal] Harden backend/database/dream_dirty.py against omitted default arguments, blank IDs, and unsafe refs ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22529",
+   "at": "2026-10-19T15:32:30Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22526",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden desktop_prompts router against malformed Firestore prompt documents and store errors ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22526",
+   "at": "2026-10-19T15:30:10Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22526",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22526 [Bounty proposal] Harden desktop_prompts router against malformed Firestore prompt documents and store errors ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22526",
+   "at": "2026-10-19T15:30:10Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22524",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/dream_history.py against invalid UIDs, unsafe cursor keys, boolean limits, and malformed aggregations ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22524",
+   "at": "2026-10-19T15:30:03Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22524",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22524 [Bounty proposal] Harden backend/database/dream_history.py against invalid UIDs, unsafe cursor keys, boolean limits, and malformed aggregations ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22524",
+   "at": "2026-10-19T15:30:03Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22522",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/dream_canary.py against malformed snapshots, invalid UIDs, and non-numeric failure counts ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22522",
+   "at": "2026-10-19T15:26:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22522",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22522 [Bounty proposal] Harden backend/database/dream_canary.py against malformed snapshots, invalid UIDs, and non-numeric failure counts ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22522",
+   "at": "2026-10-19T15:26:35Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22519",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/import_quotas.py against unsafe Redis hash tags, invalid amounts, and malformed env limits ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22519",
+   "at": "2026-10-19T15:23:01Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22519",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22519 [Bounty proposal] Harden backend/database/import_quotas.py against unsafe Redis hash tags, invalid amounts, and malformed env limits ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22519",
+   "at": "2026-10-19T15:23:01Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61425",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61425 L2 nightly test failure in test_moe_mm.py",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61425",
+   "at": "2026-10-19T15:22:45Z",
+   "extra": {
+    "author": "bbradelTT",
+    "labels": [
+     "op_cat: mm"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22515",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/locked_content.py against boolean limits, empty updates, invalid UIDs, and stream errors ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22515",
+   "at": "2026-10-19T15:20:22Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22515",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22515 [Bounty proposal] Harden backend/database/locked_content.py against boolean limits, empty updates, invalid UIDs, and stream errors ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22515",
+   "at": "2026-10-19T15:20:22Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/e5cf5c83c2f0ba47eb33df753e54df38dba1a624",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "Assert idst < 8 in mul_reduce_scalar move_dest_to_src (#60951)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/e5cf5c83c2f0ba47eb33df753e54df38dba1a624",
+   "at": "2026-10-19T15:17:09Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/inc/api/compute/experimental/mul_reduce_scalar.h",
+     "tt_metal/hw/inc/api/compute/experimental/sum_reduce_scalar.h",
+     "tt_metal/tt-llk/tt_llk_blackhole/llk_lib/experimental/llk_math_mul_reduce_scalar.h",
+     "tt_metal/tt-llk/tt_llk_wormhole_b0/llk_lib/experimental/llk_math_mul_reduce_scalar.h"
+    ],
+    "added": [],
+    "author": "rtawfik01"
+   }
+  },
+  {
+   "id": "https://github.com/SoroWill/sorowill-contracts/issues/662",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SoroWill/sorowill-contracts: Keeper bounty calculation doesn't validate bounty recipient address is still valid at distribution time",
+   "url": "https://github.com/SoroWill/sorowill-contracts/issues/662",
+   "at": "2026-10-19T15:09:00Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "icentedward76-sketch",
+    "labels": [
+     "High",
+     "security"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SoroWill/sorowill-contracts/issues/653",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SoroWill/sorowill-contracts: Release inheritance doesn't validate that keeper bounty doesn't exceed will balance after distribution",
+   "url": "https://github.com/SoroWill/sorowill-contracts/issues/653",
+   "at": "2026-10-19T15:08:27Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": null,
+    "author": "icentedward76-sketch",
+    "labels": [
+     "bug",
+     "High",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/53787",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#53787 [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branch",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/53787",
+   "at": "2026-10-19T15:08:20Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "kanapitsas",
+    "assignees": [
+     "kanapitsas"
+    ],
+    "created": "2026-08-20T12:34:59Z"
+   }
+  },
+  {
+   "id": "https://github.com/SoroWill/sorowill-contracts/issues/650",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SoroWill/sorowill-contracts: Keeper bounty denominated in basis points doesn't account for total-locked growth",
+   "url": "https://github.com/SoroWill/sorowill-contracts/issues/650",
+   "at": "2026-10-19T15:08:16Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "icentedward76-sketch",
+    "labels": [
+     "High",
+     "Stellar Wave",
+     "refactor"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SoroWill/sorowill-contracts/issues/639",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SoroWill/sorowill-contracts: Will cancellation doesn't refund keeper bounty if will was pre-released for distribution",
+   "url": "https://github.com/SoroWill/sorowill-contracts/issues/639",
+   "at": "2026-10-19T15:07:36Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "icentedward76-sketch",
+    "labels": [
+     "bug",
+     "High",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/SoroWill/sorowill-contracts/issues/629",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "SoroWill/sorowill-contracts: Keeper bounty calculation doesn't account for token decimals, overpaying or underpaying",
+   "url": "https://github.com/SoroWill/sorowill-contracts/issues/629",
+   "at": "2026-10-19T15:05:36Z",
+   "extra": {
+    "comments": 3,
+    "amount_usd": null,
+    "author": "icentedward76-sketch",
+    "labels": [
+     "bug",
+     "High",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22511",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/owner_profile_updates.py against invalid UIDs, non-finite embeddings, and malformed snapshots ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22511",
+   "at": "2026-10-19T15:03:43Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22511",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22511 [Bounty proposal] Harden backend/database/owner_profile_updates.py against invalid UIDs, non-finite embeddings, and malformed snapshots ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22511",
+   "at": "2026-10-19T15:03:43Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22509",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] Harden backend/database/speaker_learning.py against malformed snapshots, invalid IDs, and non-finite seconds ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22509",
+   "at": "2026-10-19T15:00:23Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22509",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22509 [Bounty proposal] Harden backend/database/speaker_learning.py against malformed snapshots, invalid IDs, and non-finite seconds ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22509",
+   "at": "2026-10-19T15:00:23Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1070",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "Neurowealth/NeuroWealth-Smartcontract: Bug: Bug bounty reporting channel still unavailable after #897",
+   "url": "https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1070",
+   "at": "2026-10-19T14:58:16Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "mickeyjoes",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22506",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, add store failure boundaries, and add client injection to import_jobs ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22506",
+   "at": "2026-10-19T14:53:51Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22506",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22506 [Bounty proposal] fix(database): sanitize identifiers, add store failure boundaries, and add client injection to import_jobs ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22506",
+   "at": "2026-10-19T14:53:51Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
    }
   },
   {
@@ -251,20 +2991,6 @@
    "extra": {
     "state": "open",
     "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1101",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "FuRongJun-1999/dsh-bounty: `bounty_board.py`\uff1a`_do_appraise` / `_do_withdraw` / `_do_settle` / `sweep` **\u56db\u4e2a\u5904\u7406\u5668\u90fd\u6536\u4e0b `cfg` \u5374\u4e00\u6b21\u4e0d\u8bfb**\uff08\u540c\u4e00\u6587\u4ef6\u91cc `_check_admission` \u662f\u771f\u5728\u8bfb\u7684\uff09",
-   "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1101",
-   "at": "2026-10-19T13:38:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "m3159584479",
-    "labels": []
    }
   },
   {
@@ -595,7 +3321,7 @@
    "url": "https://github.com/HubDApp/Dongle-Smartcontract/issues/950",
    "at": "2026-10-19T09:06:00Z",
    "extra": {
-    "comments": 6,
+    "comments": 5,
     "amount_usd": null,
     "author": "ReinaMaze",
     "labels": [
@@ -1117,7 +3843,7 @@
    "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
    "at": "2026-10-19T04:11:43Z",
    "extra": {
-    "comments": 3,
+    "comments": 4,
     "amount_usd": null,
     "author": "patrickkellyyoung-ai",
     "labels": [
@@ -1326,30 +4052,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61270",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61270 ring_joint_sdpa: Reject `max_k_splits` and `segmented_accumulation` values that the op cannot apply",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61270",
-   "at": "2026-10-18T19:43:00Z",
-   "extra": {
-    "author": "svuckovicTT",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61268",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61268 ttnn.where(BF16 condition, FP32 true tensor, FP32 false tensor) silently returns garbage values",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61268",
-   "at": "2026-10-18T19:41:16Z",
-   "extra": {
-    "author": "nkapreTT",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1461,20 +4163,6 @@
   },
   {
    "id": "https://github.com/BasedHardware/omi/issues/22181",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(action-items): sort and score aggregation crashes with TypeError / AttributeError on ISO string or naive timestamps ( proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22181",
-   "at": "2026-10-18T14:45:17Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Dragonire9",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22181",
    "source": "omi",
    "kind": "omi_proposal",
    "title": "omi#22181 [Bounty proposal] fix(action-items): sort and score aggregation crashes with TypeError / AttributeError on ISO string or naive timestamps ( proposed)",
@@ -1483,53 +4171,6 @@
    "extra": {
     "state": "open",
     "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/338",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "TheJollyLaMa/BigNuten_Vanilla: Feature: Make bounty payroll replay-safe and receipt-verified",
-   "url": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/338",
-   "at": "2026-10-18T14:44:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "TheJollyLaMa",
-    "labels": [
-     "enhancement",
-     "web3"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/342",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "TheJollyLaMa/BigNuten_Vanilla: Feature: Define explicit lifecycle for funded requests and bounty work",
-   "url": "https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/342",
-   "at": "2026-10-18T14:44:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "TheJollyLaMa",
-    "labels": [
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22174",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, harden etag matching, and add client injection to action items cache ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22174",
-   "at": "2026-10-18T14:12:27Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
    }
   },
   {
@@ -1546,20 +4187,6 @@
   },
   {
    "id": "https://github.com/BasedHardware/omi/issues/22168",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, enforce comment length bounds, and add client injection to csat ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22168",
-   "at": "2026-10-18T13:55:57Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22168",
    "source": "omi",
    "kind": "omi_proposal",
    "title": "omi#22168 [Bounty proposal] fix(database): sanitize identifiers, enforce comment length bounds, and add client injection to csat ($50 proposed)",
@@ -1572,20 +4199,6 @@
   },
   {
    "id": "https://github.com/BasedHardware/omi/issues/22162",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, add tolerant reads, and client injection to support audit ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22162",
-   "at": "2026-10-18T13:41:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22162",
    "source": "omi",
    "kind": "omi_proposal",
    "title": "omi#22162 [Bounty proposal] fix(database): sanitize identifiers, add tolerant reads, and client injection to support audit ($50 proposed)",
@@ -1594,95 +4207,6 @@
    "extra": {
     "state": "open",
     "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/z4imon/auto-equipment-return/issues/42",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "z4imon/auto-equipment-return: [360 CN Server] 'demount all bounty equipment' Needs to be changed to 'demount all bounty equipmen\"",
-   "url": "https://github.com/z4imon/auto-equipment-return/issues/42",
-   "at": "2026-10-18T13:40:29Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "becausemadoka",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/4128",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: Keeper blind spot: nonterminal bounties matching no DUE_WHERE branch are invisible to due, overdue, and next-due (NULL challenge_ends_ms repro)",
-   "url": "https://github.com/Uuriko/project-room/issues/4128",
-   "at": "2026-10-18T13:31:04Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/Uuriko/project-room/issues/4125",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Uuriko/project-room: verifyConservation never runs in production, and its per-bounty checks ignore payable flows \u2014 a chain-valid forged payout passes it",
-   "url": "https://github.com/Uuriko/project-room/issues/4125",
-   "at": "2026-10-18T13:30:51Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "Uuriko",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/ivcained/fiddy/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "ivcained/fiddy: Fiddy: Farcaster client + read node + 3-command tutorial ($2048 bounty)",
-   "url": "https://github.com/ivcained/fiddy/issues/1",
-   "at": "2026-10-18T13:00:41Z",
-   "extra": {
-    "comments": 6,
-    "amount_usd": 2048,
-    "author": "ivcained",
-    "labels": [
-     "ready-for-agent"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/730",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Rickyy1017/Stellar-Defi-Vault: Add a published vulnerability disclosure and bug bounty policy",
-   "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/730",
-   "at": "2026-10-18T12:48:04Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "Rickyy1017",
-    "labels": [
-     "enhancement",
-     "Stellar Wave"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22144",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize identifiers, add stream error boundaries, and client injection to tasks ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22144",
-   "at": "2026-10-18T12:28:03Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
    }
   },
   {
@@ -1732,23 +4256,6 @@
    }
   },
   {
-   "id": "https://github.com/mozzimorzam-sudo/project100-mcp/issues/7",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "mozzimorzam-sudo/project100-mcp: Add rate limiting to /api/v1/artifacts endpoint",
-   "url": "https://github.com/mozzimorzam-sudo/project100-mcp/issues/7",
-   "at": "2026-10-18T09:10:42Z",
-   "extra": {
-    "comments": 3,
-    "amount_usd": null,
-    "author": "mozzimorzam-sudo",
-    "labels": [
-     "good first issue",
-     "bounty"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/605",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -1762,42 +4269,6 @@
     "labels": [
      "\ud83d\udc8e Bounty",
      "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/ayaangazali/eyes/issues/117",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "ayaangazali/eyes: Sub-cent bounties are rounded silently, so 10.004 passes a $10 max",
-   "url": "https://github.com/ayaangazali/eyes/issues/117",
-   "at": "2026-10-18T08:06:53Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 10,
-    "author": "ayaangazali",
-    "labels": [
-     "bug",
-     "qa",
-     "severity: low"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/openai/codex/issues/54998",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "openai/codex: Safety check blocks authorized bug bounty work with Daybreak enabled",
-   "url": "https://github.com/openai/codex/issues/54998",
-   "at": "2026-10-18T06:31:35Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "mauriciomelo23",
-    "labels": [
-     "bug",
-     "CLI",
-     "safety-check"
     ]
    }
   },
@@ -1818,34 +4289,6 @@
    }
   },
   {
-   "id": "https://github.com/Guyue-arch/fizzfest-bounty/issues/1",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Guyue-arch/fizzfest-bounty: \ud83e\udd64 Say hi & claim your bounty spot (start here)",
-   "url": "https://github.com/Guyue-arch/fizzfest-bounty/issues/1",
-   "at": "2026-10-18T05:21:40Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Guyue-arch",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22091",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(database): sanitize uid and protect announcement streams against store failures ( proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22091",
-   "at": "2026-10-18T04:56:02Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "nikolas-sapa",
-    "labels": []
-   }
-  },
-  {
    "id": "https://github.com/BasedHardware/omi/issues/22091",
    "source": "omi",
    "kind": "omi_proposal",
@@ -1855,87 +4298,6 @@
    "extra": {
     "state": "open",
     "author": "nikolas-sapa"
-   }
-  },
-  {
-   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [6/6]",
-   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
-   "at": "2026-10-18T01:07:06Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "MicahHeneveld",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/5",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [5/6]",
-   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/5",
-   "at": "2026-10-18T01:07:01Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "MicahHeneveld",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/4",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [4/6]",
-   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/4",
-   "at": "2026-10-18T01:06:56Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "MicahHeneveld",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/3",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [3/6]",
-   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/3",
-   "at": "2026-10-18T01:06:51Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "MicahHeneveld",
-    "labels": [
-     "bounty"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/MicahHeneveld/bros-analysis/issues/2",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "MicahHeneveld/bros-analysis: Bounty: ultrank_11_20 \u2014 250 frames (label from scratch) [2/6]",
-   "url": "https://github.com/MicahHeneveld/bros-analysis/issues/2",
-   "at": "2026-10-18T01:06:46Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "MicahHeneveld",
-    "labels": [
-     "bounty",
-     "bounty:claimed"
-    ]
    }
   }
  ],
