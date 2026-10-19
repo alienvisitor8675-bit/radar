@@ -1,6 +1,412 @@
 {
- "generated_at": "2026-10-19T20:20:03Z",
+ "generated_at": "2026-10-19T23:50:20Z",
  "events": [
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61512",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61512 ttnn.experimental.kda: anchor-factored intra-chunk decay loses FP32 range for realistic per-channel decays (Kimi-Linear); also batch-1 only / no decode path",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61512",
+   "at": "2026-10-19T23:47:29Z",
+   "extra": {
+    "author": "nkapreTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/allurco/caribbean-adventure/issues/454",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "allurco/caribbean-adventure: Fight over: say when attacking a merchant puts a bounty on you",
+   "url": "https://github.com/allurco/caribbean-adventure/issues/454",
+   "at": "2026-10-19T23:40:35Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "allurco",
+    "labels": [
+     "enhancement",
+     "needs-triage"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61508",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61508 [Fabric] Manual launch option: instantiate VC1 only on Y-axis routers",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61508",
+   "at": "2026-10-19T23:35:38Z",
+   "extra": {
+    "author": "SeanNijjar",
+    "labels": [
+     "perf",
+     "Fabric"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61507",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61507 [ttnn][sockets] D2D socket stream sender: pack multiple tile pages per fabric packet",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61507",
+   "at": "2026-10-19T23:35:35Z",
+   "extra": {
+    "author": "SeanNijjar",
+    "labels": [
+     "perf"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61506",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61506 [Fabric] Adaptive idle polling of VC1 channels and the VC0 Z-landing receiver slot",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61506",
+   "at": "2026-10-19T23:35:30Z",
+   "extra": {
+    "author": "SeanNijjar",
+    "labels": [
+     "perf",
+     "Fabric"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61505",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61505 [Fabric] Opt-in mode: carry inter-mesh traffic on VC0 only (no VC1) for workloads that do not need VC1 for deadlock avoidance",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61505",
+   "at": "2026-10-19T23:35:26Z",
+   "extra": {
+    "author": "SeanNijjar",
+    "labels": [
+     "perf",
+     "Fabric"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61504",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61504 [Fabric] Build VC1-bearing routers at -O2 instead of -Os, hash the opt level into the kernel cache key, and make the opt-level choice granular",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61504",
+   "at": "2026-10-19T23:35:22Z",
+   "extra": {
+    "author": "SeanNijjar",
+    "labels": [
+     "perf",
+     "Fabric"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61502",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61502 TT/TTI macros should tell the compiler about srcs and dots",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61502",
+   "at": "2026-10-19T23:16:10Z",
+   "extra": {
+    "author": "nathan-TT",
+    "labels": [
+     "sfpi"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61499",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61499 Quasar native multi thread binary op, support fp32 data type (not mixed data type)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61499",
+   "at": "2026-10-19T23:06:40Z",
+   "extra": {
+    "author": "dchenTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61497",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61497 [data_format] BFP host pack/unpack use 32-bit offsets; tensors above 2^31 elements crash or corrupt",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61497",
+   "at": "2026-10-19T22:59:06Z",
+   "extra": {
+    "author": "sjettTT",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61496",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61496 [selective_reduce_combine] LOCAL_COMBINE writer exits with semaphore increments in flight on Blackhole",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61496",
+   "at": "2026-10-19T22:59:02Z",
+   "extra": {
+    "author": "sjettTT",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61495",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61495 [moe_grouped_topk] n_groups=1 with 32 experts reads a second tile past both inputs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61495",
+   "at": "2026-10-19T22:58:59Z",
+   "extra": {
+    "author": "sjettTT",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/LiamVisionary/bee-scouts/issues/23",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "LiamVisionary/bee-scouts: Show 'Hall bounties' pointer on the SuperAgent API Hall page",
+   "url": "https://github.com/LiamVisionary/bee-scouts/issues/23",
+   "at": "2026-10-19T22:41:21Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "LiamVisionary",
+    "labels": [
+     "bee-proposal",
+     "bee-547"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/142",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-19: 0 new, 1 resumed, 4 watchlist changes",
+   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/142",
+   "at": "2026-10-19T22:27:36Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "github-actions[bot]",
+    "labels": [
+     "bounty-watch"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61491",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61491 [VAD] Model generality bring-up",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61491",
+   "at": "2026-10-19T21:57:37Z",
+   "extra": {
+    "author": "ctr-mmicicTT",
+    "labels": [
+     "blackhole",
+     "VADv2"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61490",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61490 ttnn.operations.moreh.mean_backward / norm_backward with keepdim=False over the last dim return wrong values, no error",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61490",
+   "at": "2026-10-19T21:48:32Z",
+   "extra": {
+    "author": "amarbarosys",
+    "labels": [
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61489",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61489 [Bug Report] ttnn.transformer.scaled_dot_product_attention: causal + sliding_window_size gives wrong rows when seq_len is not a multiple of q_chunk_size",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61489",
+   "at": "2026-10-19T21:37:41Z",
+   "extra": {
+    "author": "atupe-tt",
+    "labels": [
+     "bug"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61488",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61488 [TT-NOP Injector][WH] mismatch race on topk_const_leak",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61488",
+   "at": "2026-10-19T21:31:51Z",
+   "extra": {
+    "author": "nmohammedTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/picsoritdidnthappen/poidh-app/issues/1584",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "picsoritdidnthappen/poidh-app: MCP / WebMCP edge cases: v2-era ids get calldata for a different bounty, + 19 more (report)",
+   "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1584",
+   "at": "2026-10-19T21:21:29Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "swiftbotlab",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61486",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61486 [LLK][BH][TOPK] topk_xl split waits one stage per row before PACK starts",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61486",
+   "at": "2026-10-19T21:16:23Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61485",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61485 [LLK][BH][TOPK] Per-tile helpers leave the math thread empty for up to 64 percent of the call",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61485",
+   "at": "2026-10-19T21:16:19Z",
+   "extra": {
+    "author": "mvlahovicTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/cranebeaker/coop-anything/issues/61",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "cranebeaker/coop-anything: Claim: King's Bounty: Crossworlds",
+   "url": "https://github.com/cranebeaker/coop-anything/issues/61",
+   "at": "2026-10-19T21:10:39Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "8i8a",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61484",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61484 all_gather: multicast completion credit misses alternate-route packets on even rings (stale output)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61484",
+   "at": "2026-10-19T21:04:45Z",
+   "extra": {
+    "author": "shenki",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61482",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61482 Quasar: TRISC stack overflow in sharded LayerNorm after #52360 grew DataflowBuffer",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61482",
+   "at": "2026-10-19T20:50:37Z",
+   "extra": {
+    "author": "gajanan-choudhary",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/217",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "johnephraim949-web/cypher-gridpay-contracts: escrow: Implement automated stale-escrow keeper bounty and dormant capital reclamation (`StaleThresholdConfig`)",
+   "url": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/217",
+   "at": "2026-10-19T20:39:45Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": null,
+    "author": "johnephraim949-web",
+    "labels": [
+     "enhancement",
+     "escrow",
+     "performance",
+     "Stellar Wave"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22638",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(conversations): normalize mixed naive, aware, and ISO timestamps in find_neighbor ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22638",
+   "at": "2026-10-19T20:35:51Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22638",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22638 [Bounty proposal] fix(conversations): normalize mixed naive, aware, and ISO timestamps in find_neighbor ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22638",
+   "at": "2026-10-19T20:35:51Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22636",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(calendar): normalize naive dateTime strings and guard None values in parse_event_times ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22636",
+   "at": "2026-10-19T20:31:53Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22636",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22636 [Bounty proposal] fix(calendar): normalize naive dateTime strings and guard None values in parse_event_times ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22636",
+   "at": "2026-10-19T20:31:53Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
   {
    "id": "https://github.com/ZecHub/zec-bounties/issues/451",
    "source": "github_search",
@@ -27,6 +433,21 @@
     "labels": [
      "feature"
     ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/f6cbe25caf42109ef2a233bc961cc3564710d7c5",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "fix: use LCONST_0 for unused field of TTI_SFP_STOCH_RND on Quasar (#61423)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/f6cbe25caf42109ef2a233bc961cc3564710d7c5",
+   "at": "2026-10-19T18:53:36Z",
+   "extra": {
+    "files": [
+     "tt_metal/hw/ckernels/quasar/metal/llk_api/llk_sfpu/ckernel_sfpu_lcm.h"
+    ],
+    "added": [],
+    "author": "fvranicTT"
    }
   },
   {
@@ -79,6 +500,23 @@
    "extra": {
     "state": "open",
     "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/16b5623ae13eae11236f10f15f3527e2ff6a5874",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "[Cleanup] Replace `IDevice` with `MeshDevice` in ttnn where it's trivial to do - part 2 (#61011)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/16b5623ae13eae11236f10f15f3527e2ff6a5874",
+   "at": "2026-10-19T18:30:17Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/eltwise/binary_backward/device/binary_backward_program_factory.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary/common/unary_utils.cpp",
+     "ttnn/cpp/ttnn/operations/eltwise/unary_backward/device/unary_backward_program_factory.cpp"
+    ],
+    "added": [],
+    "author": "obacherikovTT"
    }
   },
   {
@@ -230,21 +668,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61448",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61448 reshape test fails with watcher an asserts on",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61448",
-   "at": "2026-10-19T17:26:06Z",
-   "extra": {
-    "author": "bbradelTT",
-    "labels": [
-     "op_cat: mm",
-     "op_cat: TM"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -252,7 +675,7 @@
    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
    "at": "2026-10-19T17:09:31Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "lizTheDeveloper",
     "labels": [
@@ -270,7 +693,7 @@
    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
    "at": "2026-10-19T17:09:26Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "lizTheDeveloper",
     "labels": [
@@ -1081,7 +1504,7 @@
    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/373",
    "at": "2026-10-19T17:05:54Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "lizTheDeveloper",
     "labels": [
@@ -2016,24 +2439,6 @@
    "title": "lizTheDeveloper/privacy-the-game: [stronger source] National Consumer Telecom & Utilities Exchange supplies Equifax Inc. (tier C)",
    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/321",
    "at": "2026-10-19T16:53:13Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "lizTheDeveloper",
-    "labels": [
-     "bounty",
-     "bounty: medium",
-     "data-brokers"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/320",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "lizTheDeveloper/privacy-the-game: [stronger source] QuickLocate owns USATrace (tier B)",
-   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/320",
-   "at": "2026-10-19T16:53:09Z",
    "extra": {
     "comments": 0,
     "amount_usd": null,
@@ -3183,7 +3588,9 @@
    "at": "2026-10-19T10:58:30Z",
    "extra": {
     "author": "nkapreTT",
-    "labels": []
+    "labels": [
+     "bug"
+    ]
    }
   },
   {
@@ -3211,6 +3618,24 @@
      "tt_metal/tt-llk/tests/python_tests/test_ulp_budget_diff.py"
     ],
     "author": "ldjurovicTT"
+   }
+  },
+  {
+   "id": "https://github.com/ak10082247-max/canaryguard-402/issues/2",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "ak10082247-max/canaryguard-402: [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewall",
+   "url": "https://github.com/ak10082247-max/canaryguard-402/issues/2",
+   "at": "2026-10-19T10:36:17Z",
+   "extra": {
+    "comments": 4,
+    "amount_usd": 5,
+    "author": "ak10082247-max",
+    "labels": [
+     "help wanted",
+     "bounty",
+     "security"
+    ]
    }
   },
   {
@@ -3344,27 +3769,6 @@
    }
   },
   {
-   "id": "https://github.com/Orbit-xyz/Orbit/issues/212",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "Orbit-xyz/Orbit: contract: implement anti-frontrunning commit-reveal mechanism for competitive payroll bounty claims",
-   "url": "https://github.com/Orbit-xyz/Orbit/issues/212",
-   "at": "2026-10-19T08:25:33Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "Prudentdev-xyz",
-    "labels": [
-     "enhancement",
-     "difficulty: hard",
-     "area: contract",
-     "security",
-     "Stellar Wave",
-     "complexity: high"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/IamTalha-Sajid/telegraph-bounty/issues/1",
    "source": "github_search",
    "kind": "bounty_issue_unpriced",
@@ -3494,68 +3898,6 @@
     ],
     "added": [],
     "author": "jrymarskiTT"
-   }
-  },
-  {
-   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/179",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "dmavs412/twilights-eve-wow: Notoriety: Marked after a Bounty Hunter kill",
-   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/179",
-   "at": "2026-10-19T06:49:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dmavs412",
-    "labels": [
-     "ready-for-agent"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/178",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "dmavs412/twilights-eve-wow: Notoriety: Bounty Rank, affixes and Blood Coin",
-   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/178",
-   "at": "2026-10-19T06:49:19Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dmavs412",
-    "labels": [
-     "ready-for-agent"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/177",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "dmavs412/twilights-eve-wow: Notoriety: Bounty Hunters spawn, hunt and give up",
-   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/177",
-   "at": "2026-10-19T06:49:17Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dmavs412",
-    "labels": [
-     "ready-for-agent"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/dmavs412/twilights-eve-wow/issues/175",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "dmavs412/twilights-eve-wow: Notoriety: Heat Levels, Bounty Hunters, Blood Coin and Marked",
-   "url": "https://github.com/dmavs412/twilights-eve-wow/issues/175",
-   "at": "2026-10-19T06:47:48Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "dmavs412",
-    "labels": []
    }
   },
   {
@@ -4012,20 +4354,6 @@
    }
   },
   {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/61280",
-   "source": "tenstorrent",
-   "kind": "tt_issue",
-   "title": "tt-metal#61280 [aw] Failed jobs: Silencer (tt-metal)",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/61280",
-   "at": "2026-10-18T20:48:34Z",
-   "extra": {
-    "author": "app/github-actions",
-    "labels": [
-     "agentic-workflows"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/BasedHardware/omi/issues/22227",
    "source": "github_search",
    "kind": "bounty_issue",
@@ -4089,39 +4417,6 @@
    }
   },
   {
-   "id": "https://github.com/teslims2/StellarKraal-/issues/1429",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "teslims2/StellarKraal-: Add CVE disclosure timeline and bug bounty scope to SECURITY.md",
-   "url": "https://github.com/teslims2/StellarKraal-/issues/1429",
-   "at": "2026-10-18T16:20:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "teslims2",
-    "labels": [
-     "documentation",
-     "enhancement"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/abdulsalam-create/bounty-watch/issues/137",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "abdulsalam-create/bounty-watch: bounty-watch 2026-10-18: 0 new, 0 resumed, 1 watchlist changes",
-   "url": "https://github.com/abdulsalam-create/bounty-watch/issues/137",
-   "at": "2026-10-18T15:58:21Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "github-actions[bot]",
-    "labels": [
-     "bounty-watch"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/BasedHardware/omi/issues/22189",
    "source": "omi",
    "kind": "omi_proposal",
@@ -4131,34 +4426,6 @@
    "extra": {
     "state": "closed",
     "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/istiyak2124/istiyak2124/issues/11",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "istiyak2124/istiyak2124: Bug Bounty & Web Penetration Testing Practice",
-   "url": "https://github.com/istiyak2124/istiyak2124/issues/11",
-   "at": "2026-10-18T15:27:51Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "istiyak2124",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/cubaloop/notrack-ecosystem/issues/3",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "cubaloop/notrack-ecosystem: \u26a1 [ANNOUNCEMENT] Open-Source Bounties & Algorithm Precision Squad \u00b7 24/7 Rapid Response \u00b7 Funding Our AI Compute",
-   "url": "https://github.com/cubaloop/notrack-ecosystem/issues/3",
-   "at": "2026-10-18T15:12:27Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "cubaloop",
-    "labels": []
    }
   },
   {
