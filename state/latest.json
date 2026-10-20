@@ -1,6 +1,393 @@
 {
- "generated_at": "2026-10-19T23:50:20Z",
+ "generated_at": "2026-10-20T03:16:10Z",
  "events": [
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61550",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61550 [ops]: binary ops return wrong values for uint16 inputs with a 32-bit output dtype",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61550",
+   "at": "2026-10-20T02:24:42Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61547",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61547 [tt_transformers]: batched prefill gathers last tokens on host (48 ms, 32 users)",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61547",
+   "at": "2026-10-20T02:10:16Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61544",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61544 [ops]: Blackhole matmul with 8x32 / 4x32 block-float output tiles is scrambled",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61544",
+   "at": "2026-10-20T02:00:08Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61543",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61543 [ops]: concat gives wrong values or SIGFPE with an empty input",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61543",
+   "at": "2026-10-20T02:00:00Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61542",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61542 [ops]: remainder / fmod wrong for exact multiples and infinite divisors on Blackhole",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61542",
+   "at": "2026-10-20T01:59:52Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61541",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61541 [tt-train]: C++ GPT-2 / Llama models reject mask=None",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61541",
+   "at": "2026-10-20T01:59:45Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61540",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61540 [ops]: paged_fused_update_cache row-major path corrupts FLOAT32 caches",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61540",
+   "at": "2026-10-20T01:59:36Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61539",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61539 [tests]: Blackhole tests still skipped for closed issue #12349 now pass",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61539",
+   "at": "2026-10-20T01:59:28Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61538",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61538 [ops]: linear golden raises when in0_column_offset is set",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61538",
+   "at": "2026-10-20T01:59:21Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61537",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61537 [ops]: group_norm golden defaults epsilon to 1e-5 while the op uses 1e-12",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61537",
+   "at": "2026-10-20T01:59:11Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61536",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61536 [ops]: sharded two-pass group_norm rounds Float32 ROW_MAJOR input to TF32",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61536",
+   "at": "2026-10-20T01:59:01Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61535",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61535 [ops]: concat with sub_core_grids returns wrong data for mixed-layout inputs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61535",
+   "at": "2026-10-20T01:58:52Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61534",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61534 [ops]: clone returns wrong data or hangs with DRAM-sharded input or output",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61534",
+   "at": "2026-10-20T01:58:42Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61533",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61533 [ops]: pow(tensor, tensor) is NaN for a negative base and integer exponent >= 32768",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61533",
+   "at": "2026-10-20T01:58:35Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61532",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61532 [ops]: conv2d kernel stride folding fails on the DRAM path when kernel > stride",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61532",
+   "at": "2026-10-20T01:58:28Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61531",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61531 [ops]: softsign returns 0 instead of \u00b11 for large-magnitude inputs",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61531",
+   "at": "2026-10-20T01:58:18Z",
+   "extra": {
+    "author": "bvdyvncqr5-commits",
+    "labels": [
+     "bug",
+     "community"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/53787",
+   "source": "tenstorrent",
+   "kind": "tt_bounty",
+   "title": "tenstorrent/tt-metal#53787 [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branch",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/53787",
+   "at": "2026-10-20T01:43:59Z",
+   "extra": {
+    "state": "OPEN",
+    "author": "kanapitsas",
+    "assignees": [
+     "kanapitsas"
+    ],
+    "created": "2026-08-20T12:34:59Z"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/commit/909748641c19d24fbff54c0db343e4269ae34d7a",
+   "source": "tenstorrent",
+   "kind": "tt_kernel_commit",
+   "title": "Kernel fixes found by tt-emule: combine CB pop, group norm over-pop, ring joint SDPA guard (#58910)",
+   "url": "https://github.com/tenstorrent/tt-metal/commit/909748641c19d24fbff54c0db343e4269ae34d7a",
+   "at": "2026-10-20T01:19:50Z",
+   "extra": {
+    "files": [
+     "ttnn/cpp/ttnn/operations/normalization/groupnorm/device/kernels/compute/groupnorm_sharded_v2.cpp"
+    ],
+    "added": [],
+    "author": "sgholamiTT"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22672",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(task_intelligence): coerce naive and ISO-8601 timestamps in task recommendations ( proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22672",
+   "at": "2026-10-20T00:43:24Z",
+   "extra": {
+    "comments": 1,
+    "amount_usd": null,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22672",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22672 [Bounty proposal] fix(task_intelligence): coerce naive and ISO-8601 timestamps in task recommendations ( proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22672",
+   "at": "2026-10-20T00:43:24Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22660",
+   "source": "github_search",
+   "kind": "bounty_issue",
+   "title": "BasedHardware/omi: [Bounty proposal] fix(mcp_oauth): coerce naive and ISO-8601 timestamps to UTC in grant and token paths ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22660",
+   "at": "2026-10-20T00:32:35Z",
+   "extra": {
+    "comments": 2,
+    "amount_usd": 50,
+    "author": "huynhnhatquandongnai-source",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/BasedHardware/omi/issues/22660",
+   "source": "omi",
+   "kind": "omi_proposal",
+   "title": "omi#22660 [Bounty proposal] fix(mcp_oauth): coerce naive and ISO-8601 timestamps to UTC in grant and token paths ($50 proposed)",
+   "url": "https://github.com/BasedHardware/omi/issues/22660",
+   "at": "2026-10-20T00:32:35Z",
+   "extra": {
+    "state": "open",
+    "author": "huynhnhatquandongnai-source"
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61517",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61517 Update Fabric All-to-All APIs for Horizon",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61517",
+   "at": "2026-10-20T00:02:57Z",
+   "extra": {
+    "author": "jhaiTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61516",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61516 Update Fabric 2D APIs for Horizon",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61516",
+   "at": "2026-10-20T00:02:54Z",
+   "extra": {
+    "author": "jhaiTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61515",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61515 Update Fabric 1D APIs for Horizon",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61515",
+   "at": "2026-10-20T00:02:51Z",
+   "extra": {
+    "author": "jhaiTT",
+    "labels": []
+   }
+  },
+  {
+   "id": "https://github.com/tenstorrent/tt-metal/issues/61514",
+   "source": "tenstorrent",
+   "kind": "tt_issue",
+   "title": "tt-metal#61514 Fabric in Horizon: Routing Table Support",
+   "url": "https://github.com/tenstorrent/tt-metal/issues/61514",
+   "at": "2026-10-20T00:02:01Z",
+   "extra": {
+    "author": "jhaiTT",
+    "labels": [
+     "Fabric"
+    ]
+   }
+  },
+  {
+   "id": "https://github.com/sidhulyalkar/unicorn-stampede/issues/61",
+   "source": "github_search",
+   "kind": "bounty_issue_unpriced",
+   "title": "sidhulyalkar/unicorn-stampede: Bounty Board launch: hosted preview, playtests, score policy and submission gates",
+   "url": "https://github.com/sidhulyalkar/unicorn-stampede/issues/61",
+   "at": "2026-10-19T23:58:24Z",
+   "extra": {
+    "comments": 0,
+    "amount_usd": null,
+    "author": "sidhulyalkar",
+    "labels": []
+   }
+  },
   {
    "id": "https://github.com/tenstorrent/tt-metal/issues/61512",
    "source": "tenstorrent",
@@ -389,7 +776,7 @@
    "url": "https://github.com/BasedHardware/omi/issues/22636",
    "at": "2026-10-19T20:31:53Z",
    "extra": {
-    "comments": 1,
+    "comments": 2,
     "amount_usd": 50,
     "author": "huynhnhatquandongnai-source",
     "labels": []
@@ -581,7 +968,7 @@
    "url": "https://github.com/SlopDotCash/slopdotcash/issues/910",
    "at": "2026-10-19T17:55:50Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "lalalune",
     "labels": [
@@ -1522,7 +1909,7 @@
    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/372",
    "at": "2026-10-19T17:05:50Z",
    "extra": {
-    "comments": 0,
+    "comments": 1,
     "amount_usd": null,
     "author": "lizTheDeveloper",
     "labels": [
@@ -2433,24 +2820,6 @@
    }
   },
   {
-   "id": "https://github.com/lizTheDeveloper/privacy-the-game/issues/321",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "lizTheDeveloper/privacy-the-game: [stronger source] National Consumer Telecom & Utilities Exchange supplies Equifax Inc. (tier C)",
-   "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/321",
-   "at": "2026-10-19T16:53:13Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "lizTheDeveloper",
-    "labels": [
-     "bounty",
-     "bounty: medium",
-     "data-brokers"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/61443",
    "source": "tenstorrent",
    "kind": "tt_issue",
@@ -2997,22 +3366,6 @@
      "High",
      "Stellar Wave"
     ]
-   }
-  },
-  {
-   "id": "https://github.com/tenstorrent/tt-metal/issues/53787",
-   "source": "tenstorrent",
-   "kind": "tt_bounty",
-   "title": "tenstorrent/tt-metal#53787 [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branch",
-   "url": "https://github.com/tenstorrent/tt-metal/issues/53787",
-   "at": "2026-10-19T15:08:20Z",
-   "extra": {
-    "state": "OPEN",
-    "author": "kanapitsas",
-    "assignees": [
-     "kanapitsas"
-    ],
-    "created": "2026-08-20T12:34:59Z"
    }
   },
   {
@@ -4282,264 +4635,6 @@
    }
   },
   {
-   "id": "https://github.com/eschnitzler/EmpireCore/issues/528",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "eschnitzler/EmpireCore: Event minigames and currencies: lucky wheel, gacha, colossus, donations, bounty hunter, artifacts",
-   "url": "https://github.com/eschnitzler/EmpireCore/issues/528",
-   "at": "2026-10-18T23:12:09Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "eschnitzler",
-    "labels": [
-     "enhancement",
-     "client-sync",
-     "priority: low"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/picsoritdidnthappen/poidh-app/issues/1575",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "picsoritdidnthappen/poidh-app: \"Create wallet\" (ZeroDev smart account) users cannot create bounties",
-   "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1575",
-   "at": "2026-10-18T22:19:38Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "Chipagosfinest",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22234",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(routers): coerce None and mixed published_at in firmware and desktop update sorting ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22234",
-   "at": "2026-10-18T21:45:55Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22234",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22234 [Bounty proposal] fix(routers): coerce None and mixed published_at in firmware and desktop update sorting ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22234",
-   "at": "2026-10-18T21:45:55Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/alleycatassetacquisitions/pdn/issues/299",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "alleycatassetacquisitions/pdn: game: Synchronize DuelCountdown / Duel start between Hunter and Bounty",
-   "url": "https://github.com/alleycatassetacquisitions/pdn/issues/299",
-   "at": "2026-10-18T21:12:54Z",
-   "extra": {
-    "comments": 0,
-    "amount_usd": null,
-    "author": "tire-fire",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22227",
-   "source": "github_search",
-   "kind": "bounty_issue",
-   "title": "BasedHardware/omi: [Bounty proposal] fix(screen-frames): coerce naive and ISO string timestamps to prevent TypeError and KeyError crashes during frame sorting ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22227",
-   "at": "2026-10-18T20:43:50Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": 50,
-    "author": "Dragonire9",
-    "labels": []
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22227",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22227 [Bounty proposal] fix(screen-frames): coerce naive and ISO string timestamps to prevent TypeError and KeyError crashes during frame sorting ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22227",
-   "at": "2026-10-18T20:43:50Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "CredenceOrg/Credence-Contracts: feat(bounty-escrow): turn the analytics-only crate into a deployable escrow contract with lock, release and refund",
-   "url": "https://github.com/CredenceOrg/Credence-Contracts/issues/1610",
-   "at": "2026-10-18T18:41:16Z",
-   "extra": {
-    "comments": 4,
-    "amount_usd": null,
-    "author": "Baskarayelu",
-    "labels": [
-     "enhancement",
-     "Stellar Wave",
-     "area:bounty-escrow",
-     "difficulty:hard",
-     "smart-contracts"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/695",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Eliminate the Checker/Emitter Semantic Split: Emit-Driven Verification via Explicit Desugared MIR (`hy-mir`)",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/695",
-   "at": "2026-10-18T17:07:14Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "huynhnhatquandongnai-source",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22189",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22189 [Bounty proposal] fix(database): restore main typecheck after unnecessary isinstance in announcements targeting (#22090) ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22189",
-   "at": "2026-10-18T15:38:46Z",
-   "extra": {
-    "state": "closed",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22181",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22181 [Bounty proposal] fix(action-items): sort and score aggregation crashes with TypeError / AttributeError on ISO string or naive timestamps ( proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22181",
-   "at": "2026-10-18T14:45:17Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22174",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22174 [Bounty proposal] fix(database): sanitize identifiers, harden etag matching, and add client injection to action items cache ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22174",
-   "at": "2026-10-18T14:12:27Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22168",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22168 [Bounty proposal] fix(database): sanitize identifiers, enforce comment length bounds, and add client injection to csat ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22168",
-   "at": "2026-10-18T13:55:57Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22162",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22162 [Bounty proposal] fix(database): sanitize identifiers, add tolerant reads, and client injection to support audit ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22162",
-   "at": "2026-10-18T13:41:01Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22144",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22144 [Bounty proposal] fix(database): sanitize identifiers, add stream error boundaries, and client injection to tasks ($50 proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22144",
-   "at": "2026-10-18T12:28:03Z",
-   "extra": {
-    "state": "open",
-    "author": "Dragonire9"
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/634",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Delete sendability analysis: task regions as serializable transactions",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/634",
-   "at": "2026-10-18T11:46:52Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "livastic-vm6-primary-20260911",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/610",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard] Make FFI claims proof-carrying: verify boundary contracts against the linked Rust artifact",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/610",
-   "at": "2026-10-18T09:41:00Z",
-   "extra": {
-    "comments": 1,
-    "amount_usd": null,
-    "author": "JorgeMrr06",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
-   "id": "https://github.com/limitlessprojects/Go-Hybrid/issues/605",
-   "source": "github_search",
-   "kind": "bounty_issue_unpriced",
-   "title": "limitlessprojects/Go-Hybrid: [wildcard]",
-   "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/605",
-   "at": "2026-10-18T09:07:30Z",
-   "extra": {
-    "comments": 2,
-    "amount_usd": null,
-    "author": "jmass-ggg",
-    "labels": [
-     "\ud83d\udc8e Bounty",
-     "wildcard"
-    ]
-   }
-  },
-  {
    "id": "https://github.com/tenstorrent/tt-metal/issues/59732",
    "source": "tenstorrent",
    "kind": "tt_bounty",
@@ -4553,18 +4648,6 @@
      "samiyadev786"
     ],
     "created": "2026-10-07T21:34:17Z"
-   }
-  },
-  {
-   "id": "https://github.com/BasedHardware/omi/issues/22091",
-   "source": "omi",
-   "kind": "omi_proposal",
-   "title": "omi#22091 [Bounty proposal] fix(database): sanitize uid and protect announcement streams against store failures ( proposed)",
-   "url": "https://github.com/BasedHardware/omi/issues/22091",
-   "at": "2026-10-18T04:56:02Z",
-   "extra": {
-    "state": "open",
-    "author": "nikolas-sapa"
    }
   }
  ],
